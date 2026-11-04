@@ -1,0 +1,41 @@
+{
+  "id": "535924a8-83b0-480f-b1d3-623d84563c62",
+  "quelle_id": "To 18",
+  "dokumenten_id": "To 18-164-4",
+  "gattung1": "Kyrie",
+  "gattung2": "tropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Dominator deus",
+  "bibliographischerverweis": "AH 47, 35: 1A 1C 1B 2A 2B 3C 3B 3A 2C",
+  "druckausgabe": "",
+  "zeilenstart": "4",
+  "foliostart": "164",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "164",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "13",
+    "Melodiennummer_Katalog": "Melnicki 155",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509501",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

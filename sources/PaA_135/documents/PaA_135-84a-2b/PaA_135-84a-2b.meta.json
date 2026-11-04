@@ -1,0 +1,41 @@
+{
+  "id": "2b68fcc7-f712-41e3-b1fc-b87b064f4d2a",
+  "quelle_id": "PaA 135",
+  "dokumenten_id": "PaA 135-84a-2b",
+  "gattung1": "Gloria",
+  "gattung2": "untropiert",
+  "festtag": "Cena domini",
+  "feier": "Messe",
+  "textinitium": "Gloria in excelsis*",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "2",
+  "foliostart": "84a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "84a",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509502",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

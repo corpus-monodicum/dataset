@@ -1,0 +1,41 @@
+{
+  "id": "b3b33e37-6878-4c07-80aa-544b8f0bd561",
+  "quelle_id": "Tri 2254",
+  "dokumenten_id": "Tri 2254-381-8",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Benedicta semper sancta",
+  "bibliographischerverweis": "AH 53, 81",
+  "druckausgabe": "",
+  "zeilenstart": "8",
+  "foliostart": "381",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "383",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Benedicta",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

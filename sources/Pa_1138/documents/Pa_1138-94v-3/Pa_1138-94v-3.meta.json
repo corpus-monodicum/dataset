@@ -1,0 +1,41 @@
+{
+  "id": "f720105a-3ea0-4ed9-b131-25142b3e359f",
+  "quelle_id": "Pa 1138",
+  "dokumenten_id": "Pa 1138-94v-3",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Pentecoste",
+  "feier": "Messe",
+  "textinitium": "Cantemus organa",
+  "bibliographischerverweis": "AH 7, 84",
+  "druckausgabe": "",
+  "zeilenstart": "3",
+  "foliostart": "94v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "96v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Frigdola",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

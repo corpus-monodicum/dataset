@@ -1,0 +1,41 @@
+{
+  "id": "e2309061-fbb9-4f8f-82b3-74afeecbea80",
+  "quelle_id": "SCan 7",
+  "dokumenten_id": "SCan 7-294-10",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Beata Maria virgo",
+  "feier": "Messe",
+  "textinitium": "Nativitatem venerandam",
+  "bibliographischerverweis": "Gaud 1 A (CT IX)",
+  "druckausgabe": "II-2",
+  "zeilenstart": "10",
+  "foliostart": "294",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "Gaudeamus",
+    "Endseite": "294v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

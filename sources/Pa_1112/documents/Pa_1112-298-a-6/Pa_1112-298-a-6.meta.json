@@ -1,0 +1,41 @@
+{
+  "id": "625fa918-32d8-4435-ba61-f4b16bf53c22",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-298-a-6",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominica post nativitatem Mariae",
+  "feier": "Messe",
+  "textinitium": "Inviolata intacta",
+  "bibliographischerverweis": "AH deest",
+  "druckausgabe": "CM III",
+  "zeilenstart": "6",
+  "foliostart": "298-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "298a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "15",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

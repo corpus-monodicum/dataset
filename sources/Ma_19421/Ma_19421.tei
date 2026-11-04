@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ma 19421: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Edition (Ordinariumsgesänge)</resp>
+          <persName>Charles M. Atkinson</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Ordinariumsgesänge)</resp>
+          <persName>David Hiley</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Hanna Zühlke</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="Ma_19421">
+          <msIdentifier>
+            <settlement>Madrid</settlement>
+            <repository>Biblioteca Nacional</repository>
+            <idno type="shelfmark">Ms. 19421</idno>
+            <altIdentifier type="siglum">
+              <idno>Ma 19421</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>Ma 19421</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <term type="quellentyp">Tropar, Sequentiar</term>
+            </summary>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="10">f. 10</locus>
+              <title type="incipit">Kyrie rex splendens</title>
+              <idno type="dokumenten_id">Ma 19421-10-1</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="100">f. 100</locus>
+              <title type="incipit">Carmina plebs sedula</title>
+              <idno type="dokumenten_id">Ma 19421-100-7</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="10v">f. 10v</locus>
+              <title type="incipit">Kyrie per quem subsistit</title>
+              <idno type="dokumenten_id">Ma 19421-10v-6</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="11">f. 11</locus>
+              <title type="incipit">Orbis factor</title>
+              <idno type="dokumenten_id">Ma 19421-11-7</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="110v">f. 110v</locus>
+              <title type="incipit">Ite missa est</title>
+              <idno type="dokumenten_id">Ma 19421-110v-10</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="110v">f. 110v</locus>
+              <title type="incipit">Ite missa est</title>
+              <idno type="dokumenten_id">Ma 19421-110v-11a</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="110v">f. 110v</locus>
+              <title type="incipit">Ite missa est</title>
+              <idno type="dokumenten_id">Ma 19421-110v-11b</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="110v">f. 110v</locus>
+              <title type="incipit">Ite missa est</title>
+              <idno type="dokumenten_id">Ma 19421-110v-12</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="110v">f. 110v</locus>
+              <title type="incipit">Ite missa est</title>
+              <idno type="dokumenten_id">Ma 19421-110v-9</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="11v">f. 11v</locus>
+              <title type="incipit">Rex magne domine</title>
+              <idno type="dokumenten_id">Ma 19421-11v-1</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="12">f. 12</locus>
+              <title type="incipit">O pater immense</title>
+              <idno type="dokumenten_id">Ma 19421-12-1</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="12v">f. 12v</locus>
+              <title type="incipit">Summe deus qui cuncta</title>
+              <idno type="dokumenten_id">Ma 19421-12v-1</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="12v">f. 12v</locus>
+              <title type="incipit">Kyrie deus pater auctor</title>
+              <idno type="dokumenten_id">Ma 19421-12v-10</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="13">f. 13</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Ma 19421-13-11</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="13">f. 13</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Ma 19421-13-14</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="13v">f. 13v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Ma 19421-13v-11</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="13v">f. 13v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Ma 19421-13v-13</idno>
+            </msItem>
+            <msItem n="18">
+              <locus from="13v">f. 13v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Ma 19421-13v-3</idno>
+            </msItem>
+            <msItem n="19">
+              <locus from="13v">f. 13v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Ma 19421-13v-7</idno>
+            </msItem>
+            <msItem n="20">
+              <locus from="13v">f. 13v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Ma 19421-13v-9</idno>
+            </msItem>
+            <msItem n="21">
+              <locus from="14">f. 14</locus>
+              <title type="incipit">Adonay supplicantum tibi</title>
+              <idno type="dokumenten_id">Ma 19421-14-10</idno>
+            </msItem>
+            <msItem n="22">
+              <locus from="14">f. 14</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Ma 19421-14-5</idno>
+            </msItem>
+            <msItem n="23">
+              <locus from="14">f. 14</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Ma 19421-14-8</idno>
+            </msItem>
+            <msItem n="24">
+              <locus from="15">f. 15</locus>
+              <title type="incipit">Kyrie fons bonitatis</title>
+              <idno type="dokumenten_id">Ma 19421-15-1</idno>
+            </msItem>
+            <msItem n="25">
+              <locus from="15v">f. 15v</locus>
+              <title type="incipit">Quem cives celestes</title>
+              <idno type="dokumenten_id">Ma 19421-15v-1</idno>
+            </msItem>
+            <msItem n="26">
+              <locus from="16">f. 16</locus>
+              <title type="incipit">Pax sempiterna</title>
+              <idno type="dokumenten_id">Ma 19421-16-5</idno>
+            </msItem>
+            <msItem n="27">
+              <locus from="17">f. 17</locus>
+              <title type="incipit">Quem glorificant sancti</title>
+              <idno type="dokumenten_id">Ma 19421-17-14</idno>
+            </msItem>
+            <msItem n="28">
+              <locus from="17">f. 17</locus>
+              <title type="incipit">Nulla laude qui</title>
+              <idno type="dokumenten_id">Ma 19421-17-5</idno>
+            </msItem>
+            <msItem n="29">
+              <locus from="17v">f. 17v</locus>
+              <title type="incipit">Laudemus dominum quem</title>
+              <idno type="dokumenten_id">Ma 19421-17v-9</idno>
+            </msItem>
+            <msItem n="30">
+              <locus from="18v">f. 18v</locus>
+              <title type="incipit">Quem vere pia laus</title>
+              <idno type="dokumenten_id">Ma 19421-18v-6</idno>
+            </msItem>
+            <msItem n="31">
+              <locus from="19">f. 19</locus>
+              <title type="incipit">Qua iugi voce</title>
+              <idno type="dokumenten_id">Ma 19421-19-11</idno>
+            </msItem>
+            <msItem n="32">
+              <locus from="19v">f. 19v</locus>
+              <title type="incipit">Que celicolas</title>
+              <idno type="dokumenten_id">Ma 19421-19v-8</idno>
+            </msItem>
+            <msItem n="33">
+              <locus from="20">f. 20</locus>
+              <title type="incipit">Laus tua deus</title>
+              <idno type="dokumenten_id">Ma 19421-20-10</idno>
+            </msItem>
+            <msItem n="34">
+              <locus from="21">f. 21</locus>
+              <title type="incipit">Qui deus et rector</title>
+              <idno type="dokumenten_id">Ma 19421-21-1</idno>
+            </msItem>
+            <msItem n="35">
+              <locus from="21v">f. 21v</locus>
+              <title type="incipit">Prudentia prudentium</title>
+              <idno type="dokumenten_id">Ma 19421-21v-9</idno>
+            </msItem>
+            <msItem n="36">
+              <locus from="22">f. 22</locus>
+              <title type="incipit">Ut possimus consequi</title>
+              <idno type="dokumenten_id">Ma 19421-22-12</idno>
+            </msItem>
+            <msItem n="37">
+              <locus from="22">f. 22</locus>
+              <title type="incipit">Angelica iam pater</title>
+              <idno type="dokumenten_id">Ma 19421-22-3</idno>
+            </msItem>
+            <msItem n="38">
+              <locus from="22v">f. 22v</locus>
+              <title type="incipit">O gloria sanctorum</title>
+              <idno type="dokumenten_id">Ma 19421-22v-9</idno>
+            </msItem>
+            <msItem n="39">
+              <locus from="23">f. 23</locus>
+              <title type="incipit">Salve virgo virginum</title>
+              <idno type="dokumenten_id">Ma 19421-23-10</idno>
+            </msItem>
+            <msItem n="40">
+              <locus from="23v">f. 23v</locus>
+              <title type="incipit">Regnum ... Apostolorum</title>
+              <idno type="dokumenten_id">Ma 19421-23v-1</idno>
+            </msItem>
+            <msItem n="41">
+              <locus from="23v">f. 23v</locus>
+              <title type="incipit">Regnum ... Decus virginum</title>
+              <idno type="dokumenten_id">Ma 19421-23v-5</idno>
+            </msItem>
+            <msItem n="42">
+              <locus from="23v">f. 23v</locus>
+              <title type="incipit">Cives superni</title>
+              <idno type="dokumenten_id">Ma 19421-23v-9</idno>
+            </msItem>
+            <msItem n="43">
+              <locus from="24v">f. 24v</locus>
+              <title type="incipit">Christe salus mundi</title>
+              <idno type="dokumenten_id">Ma 19421-24v-3</idno>
+            </msItem>
+            <msItem n="44">
+              <locus from="25">f. 25</locus>
+              <title type="incipit">Laus tibi domine</title>
+              <idno type="dokumenten_id">Ma 19421-25-13</idno>
+            </msItem>
+            <msItem n="45">
+              <locus from="25v">f. 25v</locus>
+              <title type="incipit">Deus invisibilis rex</title>
+              <idno type="dokumenten_id">Ma 19421-25v-8</idno>
+            </msItem>
+            <msItem n="46">
+              <locus from="26">f. 26</locus>
+              <title type="incipit">Quem patris ad dextram</title>
+              <idno type="dokumenten_id">Ma 19421-26-5</idno>
+            </msItem>
+            <msItem n="47">
+              <locus from="26v">f. 26v</locus>
+              <title type="incipit">Quem cuncta laudant</title>
+              <idno type="dokumenten_id">Ma 19421-26v-1</idno>
+            </msItem>
+            <msItem n="48">
+              <locus from="26v">f. 26v</locus>
+              <title type="incipit">Omnipotens rex sabaoth</title>
+              <idno type="dokumenten_id">Ma 19421-26v-10</idno>
+            </msItem>
+            <msItem n="49">
+              <locus from="27">f. 27</locus>
+              <title type="incipit">O laudabilis rex domine</title>
+              <idno type="dokumenten_id">Ma 19421-27-8</idno>
+            </msItem>
+            <msItem n="50">
+              <locus from="27v">f. 27v</locus>
+              <title type="incipit">Rector ab arce</title>
+              <idno type="dokumenten_id">Ma 19421-27v-11</idno>
+            </msItem>
+            <msItem n="51">
+              <locus from="28">f. 28</locus>
+              <title type="incipit">Quando regis cunctos</title>
+              <idno type="dokumenten_id">Ma 19421-28-11</idno>
+            </msItem>
+            <msItem n="52">
+              <locus from="29">f. 29</locus>
+              <title type="incipit">Quid tibi nunc</title>
+              <idno type="dokumenten_id">Ma 19421-29-2</idno>
+            </msItem>
+            <msItem n="53">
+              <locus from="29v">f. 29v</locus>
+              <title type="incipit">Te unum deum</title>
+              <idno type="dokumenten_id">Ma 19421-29v-9</idno>
+            </msItem>
+            <msItem n="54">
+              <locus from="3">f. 3</locus>
+              <title type="incipit">Te Christe rex</title>
+              <idno type="dokumenten_id">Ma 19421-3-1</idno>
+            </msItem>
+            <msItem n="55">
+              <locus from="30">f. 30</locus>
+              <title type="incipit">Hanc quesumus</title>
+              <idno type="dokumenten_id">Ma 19421-30-1</idno>
+            </msItem>
+            <msItem n="56">
+              <locus from="30">f. 30</locus>
+              <title type="incipit">Laudibus eximiis</title>
+              <idno type="dokumenten_id">Ma 19421-30-12</idno>
+            </msItem>
+            <msItem n="57">
+              <locus from="30v">f. 30v</locus>
+              <title type="incipit">Sponsus ecclesie</title>
+              <idno type="dokumenten_id">Ma 19421-30v-13</idno>
+            </msItem>
+            <msItem n="58">
+              <locus from="31v">f. 31v</locus>
+              <title type="incipit">Laudat in excelsis</title>
+              <idno type="dokumenten_id">Ma 19421-31v-11</idno>
+            </msItem>
+            <msItem n="59">
+              <locus from="31v">f. 31v</locus>
+              <title type="incipit">Angelica ethra</title>
+              <idno type="dokumenten_id">Ma 19421-31v-3</idno>
+            </msItem>
+            <msItem n="60">
+              <locus from="32">f. 32</locus>
+              <title type="incipit">Qui baratri</title>
+              <idno type="dokumenten_id">Ma 19421-32-7</idno>
+            </msItem>
+            <msItem n="61">
+              <locus from="33">f. 33</locus>
+              <title type="incipit">Quorum mens Christo</title>
+              <idno type="dokumenten_id">Ma 19421-33-14</idno>
+            </msItem>
+            <msItem n="62">
+              <locus from="33">f. 33</locus>
+              <title type="incipit">Hinc laudando</title>
+              <idno type="dokumenten_id">Ma 19421-33-5</idno>
+            </msItem>
+            <msItem n="63">
+              <locus from="34">f. 34</locus>
+              <title type="incipit">O siderum rector</title>
+              <idno type="dokumenten_id">Ma 19421-34-11</idno>
+            </msItem>
+            <msItem n="64">
+              <locus from="34">f. 34</locus>
+              <title type="incipit">Sit tibi laus tria</title>
+              <idno type="dokumenten_id">Ma 19421-34-4</idno>
+            </msItem>
+            <msItem n="65">
+              <locus from="34v">f. 34v</locus>
+              <title type="incipit">Laus tibi summe</title>
+              <idno type="dokumenten_id">Ma 19421-34v-14</idno>
+            </msItem>
+            <msItem n="66">
+              <locus from="34v">f. 34v</locus>
+              <title type="incipit">Rex tibi laus</title>
+              <idno type="dokumenten_id">Ma 19421-34v-7</idno>
+            </msItem>
+            <msItem n="67">
+              <locus from="35v">f. 35v</locus>
+              <title type="incipit">Rex metuende</title>
+              <idno type="dokumenten_id">Ma 19421-35v-11</idno>
+            </msItem>
+            <msItem n="68">
+              <locus from="3v">f. 3v</locus>
+              <title type="incipit">Pater creator</title>
+              <idno type="dokumenten_id">Ma 19421-3v-14</idno>
+            </msItem>
+            <msItem n="69">
+              <locus from="3v">f. 3v</locus>
+              <title type="incipit">Theoricam practicamque</title>
+              <idno type="dokumenten_id">Ma 19421-3v-2</idno>
+            </msItem>
+            <msItem n="70">
+              <locus from="4">f. 4</locus>
+              <title type="incipit">Clemens rector</title>
+              <idno type="dokumenten_id">Ma 19421-4-11</idno>
+            </msItem>
+            <msItem n="71">
+              <locus from="42v">f. 42v</locus>
+              <title type="incipit">Cuncta deum laudant</title>
+              <idno type="dokumenten_id">Ma 19421-42v-12</idno>
+            </msItem>
+            <msItem n="72">
+              <locus from="4v">f. 4v</locus>
+              <title type="incipit">Conditor kyrie omnium</title>
+              <idno type="dokumenten_id">Ma 19421-4v-12</idno>
+            </msItem>
+            <msItem n="73">
+              <locus from="5">f. 5</locus>
+              <title type="incipit">Cunctipotens genitor</title>
+              <idno type="dokumenten_id">Ma 19421-5-11</idno>
+            </msItem>
+            <msItem n="74">
+              <locus from="5v">f. 5v</locus>
+              <title type="incipit">Summe pater a quo</title>
+              <idno type="dokumenten_id">Ma 19421-5v-9</idno>
+            </msItem>
+            <msItem n="75">
+              <locus from="6">f. 6</locus>
+              <title type="incipit">Kyrie deus sempiterne</title>
+              <idno type="dokumenten_id">Ma 19421-6-7</idno>
+            </msItem>
+            <msItem n="76">
+              <locus from="6v">f. 6v</locus>
+              <title type="incipit">Splendor aeterne</title>
+              <idno type="dokumenten_id">Ma 19421-6v-6</idno>
+            </msItem>
+            <msItem n="77">
+              <locus from="7">f. 7</locus>
+              <title type="incipit">Kyrie rex celse tibi</title>
+              <idno type="dokumenten_id">Ma 19421-7-5</idno>
+            </msItem>
+            <msItem n="78">
+              <locus from="7v">f. 7v</locus>
+              <title type="incipit">Regum summe caeli domine</title>
+              <idno type="dokumenten_id">Ma 19421-7v-6</idno>
+            </msItem>
+            <msItem n="79">
+              <locus from="8">f. 8</locus>
+              <title type="incipit">Stelliferi conditor</title>
+              <idno type="dokumenten_id">Ma 19421-8-7</idno>
+            </msItem>
+            <msItem n="80">
+              <locus from="88">f. 88</locus>
+              <title type="incipit">Perpetuo numine</title>
+              <idno type="dokumenten_id">Ma 19421-88-8</idno>
+            </msItem>
+            <msItem n="81">
+              <locus from="88v">f. 88v</locus>
+              <title type="incipit">Clangat hodie</title>
+              <idno type="dokumenten_id">Ma 19421-88v-6</idno>
+            </msItem>
+            <msItem n="82">
+              <locus from="89">f. 89</locus>
+              <title type="incipit">Clemens verbisator</title>
+              <idno type="dokumenten_id">Ma 19421-89-12</idno>
+            </msItem>
+            <msItem n="83">
+              <locus from="89">f. 89</locus>
+              <title type="incipit">Deus fortis ... Filius</title>
+              <idno type="dokumenten_id">Ma 19421-89-4</idno>
+            </msItem>
+            <msItem n="84">
+              <locus from="89v">f. 89v</locus>
+              <title type="incipit">Pater lumen aeternum</title>
+              <idno type="dokumenten_id">Ma 19421-89v-10</idno>
+            </msItem>
+            <msItem n="85">
+              <locus from="89v">f. 89v</locus>
+              <title type="incipit">Omnipotens nostris</title>
+              <idno type="dokumenten_id">Ma 19421-89v-2</idno>
+            </msItem>
+            <msItem n="86">
+              <locus from="8v">f. 8v</locus>
+              <title type="incipit">Kyrie rex genitor</title>
+              <idno type="dokumenten_id">Ma 19421-8v-5</idno>
+            </msItem>
+            <msItem n="87">
+              <locus from="9">f. 9</locus>
+              <title type="incipit">Clementissime redemptor</title>
+              <idno type="dokumenten_id">Ma 19421-9-4</idno>
+            </msItem>
+            <msItem n="88">
+              <locus from="90">f. 90</locus>
+              <title type="incipit">Qui regnas sine fine</title>
+              <idno type="dokumenten_id">Ma 19421-90-10</idno>
+            </msItem>
+            <msItem n="89">
+              <locus from="90">f. 90</locus>
+              <title type="incipit">Admirabilis splendor</title>
+              <idno type="dokumenten_id">Ma 19421-90-2</idno>
+            </msItem>
+            <msItem n="90">
+              <locus from="90v">f. 90v</locus>
+              <title type="incipit">Summe pater de quo</title>
+              <idno type="dokumenten_id">Ma 19421-90v-13</idno>
+            </msItem>
+            <msItem n="91">
+              <locus from="90v">f. 90v</locus>
+              <title type="incipit">Pater ingenitus … Orbis</title>
+              <idno type="dokumenten_id">Ma 19421-90v-2</idno>
+            </msItem>
+            <msItem n="92">
+              <locus from="90v">f. 90v</locus>
+              <title type="incipit">Pater ex quo omnia</title>
+              <idno type="dokumenten_id">Ma 19421-90v-7</idno>
+            </msItem>
+            <msItem n="93">
+              <locus from="91">f. 91</locus>
+              <title type="incipit">Martyr Christi</title>
+              <idno type="dokumenten_id">Ma 19421-91-10</idno>
+            </msItem>
+            <msItem n="94">
+              <locus from="91v">f. 91v</locus>
+              <title type="incipit">Laudes deo ore pio</title>
+              <idno type="dokumenten_id">Ma 19421-91v-12</idno>
+            </msItem>
+            <msItem n="95">
+              <locus from="91v">f. 91v</locus>
+              <title type="incipit">Rex aeternus</title>
+              <idno type="dokumenten_id">Ma 19421-91v-2</idno>
+            </msItem>
+            <msItem n="96">
+              <locus from="91v">f. 91v</locus>
+              <title type="incipit">Deus omnipotens pater</title>
+              <idno type="dokumenten_id">Ma 19421-91v-6</idno>
+            </msItem>
+            <msItem n="97">
+              <locus from="92">f. 92</locus>
+              <title type="incipit">Laus egregia</title>
+              <idno type="dokumenten_id">Ma 19421-92-12</idno>
+            </msItem>
+            <msItem n="98">
+              <locus from="92">f. 92</locus>
+              <title type="incipit">Spiritus alme fovens</title>
+              <idno type="dokumenten_id">Ma 19421-92-7</idno>
+            </msItem>
+            <msItem n="99">
+              <locus from="92v">f. 92v</locus>
+              <title type="incipit">Deus excelsus rex</title>
+              <idno type="dokumenten_id">Ma 19421-92v-11</idno>
+            </msItem>
+            <msItem n="100">
+              <locus from="92v">f. 92v</locus>
+              <title type="incipit">Ante saecula</title>
+              <idno type="dokumenten_id">Ma 19421-92v-6</idno>
+            </msItem>
+            <msItem n="101">
+              <locus from="93">f. 93</locus>
+              <title type="incipit">Sancte ingenite genitor</title>
+              <idno type="dokumenten_id">Ma 19421-93-12</idno>
+            </msItem>
+            <msItem n="102">
+              <locus from="93">f. 93</locus>
+              <title type="incipit">Ingenitus genitor caelesti</title>
+              <idno type="dokumenten_id">Ma 19421-93-7</idno>
+            </msItem>
+            <msItem n="103">
+              <locus from="93v">f. 93v</locus>
+              <title type="incipit">Sanctus … dominus deus</title>
+              <idno type="dokumenten_id">Ma 19421-93v-13</idno>
+            </msItem>
+            <msItem n="104">
+              <locus from="93v">f. 93v</locus>
+              <title type="incipit">Sanctorum exultatio</title>
+              <idno type="dokumenten_id">Ma 19421-93v-7</idno>
+            </msItem>
+            <msItem n="105">
+              <locus from="94">f. 94</locus>
+              <title type="incipit">Summe pater deitatis</title>
+              <idno type="dokumenten_id">Ma 19421-94-13</idno>
+            </msItem>
+            <msItem n="106">
+              <locus from="94">f. 94</locus>
+              <title type="incipit">Deus pater cuius</title>
+              <idno type="dokumenten_id">Ma 19421-94-2</idno>
+            </msItem>
+            <msItem n="107">
+              <locus from="94v">f. 94v</locus>
+              <title type="incipit">Virginei proles</title>
+              <idno type="dokumenten_id">Ma 19421-94v-14</idno>
+            </msItem>
+            <msItem n="108">
+              <locus from="94v">f. 94v</locus>
+              <title type="incipit">Summe pater virgo mater</title>
+              <idno type="dokumenten_id">Ma 19421-94v-9</idno>
+            </msItem>
+            <msItem n="109">
+              <locus from="95">f. 95</locus>
+              <title type="incipit">Agie deus altissime</title>
+              <idno type="dokumenten_id">Ma 19421-95-11</idno>
+            </msItem>
+            <msItem n="110">
+              <locus from="95">f. 95</locus>
+              <title type="incipit">Laus uranica</title>
+              <idno type="dokumenten_id">Ma 19421-95-5</idno>
+            </msItem>
+            <msItem n="111">
+              <locus from="95v">f. 95v</locus>
+              <title type="incipit">Pro cunctis deductus</title>
+              <idno type="dokumenten_id">Ma 19421-95v-13</idno>
+            </msItem>
+            <msItem n="112">
+              <locus from="95v">f. 95v</locus>
+              <title type="incipit">Hodie natus est nobis</title>
+              <idno type="dokumenten_id">Ma 19421-95v-5</idno>
+            </msItem>
+            <msItem n="113">
+              <locus from="96">f. 96</locus>
+              <title type="incipit">Omnipotens aeterna</title>
+              <idno type="dokumenten_id">Ma 19421-96-13</idno>
+            </msItem>
+            <msItem n="114">
+              <locus from="96">f. 96</locus>
+              <title type="incipit">Qui sedes ... solus</title>
+              <idno type="dokumenten_id">Ma 19421-96-8</idno>
+            </msItem>
+            <msItem n="115">
+              <locus from="96v">f. 96v</locus>
+              <title type="incipit">Qui patris in solio</title>
+              <idno type="dokumenten_id">Ma 19421-96v-4</idno>
+            </msItem>
+            <msItem n="116">
+              <locus from="96v">f. 96v</locus>
+              <title type="incipit">Lux lucis</title>
+              <idno type="dokumenten_id">Ma 19421-96v-9</idno>
+            </msItem>
+            <msItem n="117">
+              <locus from="97">f. 97</locus>
+              <title type="incipit">Omnipotens pater</title>
+              <idno type="dokumenten_id">Ma 19421-97-1</idno>
+            </msItem>
+            <msItem n="118">
+              <locus from="97">f. 97</locus>
+              <title type="incipit">Spes mundi</title>
+              <idno type="dokumenten_id">Ma 19421-97-10</idno>
+            </msItem>
+            <msItem n="119">
+              <locus from="97">f. 97</locus>
+              <title type="incipit">Celsa nunc omnes</title>
+              <idno type="dokumenten_id">Ma 19421-97-5</idno>
+            </msItem>
+            <msItem n="120">
+              <locus from="97v">f. 97v</locus>
+              <title type="incipit">O lucis splendor</title>
+              <idno type="dokumenten_id">Ma 19421-97v-12</idno>
+            </msItem>
+            <msItem n="121">
+              <locus from="97v">f. 97v</locus>
+              <title type="incipit">Triplex personis</title>
+              <idno type="dokumenten_id">Ma 19421-97v-3</idno>
+            </msItem>
+            <msItem n="122">
+              <locus from="97v">f. 97v</locus>
+              <title type="incipit">Ad dexteram patris</title>
+              <idno type="dokumenten_id">Ma 19421-97v-7</idno>
+            </msItem>
+            <msItem n="123">
+              <locus from="98">f. 98</locus>
+              <title type="incipit">Salus et vita</title>
+              <idno type="dokumenten_id">Ma 19421-98-4</idno>
+            </msItem>
+            <msItem n="124">
+              <locus from="9v">f. 9v</locus>
+              <title type="incipit">O pater excelse</title>
+              <idno type="dokumenten_id">Ma 19421-9v-3</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Catania</settlement>
+                <region>Quellen normanno-sizilischer Herkunft</region>
+                <orgName>Benediktinerkloster Sant’Agata</orgName>
+              </origPlace>
+              <origDate>12. Jh 2. Hälfte</origDate>
+            </origin>
+          </history>
+          <additional>
+            <adminInfo>
+              <note type="description">
+                <ref target="Ma_19421.description.md">Source description</ref>
+              </note>
+            </adminInfo>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

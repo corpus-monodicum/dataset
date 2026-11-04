@@ -1,0 +1,41 @@
+{
+  "id": "ec03fab4-7600-472d-b1c9-1ef4cf77890b",
+  "quelle_id": "Pa 1119",
+  "dokumenten_id": "Pa 1119-24v-7",
+  "gattung1": "Agnus",
+  "gattung2": "tropiert",
+  "festtag": "Pascha",
+  "feier": "Messe",
+  "textinitium": "Pro cunctis deductus",
+  "bibliographischerverweis": "CT IV, 49: Ia 1 A 2 B 3 C 4 D 5",
+  "druckausgabe": "",
+  "zeilenstart": "7",
+  "foliostart": "24v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "25",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "Schildbach 15",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509505",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

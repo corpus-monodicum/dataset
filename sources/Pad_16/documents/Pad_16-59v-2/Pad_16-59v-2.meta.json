@@ -1,0 +1,41 @@
+{
+  "id": "a6e12e40-5716-4842-aecf-d62637d6f082",
+  "quelle_id": "Pad 16",
+  "dokumenten_id": "Pad 16-59v-2",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Dominica I in quadragesima",
+  "feier": "Messe",
+  "textinitium": "Confessio",
+  "bibliographischerverweis": "AMS 44",
+  "druckausgabe": "II-4",
+  "zeilenstart": "2",
+  "foliostart": "59v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "59v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

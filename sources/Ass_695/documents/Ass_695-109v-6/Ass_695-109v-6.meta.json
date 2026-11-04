@@ -1,0 +1,41 @@
+{
+  "id": "143ef277-2b6e-4174-aa1c-5390597ce460",
+  "quelle_id": "Ass 695",
+  "dokumenten_id": "Ass 695-109v-6",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Beata Maria virgo",
+  "feier": "Messe",
+  "textinitium": "Missus Gabriel",
+  "bibliographischerverweis": "AH 54, 192",
+  "druckausgabe": "CM III",
+  "zeilenstart": "6",
+  "foliostart": "109v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "110v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "Abschnitt im Inneren fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

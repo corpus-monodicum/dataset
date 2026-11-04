@@ -1,0 +1,41 @@
+{
+  "id": "fe91b27b-8b04-456d-84db-6ba8923aff3f",
+  "quelle_id": "Ben 34",
+  "dokumenten_id": "Ben 34-286v-4",
+  "gattung1": "Kyrie",
+  "gattung2": "untropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Kyrie eleyson",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "4",
+  "foliostart": "286v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "286v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "Melnicki 2: 1A 2A 3A",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509501",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

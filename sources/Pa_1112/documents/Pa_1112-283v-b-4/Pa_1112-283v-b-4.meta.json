@@ -1,0 +1,41 @@
+{
+  "id": "af14fa12-e89d-4a1b-a30a-629768ee8c25",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-283v-b-4",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Philippus et Iacobus",
+  "feier": "Messe",
+  "textinitium": "Clare sanctorum",
+  "bibliographischerverweis": "AH 53, 228",
+  "druckausgabe": "CM III",
+  "zeilenstart": "4",
+  "foliostart": "283v-b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "284a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Aurea",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

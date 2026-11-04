@@ -1,0 +1,41 @@
+{
+  "id": "2aa7f2f4-f28c-424c-851a-b23334b43a02",
+  "quelle_id": "PaA 135",
+  "dokumenten_id": "PaA 135-231b-12",
+  "gattung1": "Kyrie",
+  "gattung2": "tropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Lux et gloria regis",
+  "bibliographischerverweis": "AH 47, 155",
+  "druckausgabe": "",
+  "zeilenstart": "12",
+  "foliostart": "231b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "231v a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "Melnicki 39",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509501",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

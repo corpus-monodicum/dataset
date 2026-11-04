@@ -1,0 +1,41 @@
+{
+  "id": "9664b0f1-aca8-4a71-8425-25f887addcc7",
+  "quelle_id": "Pa 14452",
+  "dokumenten_id": "Pa 14452-174v-11",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Octava dedicationis",
+  "feier": "Messe",
+  "textinitium": "Quam dilecta",
+  "bibliographischerverweis": "AH 55, 30",
+  "druckausgabe": "CM III",
+  "zeilenstart": "11",
+  "foliostart": "174v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "176",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

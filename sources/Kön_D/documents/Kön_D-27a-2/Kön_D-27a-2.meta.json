@@ -1,0 +1,41 @@
+{
+  "id": "66700879-1aa9-4b95-a5b5-4d78a48dc86b",
+  "quelle_id": "Kön D",
+  "dokumenten_id": "Kön D-27a-2",
+  "gattung1": "Antiphon",
+  "gattung2": "Communio",
+  "festtag": "Innocentes",
+  "feier": "Messe",
+  "textinitium": "Vox in Rama",
+  "bibliographischerverweis": "AMS 15",
+  "druckausgabe": "II-2",
+  "zeilenstart": "2",
+  "foliostart": "27a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "27a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

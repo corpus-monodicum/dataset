@@ -1,0 +1,41 @@
+{
+  "id": "ea23335e-2b2d-4253-bbd9-9e4e8780d6a4",
+  "quelle_id": "Ei 366",
+  "dokumenten_id": "Ei 366-3-5b",
+  "gattung1": "Sequenz",
+  "gattung2": "Textlos",
+  "festtag": "Innocentes",
+  "feier": "Messe",
+  "textinitium": "Alleluia",
+  "bibliographischerverweis": "AH 53, 158",
+  "druckausgabe": "CM III",
+  "zeilenstart": "5",
+  "foliostart": "3",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "4a",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Te martyrum",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "Te martyrum",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

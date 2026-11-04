@@ -1,0 +1,41 @@
+{
+  "id": "cba90a80-5368-4bca-90a3-6140705fa26c",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-289v-b-5",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Iacobus",
+  "feier": "Messe",
+  "textinitium": "Clare sanctorum*",
+  "bibliographischerverweis": "AH 53, 228",
+  "druckausgabe": "CM III",
+  "zeilenstart": "5",
+  "foliostart": "289v-b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "289v-b",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Aurea",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

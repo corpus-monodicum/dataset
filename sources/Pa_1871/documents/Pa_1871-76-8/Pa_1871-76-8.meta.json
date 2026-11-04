@@ -1,0 +1,41 @@
+{
+  "id": "0bbefb23-cc2e-45f4-9ed9-169a67d80e29",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-76-8",
+  "gattung1": "Sanctus",
+  "gattung2": "untropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Sanctus ... dominus deus",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "8",
+  "foliostart": "76",
+  "kommentar": "Nachtrag",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "76",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "Thannabaur 49",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509504",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

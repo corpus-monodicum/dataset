@@ -1,0 +1,41 @@
+{
+  "id": "a828b92c-616c-4316-8bf5-20505e3be27c",
+  "quelle_id": "PaA 135",
+  "dokumenten_id": "PaA 135-111v b-36b",
+  "gattung1": "Gloria",
+  "gattung2": "untropiert",
+  "festtag": "Pentecoste",
+  "feier": "Vigil",
+  "textinitium": "Gloria in excelsis*",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "36",
+  "foliostart": "111v b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "111v b",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "36",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509502",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

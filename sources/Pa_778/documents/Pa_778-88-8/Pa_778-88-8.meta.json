@@ -1,0 +1,41 @@
+{
+  "id": "d301fbbd-edca-428e-80d5-2723643f09ac",
+  "quelle_id": "Pa 778",
+  "dokumenten_id": "Pa 778-88-8",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Inventio crucis",
+  "feier": "Messe",
+  "textinitium": "Vexilla regis",
+  "bibliographischerverweis": "AH 7, 91",
+  "druckausgabe": "",
+  "zeilenstart": "8",
+  "foliostart": "88",
+  "kommentar": "Ende radiert und überschrieben",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "89v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Lyra",
+    "Überlieferungszustand": "Ende fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

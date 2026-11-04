@@ -1,0 +1,41 @@
+{
+  "id": "f63b1bde-ebe2-4eff-91d2-a1f4540b6406",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-169-11",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Agnes",
+  "feier": "Messe",
+  "textinitium": "Laus sit regi gloriae",
+  "bibliographischerverweis": "AH 55, 51",
+  "druckausgabe": "CM III",
+  "zeilenstart": "11",
+  "foliostart": "169",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "169v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "C",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

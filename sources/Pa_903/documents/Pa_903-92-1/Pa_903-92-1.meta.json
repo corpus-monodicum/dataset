@@ -1,0 +1,41 @@
+{
+  "id": "0865c47f-b199-421d-9c86-8ef4538e696d",
+  "quelle_id": "Pa 903",
+  "dokumenten_id": "Pa 903-92-1",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Pentecoste",
+  "feier": "Messe",
+  "textinitium": "Spiritus domini",
+  "bibliographischerverweis": "AMS 106, [mel VIII A]",
+  "druckausgabe": "II-3",
+  "zeilenstart": "1",
+  "foliostart": "92",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "92",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

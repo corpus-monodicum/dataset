@@ -1,0 +1,41 @@
+{
+  "id": "9ba5dbcf-afbb-447e-82f7-0af1cf74ce35",
+  "quelle_id": "Lo 15102",
+  "dokumenten_id": "Lo 15102-207-4",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Responsorium",
+  "festtag": "",
+  "feier": "",
+  "textinitium": "Qui sunt hi qui ut nubes*",
+  "bibliographischerverweis": "CAO 7484",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "4",
+  "foliostart": "207",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "207",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Lo 15102-207-4S",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Ordo virtutum (The Play of the Virtues)",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

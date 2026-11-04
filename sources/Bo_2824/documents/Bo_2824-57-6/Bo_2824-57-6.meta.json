@@ -1,0 +1,41 @@
+{
+  "id": "dfbb39cb-aec6-45a0-8717-63186d1f17d3",
+  "quelle_id": "Bo 2824",
+  "dokumenten_id": "Bo 2824-57-6",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Ascensio domini",
+  "feier": "Messe",
+  "textinitium": "Hodie redemptor",
+  "bibliographischerverweis": "Ascens intr 18 A 25 A C D 39 A 53 B (CT III)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "6",
+  "foliostart": "57",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "(Viri Galiaei Intr.)",
+    "Endseite": "58",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Ascens intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

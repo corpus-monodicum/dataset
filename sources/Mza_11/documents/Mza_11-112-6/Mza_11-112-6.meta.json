@@ -1,0 +1,41 @@
+{
+  "id": "392bf885-7b86-4aa4-a3f1-d60315b6d363",
+  "quelle_id": "Mza 11",
+  "dokumenten_id": "Mza 11-112-6",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Iohannes Baptista",
+  "feier": "Messe",
+  "textinitium": "Audite insulae",
+  "bibliographischerverweis": "De ventre intr 29 (CT X)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "6",
+  "foliostart": "112",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "De ventre",
+    "Endseite": "112",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "De ventre intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ebcc08b9-53d5-49dc-b354-cfd28914404d",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-229-9",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Petrus et Paulus",
+  "feier": "Messe",
+  "textinitium": "Laude iucunda",
+  "bibliographischerverweis": "AH 7, 183; AH 53, 211",
+  "druckausgabe": "CM III",
+  "zeilenstart": "9",
+  "foliostart": "229",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "229v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "In omnem terram",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

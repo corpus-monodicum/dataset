@@ -1,0 +1,41 @@
+{
+  "id": "f2cd523d-2696-4153-a287-51d0eb8a87a6",
+  "quelle_id": "Pia 65",
+  "dokumenten_id": "Pia 65-204a-14",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Innocentes",
+  "feier": "Messe",
+  "textinitium": "Ex ore infantium",
+  "bibliographischerverweis": "AMS 15",
+  "druckausgabe": "II-4",
+  "zeilenstart": "14",
+  "foliostart": "204a",
+  "kommentar": "noch einmal nachprüfen (warum grün?)",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "204a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "16",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

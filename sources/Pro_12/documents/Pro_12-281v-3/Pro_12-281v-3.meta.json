@@ -1,0 +1,41 @@
+{
+  "id": "003d25a7-47eb-45f5-a4e9-76ed7a134151",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-281v-3",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Angeli",
+  "feier": "Messe",
+  "textinitium": "Ad celebres rex",
+  "bibliographischerverweis": "AH 7, 178; AH 53, 190",
+  "druckausgabe": "CM III",
+  "zeilenstart": "3",
+  "foliostart": "281v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "283",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Mater sequentiarum",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

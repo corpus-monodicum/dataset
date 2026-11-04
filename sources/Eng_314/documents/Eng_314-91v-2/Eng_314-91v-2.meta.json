@@ -1,0 +1,41 @@
+{
+  "id": "100c657f-5eb5-4c9f-a962-42e4a8172ece",
+  "quelle_id": "Eng 314",
+  "dokumenten_id": "Eng 314-91v-2",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Dominica I adventus",
+  "feier": "Messe",
+  "textinitium": "Ecce regum",
+  "bibliographischerverweis": "Adv I intr 18^CM A 19^CM B 20^CM C 21^CM A (CT X B, S. 513)",
+  "druckausgabe": "II-2",
+  "zeilenstart": "2",
+  "foliostart": "91v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "(Ad te levavi)",
+    "Endseite": "91v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Adv I intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

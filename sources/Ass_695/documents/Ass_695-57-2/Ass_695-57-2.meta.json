@@ -1,0 +1,41 @@
+{
+  "id": "4fc066cb-15d6-4df9-8ced-766bea36b6e1",
+  "quelle_id": "Ass 695",
+  "dokumenten_id": "Ass 695-57-2",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominica III adventus",
+  "feier": "Messe",
+  "textinitium": "Qui regis sceptra",
+  "bibliographischerverweis": "AH 53, 3",
+  "druckausgabe": "CM III",
+  "zeilenstart": "2",
+  "foliostart": "57",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "57",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Excita",
+    "Überlieferungszustand": "Beginn fehlt; Abschnitt im Inneren fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

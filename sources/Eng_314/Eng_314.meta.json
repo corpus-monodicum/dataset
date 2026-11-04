@@ -1,0 +1,25 @@
+{
+  "id": "Eng 314",
+  "quellensigle": "Eng 314",
+  "herkunftsregion": "Quellen deutscher Herkunft",
+  "herkunftsort": "Engelberg",
+  "herkunftsinstitution": "",
+  "ordenstradition": "",
+  "quellentyp": "Sammlung lateinischer liturgischer und deutscher Gesänge",
+  "bibliotheksort": "Engelberg",
+  "bibliothek": "Stiftsbibliothek",
+  "bibliothekssignatur": "Cod. 314",
+  "kommentar": "",
+  "datierung": "14. Jh – 15. Jh",
+  "status": "",
+  "jahrhundert": "14., 15.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Eng 314",
+  "cantus_century": "14., 15.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Eng_314.description.md"
+  }
+}

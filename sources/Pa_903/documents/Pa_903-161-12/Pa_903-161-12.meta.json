@@ -1,0 +1,41 @@
+{
+  "id": "78ec97e5-496c-4797-aae3-133b7d8d8704",
+  "quelle_id": "Pa 903",
+  "dokumenten_id": "Pa 903-161-12",
+  "gattung1": "Tropus",
+  "gattung2": "Communio-Tropus",
+  "festtag": "Andreas",
+  "feier": "Messe",
+  "textinitium": "Ut meruit",
+  "bibliographischerverweis": "Dicit Andreas com 2 A 3 B (CT X)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "12",
+  "foliostart": "161",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "Dicit Andreas)",
+    "Endseite": "161v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Dicit Andreas com",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

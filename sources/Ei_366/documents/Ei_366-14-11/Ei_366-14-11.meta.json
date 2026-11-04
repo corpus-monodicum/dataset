@@ -1,0 +1,41 @@
+{
+  "id": "436383d0-a4b3-44e7-b31a-a225a93db18b",
+  "quelle_id": "Ei 366",
+  "dokumenten_id": "Ei 366-14-11",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Feria VI post Pascha",
+  "feier": "Messe",
+  "textinitium": "Laudes deo concinat orbis",
+  "bibliographischerverweis": "AH 53, 53",
+  "druckausgabe": "CM III",
+  "zeilenstart": "11",
+  "foliostart": "14",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "15a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Organa (A)",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3cf403dd-1f9d-405d-8ff8-96ef43597a48",
+  "quelle_id": "NY 905",
+  "dokumenten_id": "NY 905-II, 42-5",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Iohannes Baptista",
+  "feier": "Messe",
+  "textinitium": "Angelo praenuntiante",
+  "bibliographischerverweis": "De ventre intr 8 (CT X)",
+  "druckausgabe": "II-2",
+  "zeilenstart": "5",
+  "foliostart": "II, 42",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "NY 905-II, 42-10",
+    "Endseite": "II, 42",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "II, 42",
+    "FestUndGattung": "De ventre intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

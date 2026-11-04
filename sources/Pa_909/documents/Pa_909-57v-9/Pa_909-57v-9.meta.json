@@ -1,0 +1,41 @@
+{
+  "id": "b60cf2f0-7205-4e24-86da-eba03bd32334",
+  "quelle_id": "Pa 909",
+  "dokumenten_id": "Pa 909-57v-9",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Valeria",
+  "feier": "Messe",
+  "textinitium": "Digniter",
+  "bibliographischerverweis": "Gaudeamus intr 100 A 101 B 102 C 103 D E 104 A 105 C 106 D F 107 A 108 C 109 D (CT X)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "9",
+  "foliostart": "57v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "Gaudeamus",
+    "Endseite": "58",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Gaudeamus intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

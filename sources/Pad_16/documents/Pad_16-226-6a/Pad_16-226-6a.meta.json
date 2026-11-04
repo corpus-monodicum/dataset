@@ -1,0 +1,41 @@
+{
+  "id": "36009f9c-0e40-4e35-9fed-bf1aac18667a",
+  "quelle_id": "Pad 16",
+  "dokumenten_id": "Pad 16-226-6a",
+  "gattung1": "Sanctus",
+  "gattung2": "untropiert",
+  "festtag": "Stephanus",
+  "feier": "Messe",
+  "textinitium": "Sanctus ... dominus deus*",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "6",
+  "foliostart": "226",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "226",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "Thannabaur 154",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509504",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

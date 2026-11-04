@@ -1,0 +1,41 @@
+{
+  "id": "dabb5a61-df4e-4ed4-b9f8-97c9a1680a45",
+  "quelle_id": "Kön D",
+  "dokumenten_id": "Kön D-26a-13",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Innocentes",
+  "feier": "Messe",
+  "textinitium": "Ex ore infantium",
+  "bibliographischerverweis": "AMS 15",
+  "druckausgabe": "II-2",
+  "zeilenstart": "13",
+  "foliostart": "26a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "26a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "16",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

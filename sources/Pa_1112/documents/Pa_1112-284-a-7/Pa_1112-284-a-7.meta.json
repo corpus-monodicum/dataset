@@ -1,0 +1,41 @@
+{
+  "id": "15e9098c-ab95-4e48-afad-9890a6a3dae6",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-284-a-7",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Inventio crucis",
+  "feier": "Messe",
+  "textinitium": "Laudes crucis",
+  "bibliographischerverweis": "AH 54, 120",
+  "druckausgabe": "CM III",
+  "zeilenstart": "7",
+  "foliostart": "284-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "284v-b",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Laetabitur",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

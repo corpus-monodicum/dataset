@@ -1,0 +1,41 @@
+{
+  "id": "f9018fe9-38e5-4cb3-8d9f-f3138e4fe48e",
+  "quelle_id": "Sol 596",
+  "dokumenten_id": "Sol 596-113-1b",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Versikel",
+  "festtag": "Pentecoste",
+  "feier": "Prozession",
+  "textinitium": "Dicite in nationibus*",
+  "bibliographischerverweis": "CAO 8013",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "1",
+  "foliostart": "113",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "113",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "Sol 596-109-3S",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Pentecost",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

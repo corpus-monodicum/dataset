@@ -1,0 +1,41 @@
+{
+  "id": "084ca7eb-21ff-4440-ba3a-1d41a161047e",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-156v-2",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Assumptio Mariae",
+  "feier": "",
+  "textinitium": "Virgo dei Maria",
+  "bibliographischerverweis": "AH 7, 105",
+  "druckausgabe": "",
+  "zeilenstart": "2",
+  "foliostart": "156v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "157",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Alme martyr",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7435eaf1-e22c-429e-95f3-651861999234",
+  "quelle_id": "Or 201",
+  "dokumenten_id": "Or 201-215-7a",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "Innocentes",
+  "feier": "Matutin",
+  "textinitium": "O quam gloriosum*",
+  "bibliographischerverweis": "CAO 4063",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "7",
+  "foliostart": "215",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "215",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "Or 201-215-7-aS",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Play of the Innocents",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

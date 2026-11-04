@@ -1,0 +1,41 @@
+{
+  "id": "b1d7fdf4-0e40-4c5a-a283-2e333ea1c9be",
+  "quelle_id": "Pa 1338",
+  "dokumenten_id": "Pa 1338-75-2",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Omnes sancti",
+  "feier": "",
+  "textinitium": "Oremus omnes",
+  "bibliographischerverweis": "AH 7, 232",
+  "druckausgabe": "",
+  "zeilenstart": "2",
+  "foliostart": "75",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "76v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "O alma minor",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

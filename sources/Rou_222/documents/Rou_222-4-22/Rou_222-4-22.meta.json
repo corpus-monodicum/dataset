@@ -1,0 +1,41 @@
+{
+  "id": "6812d311-95af-4eb8-99dd-d0adfa3eb4f0",
+  "quelle_id": "Rou 222",
+  "dokumenten_id": "Rou 222-4-22",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Responsorium",
+  "festtag": "Epiphania",
+  "feier": "Messe",
+  "textinitium": "Tria sunt munera",
+  "bibliographischerverweis": "CAO 7777",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "22",
+  "foliostart": "4",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "4v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Rou 222-4-4S",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "Beginn fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Magi play",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "da4bd3ee-e3af-45c2-97b2-98c4bf8472a9",
+  "quelle_id": "Pad 16",
+  "dokumenten_id": "Pad 16-224v-8",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Stephanus",
+  "feier": "Messe",
+  "textinitium": "Beatus protomartyr",
+  "bibliographischerverweis": "Steph intr 86 A 87 B 88 C (CT I)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "8",
+  "foliostart": "224v",
+  "kommentar": "olim 220v",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Etenim",
+    "Endseite": "225",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Steph intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "595b4d2a-04ae-423f-a9ce-fef2bc668e16",
+  "quelle_id": "Mza 11",
+  "dokumenten_id": "Mza 11-82-8",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Nativitas domini",
+  "feier": "3. Messe",
+  "textinitium": "Natus ante saecula",
+  "bibliographischerverweis": "AH 53, 15",
+  "druckausgabe": "",
+  "zeilenstart": "8",
+  "foliostart": "82",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "83",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Dies sanctificatus",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

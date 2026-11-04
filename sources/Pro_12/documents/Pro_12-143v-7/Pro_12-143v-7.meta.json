@@ -1,0 +1,41 @@
+{
+  "id": "918d12d7-4a90-4887-9acf-799d57587a13",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-143v-7",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Pascha",
+  "feier": "Messe",
+  "textinitium": "Fulgens praeclara*",
+  "bibliographischerverweis": "AH 53, 35",
+  "druckausgabe": "CM III",
+  "zeilenstart": "7",
+  "foliostart": "143v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "143v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Fulgens praeclara",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d6c64bce-7bd8-4c64-b958-00e87177a75f",
+  "quelle_id": "Pa 1338",
+  "dokumenten_id": "Pa 1338-27v-6",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Epiphania",
+  "feier": "Vesper",
+  "textinitium": "Nostri promat chori",
+  "bibliographischerverweis": "AH 7, 38",
+  "druckausgabe": "",
+  "zeilenstart": "6",
+  "foliostart": "27v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "29",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Alme martyr",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

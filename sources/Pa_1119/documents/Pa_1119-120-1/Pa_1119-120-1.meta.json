@@ -1,0 +1,41 @@
+{
+  "id": "c1f3b53b-3f70-47e4-a419-716f81610e0a",
+  "quelle_id": "Pa 1119",
+  "dokumenten_id": "Pa 1119-120-1",
+  "gattung1": "Gloria",
+  "gattung2": "tropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Laus angelorum",
+  "bibliographischerverweis": "CT XII, 33: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 21 22 23",
+  "druckausgabe": "",
+  "zeilenstart": "1",
+  "foliostart": "120",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "121v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "Bosse 30",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509502",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

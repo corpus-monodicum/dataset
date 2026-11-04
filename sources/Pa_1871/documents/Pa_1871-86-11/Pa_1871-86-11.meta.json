@@ -1,0 +1,41 @@
+{
+  "id": "491b6d98-27dc-4355-b9b8-a16646cd731d",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-86-11",
+  "gattung1": "Sequenz",
+  "gattung2": "Textlos",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Alleluia",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "11",
+  "foliostart": "86",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "86",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "13",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Christe rex",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

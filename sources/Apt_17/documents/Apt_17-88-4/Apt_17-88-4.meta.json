@@ -1,0 +1,41 @@
+{
+  "id": "89463770-9b54-468c-b829-e8faa2be017f",
+  "quelle_id": "Apt 17",
+  "dokumenten_id": "Apt 17-88-4",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Epiphania",
+  "feier": "Messe",
+  "textinitium": "Hodie descendit Christus",
+  "bibliographischerverweis": "Epiph intr 51 A 79 A 80 B 81 C 82 E F 63 A 64 C 65 D 72 A 74 C 75 D H [mel II F] 85 A 86 C 87 D 69 A 70 C 71 D 15 A 17 B 18 C 19 D 90 A 91 C 92 D 88 A 94 C 102 D 73 A 103 B 104 C 105 D 106 A 107 C 108 D (CT I)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "4",
+  "foliostart": "88",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "(Ecce advenit)",
+    "Endseite": "94",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Epiph intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

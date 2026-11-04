@@ -1,0 +1,41 @@
+{
+  "id": "a17fb322-6316-425e-b3e7-9156bb50e71a",
+  "quelle_id": "Pa 1118",
+  "dokumenten_id": "Pa 1118-237v-5",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Omnes sancti",
+  "feier": "",
+  "textinitium": "Ecce pulchra",
+  "bibliographischerverweis": "AH 7, 116; AH 53, 114",
+  "druckausgabe": "",
+  "zeilenstart": "5",
+  "foliostart": "237v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "238",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Lyra",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

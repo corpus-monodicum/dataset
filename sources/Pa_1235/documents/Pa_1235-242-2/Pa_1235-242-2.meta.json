@@ -1,0 +1,41 @@
+{
+  "id": "a850e997-8c67-4aaf-8337-8ae8679dc6c7",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-242-2",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Andreas",
+  "feier": "Messe",
+  "textinitium": "Nobile apostolici",
+  "bibliographischerverweis": "Mihi autem intr 27 A 28 B 29 C D A E 12 A 13 C (CT X)",
+  "druckausgabe": "II-1",
+  "zeilenstart": "2",
+  "foliostart": "242",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "Pa 1235-37-13-",
+    "Endseite": "242",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Mihi autem intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

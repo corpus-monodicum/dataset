@@ -1,0 +1,41 @@
+{
+  "id": "13a7fad1-7ea5-43e0-b000-ce67b7e22efd",
+  "quelle_id": "Pa 1118",
+  "dokumenten_id": "Pa 1118-182v-11",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Pascha",
+  "feier": "",
+  "textinitium": "Arvi polique",
+  "bibliographischerverweis": "AH 7, 265; AH 53, 65",
+  "druckausgabe": "",
+  "zeilenstart": "11",
+  "foliostart": "182v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "183v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Te decet",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

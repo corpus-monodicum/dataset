@@ -1,0 +1,41 @@
+{
+  "id": "84ff13ad-ea81-4fa1-9d1e-b1fa587bacd2",
+  "quelle_id": "Int 5",
+  "dokumenten_id": "Int 5-53-6",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Pascha",
+  "feier": "Messe",
+  "textinitium": "Christus devicta morte",
+  "bibliographischerverweis": "Resurr intr 67 A 69 B 68 C (CT III)",
+  "druckausgabe": "",
+  "zeilenstart": "6",
+  "foliostart": "53",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "53v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Resurr intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "593a8ffb-8b21-4048-99d6-a96b6c27195b",
+  "quelle_id": "Pa 904",
+  "dokumenten_id": "Pa 904-32-9",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Lectio",
+  "festtag": "Epiphania",
+  "feier": "Messe",
+  "textinitium": "Cum natus esset*",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "9",
+  "foliostart": "32",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "32",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Pa 904-29-2-aS",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Magi play",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

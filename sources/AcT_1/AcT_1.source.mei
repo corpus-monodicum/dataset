@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>AcT 1: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Gunilla Iversen</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Ritva Maria Jacobsson</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="AcT_1">
+        <identifier type="siglum">AcT 1</identifier>
+        <titleStmt>
+          <title>AcT 1</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Pavia</geogName>
+          <geogName role="origin-region">Quellen italienischer Herkunft</geogName>
+          <date>12. Jh – 13. Jh</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="1">f. 1</locus>
+            <title type="incipit">Gregorius praesul</title>
+            <identifier type="dokumenten_id">AcT 1-1-2</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="1">f. 1</locus>
+            <title type="incipit">Ad te levavi</title>
+            <identifier type="dokumenten_id">AcT 1-1-6</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="115v">f. 115v</locus>
+            <title type="incipit">Hodie redemptor</title>
+            <identifier type="dokumenten_id">AcT 1-115v-3</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="115v">f. 115v</locus>
+            <title type="incipit">Viri Galilaei</title>
+            <identifier type="dokumenten_id">AcT 1-115v-6</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="118v">f. 118v</locus>
+            <title type="incipit">Hodie spiritus sanctus procedens</title>
+            <identifier type="dokumenten_id">AcT 1-118v-1</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="118v">f. 118v</locus>
+            <title type="incipit">Spiritus domini</title>
+            <identifier type="dokumenten_id">AcT 1-118v-4</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="132">f. 132</locus>
+            <title type="incipit">Nunc scio vere</title>
+            <identifier type="dokumenten_id">AcT 1-132-3</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="132">f. 132</locus>
+            <title type="incipit">Beatissimus Petrus</title>
+            <identifier type="dokumenten_id">AcT 1-132-7</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="90v">f. 90v</locus>
+            <title type="incipit">Resurrexi</title>
+            <identifier type="dokumenten_id">AcT 1-90v-9</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="91">f. 91</locus>
+            <title type="incipit">Quem quaeritis in sepulchro</title>
+            <identifier type="dokumenten_id">AcT 1-91-3</identifier>
+          </contentItem>
+        </contents>
+        <notesStmt>
+          <annot type="description">
+            <ref target="AcT_1.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <classification>
+          <termList>
+            <term type="quellentyp">Graduale mit Tropen, Kyriale, Sequentiar</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">I</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">Acqui Terme</geogName>
+                <corpName>Biblioteca del Seminario</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

@@ -1,0 +1,41 @@
+{
+  "id": "4f8177da-14de-424d-8258-a10c835bc36c",
+  "quelle_id": "Mod 7",
+  "dokumenten_id": "Mod 7-181v-6",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Andreas",
+  "feier": "Messe",
+  "textinitium": "Admirans vates",
+  "bibliographischerverweis": "Mihi autem intr 30 A 31 B 63 C (CT X)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "6",
+  "foliostart": "181v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Mihi autem",
+    "Endseite": "181v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Mihi autem intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

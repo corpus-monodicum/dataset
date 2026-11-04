@@ -1,0 +1,41 @@
+{
+  "id": "a542550f-610e-49f5-9e24-ba681bd63af6",
+  "quelle_id": "Pa 1138",
+  "dokumenten_id": "Pa 1138-113v-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "",
+  "feier": "",
+  "textinitium": "Alle caeleste necnon",
+  "bibliographischerverweis": "AH 7, 98; AH 53, 97",
+  "druckausgabe": "",
+  "zeilenstart": "1",
+  "foliostart": "113v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "115v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Mater sequentiarum",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

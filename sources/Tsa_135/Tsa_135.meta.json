@@ -1,0 +1,25 @@
+{
+  "id": "Tsa 135",
+  "quellensigle": "Tsa 135",
+  "herkunftsregion": "Quellen spanischer Herkunft",
+  "herkunftsort": "Tortosa",
+  "herkunftsinstitution": "",
+  "ordenstradition": "",
+  "quellentyp": "Kyriale, Sequentiar",
+  "bibliotheksort": "Tortosa",
+  "bibliothek": "Biblioteca Capitular",
+  "bibliothekssignatur": "135",
+  "kommentar": "",
+  "datierung": "13. Jh",
+  "status": "",
+  "jahrhundert": "13.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Tsa 135",
+  "cantus_century": "13.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Tsa_135.description.md"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "9ccdad4e-6563-40f7-90a7-a26d13ba000e",
+  "quelle_id": "Pa 1119",
+  "dokumenten_id": "Pa 1119-88-5",
+  "gattung1": "Kyrie",
+  "gattung2": "untropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Kyrie eleyson",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "5",
+  "foliostart": "88",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "88",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "Melnicki 124: 1A 1B 1C 2A 2B 2C 3A 3B 3C",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509501",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5cc129e0-d9c3-4dbc-9a79-701e0049594a",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-3v-7",
+  "gattung1": "Sequenz",
+  "gattung2": "Textlos",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Alleluia",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "7",
+  "foliostart": "3v",
+  "kommentar": "Nachtrag",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "3v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "(Gaudent ecce)",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

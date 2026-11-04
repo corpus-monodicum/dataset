@@ -1,0 +1,41 @@
+{
+  "id": "a3db9bd3-48f5-41a1-84c4-0e177507c711",
+  "quelle_id": "Pa 1119",
+  "dokumenten_id": "Pa 1119-137v-6",
+  "gattung1": "Gloria",
+  "gattung2": "tropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Sceptrum cuius nobile",
+  "bibliographischerverweis": "CT XII, 150: R 1a 1b 2a 2b 3 P",
+  "druckausgabe": "",
+  "zeilenstart": "6",
+  "foliostart": "137v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "138",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "(Bosse 39)",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509502",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6a63e805-8f86-4214-bdf7-9d5ca858eab5",
+  "quelle_id": "Bo 7",
+  "dokumenten_id": "Bo 7-14-6",
+  "gattung1": "Kyrie",
+  "gattung2": "untropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Kyrie eleyson",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "6",
+  "foliostart": "14",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "14",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "Melnicki 124: 1A 2A 3A",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509501",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "bdd9db44-e3c0-4c66-ab53-3f6c5f8783a7",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-113v-7",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Beata Maria virgo",
+  "feier": "",
+  "textinitium": "Virgo Israel",
+  "bibliographischerverweis": "AH 7, 102; AH 53, 102",
+  "druckausgabe": "",
+  "zeilenstart": "7",
+  "foliostart": "113v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "114",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Eia turma",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

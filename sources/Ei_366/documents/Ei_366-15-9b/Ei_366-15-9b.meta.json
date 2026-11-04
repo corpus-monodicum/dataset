@@ -1,0 +1,41 @@
+{
+  "id": "39f668e5-2a9e-44a0-9c39-92172dbf7c45",
+  "quelle_id": "Ei 366",
+  "dokumenten_id": "Ei 366-15-9b",
+  "gattung1": "Sequenz",
+  "gattung2": "Textlos",
+  "festtag": "Sabbatum post Pascha",
+  "feier": "Messe",
+  "textinitium": "Alleluia",
+  "bibliographischerverweis": "AH 53, 54",
+  "druckausgabe": "CM III",
+  "zeilenstart": "9",
+  "foliostart": "15",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "16a",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Amoena",
+    "Überlieferungszustand": "Abschnitt im Inneren fehlt; Ende fehlt",
+    "Melodie_Quelle": "Amoena",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

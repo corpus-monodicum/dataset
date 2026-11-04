@@ -1,0 +1,41 @@
+{
+  "id": "e11d0397-093c-4b09-b6a8-3a9015f0fd45",
+  "quelle_id": "Pa 1338",
+  "dokumenten_id": "Pa 1338-18-6",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Iohannes Evangelista",
+  "feier": "",
+  "textinitium": "Sollemnitas cunctis",
+  "bibliographischerverweis": "AH 53, 170",
+  "druckausgabe": "",
+  "zeilenstart": "6",
+  "foliostart": "18",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "19v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Virgo plorans",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

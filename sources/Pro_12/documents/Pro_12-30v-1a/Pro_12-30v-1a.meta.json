@@ -1,0 +1,41 @@
+{
+  "id": "c9efd51e-01c4-482b-a21e-6e1ad15b92c1",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-30v-1a",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Epiphania",
+  "feier": "Messe",
+  "textinitium": "Epiphaniam domino*",
+  "bibliographischerverweis": "AH 53, 28",
+  "druckausgabe": "CM III",
+  "zeilenstart": "1",
+  "foliostart": "30v",
+  "kommentar": "Querverweis: cclx (260).",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "30v",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Concordia",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

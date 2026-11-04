@@ -1,0 +1,41 @@
+{
+  "id": "f663ecbc-c2ad-4814-98a9-87c00eacf884",
+  "quelle_id": "Pst 121",
+  "dokumenten_id": "Pst 121-69v-2",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Michael",
+  "feier": "Messe",
+  "textinitium": "Discipulis flammas",
+  "bibliographischerverweis": "Benedicite dominum intr 63 A 64 B 65 C (CT X)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "2",
+  "foliostart": "69v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Benedicite dominum",
+    "Endseite": "69v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Benedicite dominum intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3931c251-a52c-44ea-93e6-36699bc1c3aa",
+  "quelle_id": "Lo 15102",
+  "dokumenten_id": "Lo 15102-214-7",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "",
+  "feier": "",
+  "textinitium": "Ego obtenebro",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "7",
+  "foliostart": "214",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "214",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Lo 15102-207-4S",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Ordo virtutum (The Play of the Virtues)",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pa 833: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Edition (Ordinariumsgesänge)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="Pa_833">
+          <msIdentifier>
+            <settlement>Paris</settlement>
+            <repository>Bibliothèque nationale de France</repository>
+            <idno type="shelfmark">Lat. 833</idno>
+            <altIdentifier type="siglum">
+              <idno>Pa 833</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>Pa 833</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <term type="quellentyp">Missale, Kyriale</term>
+              <term type="ordenstradition">Prämonstratenser</term>
+            </summary>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="281b">f. 281b</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 833-281b-28</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="281b">f. 281b</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pa 833-281b-30</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="281v-a">f. 281v-a</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 833-281v-a-1</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="281v-a">f. 281v-a</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pa 833-281v-a-11a</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="281v-a">f. 281v-a</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 833-281v-a-11b</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="281v-a">f. 281v-a</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pa 833-281v-a-12</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="281v-a">f. 281v-a</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 833-281v-a-13</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="281v-a">f. 281v-a</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pa 833-281v-a-15a</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="281v-a">f. 281v-a</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 833-281v-a-15b</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="281v-a">f. 281v-a</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pa 833-281v-a-16</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="281v-a">f. 281v-a</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pa 833-281v-a-3a</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="281v-a">f. 281v-a</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 833-281v-a-3b</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="281v-a">f. 281v-a</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pa 833-281v-a-4</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="281v-a">f. 281v-a</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 833-281v-a-5</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="281v-a">f. 281v-a</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pa 833-281v-a-6a</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="281v-a">f. 281v-a</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 833-281v-a-6b</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="281v-b">f. 281v-b</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 833-281v-b-1</idno>
+            </msItem>
+            <msItem n="18">
+              <locus from="281v-b">f. 281v-b</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pa 833-281v-b-2</idno>
+            </msItem>
+            <msItem n="19">
+              <locus from="281v-b">f. 281v-b</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Pa 833-281v-b-3</idno>
+            </msItem>
+            <msItem n="20">
+              <locus from="282a">f. 282a</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Pa 833-282a-1</idno>
+            </msItem>
+            <msItem n="21">
+              <locus from="282a">f. 282a</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Pa 833-282a-16</idno>
+            </msItem>
+            <msItem n="22">
+              <locus from="282b">f. 282b</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Pa 833-282b-15</idno>
+            </msItem>
+            <msItem n="23">
+              <locus from="282v-a">f. 282v-a</locus>
+              <title type="incipit">Ite missa est</title>
+              <idno type="dokumenten_id">Pa 833-282v-a-13a</idno>
+            </msItem>
+            <msItem n="24">
+              <locus from="282v-a">f. 282v-a</locus>
+              <title type="incipit">Ite missa est</title>
+              <idno type="dokumenten_id">Pa 833-282v-a-13b</idno>
+            </msItem>
+            <msItem n="25">
+              <locus from="282v-a">f. 282v-a</locus>
+              <title type="incipit">Ite missa est</title>
+              <idno type="dokumenten_id">Pa 833-282v-a-14a</idno>
+            </msItem>
+            <msItem n="26">
+              <locus from="282v-a">f. 282v-a</locus>
+              <title type="incipit">Ite missa est</title>
+              <idno type="dokumenten_id">Pa 833-282v-a-14b</idno>
+            </msItem>
+            <msItem n="27">
+              <locus from="282v-a">f. 282v-a</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 833-282v-a-15</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Saint-Étienne-à-Arnes</settlement>
+                <region>Quellen aus Ordenstraditionen</region>
+              </origPlace>
+              <origDate>12. Jh 2. Hälfte</origDate>
+            </origin>
+          </history>
+          <additional>
+            <adminInfo>
+              <note type="description">
+                <ref target="Pa_833.description.md">Source description</ref>
+              </note>
+            </adminInfo>
+            <surrogates>
+              <bibl>
+                <ref type="iiif-manifest" target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b84323061/manifest.json" />
+              </bibl>
+            </surrogates>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

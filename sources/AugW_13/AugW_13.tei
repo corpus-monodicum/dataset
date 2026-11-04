@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>AugW 13: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Edition (Ordinariumsgesänge)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Hanna Zühlke</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="AugW_13">
+          <msIdentifier>
+            <settlement>Augsburg</settlement>
+            <repository>Universitätsbibliothek</repository>
+            <idno type="shelfmark">Sammlung Oettingen-Wallerstein, Cod. I. 2. 4° 13</idno>
+            <altIdentifier type="siglum">
+              <idno>AugW 13</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>AugW 13</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <term type="quellentyp">Graduale, Sequentiar</term>
+              <term type="ordenstradition">Benediktiner</term>
+            </summary>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="118">f. 118</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">AugW 13-118-1</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="118">f. 118</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">AugW 13-118-3</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="118">f. 118</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">AugW 13-118-5</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="118">f. 118</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">AugW 13-118-6</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="118v">f. 118v</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">AugW 13-118v-1</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="118v">f. 118v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">AugW 13-118v-3</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="118v">f. 118v</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">AugW 13-118v-4</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="118v">f. 118v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">AugW 13-118v-6</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="118v">f. 118v</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">AugW 13-118v-7</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="119">f. 119</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">AugW 13-119-1</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="119">f. 119</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">AugW 13-119-2</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="119">f. 119</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">AugW 13-119-4</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="119">f. 119</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">AugW 13-119-5</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="119">f. 119</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">AugW 13-119-7</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="119">f. 119</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">AugW 13-119-8</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="119v">f. 119v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">AugW 13-119v-1</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="119v">f. 119v</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">AugW 13-119v-2</idno>
+            </msItem>
+            <msItem n="18">
+              <locus from="120">f. 120</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">AugW 13-120-1</idno>
+            </msItem>
+            <msItem n="19">
+              <locus from="120">f. 120</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">AugW 13-120-9</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Admont</settlement>
+                <region>Quellen deutscher Herkunft</region>
+                <orgName>Kloster</orgName>
+              </origPlace>
+              <origDate>13. Jh 1. Hälfte</origDate>
+            </origin>
+          </history>
+          <additional>
+            <adminInfo>
+              <note type="description">
+                <ref target="AugW_13.description.md">Source description</ref>
+              </note>
+            </adminInfo>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

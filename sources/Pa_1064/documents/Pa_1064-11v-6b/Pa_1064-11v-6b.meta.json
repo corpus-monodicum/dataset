@@ -1,0 +1,41 @@
+{
+  "id": "5453fcff-1b9d-40fa-9112-7ab69bb73471",
+  "quelle_id": "Pa 1064",
+  "dokumenten_id": "Pa 1064-11v-6b",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Oratio",
+  "festtag": "Feria II post Pascha",
+  "feier": "Vesper",
+  "textinitium": "",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "6",
+  "foliostart": "11v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "11v",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "Pa 1064-8-2S",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Journey to Emmaus",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

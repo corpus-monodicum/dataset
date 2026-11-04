@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pad 55: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Edition (Spiele)</resp>
+          <persName>Isabel Kraft</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Hanna Zühlke</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Spiele)</resp>
+          <persName>Elaine Stratton Hild</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="Pad_55">
+          <msIdentifier>
+            <settlement>Padua</settlement>
+            <repository>Biblioteca Capitolare di Padova</repository>
+            <idno type="shelfmark">C 55</idno>
+            <altIdentifier type="siglum">
+              <idno>Pad 55</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>Pad 55</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <term type="quellentyp">Prozessionar mit liturgischen Spielen</term>
+            </summary>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="1">f. 1</locus>
+              <title type="incipit">Quem quaeritis in praesepe</title>
+              <idno type="dokumenten_id">Pad 55-1-5</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="12v">f. 12v</locus>
+              <title type="incipit">Ave gratia plena</title>
+              <idno type="dokumenten_id">Pad 55-12v-4</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="13">f. 13</locus>
+              <title type="incipit">Adorna thalamum</title>
+              <idno type="dokumenten_id">Pad 55-13-3</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="14">f. 14</locus>
+              <title type="incipit">Responsum accepit ... Christum domini et cum</title>
+              <idno type="dokumenten_id">Pad 55-14-1</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="14v">f. 14v</locus>
+              <title type="incipit">Obtulerunt pro eo ... sicut scriptum</title>
+              <idno type="dokumenten_id">Pad 55-14v-4</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="15v">f. 15v</locus>
+              <title type="incipit">Ave gratia plena</title>
+              <idno type="dokumenten_id">Pad 55-15v-12</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="16">f. 16</locus>
+              <title type="incipit">Ave gratia plena</title>
+              <idno type="dokumenten_id">Pad 55-16-3</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="16v">f. 16v</locus>
+              <title type="incipit">Ecce positus</title>
+              <idno type="dokumenten_id">Pad 55-16v-12</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="16v">f. 16v</locus>
+              <title type="incipit">Obtulerunt pro eo</title>
+              <idno type="dokumenten_id">Pad 55-16v-7</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="17">f. 17</locus>
+              <title type="incipit">Suscipiens Symeon</title>
+              <idno type="dokumenten_id">Pad 55-17-14</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="17">f. 17</locus>
+              <title type="incipit">Suscipiens Symeon</title>
+              <idno type="dokumenten_id">Pad 55-17-16</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="17">f. 17</locus>
+              <title type="incipit">Responsum accepit ... dominum</title>
+              <idno type="dokumenten_id">Pad 55-17-8</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="17v">f. 17v</locus>
+              <title type="incipit">Nunc dimittis</title>
+              <idno type="dokumenten_id">Pad 55-17v-2</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="1v">f. 1v</locus>
+              <title type="incipit">Christus natus*</title>
+              <idno type="dokumenten_id">Pad 55-1v-4</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="24">f. 24</locus>
+              <title type="incipit">Agios o theos</title>
+              <idno type="dokumenten_id">Pad 55-24-16</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="24">f. 24</locus>
+              <title type="incipit">Popule meus*</title>
+              <idno type="dokumenten_id">Pad 55-24-5a</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="24">f. 24</locus>
+              <title type="incipit">Agios o theos*</title>
+              <idno type="dokumenten_id">Pad 55-24-5b</idno>
+            </msItem>
+            <msItem n="18">
+              <locus from="24">f. 24</locus>
+              <title type="incipit">Popule meus</title>
+              <idno type="dokumenten_id">Pad 55-24-6</idno>
+            </msItem>
+            <msItem n="19">
+              <locus from="24v">f. 24v</locus>
+              <title type="incipit">Quia eduxi te</title>
+              <idno type="dokumenten_id">Pad 55-24v-12</idno>
+            </msItem>
+            <msItem n="20">
+              <locus from="25">f. 25</locus>
+              <title type="incipit">Agios o theos*</title>
+              <idno type="dokumenten_id">Pad 55-25-3</idno>
+            </msItem>
+            <msItem n="21">
+              <locus from="25">f. 25</locus>
+              <title type="incipit">Quid ultra debui</title>
+              <idno type="dokumenten_id">Pad 55-25-7</idno>
+            </msItem>
+            <msItem n="22">
+              <locus from="25v">f. 25v</locus>
+              <title type="incipit">Agios o theos*</title>
+              <idno type="dokumenten_id">Pad 55-25v-3</idno>
+            </msItem>
+            <msItem n="23">
+              <locus from="25v">f. 25v</locus>
+              <title type="incipit">Ego propter te</title>
+              <idno type="dokumenten_id">Pad 55-25v-8</idno>
+            </msItem>
+            <msItem n="24">
+              <locus from="27v">f. 27v</locus>
+              <title type="incipit">Crucem tuam adoramus</title>
+              <idno type="dokumenten_id">Pad 55-27v-1</idno>
+            </msItem>
+            <msItem n="25">
+              <locus from="28">f. 28</locus>
+              <title type="incipit">Crux fidelis</title>
+              <idno type="dokumenten_id">Pad 55-28-4</idno>
+            </msItem>
+            <msItem n="26">
+              <locus from="31v">f. 31v</locus>
+              <title type="incipit">Flete fideles</title>
+              <idno type="dokumenten_id">Pad 55-31v-7</idno>
+            </msItem>
+            <msItem n="27">
+              <locus from="36v">f. 36v</locus>
+              <title type="incipit">Locutus est dominus ad Achaz*</title>
+              <idno type="dokumenten_id">Pad 55-36v-13</idno>
+            </msItem>
+            <msItem n="28">
+              <locus from="36v">f. 36v</locus>
+              <title type="incipit">Missus est angelus</title>
+              <idno type="dokumenten_id">Pad 55-36v-14</idno>
+            </msItem>
+            <msItem n="29">
+              <locus from="36v">f. 36v</locus>
+              <title type="incipit">Ave Maria gratia plena ... benedicta</title>
+              <idno type="dokumenten_id">Pad 55-36v-18</idno>
+            </msItem>
+            <msItem n="30">
+              <locus from="36v">f. 36v</locus>
+              <title type="incipit">Quae cum vidisset</title>
+              <idno type="dokumenten_id">Pad 55-36v-21</idno>
+            </msItem>
+            <msItem n="31">
+              <locus from="37">f. 37</locus>
+              <title type="incipit">Ne timeas Maria</title>
+              <idno type="dokumenten_id">Pad 55-37-1</idno>
+            </msItem>
+            <msItem n="32">
+              <locus from="37">f. 37</locus>
+              <title type="incipit">Quomodo fiet</title>
+              <idno type="dokumenten_id">Pad 55-37-12</idno>
+            </msItem>
+            <msItem n="33">
+              <locus from="37">f. 37</locus>
+              <title type="incipit">Et vocabis nomen</title>
+              <idno type="dokumenten_id">Pad 55-37-5</idno>
+            </msItem>
+            <msItem n="34">
+              <locus from="37v">f. 37v</locus>
+              <title type="incipit">Exsurgens autem Maria</title>
+              <idno type="dokumenten_id">Pad 55-37v-14</idno>
+            </msItem>
+            <msItem n="35">
+              <locus from="37v">f. 37v</locus>
+              <title type="incipit">Benedicta tu in mulieribus</title>
+              <idno type="dokumenten_id">Pad 55-37v-22</idno>
+            </msItem>
+            <msItem n="36">
+              <locus from="37v">f. 37v</locus>
+              <title type="incipit">Ideoque et quod</title>
+              <idno type="dokumenten_id">Pad 55-37v-5</idno>
+            </msItem>
+            <msItem n="37">
+              <locus from="37v">f. 37v</locus>
+              <title type="incipit">Ecce ancilla</title>
+              <idno type="dokumenten_id">Pad 55-37v-6</idno>
+            </msItem>
+            <msItem n="38">
+              <locus from="38">f. 38</locus>
+              <title type="incipit">Et unde hoc</title>
+              <idno type="dokumenten_id">Pad 55-38-6</idno>
+            </msItem>
+            <msItem n="39">
+              <locus from="38v">f. 38v</locus>
+              <title type="incipit">Et ait Maria</title>
+              <idno type="dokumenten_id">Pad 55-38v-3</idno>
+            </msItem>
+            <msItem n="40">
+              <locus from="38v">f. 38v</locus>
+              <title type="incipit">Magnificat anima mea</title>
+              <idno type="dokumenten_id">Pad 55-38v-6</idno>
+            </msItem>
+            <msItem n="41">
+              <locus from="41">f. 41</locus>
+              <title type="incipit">Nos mulieres</title>
+              <idno type="dokumenten_id">Pad 55-41-4</idno>
+            </msItem>
+            <msItem n="42">
+              <locus from="41v">f. 41v</locus>
+              <title type="incipit">Quem quaeritis in sepulchro</title>
+              <idno type="dokumenten_id">Pad 55-41v-9</idno>
+            </msItem>
+            <msItem n="43">
+              <locus from="42">f. 42</locus>
+              <title type="incipit">O Iesu rex</title>
+              <idno type="dokumenten_id">Pad 55-42-10</idno>
+            </msItem>
+            <msItem n="44">
+              <locus from="43">f. 43</locus>
+              <title type="incipit">Surrexit dominus de sepulchro ... alleluia</title>
+              <idno type="dokumenten_id">Pad 55-43-10</idno>
+            </msItem>
+            <msItem n="45">
+              <locus from="43">f. 43</locus>
+              <title type="incipit">Dic nobis Maria</title>
+              <idno type="dokumenten_id">Pad 55-43-16</idno>
+            </msItem>
+            <msItem n="46">
+              <locus from="44">f. 44</locus>
+              <title type="incipit">Te deum laudamus*</title>
+              <idno type="dokumenten_id">Pad 55-44-5</idno>
+            </msItem>
+            <msItem n="47">
+              <locus from="49">f. 49</locus>
+              <title type="incipit">Omnis pulchritudo</title>
+              <idno type="dokumenten_id">Pad 55-49-15</idno>
+            </msItem>
+            <msItem n="48">
+              <locus from="50">f. 50</locus>
+              <title type="incipit">Quare sic aspicitis</title>
+              <idno type="dokumenten_id">Pad 55-50-11</idno>
+            </msItem>
+            <msItem n="49">
+              <locus from="50">f. 50</locus>
+              <title type="incipit">Quare sic aspicitis</title>
+              <idno type="dokumenten_id">Pad 55-50-7</idno>
+            </msItem>
+            <msItem n="50">
+              <locus from="50v">f. 50v</locus>
+              <title type="incipit">Quis est iste qui</title>
+              <idno type="dokumenten_id">Pad 55-50v-11</idno>
+            </msItem>
+            <msItem n="51">
+              <locus from="50v">f. 50v</locus>
+              <title type="incipit">Quis est iste qui</title>
+              <idno type="dokumenten_id">Pad 55-50v-9</idno>
+            </msItem>
+            <msItem n="52">
+              <locus from="51">f. 51</locus>
+              <title type="incipit">Iste formonsus</title>
+              <idno type="dokumenten_id">Pad 55-51-10</idno>
+            </msItem>
+            <msItem n="53">
+              <locus from="51">f. 51</locus>
+              <title type="incipit">Iste formonsus</title>
+              <idno type="dokumenten_id">Pad 55-51-3</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Padua</settlement>
+                <region>Quellen italienischer Herkunft</region>
+                <orgName>Kathedrale Santa Maria Assunta</orgName>
+              </origPlace>
+              <origDate>15. Jh Anfang</origDate>
+            </origin>
+          </history>
+          <additional>
+            <adminInfo>
+              <note type="description">
+                <ref target="Pad_55.description.md">Source description</ref>
+              </note>
+            </adminInfo>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,41 @@
+{
+  "id": "9bdce23f-5daf-498e-996a-f074b45e1cc8",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-162v-2",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Undecim milia virginum",
+  "feier": "Messe",
+  "textinitium": "Virginalis turma sexus",
+  "bibliographischerverweis": "AH 55, 333",
+  "druckausgabe": "CM III",
+  "zeilenstart": "2",
+  "foliostart": "162v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "163",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "B",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

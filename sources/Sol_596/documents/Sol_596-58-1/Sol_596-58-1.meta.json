@@ -1,0 +1,41 @@
+{
+  "id": "4b1da64c-e5c9-49b6-a136-2dccaf2b50a4",
+  "quelle_id": "Sol 596",
+  "dokumenten_id": "Sol 596-58-1",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Tropus",
+  "festtag": "Sabbatum sanctum",
+  "feier": "Elevatio crucis",
+  "textinitium": "Morte tua ius mortis",
+  "bibliographischerverweis": "CT VII, 80 (Omnes tua gratia, 2a-4); AH 47, 339 (Stophen 2a-4b)",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "1",
+  "foliostart": "58",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "58v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Sol 596-54v-1S",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Elevation of the cross",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

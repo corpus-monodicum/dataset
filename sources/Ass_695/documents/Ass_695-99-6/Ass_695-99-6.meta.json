@@ -1,0 +1,41 @@
+{
+  "id": "75c5d2eb-c33b-4b63-bf95-de704ebc8088",
+  "quelle_id": "Ass 695",
+  "dokumenten_id": "Ass 695-99-6",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Beata Maria virgo",
+  "feier": "Messe",
+  "textinitium": "Reginae nunc",
+  "bibliographischerverweis": "AH 7, 110",
+  "druckausgabe": "CM III",
+  "zeilenstart": "6",
+  "foliostart": "99",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "99v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Post partum",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

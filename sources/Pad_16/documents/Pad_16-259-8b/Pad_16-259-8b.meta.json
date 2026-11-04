@@ -1,0 +1,41 @@
+{
+  "id": "cde0a976-ece8-4f93-a6ec-35c6b2d26304",
+  "quelle_id": "Pad 16",
+  "dokumenten_id": "Pad 16-259-8b",
+  "gattung1": "Gloria",
+  "gattung2": "untropiert",
+  "festtag": "Exaltatio crucis",
+  "feier": "Messe",
+  "textinitium": "Gloria in excelsis*",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "8",
+  "foliostart": "259",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "259",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "Bosse 51",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509502",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

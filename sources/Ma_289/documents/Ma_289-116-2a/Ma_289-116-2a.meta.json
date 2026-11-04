@@ -1,0 +1,41 @@
+{
+  "id": "64e17987-43f9-40a9-8263-e80572181f3d",
+  "quelle_id": "Ma 289",
+  "dokumenten_id": "Ma 289-116-2a",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Pascha",
+  "feier": "Matutin",
+  "textinitium": "Venite nolite timere",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "2",
+  "foliostart": "116",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "116",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "Ma 289-115v-11S",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Easter play / Osterspiel",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

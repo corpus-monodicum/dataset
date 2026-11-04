@@ -1,0 +1,41 @@
+{
+  "id": "8249ac7f-0594-454c-ab47-a5d3a6254be8",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-232-8",
+  "gattung1": "Kyrie",
+  "gattung2": "untropiert",
+  "festtag": "Nativitas Mariae",
+  "feier": "Messe",
+  "textinitium": "Kyrie eleyson",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "8",
+  "foliostart": "232",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Charles M. Atkinson",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "232",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "Melnicki 68",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509501",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

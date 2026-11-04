@@ -1,0 +1,41 @@
+{
+  "id": "617f5f92-e97c-47d0-8135-9557be4c6ed4",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-88v-12",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Antoninus",
+  "feier": "Messe",
+  "textinitium": "Laus angelica",
+  "bibliographischerverweis": "AH 42, 170",
+  "druckausgabe": "",
+  "zeilenstart": "12",
+  "foliostart": "88v",
+  "kommentar": "Nachtrag",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "89v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Celsa polorum",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

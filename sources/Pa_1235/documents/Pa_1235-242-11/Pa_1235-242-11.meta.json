@@ -1,0 +1,41 @@
+{
+  "id": "f47617ed-d44e-457f-8125-ad387cd98b47",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-242-11",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Andreas",
+  "feier": "Messe",
+  "textinitium": "Laude iucunda*",
+  "bibliographischerverweis": "AH 7, 183; AH 53, 211",
+  "druckausgabe": "CM III",
+  "zeilenstart": "11",
+  "foliostart": "242",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "242",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "In omnem terram",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

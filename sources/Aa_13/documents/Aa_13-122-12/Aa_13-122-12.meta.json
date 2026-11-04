@@ -1,0 +1,41 @@
+{
+  "id": "e23194ab-5365-4e56-94c8-a86be35fa956",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-122-12",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Nativitas domini",
+  "feier": "Vesper",
+  "textinitium": "Laetabundus exsultet",
+  "bibliographischerverweis": "AH 54, 2",
+  "druckausgabe": "CM III",
+  "zeilenstart": "12",
+  "foliostart": "122",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "122v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

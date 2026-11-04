@@ -1,0 +1,41 @@
+{
+  "id": "5b658da9-24ba-43c5-a028-1f254703112c",
+  "quelle_id": "Pa 778",
+  "dokumenten_id": "Pa 778-145-6",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Decollatio Iohannis Baptistae",
+  "feier": "Messe",
+  "textinitium": "Ecclesia devota",
+  "bibliographischerverweis": "AH 34, 256",
+  "druckausgabe": "",
+  "zeilenstart": "6",
+  "foliostart": "145",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "145",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "O alma maior",
+    "Überlieferungszustand": "Ende fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

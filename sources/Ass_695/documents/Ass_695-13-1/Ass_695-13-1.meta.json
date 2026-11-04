@@ -1,0 +1,41 @@
+{
+  "id": "f443d1c8-2939-4371-9adb-e8f38219c81c",
+  "quelle_id": "Ass 695",
+  "dokumenten_id": "Ass 695-13-1",
+  "gattung1": "Kyrie",
+  "gattung2": "tropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Pater cuncta",
+  "bibliographischerverweis": "AH 47, 10",
+  "druckausgabe": "",
+  "zeilenstart": "1",
+  "foliostart": "13",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Charles M. Atkinson",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "13",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "Melnicki 58",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509501",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "Start fehlt; Abschnitte im Inneren fehlen",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

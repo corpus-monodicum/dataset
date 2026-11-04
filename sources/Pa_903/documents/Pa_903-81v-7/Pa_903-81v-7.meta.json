@@ -1,0 +1,41 @@
+{
+  "id": "349b7e29-430c-4e71-90a8-19db403e11e3",
+  "quelle_id": "Pa 903",
+  "dokumenten_id": "Pa 903-81v-7",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Octava Paschae",
+  "feier": "Messe",
+  "textinitium": "Quasi modo geniti",
+  "bibliographischerverweis": "AMS 87",
+  "druckausgabe": "II-3",
+  "zeilenstart": "7",
+  "foliostart": "81v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "81v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

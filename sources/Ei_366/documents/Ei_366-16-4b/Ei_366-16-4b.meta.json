@@ -1,0 +1,41 @@
+{
+  "id": "17fbe984-5414-4456-8bd7-6367db6e5251",
+  "quelle_id": "Ei 366",
+  "dokumenten_id": "Ei 366-16-4b",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Octava Paschae",
+  "feier": "Messe",
+  "textinitium": "Laudes Christo redempti",
+  "bibliographischerverweis": "AH 53, 45",
+  "druckausgabe": "CM III",
+  "zeilenstart": "4",
+  "foliostart": "16",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "17a",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Mater",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "Mater",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

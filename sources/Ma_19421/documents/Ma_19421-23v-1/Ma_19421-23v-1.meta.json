@@ -1,0 +1,41 @@
+{
+  "id": "41a88699-ce96-4ff4-92f5-7a54ba05bc9d",
+  "quelle_id": "Ma 19421",
+  "dokumenten_id": "Ma 19421-23v-1",
+  "gattung1": "Gloria",
+  "gattung2": "tropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Regnum ... Apostolorum",
+  "bibliographischerverweis": "CT XII, 118",
+  "druckausgabe": "",
+  "zeilenstart": "1",
+  "foliostart": "23v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Hiley",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "23v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "Bosse 56",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509502",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "Civ 41",
+  "quellensigle": "Civ 41",
+  "herkunftsregion": "Quellen italienischer Herkunft",
+  "herkunftsort": "Cividale del Friuli",
+  "herkunftsinstitution": "Kathedrale Santa Maria Assunta",
+  "ordenstradition": "",
+  "quellentyp": "",
+  "bibliotheksort": "Cividale",
+  "bibliothek": "Museo Archeologico Nazionale",
+  "bibliothekssignatur": "Ms. XLI",
+  "kommentar": "",
+  "datierung": "14. Jh 2. Hälfte",
+  "status": "",
+  "jahrhundert": "14.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Civ 41",
+  "cantus_century": "14.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Civ_41.description.md"
+  }
+}

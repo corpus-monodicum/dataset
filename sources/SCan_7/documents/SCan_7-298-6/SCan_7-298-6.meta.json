@@ -1,0 +1,41 @@
+{
+  "id": "37365f06-7415-4cda-8cdc-f6f281734d38",
+  "quelle_id": "SCan 7",
+  "dokumenten_id": "SCan 7-298-6",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Innocentes",
+  "feier": "Messe",
+  "textinitium": "Hodie parvulorum",
+  "bibliographischerverweis": "Innoc intr 1 A (CT I)",
+  "druckausgabe": "II-2",
+  "zeilenstart": "6",
+  "foliostart": "298",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "Ex ore",
+    "Endseite": "298",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Innoc intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

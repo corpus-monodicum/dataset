@@ -1,0 +1,25 @@
+{
+  "id": "Pa 1338",
+  "quellensigle": "Pa 1338",
+  "herkunftsregion": "Quellen aquitanischer Herkunft",
+  "herkunftsort": "",
+  "herkunftsinstitution": "",
+  "ordenstradition": "",
+  "quellentyp": "Sequentiar, Prosular",
+  "bibliotheksort": "Paris",
+  "bibliothek": "Bibliothèque nationale de France",
+  "bibliothekssignatur": "Lat. 1338",
+  "kommentar": "",
+  "datierung": "11. Jh",
+  "status": "",
+  "jahrhundert": "11.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Pa 1338",
+  "cantus_century": "11.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Pa_1338.description.md"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "af90d134-b8af-4446-b4d6-a6694cfe6301",
+  "quelle_id": "Ba 12",
+  "dokumenten_id": "Ba 12-49v-4",
+  "gattung1": "Agnus",
+  "gattung2": "untropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Agnus dei",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "4",
+  "foliostart": "49v",
+  "kommentar": "Dritter Teil",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "49v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "Schildbach 136: 1 3",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509505",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

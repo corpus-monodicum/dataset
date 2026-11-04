@@ -1,0 +1,41 @@
+{
+  "id": "b6700b11-ed39-469b-afb8-1fc70b2ca8a2",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-285v-a-7",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Leufredus",
+  "feier": "Messe",
+  "textinitium": "Mundi aetate",
+  "bibliographischerverweis": "AH 8, 113",
+  "druckausgabe": "CM III",
+  "zeilenstart": "7",
+  "foliostart": "285v-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "285v-a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "17",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Dulce lignum",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

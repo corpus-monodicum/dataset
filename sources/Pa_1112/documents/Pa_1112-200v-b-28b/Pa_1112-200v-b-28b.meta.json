@@ -1,0 +1,41 @@
+{
+  "id": "35f18345-5134-4705-aae8-3a36a2074955",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-200v-b-28b",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Marcellus",
+  "feier": "Messe",
+  "textinitium": "Gaude superna civitas*",
+  "bibliographischerverweis": "AH 44, 216",
+  "druckausgabe": "",
+  "zeilenstart": "28",
+  "foliostart": "200v-b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "200v-b",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "28",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

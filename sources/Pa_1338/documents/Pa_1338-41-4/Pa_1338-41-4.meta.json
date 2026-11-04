@@ -1,0 +1,41 @@
+{
+  "id": "078032b5-b17c-4bbf-b65b-22587bcb7c9f",
+  "quelle_id": "Pa 1338",
+  "dokumenten_id": "Pa 1338-41-4",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Pascha",
+  "feier": "",
+  "textinitium": "Adest pia ac salutifera",
+  "bibliographischerverweis": "AH 7, 70",
+  "druckausgabe": "",
+  "zeilenstart": "4",
+  "foliostart": "41",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "41v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Adest enim",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "a21869d1-223c-4e64-b6dd-16c734c44117",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-169-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Sanctus spiritus",
+  "feier": "Messe",
+  "textinitium": "Veni sancte spiritus et emitte",
+  "bibliographischerverweis": "AH 54, 153",
+  "druckausgabe": "CM III",
+  "zeilenstart": "1",
+  "foliostart": "169",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "169",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "C",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

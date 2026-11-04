@@ -1,0 +1,41 @@
+{
+  "id": "8e679a98-8580-4a85-88d1-bce7dd6d866a",
+  "quelle_id": "Mod 7",
+  "dokumenten_id": "Mod 7-176v-1",
+  "gattung1": "Gloria",
+  "gattung2": "tropiert",
+  "festtag": "Omnes sancti",
+  "feier": "Messe",
+  "textinitium": "Laudes officii",
+  "bibliographischerverweis": "CT XII, 31: 1 2 3 5 4 6 7",
+  "druckausgabe": "",
+  "zeilenstart": "1",
+  "foliostart": "176v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "176v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "Bosse 12",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509502",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "8e78f13c-0403-4462-b0ec-287645a49b7b",
+  "quelle_id": "Mod 7",
+  "dokumenten_id": "Mod 7-128v-1",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Inventio crucis",
+  "feier": "Messe",
+  "textinitium": "Vitae diro",
+  "bibliographischerverweis": "Nos autem intr 29 A 30 B 31 C 32 D E F (CT X, App.)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "1",
+  "foliostart": "128v",
+  "kommentar": "Einsatzmarken ohne Notation",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Nos autem gloriari",
+    "Endseite": "128v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Nos autem intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

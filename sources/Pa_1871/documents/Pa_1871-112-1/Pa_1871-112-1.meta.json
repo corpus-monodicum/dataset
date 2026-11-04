@@ -1,0 +1,41 @@
+{
+  "id": "9bd18404-11f5-4c8b-9409-35db11055ad1",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-112-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Purificatio Mariae",
+  "feier": "Messe",
+  "textinitium": "Egregia plebs",
+  "bibliographischerverweis": "AH 7, 103",
+  "druckausgabe": "",
+  "zeilenstart": "1",
+  "foliostart": "112",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "112v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "(Egregia)",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

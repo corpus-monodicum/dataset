@@ -1,0 +1,41 @@
+{
+  "id": "e4103b3a-3bac-41c2-93b5-feb1d6b6facf",
+  "quelle_id": "Tri 2254",
+  "dokumenten_id": "Tri 2254-343-5",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Confessores",
+  "feier": "Messe",
+  "textinitium": "Ad laudes salvatoris",
+  "bibliographischerverweis": "AH 54, 88",
+  "druckausgabe": "",
+  "zeilenstart": "5",
+  "foliostart": "343",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "345",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Mater",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

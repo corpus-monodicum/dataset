@@ -1,0 +1,41 @@
+{
+  "id": "02a8190f-fc77-461a-8aab-c9792338ba43",
+  "quelle_id": "Mod 7",
+  "dokumenten_id": "Mod 7-222v-11",
+  "gattung1": "Agnus",
+  "gattung2": "tropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Rex aeterne pater",
+  "bibliographischerverweis": "CT IV, 65: 1 A 2 B 3",
+  "druckausgabe": "",
+  "zeilenstart": "11",
+  "foliostart": "222v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "223",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "Schildbach 164",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509505",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

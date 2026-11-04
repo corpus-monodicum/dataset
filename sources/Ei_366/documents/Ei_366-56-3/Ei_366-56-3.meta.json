@@ -1,0 +1,41 @@
+{
+  "id": "b189e746-19ef-47e0-9d9f-45f3a0651fba",
+  "quelle_id": "Ei 366",
+  "dokumenten_id": "Ei 366-56-3",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Pascha",
+  "feier": "Matutin",
+  "textinitium": "Ad monumentum venimus",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "3",
+  "foliostart": "56",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "56",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Ei 366-55-4S",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Easter play / Osterspiel",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

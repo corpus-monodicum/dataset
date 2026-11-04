@@ -1,0 +1,41 @@
+{
+  "id": "1e1259f5-bf9c-4f4d-97e0-bca9f4611953",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-25v-12",
+  "gattung1": "Tropus",
+  "gattung2": "Communio-Tropus",
+  "festtag": "Petrus et Paulus",
+  "feier": "Messe",
+  "textinitium": "Simoni eia",
+  "bibliographischerverweis": "Simon Iohannis com 3 A B C (CT X)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "12",
+  "foliostart": "25v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "(Simon Iohannis)",
+    "Endseite": "26",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Simon Iohannis com",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

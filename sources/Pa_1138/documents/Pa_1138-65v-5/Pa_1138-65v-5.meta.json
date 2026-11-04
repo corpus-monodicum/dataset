@@ -1,0 +1,41 @@
+{
+  "id": "98b21566-86c7-4ab4-8c61-923d68b52822",
+  "quelle_id": "Pa 1138",
+  "dokumenten_id": "Pa 1138-65v-5",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Epiphania",
+  "feier": "Messe",
+  "textinitium": "Epiphaniam domino",
+  "bibliographischerverweis": "AH 53, 28",
+  "druckausgabe": "",
+  "zeilenstart": "5",
+  "foliostart": "65v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "67",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Concordia",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

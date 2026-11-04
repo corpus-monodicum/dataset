@@ -1,0 +1,41 @@
+{
+  "id": "c586d1d9-2f02-4616-b342-5e6c85fd1b54",
+  "quelle_id": "Or 129",
+  "dokumenten_id": "Or 129-217-6",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "Ascensio domini",
+  "feier": "",
+  "textinitium": "Vidi aquam",
+  "bibliographischerverweis": "CAO 5403",
+  "druckausgabe": "",
+  "zeilenstart": "6",
+  "foliostart": "217",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "217",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Or 129-46-a-11S",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Ascension play",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

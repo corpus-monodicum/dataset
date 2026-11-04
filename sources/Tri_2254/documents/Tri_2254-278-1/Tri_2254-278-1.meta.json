@@ -1,0 +1,41 @@
+{
+  "id": "3ed7bec5-1eeb-4890-8af8-aea5708034ee",
+  "quelle_id": "Tri 2254",
+  "dokumenten_id": "Tri 2254-278-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Laus tibi Christe cui sapit",
+  "bibliographischerverweis": "AH 53, 156",
+  "druckausgabe": "",
+  "zeilenstart": "1",
+  "foliostart": "278",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "279",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Iustus ut palma maior",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "628259a7-4a3e-4608-8e13-14cbe463a585",
+  "quelle_id": "Apt 17",
+  "dokumenten_id": "Apt 17-275-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "",
+  "feier": "",
+  "textinitium": "Sancti spiritus … Quae corda",
+  "bibliographischerverweis": "AH 53, 70",
+  "druckausgabe": "",
+  "zeilenstart": "1",
+  "foliostart": "275",
+  "kommentar": "p. 275-282: eingebundene Lage anderer Herkunft",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "280",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Occidentana",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

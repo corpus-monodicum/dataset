@@ -1,0 +1,41 @@
+{
+  "id": "8520499c-28eb-4a38-96a3-8e538c2a609a",
+  "quelle_id": "Ei 366",
+  "dokumenten_id": "Ei 366-55-1",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "",
+  "feier": "",
+  "textinitium": "Ortum praedestinatio",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "1",
+  "foliostart": "55",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "55",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Ei 366-55-1S",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "Beginn fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Easter play / Osterspiel",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

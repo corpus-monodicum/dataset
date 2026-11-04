@@ -1,0 +1,25 @@
+{
+  "id": "Bar 888",
+  "quellensigle": "Bar 888",
+  "herkunftsregion": "Quellen aus Ordenstraditionen",
+  "herkunftsort": "unbekannt",
+  "herkunftsinstitution": "",
+  "ordenstradition": "Karthäuser",
+  "quellentyp": "Antiphonar, Kyriale",
+  "bibliotheksort": "Barcelona",
+  "bibliothek": "Biblioteca Central",
+  "bibliothekssignatur": "M 888",
+  "kommentar": "",
+  "datierung": "12. Jh – 13. Jh",
+  "status": "",
+  "jahrhundert": "12., 13.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Bar 888",
+  "cantus_century": "12., 13.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Bar_888.description.md"
+  }
+}

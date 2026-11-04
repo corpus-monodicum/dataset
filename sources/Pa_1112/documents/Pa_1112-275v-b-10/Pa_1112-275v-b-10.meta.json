@@ -1,0 +1,41 @@
+{
+  "id": "313e7763-1c73-4fbf-a832-6db4da5ecdfc",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-275v-b-10",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Innocentes",
+  "feier": "Messe",
+  "textinitium": "Celsa pueri",
+  "bibliographischerverweis": "AH 53, 162",
+  "druckausgabe": "CM III",
+  "zeilenstart": "10",
+  "foliostart": "275v-b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "276b",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "15",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Occidentana",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

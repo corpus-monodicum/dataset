@@ -1,0 +1,41 @@
+{
+  "id": "9a5955ed-21f9-4a0b-8d4a-9fbb60cd2ee9",
+  "quelle_id": "Mod 7",
+  "dokumenten_id": "Mod 7-109-9",
+  "gattung1": "Sanctus",
+  "gattung2": "tropiert",
+  "festtag": "Pascha",
+  "feier": "Messe",
+  "textinitium": "Deus fortis ... Filius*",
+  "bibliographischerverweis": "CT VII, 34; CT VII, 85",
+  "druckausgabe": "",
+  "zeilenstart": "9",
+  "foliostart": "109",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "109",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "Thannabaur 154",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509504",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Ven 4: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Spiele)</resp>
+          <persName>Isabel Kraft</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Spiele)</resp>
+          <persName>Elaine Stratton Hild</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Hanna Zühlke</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="Ven_4">
+        <identifier type="siglum">Ven 4</identifier>
+        <identifier type="cantus">Ven 4</identifier>
+        <titleStmt>
+          <title>Ven 4</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Aquileia (möglicherweise)</geogName>
+          <date>möglicherweise 15. Jahrhundert</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="1">f. 1</locus>
+            <title type="incipit">Flete fideles</title>
+            <identifier type="dokumenten_id">Ven 4-1-1</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="68">f. 68</locus>
+            <title type="incipit">Fili mi carissime</title>
+            <identifier type="dokumenten_id">Ven 4-68-10</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="68">f. 68</locus>
+            <title type="incipit">Ubi sunt discipuli</title>
+            <identifier type="dokumenten_id">Ven 4-68-2</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="68v">f. 68v</locus>
+            <title type="incipit">Non credebam</title>
+            <identifier type="dokumenten_id">Ven 4-68v-11</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="68v">f. 68v</locus>
+            <title type="incipit">Consolare domina</title>
+            <identifier type="dokumenten_id">Ven 4-68v-7</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="69">f. 69</locus>
+            <title type="incipit">Fili dulcor</title>
+            <identifier type="dokumenten_id">Ven 4-69-12</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="69">f. 69</locus>
+            <title type="incipit">O vos omnes</title>
+            <identifier type="dokumenten_id">Ven 4-69-4</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="69v">f. 69v</locus>
+            <title type="incipit">O Maria mater mea</title>
+            <identifier type="dokumenten_id">Ven 4-69v-7</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="70">f. 70</locus>
+            <title type="incipit">Mater Iesu crucifixi</title>
+            <identifier type="dokumenten_id">Ven 4-70-10</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="70">f. 70</locus>
+            <title type="incipit">O Maria Magdalena</title>
+            <identifier type="dokumenten_id">Ven 4-70-2</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus from="70v">f. 70v</locus>
+            <title type="incipit">O mors dura</title>
+            <identifier type="dokumenten_id">Ven 4-70v-7</identifier>
+          </contentItem>
+          <contentItem n="12">
+            <locus from="71">f. 71</locus>
+            <title type="incipit">Ave Maria gratia plena ... benedicta</title>
+            <identifier type="dokumenten_id">Ven 4-71-2</identifier>
+          </contentItem>
+          <contentItem n="13">
+            <locus from="71">f. 71</locus>
+            <title type="incipit">Ne timeas Maria</title>
+            <identifier type="dokumenten_id">Ven 4-71-5</identifier>
+          </contentItem>
+          <contentItem n="14">
+            <locus from="71">f. 71</locus>
+            <title type="incipit">Et vocabis nomen</title>
+            <identifier type="dokumenten_id">Ven 4-71-7</identifier>
+          </contentItem>
+          <contentItem n="15">
+            <locus from="71v">f. 71v</locus>
+            <title type="incipit">Quomodo fiet</title>
+            <identifier type="dokumenten_id">Ven 4-71v-4</identifier>
+          </contentItem>
+          <contentItem n="16">
+            <locus from="71v">f. 71v</locus>
+            <title type="incipit">Ideoque et quod</title>
+            <identifier type="dokumenten_id">Ven 4-71v-7</identifier>
+          </contentItem>
+          <contentItem n="17">
+            <locus from="72">f. 72</locus>
+            <title type="incipit">Salve cara</title>
+            <identifier type="dokumenten_id">Ven 4-72-11</identifier>
+          </contentItem>
+          <contentItem n="18">
+            <locus from="72">f. 72</locus>
+            <title type="incipit">Ecce ancilla</title>
+            <identifier type="dokumenten_id">Ven 4-72-7</identifier>
+          </contentItem>
+          <contentItem n="19">
+            <locus from="72v">f. 72v</locus>
+            <title type="incipit">Benedicta tu in mulieribus</title>
+            <identifier type="dokumenten_id">Ven 4-72v-2</identifier>
+          </contentItem>
+          <contentItem n="20">
+            <locus from="72v">f. 72v</locus>
+            <title type="incipit">Et unde hoc</title>
+            <identifier type="dokumenten_id">Ven 4-72v-3</identifier>
+          </contentItem>
+          <contentItem n="21">
+            <locus from="73">f. 73</locus>
+            <title type="incipit">Magnificat anima mea*</title>
+            <identifier type="dokumenten_id">Ven 4-73-4</identifier>
+          </contentItem>
+          <contentItem n="22">
+            <locus from="73v">f. 73v</locus>
+            <title type="incipit">Heu nobis internas mentes</title>
+            <identifier type="dokumenten_id">Ven 4-73v-1</identifier>
+          </contentItem>
+          <contentItem n="23">
+            <locus from="74">f. 74</locus>
+            <title type="incipit">Iesum Nazarenum crucifixum quaerimus</title>
+            <identifier type="dokumenten_id">Ven 4-74-11</identifier>
+          </contentItem>
+          <contentItem n="24">
+            <locus from="74">f. 74</locus>
+            <title type="incipit">Nolite metuere</title>
+            <identifier type="dokumenten_id">Ven 4-74-14</identifier>
+          </contentItem>
+          <contentItem n="25">
+            <locus from="74">f. 74</locus>
+            <title type="incipit">Quis revolvet nobis ab hostio</title>
+            <identifier type="dokumenten_id">Ven 4-74-5</identifier>
+          </contentItem>
+          <contentItem n="26">
+            <locus from="74">f. 74</locus>
+            <title type="incipit">Quem quaeritis o tremulae</title>
+            <identifier type="dokumenten_id">Ven 4-74-9</identifier>
+          </contentItem>
+          <contentItem n="27">
+            <locus from="74v">f. 74v</locus>
+            <title type="incipit">Ite ad discipulos</title>
+            <identifier type="dokumenten_id">Ven 4-74v-12</identifier>
+          </contentItem>
+          <contentItem n="28">
+            <locus from="74v">f. 74v</locus>
+            <title type="incipit">Venite et videte</title>
+            <identifier type="dokumenten_id">Ven 4-74v-7</identifier>
+          </contentItem>
+          <contentItem n="29">
+            <locus from="75">f. 75</locus>
+            <title type="incipit">Cum venissem</title>
+            <identifier type="dokumenten_id">Ven 4-75-11</identifier>
+          </contentItem>
+          <contentItem n="30">
+            <locus from="75">f. 75</locus>
+            <title type="incipit">Ad monumentum venimus</title>
+            <identifier type="dokumenten_id">Ven 4-75-5</identifier>
+          </contentItem>
+          <contentItem n="31">
+            <locus from="76">f. 76</locus>
+            <title type="incipit">Mulier quid ploras quem quaeris</title>
+            <identifier type="dokumenten_id">Ven 4-76-5</identifier>
+          </contentItem>
+          <contentItem n="32">
+            <locus from="76">f. 76</locus>
+            <title type="incipit">Quia tulerunt dominum ... domine si tu</title>
+            <identifier type="dokumenten_id">Ven 4-76-8</identifier>
+          </contentItem>
+          <contentItem n="33">
+            <locus from="76v">f. 76v</locus>
+            <title type="incipit">Rabboni</title>
+            <identifier type="dokumenten_id">Ven 4-76v-10a</identifier>
+          </contentItem>
+          <contentItem n="34">
+            <locus from="76v">f. 76v</locus>
+            <title type="incipit">O Maria noli</title>
+            <identifier type="dokumenten_id">Ven 4-76v-10b</identifier>
+          </contentItem>
+          <contentItem n="35">
+            <locus from="76v">f. 76v</locus>
+            <title type="incipit">Maria</title>
+            <identifier type="dokumenten_id">Ven 4-76v-6</identifier>
+          </contentItem>
+        </contents>
+        <notesStmt>
+          <annot type="description">
+            <ref target="Ven_4.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">Ms. Lit. 4</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">Venezia</geogName>
+                <corpName>Biblioteca Santa Maria della Consolazione</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

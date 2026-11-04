@@ -1,0 +1,41 @@
+{
+  "id": "5f9c5a7d-0f56-4b79-8bc6-85995b0089aa",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-65-1",
+  "gattung1": "Gloria",
+  "gattung2": "tropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Sit tibi laus tria",
+  "bibliographischerverweis": "CT XII, 92: 1 2 3 4 5 6 7",
+  "druckausgabe": "",
+  "zeilenstart": "1",
+  "foliostart": "65",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "65",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "Bosse 51",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509502",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "aa5ec419-78fb-47bd-ba49-5a2f1ded69f1",
+  "quelle_id": "Ei 366",
+  "dokumenten_id": "Ei 366-13-15",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Feria V post Pascha",
+  "feier": "Messe",
+  "textinitium": "Grates salvatori",
+  "bibliographischerverweis": "AH 53, 52",
+  "druckausgabe": "CM III",
+  "zeilenstart": "15",
+  "foliostart": "13",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "14",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Duo tres",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

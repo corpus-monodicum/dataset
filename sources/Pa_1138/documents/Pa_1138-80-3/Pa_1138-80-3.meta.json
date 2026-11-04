@@ -1,0 +1,41 @@
+{
+  "id": "ed961b15-b77b-43f0-bb71-aa8884f2f38e",
+  "quelle_id": "Pa 1138",
+  "dokumenten_id": "Pa 1138-80-3",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "",
+  "feier": "",
+  "textinitium": "Adest enim festa",
+  "bibliographischerverweis": "AH 7, 52; AH 53, 55",
+  "druckausgabe": "",
+  "zeilenstart": "3",
+  "foliostart": "80",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "80v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Adest enim",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "a3a00d4c-0d92-47ef-8b12-5e16de0cd670",
+  "quelle_id": "PaA 135",
+  "dokumenten_id": "PaA 135-234v a-12",
+  "gattung1": "Gloria",
+  "gattung2": "untropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Gloria in excelsis",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "12",
+  "foliostart": "234v a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "234v b",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "14",
+    "Melodiennummer_Katalog": "Bosse 25",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509502",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

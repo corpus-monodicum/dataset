@@ -1,0 +1,41 @@
+{
+  "id": "0ef52d9e-e7a2-4a45-8210-398a0cd9ddf5",
+  "quelle_id": "Apt 17",
+  "dokumenten_id": "Apt 17-178-3",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Philippus et Iacobus",
+  "feier": "Messe",
+  "textinitium": "Ecce pulchra",
+  "bibliographischerverweis": "AH 7, 116; AH 53, 114",
+  "druckausgabe": "",
+  "zeilenstart": "3",
+  "foliostart": "178",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "180",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Lyra",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2ff5f625-207b-4289-80c7-0c98b509efc4",
+  "quelle_id": "Apt 17",
+  "dokumenten_id": "Apt 17-160-2",
+  "gattung1": "Tropus",
+  "gattung2": "Offertorium-Tropus",
+  "festtag": "Feria II post Pascha",
+  "feier": "Messe",
+  "textinitium": "Et ecce terraemotus",
+  "bibliographischerverweis": "Fer II off 6 A 7 B 8 C (CT III)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "2",
+  "foliostart": "160",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "(Angelus)",
+    "Endseite": "160",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Fer II off",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

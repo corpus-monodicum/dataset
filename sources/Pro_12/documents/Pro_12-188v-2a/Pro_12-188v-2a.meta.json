@@ -1,0 +1,41 @@
+{
+  "id": "6076bdd4-6785-4fdb-b364-63a8148fc47c",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-188v-2a",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Translatio Martini",
+  "feier": "Messe",
+  "textinitium": "Organicis ... qui in suis*",
+  "bibliographischerverweis": "AH 53, 242",
+  "druckausgabe": "CM III",
+  "zeilenstart": "2",
+  "foliostart": "188v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "188v",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Iustus ut palma maior",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

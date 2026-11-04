@@ -1,0 +1,41 @@
+{
+  "id": "1dae3fbe-1bb1-4d13-baee-36f05718d83b",
+  "quelle_id": "Pa 1118",
+  "dokumenten_id": "Pa 1118-192-7",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Trinitas",
+  "feier": "",
+  "textinitium": "Benedicta semper sancta",
+  "bibliographischerverweis": "AH 7, 95; AH 53, 81",
+  "druckausgabe": "",
+  "zeilenstart": "7",
+  "foliostart": "192",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "193",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Benedicta",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

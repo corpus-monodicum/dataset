@@ -1,0 +1,41 @@
+{
+  "id": "580df8af-bf6a-48a2-b513-3bc6f5b5ad88",
+  "quelle_id": "Ei 366",
+  "dokumenten_id": "Ei 366-18-2a",
+  "gattung1": "Sequenz",
+  "gattung2": "Textlos",
+  "festtag": "Marcus Evangelista",
+  "feier": "Messe",
+  "textinitium": "Alleluia",
+  "bibliographischerverweis": "AH 53, 178",
+  "druckausgabe": "CM III",
+  "zeilenstart": "2",
+  "foliostart": "18",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "19b",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Iustus ut palma maior",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "Iustus ut palma maior",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

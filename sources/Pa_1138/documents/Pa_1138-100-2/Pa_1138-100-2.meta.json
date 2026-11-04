@@ -1,0 +1,41 @@
+{
+  "id": "8dc5722d-3936-47fb-bf4a-81dd2f7311b7",
+  "quelle_id": "Pa 1138",
+  "dokumenten_id": "Pa 1138-100-2",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Petrus et Paulus",
+  "feier": "",
+  "textinitium": "Pulchra praepollent",
+  "bibliographischerverweis": "AH 7, 184; AH 53, 211b",
+  "druckausgabe": "",
+  "zeilenstart": "2",
+  "foliostart": "100",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "101v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Alme martyr",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

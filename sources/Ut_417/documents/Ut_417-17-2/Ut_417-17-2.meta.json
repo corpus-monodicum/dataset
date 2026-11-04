@@ -1,0 +1,41 @@
+{
+  "id": "328156e2-afa9-452f-87f6-2e0283c4c190",
+  "quelle_id": "Ut 417",
+  "dokumenten_id": "Ut 417-17-2",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Translatio Martini",
+  "feier": "Messe",
+  "textinitium": "Ave summa praesulum",
+  "bibliographischerverweis": "AH 53, 182",
+  "druckausgabe": "",
+  "zeilenstart": "2",
+  "foliostart": "17",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "17v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Beatus vir qui timet maior",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

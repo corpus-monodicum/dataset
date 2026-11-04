@@ -1,0 +1,41 @@
+{
+  "id": "a52c074b-5413-4ce0-9072-c26d6c2bee95",
+  "quelle_id": "Pa 14452",
+  "dokumenten_id": "Pa 14452-220-8",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominica post visitationem",
+  "feier": "Messe",
+  "textinitium": "Veni mater gratiae",
+  "bibliographischerverweis": "AH 54, 264",
+  "druckausgabe": "CM III",
+  "zeilenstart": "8",
+  "foliostart": "220",
+  "kommentar": "Nachtrag_5",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "220v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "Nachtrag_5",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

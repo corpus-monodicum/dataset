@@ -1,0 +1,41 @@
+{
+  "id": "e74d7056-da68-4fc2-b9ee-7b61a5615dce",
+  "quelle_id": "Ut 417",
+  "dokumenten_id": "Ut 417-34-6",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Andreas",
+  "feier": "Messe",
+  "textinitium": "Deus in tua virtute",
+  "bibliographischerverweis": "AH 53, 122",
+  "druckausgabe": "",
+  "zeilenstart": "6",
+  "foliostart": "34",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "34v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Dominus in Sina",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

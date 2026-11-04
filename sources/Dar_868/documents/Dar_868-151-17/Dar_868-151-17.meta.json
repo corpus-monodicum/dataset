@@ -1,0 +1,41 @@
+{
+  "id": "ce1b641d-5901-4f1e-920a-5f9c72896aab",
+  "quelle_id": "Dar 868",
+  "dokumenten_id": "Dar 868-151-17",
+  "gattung1": "Sanctus",
+  "gattung2": "untropiert",
+  "festtag": "Feriae",
+  "feier": "Messe",
+  "textinitium": "Sanctus ... dominus deus",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "17",
+  "foliostart": "151",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "151",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "18",
+    "Melodiennummer_Katalog": "Thannabaur 41",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509504",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

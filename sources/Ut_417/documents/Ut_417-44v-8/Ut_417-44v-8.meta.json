@@ -1,0 +1,41 @@
+{
+  "id": "8842ac3e-eb93-4b7d-92c0-e906d6baa853",
+  "quelle_id": "Ut 417",
+  "dokumenten_id": "Ut 417-44v-8",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Stephanus",
+  "feier": "Messe",
+  "textinitium": "Summae tuum",
+  "bibliographischerverweis": "Steph intr 29 A 30 B 45 C 32 D (CT I)",
+  "druckausgabe": "II-2",
+  "zeilenstart": "8",
+  "foliostart": "44v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "44v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Steph intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

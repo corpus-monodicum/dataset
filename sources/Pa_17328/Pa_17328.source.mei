@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Pa 17328: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Ordinariumsgesänge)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="Pa_17328">
+        <identifier type="siglum">Pa 17328</identifier>
+        <identifier type="cantus">Pa 17328</identifier>
+        <titleStmt>
+          <title>Pa 17328</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Nordfrankreich</geogName>
+          <geogName role="origin-region">Quellen aus Ordenstraditionen</geogName>
+          <date>12. Jh</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="168">f. 168</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Pa 17328-168-3</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="168">f. 168</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Pa 17328-168-5</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="168">f. 168</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Pa 17328-168-7</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="168">f. 168</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Pa 17328-168-8</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="168v">f. 168v</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Pa 17328-168v-9</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="169">f. 169</locus>
+            <title type="incipit">Credo in unum deum</title>
+            <identifier type="dokumenten_id">Pa 17328-169-8</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="170">f. 170</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Pa 17328-170-5</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="170">f. 170</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Pa 17328-170-8</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="170v">f. 170v</locus>
+            <title type="incipit">Benedicamus domino</title>
+            <identifier type="dokumenten_id">Pa 17328-170v-10b</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="170v">f. 170v</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Pa 17328-170v-2</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus from="170v">f. 170v</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Pa 17328-170v-5</identifier>
+          </contentItem>
+          <contentItem n="12">
+            <locus from="170v">f. 170v</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Pa 17328-170v-7</identifier>
+          </contentItem>
+          <contentItem n="13">
+            <locus from="171">f. 171</locus>
+            <title type="incipit">Ite missa est</title>
+            <identifier type="dokumenten_id">Pa 17328-171-1</identifier>
+          </contentItem>
+          <contentItem n="14">
+            <locus from="171">f. 171</locus>
+            <title type="incipit">Requiescant</title>
+            <identifier type="dokumenten_id">Pa 17328-171-2a</identifier>
+          </contentItem>
+        </contents>
+        <notesStmt>
+          <annot type="notation-documentation">
+            <ref target="notation/Pa_17328.notation.md">Notation documentation</ref>
+          </annot>
+          <annot type="description">
+            <ref target="Pa_17328.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <classification>
+          <termList>
+            <term type="quellentyp">Graduale, Kyriale</term>
+            <term type="ordenstradition">Zisterzienser</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">Lat. 17328</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">Paris</geogName>
+                <corpName>Bibliothèque nationale de France</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+        <relationList>
+          <relation rel="hasReproduction" target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b8426270t/manifest.json" label="IIIF manifest" />
+        </relationList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

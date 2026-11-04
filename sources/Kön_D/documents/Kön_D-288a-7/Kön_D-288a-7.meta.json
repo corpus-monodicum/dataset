@@ -1,0 +1,41 @@
+{
+  "id": "51d7c1c0-fbf2-44c4-a6eb-45d0642a04c5",
+  "quelle_id": "Kön D",
+  "dokumenten_id": "Kön D-288a-7",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Omnes sancti",
+  "feier": "Messe",
+  "textinitium": "O quam glorifico",
+  "bibliographischerverweis": "Gaudeamus intr 15 A 16 B 17 C (CT X)",
+  "druckausgabe": "II-2",
+  "zeilenstart": "7",
+  "foliostart": "288a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "Kön D 219v-a 19",
+    "Endseite": "288a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Gaudeamus intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "82ba1ce2-b105-4b91-b7dd-c44ba7e5d4ce",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-211v-6",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Feria III post Pascha",
+  "feier": "Messe",
+  "textinitium": "Sanctorum populum",
+  "bibliographischerverweis": "Fer III intr 1 A 2 B 3 C D E (CT III)",
+  "druckausgabe": "II-1",
+  "zeilenstart": "6",
+  "foliostart": "211v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "Pa 1235-77v-5-",
+    "Endseite": "211v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Fer III intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

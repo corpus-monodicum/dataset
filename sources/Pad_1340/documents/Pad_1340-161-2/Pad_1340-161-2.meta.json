@@ -1,0 +1,41 @@
+{
+  "id": "6d79325b-1486-4a04-8b47-345502d03152",
+  "quelle_id": "Pad 1340",
+  "dokumenten_id": "Pad 1340-161-2",
+  "gattung1": "Sanctus",
+  "gattung2": "untropiert",
+  "festtag": "Dominicae dies",
+  "feier": "Messe",
+  "textinitium": "Sanctus ... dominus deus",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "2",
+  "foliostart": "161",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "161",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "Thannabaur 202",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509504",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

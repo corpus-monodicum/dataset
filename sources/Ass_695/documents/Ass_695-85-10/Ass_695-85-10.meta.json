@@ -1,0 +1,41 @@
+{
+  "id": "72893f21-bea9-4fda-abb6-8a2ac862d699",
+  "quelle_id": "Ass 695",
+  "dokumenten_id": "Ass 695-85-10",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Paulus",
+  "feier": "Messe",
+  "textinitium": "Sacra Paule",
+  "bibliographischerverweis": "AH 7, 183; AH 53, 211",
+  "druckausgabe": "CM III",
+  "zeilenstart": "10",
+  "foliostart": "85",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "85v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "In omnem terram",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "cef0d63f-9c91-41f3-9ad1-a8dab4aba18b",
+  "quelle_id": "Or 201",
+  "dokumenten_id": "Or 201-225-21",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Pascha",
+  "feier": "Matutin",
+  "textinitium": "Iam iam ecce",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "21",
+  "foliostart": "225",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "225",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Or 201-220-16S",
+    "Endzeile": "21",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Easter play / Osterspiel",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

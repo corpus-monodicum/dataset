@@ -1,0 +1,41 @@
+{
+  "id": "299d9437-99ec-46d6-8e67-6ce6265cf12f",
+  "quelle_id": "Sol 596",
+  "dokumenten_id": "Sol 596-54v-1",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Sabbatum sanctum",
+  "feier": "Elevatio crucis",
+  "textinitium": "Haec est sancta dies",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "1",
+  "foliostart": "54v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "54v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Sol 596-54v-1S",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Elevation of the cross",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "bd8e29cc-3fca-4d8a-ac23-64023332bb5e",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-75v-11",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Pascha",
+  "feier": "Messe",
+  "textinitium": "Resurrexi",
+  "bibliographischerverweis": "AMS 80",
+  "druckausgabe": "II-1",
+  "zeilenstart": "11",
+  "foliostart": "75v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "75v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "14",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

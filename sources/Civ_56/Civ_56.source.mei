@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Civ 56: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Michael Klaper</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Gunilla Iversen</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Ritva Maria Jacobsson</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="Civ_56">
+        <identifier type="siglum">Civ 56</identifier>
+        <identifier type="cantus">Civ 56</identifier>
+        <titleStmt>
+          <title>Civ 56</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Cividale del Friuli</geogName>
+          <geogName role="origin-region">Quellen italienischer Herkunft</geogName>
+          <corpName role="origin-institution">Kathedrale Santa Maria Assunta</corpName>
+          <date>14. Jh – 15. Jh</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="133">f. 133</locus>
+            <title type="incipit">Postquam factus</title>
+            <identifier type="dokumenten_id">Civ 56-133-4</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="133">f. 133</locus>
+            <title type="incipit">Resurrexi</title>
+            <identifier type="dokumenten_id">Civ 56-133-7</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="134v">f. 134v</locus>
+            <title type="incipit">Adducite vitulum</title>
+            <identifier type="dokumenten_id">Civ 56-134v-10</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="135">f. 135</locus>
+            <title type="incipit">Pascha nostrum ... alleluia</title>
+            <identifier type="dokumenten_id">Civ 56-135-1</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="156">f. 156</locus>
+            <title type="incipit">Hodie spiritus sanctus processit</title>
+            <identifier type="dokumenten_id">Civ 56-156-10</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="156v">f. 156v</locus>
+            <title type="incipit">Spiritus domini</title>
+            <identifier type="dokumenten_id">Civ 56-156v-3</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="171v">f. 171v</locus>
+            <title type="incipit">Hodie revolvat</title>
+            <identifier type="dokumenten_id">Civ 56-171v-4</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="171v">f. 171v</locus>
+            <title type="incipit">Terribilis est locus iste</title>
+            <identifier type="dokumenten_id">Civ 56-171v-7</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="180v">f. 180v</locus>
+            <title type="incipit">Hodie sanctissima virgo virginum</title>
+            <identifier type="dokumenten_id">Civ 56-180v-9</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="183v">f. 183v</locus>
+            <title type="incipit">Nativitatem venerandam</title>
+            <identifier type="dokumenten_id">Civ 56-183v-10</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus from="188v">f. 188v</locus>
+            <title type="incipit">Sollemnitatem venerandam</title>
+            <identifier type="dokumenten_id">Civ 56-188v-12</identifier>
+          </contentItem>
+          <contentItem n="12">
+            <locus from="21">f. 21</locus>
+            <title type="incipit">Hodie cantandus est</title>
+            <identifier type="dokumenten_id">Civ 56-21-7</identifier>
+          </contentItem>
+          <contentItem n="13">
+            <locus from="21v">f. 21v</locus>
+            <title type="incipit">Puer natus est nobis</title>
+            <identifier type="dokumenten_id">Civ 56-21v-5</identifier>
+          </contentItem>
+          <contentItem n="14">
+            <locus from="22v">f. 22v</locus>
+            <title type="incipit">Domine Iesu Christe</title>
+            <identifier type="dokumenten_id">Civ 56-22v-10</identifier>
+          </contentItem>
+          <contentItem n="15">
+            <locus from="23v">f. 23v</locus>
+            <title type="incipit">Etenim sederunt</title>
+            <identifier type="dokumenten_id">Civ 56-23v-10</identifier>
+          </contentItem>
+          <contentItem n="16">
+            <locus from="25">f. 25</locus>
+            <title type="incipit">Magnus et felix</title>
+            <identifier type="dokumenten_id">Civ 56-25-3</identifier>
+          </contentItem>
+          <contentItem n="17">
+            <locus from="25">f. 25</locus>
+            <title type="incipit">Video caelos apertos</title>
+            <identifier type="dokumenten_id">Civ 56-25-7</identifier>
+          </contentItem>
+          <contentItem n="18">
+            <locus from="26">f. 26</locus>
+            <title type="incipit">Quoniam dominus</title>
+            <identifier type="dokumenten_id">Civ 56-26-12</identifier>
+          </contentItem>
+          <contentItem n="19">
+            <locus from="27">f. 27</locus>
+            <title type="incipit">In medio ecclesiae</title>
+            <identifier type="dokumenten_id">Civ 56-27-9</identifier>
+          </contentItem>
+          <contentItem n="20">
+            <locus from="30">f. 30</locus>
+            <title type="incipit">Ecce adest</title>
+            <identifier type="dokumenten_id">Civ 56-30-10</identifier>
+          </contentItem>
+          <contentItem n="21">
+            <locus from="30v">f. 30v</locus>
+            <title type="incipit">Vultum tuum</title>
+            <identifier type="dokumenten_id">Civ 56-30v-2</identifier>
+          </contentItem>
+          <contentItem n="22">
+            <locus from="32v">f. 32v</locus>
+            <title type="incipit">Ecce advenit</title>
+            <identifier type="dokumenten_id">Civ 56-32v-13</identifier>
+          </contentItem>
+          <contentItem n="23">
+            <locus from="32v">f. 32v</locus>
+            <title type="incipit">Forma speciosissimus</title>
+            <identifier type="dokumenten_id">Civ 56-32v-9</identifier>
+          </contentItem>
+          <contentItem n="24">
+            <locus from="45v">f. 45v</locus>
+            <title type="incipit">Gaudeamus omnes ... Agathae</title>
+            <identifier type="dokumenten_id">Civ 56-45v-2</identifier>
+          </contentItem>
+        </contents>
+        <notesStmt>
+          <annot type="description">
+            <ref target="Civ_56.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <classification>
+          <termList>
+            <term type="quellentyp">Graduale, Tropar, Sequentiar</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">Ms. LVI</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">Cividale</geogName>
+                <corpName>Museo Archeologico Nazionale</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

@@ -1,0 +1,41 @@
+{
+  "id": "27a8a85c-beb6-4560-b0e8-659380eb3fca",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-231v-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Assumptio Mariae",
+  "feier": "Messe",
+  "textinitium": "Hac clara die",
+  "bibliographischerverweis": "AH 53, 98",
+  "druckausgabe": "CM III",
+  "zeilenstart": "1",
+  "foliostart": "231v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "231v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Post partum",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

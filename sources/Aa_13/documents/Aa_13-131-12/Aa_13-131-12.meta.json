@@ -1,0 +1,41 @@
+{
+  "id": "77d85398-935f-44e7-b269-dddce80715f4",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-131-12",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Inventio crucis",
+  "feier": "Messe",
+  "textinitium": "Laudes crucis",
+  "bibliographischerverweis": "AH 54, 120",
+  "druckausgabe": "CM III",
+  "zeilenstart": "12",
+  "foliostart": "131",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "132",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Laetabitur",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

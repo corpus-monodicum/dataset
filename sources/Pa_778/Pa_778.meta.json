@@ -1,0 +1,25 @@
+{
+  "id": "Pa 778",
+  "quellensigle": "Pa 778",
+  "herkunftsregion": "Quellen aquitanischer Herkunft",
+  "herkunftsort": "Narbonne",
+  "herkunftsinstitution": "Kathedrale",
+  "ordenstradition": "",
+  "quellentyp": "Tropar, Sequentiar",
+  "bibliotheksort": "Paris",
+  "bibliothek": "Bibliothèque nationale de France",
+  "bibliothekssignatur": "Lat. 778",
+  "kommentar": "",
+  "datierung": "12. Jh",
+  "status": "",
+  "jahrhundert": "12.",
+  "manifest": "",
+  "foliooffset": "pageNr+9",
+  "publish": "all",
+  "cantus_siglum": "Pa 778",
+  "cantus_century": "12.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Pa_778.description.md"
+  }
+}

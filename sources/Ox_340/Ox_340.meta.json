@@ -1,0 +1,25 @@
+{
+  "id": "Ox 340",
+  "quellensigle": "Ox 340",
+  "herkunftsregion": "Quellen deutscher Herkunft",
+  "herkunftsort": "Admont für Moggio",
+  "herkunftsinstitution": "",
+  "ordenstradition": "",
+  "quellentyp": "Graduale mit Tropen, Kyriale mit Tropen, Sequentiar",
+  "bibliotheksort": "Oxford",
+  "bibliothek": "Bodleian Library",
+  "bibliothekssignatur": "MS. Canon. Liturg. 340",
+  "kommentar": "",
+  "datierung": "13. Jh (1210–1216)",
+  "status": "",
+  "jahrhundert": "13.",
+  "manifest": "",
+  "foliooffset": "pageNr+3",
+  "publish": "all",
+  "cantus_siglum": "Ox 340",
+  "cantus_century": "13.",
+  "dataset_external_files": {
+    "beschreibung": "Ox_340.description.md",
+    "notationsdokumentation": "notation/Ox_340.notation.md"
+  }
+}

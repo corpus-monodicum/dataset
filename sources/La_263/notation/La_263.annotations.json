@@ -1,0 +1,121 @@
+{
+  "type": "cm-manuscript-export",
+  "schemaVersion": 2,
+  "exportedAt": "2026-11-02T18:13:45.443Z",
+  "exportedManuscripts": [
+    "La 263"
+  ],
+  "data": {
+    "personalTables": [
+      {
+        "id": "t_9ce0aadb-293c-41ac-8df5-2f791b70175a",
+        "name": "La 263",
+        "source": "La 263",
+        "notes": "",
+        "patterns": [],
+        "rows": [
+          {
+            "pattern": "*",
+            "customId": "10",
+            "notes": ""
+          },
+          {
+            "pattern": "*e",
+            "customId": "11",
+            "notes": ""
+          },
+          {
+            "pattern": "*ee",
+            "customId": "12",
+            "notes": ""
+          },
+          {
+            "pattern": "[*d]",
+            "customId": "20",
+            "notes": ""
+          },
+          {
+            "pattern": "[*du]",
+            "customId": "21",
+            "notes": ""
+          },
+          {
+            "pattern": "[*dud]",
+            "customId": "22",
+            "notes": ""
+          },
+          {
+            "pattern": "[*ded]",
+            "customId": "23",
+            "notes": ""
+          },
+          {
+            "pattern": "*dd",
+            "customId": "30",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u]",
+            "customId": "40",
+            "notes": ""
+          },
+          {
+            "pattern": "[*ud]",
+            "customId": "41",
+            "notes": ""
+          },
+          {
+            "pattern": "[*uded]",
+            "customId": "42",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u]dd",
+            "customId": "43",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u]d[du]",
+            "customId": "44",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u]e",
+            "customId": "45",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u]u",
+            "customId": "46",
+            "notes": ""
+          },
+          {
+            "pattern": "*[uu]",
+            "customId": "47",
+            "notes": ""
+          },
+          {
+            "pattern": "[*dL]",
+            "customId": "10+/20-",
+            "notes": ""
+          },
+          {
+            "pattern": "[*uL]",
+            "customId": "10+40-",
+            "notes": ""
+          },
+          {
+            "pattern": "[*udL]",
+            "customId": "40+",
+            "notes": ""
+          }
+        ],
+        "isPublished": true
+      }
+    ],
+    "regions": {},
+    "regionItems": {},
+    "manualLines": {},
+    "iiifLinks": {}
+  }
+}

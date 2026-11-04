@@ -1,0 +1,41 @@
+{
+  "id": "cb9ca86f-0d40-45c7-a8ac-9d84a59672e9",
+  "quelle_id": "Pa 903",
+  "dokumenten_id": "Pa 903-90v-12",
+  "gattung1": "Antiphon",
+  "gattung2": "Communio",
+  "festtag": "Ascensio domini",
+  "feier": "Messe",
+  "textinitium": "Psallite domino",
+  "bibliographischerverweis": "AMS 102",
+  "druckausgabe": "II-3",
+  "zeilenstart": "12",
+  "foliostart": "90v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "91",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

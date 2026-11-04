@@ -1,0 +1,41 @@
+{
+  "id": "84966cc5-eb97-4611-9aac-5ba8a3efd8e3",
+  "quelle_id": "Pa 1118",
+  "dokumenten_id": "Pa 1118-140v-10",
+  "gattung1": "Sequenz",
+  "gattung2": "Teiltextiert",
+  "festtag": "",
+  "feier": "",
+  "textinitium": "Iam nunc intonat",
+  "bibliographischerverweis": "AH 49, S. 277",
+  "druckausgabe": "",
+  "zeilenstart": "10",
+  "foliostart": "140v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "141",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "O alma maior",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

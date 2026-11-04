@@ -1,0 +1,41 @@
+{
+  "id": "6cc57da5-0b22-4864-8565-7ce82cda4830",
+  "quelle_id": "Pa 904",
+  "dokumenten_id": "Pa 904-102-12a",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Pascha",
+  "feier": "Matutin",
+  "textinitium": "Maria",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "12",
+  "foliostart": "102",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "102",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "Pa 904-101v-8S",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Easter play / Osterspiel",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "bff6bc9e-9406-41af-9a98-3cf42316d2ce",
+  "quelle_id": "Mod 16",
+  "dokumenten_id": "Mod 16-77-7",
+  "gattung1": "Sanctus",
+  "gattung2": "untropiert",
+  "festtag": "Nativitas domini",
+  "feier": "1. Messe",
+  "textinitium": "Sanctus ... dominus deus",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "7",
+  "foliostart": "77",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "77v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "Thannabaur 49",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509504",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

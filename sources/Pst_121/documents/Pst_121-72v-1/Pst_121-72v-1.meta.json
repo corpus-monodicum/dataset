@@ -1,0 +1,41 @@
+{
+  "id": "43f8fa66-affb-4d57-8f39-19720ff92bd4",
+  "quelle_id": "Pst 121",
+  "dokumenten_id": "Pst 121-72v-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Omnes sancti",
+  "feier": "Messe",
+  "textinitium": "Omnes sancti seraphin",
+  "bibliographischerverweis": "AH 53, 112",
+  "druckausgabe": "",
+  "zeilenstart": "1",
+  "foliostart": "72v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "73",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Vox exsultationis",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

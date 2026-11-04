@@ -1,0 +1,41 @@
+{
+  "id": "0b80f56d-3407-4701-9ee5-3c93538913f7",
+  "quelle_id": "MüU 156",
+  "dokumenten_id": "MüU 156-213v-9",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Beata Maria virgo",
+  "feier": "Messe",
+  "textinitium": "Ave Maria gratia plena ... benedicta … gratiam",
+  "bibliographischerverweis": "AH 54, 216",
+  "druckausgabe": "",
+  "zeilenstart": "9",
+  "foliostart": "213v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Gionata Brusa",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "214",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "-",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

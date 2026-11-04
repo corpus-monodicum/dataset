@@ -1,0 +1,41 @@
+{
+  "id": "895d6ceb-39d4-4955-80b3-09ffa20d2f81",
+  "quelle_id": "Ba 12",
+  "dokumenten_id": "Ba 12-48v-13",
+  "gattung1": "Sanctus",
+  "gattung2": "untropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Sanctus ... dominus deus",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "13",
+  "foliostart": "48v",
+  "kommentar": "Dritter Teil",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "49",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "Thannabaur 36",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509504",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

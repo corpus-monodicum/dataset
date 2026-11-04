@@ -1,0 +1,41 @@
+{
+  "id": "6a4bc195-fa5c-4d34-8d34-95ecee4ca649",
+  "quelle_id": "Ben 34",
+  "dokumenten_id": "Ben 34-237-4",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Omnes sancti",
+  "feier": "Messe",
+  "textinitium": "Gaudeamus omnes … sanctorum omnium",
+  "bibliographischerverweis": "AMS 30",
+  "druckausgabe": "",
+  "zeilenstart": "4",
+  "foliostart": "237",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "237",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

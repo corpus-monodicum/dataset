@@ -1,0 +1,41 @@
+{
+  "id": "388385fd-af64-4113-bb3a-e374e70058c5",
+  "quelle_id": "Ei 366",
+  "dokumenten_id": "Ei 366-49-1a",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Martyres",
+  "feier": "Messe",
+  "textinitium": "Iste martyr",
+  "bibliographischerverweis": "AH 34, 352",
+  "druckausgabe": "CM III",
+  "zeilenstart": "1",
+  "foliostart": "49",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "49a",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Virgo plorans",
+    "Überlieferungszustand": "Beginn fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

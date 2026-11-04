@@ -1,0 +1,41 @@
+{
+  "id": "0a2c1f3b-9167-4822-b899-5aedc1ef9b2e",
+  "quelle_id": "Pad 47",
+  "dokumenten_id": "Pad 47-48-12",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Silvester",
+  "feier": "Messe",
+  "textinitium": "Divini fuerat",
+  "bibliographischerverweis": "Statuit intr 8 A 16 B 17 C D (CT X)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "12",
+  "foliostart": "48",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Statuit",
+    "Endseite": "48v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Statuit intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

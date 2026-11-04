@@ -1,0 +1,41 @@
+{
+  "id": "c5269f25-68b3-435e-8a45-3ce2b93fdb24",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-222v-2a",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominica XIII post Pentecosten",
+  "feier": "Messe",
+  "textinitium": "Salus aeterna indeficiens*",
+  "bibliographischerverweis": "AH 53, 1",
+  "druckausgabe": "CM III",
+  "zeilenstart": "2",
+  "foliostart": "222v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "222v",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Aurea",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

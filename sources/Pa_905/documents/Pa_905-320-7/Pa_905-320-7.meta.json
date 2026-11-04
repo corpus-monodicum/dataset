@@ -1,0 +1,41 @@
+{
+  "id": "6b27061c-b7a6-49ac-9495-e94e7b323c1d",
+  "quelle_id": "Pa 905",
+  "dokumenten_id": "Pa 905-320-7",
+  "gattung1": "Sanctus",
+  "gattung2": "untropiert",
+  "festtag": "Adventus; Septuagesima; Quadragesima",
+  "feier": "Messe",
+  "textinitium": "Sanctus … dominus deus",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "7",
+  "foliostart": "320",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Charles M. Atkinson",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "320",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "14",
+    "Melodiennummer_Katalog": "Thannabaur 207",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509504",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "Nachtrag aus dem 15. Jh.",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

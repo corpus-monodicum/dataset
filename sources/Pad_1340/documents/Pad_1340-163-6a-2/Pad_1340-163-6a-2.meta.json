@@ -1,0 +1,41 @@
+{
+  "id": "8b2e7143-3d2d-4d33-bbfa-65b88777eab2",
+  "quelle_id": "Pad 1340",
+  "dokumenten_id": "Pad 1340-163-6a",
+  "gattung1": "Benedicamus",
+  "gattung2": "untropiert",
+  "festtag": "Feriae",
+  "feier": "Messe",
+  "textinitium": "Benedicamus domino",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "6",
+  "foliostart": "163",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "163",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "Eifrig/Pfisterer 225Bb",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

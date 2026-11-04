@@ -1,0 +1,41 @@
+{
+  "id": "f95b8855-6bc4-46a9-b2bd-6956bf69b242",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-23v-6",
+  "gattung1": "Tropus",
+  "gattung2": "Communio-Tropus",
+  "festtag": "Iohannes Evangelista",
+  "feier": "Messe",
+  "textinitium": "Corda fratrum",
+  "bibliographischerverweis": "Ioh ev com 5 A (CT I)",
+  "druckausgabe": "II-1",
+  "zeilenstart": "6",
+  "foliostart": "23v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "Pro 12 23v-8-",
+    "Endseite": "23v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Ioh ev com",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5ef1b39b-ae9f-47ca-bf09-3fe6136dadd4",
+  "quelle_id": "Ben 34",
+  "dokumenten_id": "Ben 34-221v-2",
+  "gattung1": "Kyrie",
+  "gattung2": "tropiert",
+  "festtag": "Assumptio Mariae",
+  "feier": "Messe",
+  "textinitium": "Virginis odas",
+  "bibliographischerverweis": "AH 47, 137: 1A 1B 1C 2A 2C 2B 3A 3B 3C",
+  "druckausgabe": "",
+  "zeilenstart": "2",
+  "foliostart": "221v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "222",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "Melnicki 224",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509501",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "fe58876b-3325-4c37-9494-e8047bc1ee9b",
+  "quelle_id": "Ma 20-4",
+  "dokumenten_id": "Ma 20-4-106-19",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "Pascha; Feria II post Pascha",
+  "feier": "Vesper",
+  "textinitium": "Et intravit cum",
+  "bibliographischerverweis": "CAO 2708",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "19",
+  "foliostart": "106",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "106v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Ma 20-4-105v-3S",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Journey to Emmaus",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

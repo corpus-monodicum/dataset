@@ -1,0 +1,41 @@
+{
+  "id": "df09522e-27d9-4d4e-bc38-c46ac16c27fa",
+  "quelle_id": "Mod 7",
+  "dokumenten_id": "Mod 7-225-7",
+  "gattung1": "Agnus",
+  "gattung2": "tropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "O lucis splendor",
+  "bibliographischerverweis": "CT IV, 26b: 1 D A 2 B 3",
+  "druckausgabe": "",
+  "zeilenstart": "7",
+  "foliostart": "225",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "225",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "Schildbach 96",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509505",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

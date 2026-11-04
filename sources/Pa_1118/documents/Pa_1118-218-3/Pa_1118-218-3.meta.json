@@ -1,0 +1,41 @@
+{
+  "id": "d4b2949e-785c-4f19-bf36-4ef832476a24",
+  "quelle_id": "Pa 1118",
+  "dokumenten_id": "Pa 1118-218-3",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Nativitas Mariae",
+  "feier": "",
+  "textinitium": "Alle caeleste necnon",
+  "bibliographischerverweis": "AH 7, 98; AH 53, 97",
+  "druckausgabe": "",
+  "zeilenstart": "3",
+  "foliostart": "218",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "219",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Mater sequentiarum",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "fae4d445-f3d6-4343-b2eb-51b34667480e",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-304v-a-16",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dedicatio ecclesiae",
+  "feier": "Messe",
+  "textinitium": "Hierusalem et Sion",
+  "bibliographischerverweis": "AH 55, 32",
+  "druckausgabe": "CM III",
+  "zeilenstart": "16",
+  "foliostart": "304v-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "305b",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

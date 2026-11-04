@@ -1,0 +1,41 @@
+{
+  "id": "c05b67b6-3348-437b-a929-3f110c6ef0ff",
+  "quelle_id": "Pa 1118",
+  "dokumenten_id": "Pa 1118-195v-9",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "",
+  "feier": "",
+  "textinitium": "Benedictus es ... in saecla",
+  "bibliographischerverweis": "AH 7, 261",
+  "druckausgabe": "",
+  "zeilenstart": "9",
+  "foliostart": "195v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "196v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Quoniam deus minor",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

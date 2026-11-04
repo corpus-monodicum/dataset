@@ -1,0 +1,41 @@
+{
+  "id": "084d1239-2ca1-496f-9dda-1dd8904515f7",
+  "quelle_id": "SCan 7",
+  "dokumenten_id": "SCan 7-266-8",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Omnes sancti",
+  "feier": "Messe",
+  "textinitium": "Omnes sancti seraphin",
+  "bibliographischerverweis": "AH 53, 112",
+  "druckausgabe": "",
+  "zeilenstart": "8",
+  "foliostart": "266",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Gionata Brusa",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "267",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Vox exsultationis",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "fd1e4e05-8aa2-4a2b-a459-40b9c9cc7981",
+  "quelle_id": "Pa 904",
+  "dokumenten_id": "Pa 904-12v-12",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Nativitas domini",
+  "feier": "Matutin",
+  "textinitium": "Salve virgo singularis",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "12",
+  "foliostart": "12v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "12v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Pa 904-10v-9S",
+    "Endzeile": "19",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Christmas play",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

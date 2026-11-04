@@ -1,0 +1,41 @@
+{
+  "id": "2aac1dae-5a5a-4ee0-a0e7-93b5dbacfe6a",
+  "quelle_id": "Abb 7",
+  "dokumenten_id": "Abb 7-162b-15",
+  "gattung1": "Tropus",
+  "gattung2": "Offertorium-Tropus",
+  "festtag": "Medardus",
+  "feier": "Messe",
+  "textinitium": "Gratuletur omnis caro",
+  "bibliographischerverweis": "Iustus ut palma off 7 A (CT X)",
+  "druckausgabe": "II-1",
+  "zeilenstart": "15",
+  "foliostart": "162b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "II-1-14a-13-",
+    "Endseite": "162b",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "23",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Iustus ut palma off",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

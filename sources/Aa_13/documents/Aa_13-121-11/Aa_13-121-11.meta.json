@@ -1,0 +1,41 @@
+{
+  "id": "07947e51-3e66-42d0-9e6d-f8f3b06d8e3d",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-121-11",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Nativitas domini",
+  "feier": "2. Messe",
+  "textinitium": "Splendor patris et figura",
+  "bibliographischerverweis": "AH 54, 100",
+  "druckausgabe": "CM III",
+  "zeilenstart": "11",
+  "foliostart": "121",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "121v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "15",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "Ende fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

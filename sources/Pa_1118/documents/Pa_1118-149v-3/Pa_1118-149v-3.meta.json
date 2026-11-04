@@ -1,0 +1,41 @@
+{
+  "id": "ee833d06-d530-4235-a49d-a5c0bbd5e618",
+  "quelle_id": "Pa 1118",
+  "dokumenten_id": "Pa 1118-149v-3",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Nativitas domini",
+  "feier": "",
+  "textinitium": "Caelica resonant",
+  "bibliographischerverweis": "AH 53, 19",
+  "druckausgabe": "",
+  "zeilenstart": "3",
+  "foliostart": "149v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "150",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Mater",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

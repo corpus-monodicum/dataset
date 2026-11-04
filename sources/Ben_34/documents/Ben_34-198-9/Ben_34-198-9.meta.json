@@ -1,0 +1,41 @@
+{
+  "id": "c8d1275a-ff9c-417f-8949-30d0bb9777d7",
+  "quelle_id": "Ben 34",
+  "dokumenten_id": "Ben 34-198-9",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Iohannes Baptista",
+  "feier": "Messe",
+  "textinitium": "De ventre",
+  "bibliographischerverweis": "AMS 119",
+  "druckausgabe": "",
+  "zeilenstart": "9",
+  "foliostart": "198",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "198v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

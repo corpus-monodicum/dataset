@@ -1,0 +1,41 @@
+{
+  "id": "d3a1a1bb-2ebf-46b9-8f77-f94105ec1ef3",
+  "quelle_id": "Pa 909",
+  "dokumenten_id": "Pa 909-39v-1",
+  "gattung1": "Tropus",
+  "gattung2": "Offertorium-Tropus",
+  "festtag": "Iohannes Baptista",
+  "feier": "Messe",
+  "textinitium": "Iohannes est hic ... de quo canite",
+  "bibliographischerverweis": "Iustus ut palma off 9 A (CT X)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "1",
+  "foliostart": "39v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "Iustus ut palma (Off.)",
+    "Endseite": "39v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Iustus ut palma off",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "cb811e58-45a9-4e03-997d-e71060458ae3",
+  "quelle_id": "Pa 14452",
+  "dokumenten_id": "Pa 14452-163v-5",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Inventio crucis",
+  "feier": "Messe",
+  "textinitium": "Laudes crucis",
+  "bibliographischerverweis": "AH 54, 120",
+  "druckausgabe": "CM III",
+  "zeilenstart": "5",
+  "foliostart": "163v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "165",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Laetabitur",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

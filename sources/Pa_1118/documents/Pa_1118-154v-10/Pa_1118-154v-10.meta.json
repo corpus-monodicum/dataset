@@ -1,0 +1,41 @@
+{
+  "id": "a5fd9994-f4fc-4eb4-8a5d-a43ce00779e5",
+  "quelle_id": "Pa 1118",
+  "dokumenten_id": "Pa 1118-154v-10",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Nativitas domini",
+  "feier": "",
+  "textinitium": "Beata tu virgo",
+  "bibliographischerverweis": "AH 7, 113; AH 53, 110",
+  "druckausgabe": "",
+  "zeilenstart": "10",
+  "foliostart": "154v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "155",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "13",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Cignea",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

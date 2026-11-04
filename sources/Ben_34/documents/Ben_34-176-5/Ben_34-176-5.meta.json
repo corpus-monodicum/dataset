@@ -1,0 +1,41 @@
+{
+  "id": "6a824417-20eb-4efe-b7b0-a8eb0731fcd1",
+  "quelle_id": "Ben 34",
+  "dokumenten_id": "Ben 34-176-5",
+  "gattung1": "Sanctus",
+  "gattung2": "tropiert",
+  "festtag": "Dedicatio ecclesiae",
+  "feier": "Messe",
+  "textinitium": "Caelestia sidera",
+  "bibliographischerverweis": "CT VII, 111: A 1 2 3; CT VII, 48: 1 2 3 4a 4b 5 (= CT VII, 48, versio IV)",
+  "druckausgabe": "",
+  "zeilenstart": "5",
+  "foliostart": "176",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "176v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "Thannabaur 197",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509504",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

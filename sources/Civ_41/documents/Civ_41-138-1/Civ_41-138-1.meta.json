@@ -1,0 +1,41 @@
+{
+  "id": "8bdac2d5-f7e3-4a02-9ec6-96640c2b043b",
+  "quelle_id": "Civ 41",
+  "dokumenten_id": "Civ 41-138-1",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "Pascha",
+  "feier": "Matutin",
+  "textinitium": "Alleluia alleluia alleluia",
+  "bibliographischerverweis": "CAO 1023",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "1",
+  "foliostart": "138",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "138",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Civ 41-138-1S",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Easter play / Osterspiel",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

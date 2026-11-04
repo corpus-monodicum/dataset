@@ -1,0 +1,41 @@
+{
+  "id": "92e8853b-a2f8-47a4-993e-a78c69e1ceaa",
+  "quelle_id": "Mod 7",
+  "dokumenten_id": "Mod 7-7v-5",
+  "gattung1": "Kyrie",
+  "gattung2": "tropiert",
+  "festtag": "Nativitas domini",
+  "feier": "3. Messe",
+  "textinitium": "Omnipotens genitor",
+  "bibliographischerverweis": "AH 47, 3: 1A 1B 1C 2A 2B <2C> 3A 3B",
+  "druckausgabe": "",
+  "zeilenstart": "5",
+  "foliostart": "7v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "8",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "Melnicki 39",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509501",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

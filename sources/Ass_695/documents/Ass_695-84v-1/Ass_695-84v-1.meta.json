@@ -1,0 +1,41 @@
+{
+  "id": "171d3040-b3ab-46b8-9371-511e5c5367ae",
+  "quelle_id": "Ass 695",
+  "dokumenten_id": "Ass 695-84v-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Sancta crux",
+  "feier": "Messe",
+  "textinitium": "Salve crux sancta arbor",
+  "bibliographischerverweis": "AH 53, 82",
+  "druckausgabe": "CM III",
+  "zeilenstart": "1",
+  "foliostart": "84v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "84v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Dulce lignum",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

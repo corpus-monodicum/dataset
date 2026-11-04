@@ -1,0 +1,41 @@
+{
+  "id": "93705597-bca6-4305-9e3e-3955c868e357",
+  "quelle_id": "Mod 7",
+  "dokumenten_id": "Mod 7-15v-4",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Stephanus",
+  "feier": "Messe",
+  "textinitium": "Hodie beatus Stephanus",
+  "bibliographischerverweis": "Steph intr 8 A 2 B 3 C 4 D 5 E 6 A 89 D F 34 A 25 C 26 D (CT I)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "4",
+  "foliostart": "15v",
+  "kommentar": "Elemente 2, 3, 4, 5 und 6 radiert",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Etenim",
+    "Endseite": "16",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "Abschnitt im Inneren fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Steph intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

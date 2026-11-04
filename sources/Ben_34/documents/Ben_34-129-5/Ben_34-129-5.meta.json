@@ -1,0 +1,41 @@
+{
+  "id": "fa5b88dc-ad70-465e-a301-68f5e43df30d",
+  "quelle_id": "Ben 34",
+  "dokumenten_id": "Ben 34-129-5",
+  "gattung1": "Kyrie",
+  "gattung2": "tropiert",
+  "festtag": "Feria II post Pascha",
+  "feier": "Messe",
+  "textinitium": "Auctor caelorum",
+  "bibliographischerverweis": "AH 47, 109: 1A 1B 1C 2A 2B 2C 3A 3B 3C",
+  "druckausgabe": "",
+  "zeilenstart": "5",
+  "foliostart": "129",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "129v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "Melnicki 52",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509501",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

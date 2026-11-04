@@ -1,0 +1,41 @@
+{
+  "id": "d2108270-66d7-4b17-bac4-e6554e0fe0d9",
+  "quelle_id": "Pa 1118",
+  "dokumenten_id": "Pa 1118-213v-11",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Martialis",
+  "feier": "",
+  "textinitium": "Concelebremus",
+  "bibliographischerverweis": "AH 7, 166",
+  "druckausgabe": "",
+  "zeilenstart": "11",
+  "foliostart": "213v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "214v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Concelebremus",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

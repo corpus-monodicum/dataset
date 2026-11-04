@@ -1,0 +1,41 @@
+{
+  "id": "dd849e03-1c29-4fd0-abe9-cbe08939c2cd",
+  "quelle_id": "RoC 1741",
+  "dokumenten_id": "RoC 1741-83-2",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Octava Paschae",
+  "feier": "Messe",
+  "textinitium": "Eia recolamus ... piis",
+  "bibliographischerverweis": "AH 53, 16",
+  "druckausgabe": "",
+  "zeilenstart": "2",
+  "foliostart": "83",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "84v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Eia turma",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

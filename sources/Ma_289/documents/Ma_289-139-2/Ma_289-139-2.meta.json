@@ -1,0 +1,41 @@
+{
+  "id": "55bbb7d9-5012-423a-ace2-86a58f11229e",
+  "quelle_id": "Ma 289",
+  "dokumenten_id": "Ma 289-139-2",
+  "gattung1": "Lied",
+  "gattung2": "Benedicamus",
+  "festtag": "Pentecoste",
+  "feier": "",
+  "textinitium": "Ad honorem sempiterni",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "2",
+  "foliostart": "139",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Konstantin Voigt",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "139",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

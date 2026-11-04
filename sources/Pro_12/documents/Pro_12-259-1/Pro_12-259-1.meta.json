@@ -1,0 +1,41 @@
+{
+  "id": "f0d38703-e5c4-4b4f-8759-d50e019521f7",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-259-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Iohannes Evangelista",
+  "feier": "Messe",
+  "textinitium": "Organicis ... qui in suis",
+  "bibliographischerverweis": "AH 53, 242",
+  "druckausgabe": "CM III",
+  "zeilenstart": "1",
+  "foliostart": "259",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "259v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Iustus ut palma maior",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

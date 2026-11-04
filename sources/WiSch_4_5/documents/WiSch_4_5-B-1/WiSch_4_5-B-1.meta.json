@@ -1,0 +1,41 @@
+{
+  "id": "cd0fde62-2554-4594-bde8-c384ca0f273a",
+  "quelle_id": "WiSch 4/5",
+  "dokumenten_id": "WiSch 4/5-B-1",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Ascensio domini",
+  "feier": "Messe",
+  "textinitium": "Cum dominus",
+  "bibliographischerverweis": "Ascens intr 11 A 12 B 13 C D 14 A (CT III)",
+  "druckausgabe": "II-2",
+  "zeilenstart": "1",
+  "foliostart": "B",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "(Viri Galilaei Intr.)",
+    "Endseite": "B",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Ascens intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "17727ef0-b29c-4b90-b06f-8f66e4e81de8",
+  "quelle_id": "Pa 778",
+  "dokumenten_id": "Pa 778-100-5",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Feria II post Pentecosten",
+  "feier": "Messe",
+  "textinitium": "Eia musa",
+  "bibliographischerverweis": "AH 53, 75",
+  "druckausgabe": "",
+  "zeilenstart": "5",
+  "foliostart": "100",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "101",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "O alma minor",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

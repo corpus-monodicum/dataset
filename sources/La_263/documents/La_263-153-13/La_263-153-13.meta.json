@@ -1,0 +1,41 @@
+{
+  "id": "9e55612b-942d-4ec5-998e-0a62c7303d86",
+  "quelle_id": "La 263",
+  "dokumenten_id": "La 263-153-13",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "",
+  "feier": "",
+  "textinitium": "Hoc argento",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "13",
+  "foliostart": "153",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "153",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "La 263-151-18S",
+    "Endzeile": "16",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "Ende fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "Joseph and his brothers",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

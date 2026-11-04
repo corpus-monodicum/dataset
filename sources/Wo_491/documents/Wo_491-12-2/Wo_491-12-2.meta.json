@@ -1,0 +1,41 @@
+{
+  "id": "f2861d8f-ecaf-4236-bbc7-88470bf5b850",
+  "quelle_id": "Wo 491",
+  "dokumenten_id": "Wo 491-12-2",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Nativitas domini",
+  "feier": "3. Messe",
+  "textinitium": "Puer natus est nobis",
+  "bibliographischerverweis": "AMS 11",
+  "druckausgabe": "II-2",
+  "zeilenstart": "2",
+  "foliostart": "12",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "12",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

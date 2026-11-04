@@ -1,0 +1,25 @@
+{
+  "id": "Pa 903",
+  "quellensigle": "Pa 903",
+  "herkunftsregion": "Quellen aquitanischer Herkunft",
+  "herkunftsort": "St. Yrieix",
+  "herkunftsinstitution": "",
+  "ordenstradition": "",
+  "quellentyp": "Graduale, Processionale, Tropar, Kyriale, Sequentiar",
+  "bibliotheksort": "Paris",
+  "bibliothek": "Bibliothèque nationale de France",
+  "bibliothekssignatur": "Lat. 903",
+  "kommentar": "",
+  "datierung": "11. Jh",
+  "status": "",
+  "jahrhundert": "11.",
+  "manifest": "",
+  "foliooffset": "pageNr+17",
+  "publish": "all",
+  "cantus_siglum": "Pa 903",
+  "cantus_century": "11.",
+  "dataset_external_files": {
+    "beschreibung": "Pa_903.description.md",
+    "notationsdokumentation": "notation/Pa_903.notation.md"
+  }
+}

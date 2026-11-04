@@ -1,0 +1,41 @@
+{
+  "id": "d3e4c86f-7994-4949-a77e-709ce9809b6c",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-157-4a",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominica V post Pascha",
+  "feier": "Messe",
+  "textinitium": "Dic nobis quibus*",
+  "bibliographischerverweis": "AH 53, 37",
+  "druckausgabe": "CM III",
+  "zeilenstart": "4",
+  "foliostart": "157",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "157",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Romana",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

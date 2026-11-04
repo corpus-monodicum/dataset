@@ -1,0 +1,41 @@
+{
+  "id": "6aacb3c8-c8fe-4f14-a949-5d9f95be2e31",
+  "quelle_id": "Pa 1119",
+  "dokumenten_id": "Pa 1119-92v-2",
+  "gattung1": "Gloria",
+  "gattung2": "tropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Laus tua deus",
+  "bibliographischerverweis": "CT XII, 38: 1 2 3 5 35 29 6 17 8 36 30 37",
+  "druckausgabe": "",
+  "zeilenstart": "2",
+  "foliostart": "92v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "93v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "Bosse 39",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509502",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "16bf459a-12f4-4414-ba6b-d507c708e0cb",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-166-12",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "",
+  "feier": "",
+  "textinitium": "Vexilla martyrum",
+  "bibliographischerverweis": "AH 7, 211",
+  "druckausgabe": "",
+  "zeilenstart": "12",
+  "foliostart": "166",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "166v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "13",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Vexilla martyrum",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

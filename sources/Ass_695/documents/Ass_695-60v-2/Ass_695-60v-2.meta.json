@@ -1,0 +1,41 @@
+{
+  "id": "1c0ba1ea-166d-4336-855d-457a9c2cd084",
+  "quelle_id": "Ass 695",
+  "dokumenten_id": "Ass 695-60v-2",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Nativitas domini",
+  "feier": "1. Messe",
+  "textinitium": "Nato canunt omnia",
+  "bibliographischerverweis": "AH 53, 24",
+  "druckausgabe": "CM III",
+  "zeilenstart": "2",
+  "foliostart": "60v",
+  "kommentar": "In Galli cantu",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "61",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Multifarie",
+    "Überlieferungszustand": "Abschnitt im Inneren fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

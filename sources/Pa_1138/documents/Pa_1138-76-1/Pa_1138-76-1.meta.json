@@ -1,0 +1,41 @@
+{
+  "id": "75819841-880e-43cb-8c39-695a4d6ae751",
+  "quelle_id": "Pa 1138",
+  "dokumenten_id": "Pa 1138-76-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Pascha",
+  "feier": "",
+  "textinitium": "Iam turma caelica",
+  "bibliographischerverweis": "AH 7, 42",
+  "druckausgabe": "",
+  "zeilenstart": "1",
+  "foliostart": "76",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "76",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Iubilate",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

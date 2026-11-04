@@ -1,0 +1,41 @@
+{
+  "id": "d81f1f6d-1a16-4384-8339-488950e1465e",
+  "quelle_id": "Tsa 135",
+  "dokumenten_id": "Tsa 135-35v-7",
+  "gattung1": "Agnus",
+  "gattung2": "tropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Mortis dira",
+  "bibliographischerverweis": "CT IV, 37: 1 A 2 B 3 C",
+  "druckausgabe": "",
+  "zeilenstart": "7",
+  "foliostart": "35v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "36",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "Schildbach 114",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509505",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

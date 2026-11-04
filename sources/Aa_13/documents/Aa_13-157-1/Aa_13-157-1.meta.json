@@ -1,0 +1,41 @@
+{
+  "id": "254326a3-ead7-4a1d-a49b-57e3b12e6f6a",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-157-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Nativitas domini",
+  "feier": "1. Messe",
+  "textinitium": "Grates nunc omnes",
+  "bibliographischerverweis": "AH 53, 10",
+  "druckausgabe": "CM III",
+  "zeilenstart": "1",
+  "foliostart": "157",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "157",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Ostende minor",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "A",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

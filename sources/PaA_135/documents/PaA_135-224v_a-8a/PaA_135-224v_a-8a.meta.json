@@ -1,0 +1,41 @@
+{
+  "id": "d946585d-3bed-4fae-a99d-df559ba0bf30",
+  "quelle_id": "PaA 135",
+  "dokumenten_id": "PaA 135-224v a-8a",
+  "gattung1": "Credo",
+  "gattung2": "untropiert",
+  "festtag": "Scrutinia",
+  "feier": "Messe",
+  "textinitium": "Credo in unum deum*",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "8",
+  "foliostart": "224v a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "224v a",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "Credo",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

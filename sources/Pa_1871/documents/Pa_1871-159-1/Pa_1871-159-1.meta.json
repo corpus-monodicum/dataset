@@ -1,0 +1,41 @@
+{
+  "id": "449b9e82-4655-412a-b55b-143f5338576d",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-159-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Michael",
+  "feier": "Messe",
+  "textinitium": "Ad celebres rex",
+  "bibliographischerverweis": "AH 7, 178; AH 53, 190",
+  "druckausgabe": "",
+  "zeilenstart": "1",
+  "foliostart": "159",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "159v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Mater sequentiarum",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

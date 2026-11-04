@@ -1,0 +1,41 @@
+{
+  "id": "cdaa465e-5f30-4c02-ad2a-59002997290d",
+  "quelle_id": "Or 201",
+  "dokumenten_id": "Or 201-179-5",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Nicolaus",
+  "feier": "Vesper",
+  "textinitium": "Homo fame",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "5",
+  "foliostart": "179",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "179",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Or 201-176-1S",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Nicholas play: The Dowry",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

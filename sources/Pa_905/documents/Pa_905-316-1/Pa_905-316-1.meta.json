@@ -1,0 +1,41 @@
+{
+  "id": "bc455dd0-3b77-42e6-9102-1a281cf1c2e2",
+  "quelle_id": "Pa 905",
+  "dokumenten_id": "Pa 905-316-1",
+  "gattung1": "Agnus",
+  "gattung2": "untropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Agnus dei",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "1",
+  "foliostart": "316",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Charles M. Atkinson",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "316",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "Schildbach 239",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509505",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "Nachtrag aus dem 15. Jh.",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

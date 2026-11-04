@@ -1,0 +1,303 @@
+{
+  "type": "cm-manuscript-export",
+  "schemaVersion": 2,
+  "exportedAt": "2026-10-09T16:53:58.347Z",
+  "exportedManuscripts": [
+    "Ba 12"
+  ],
+  "data": {
+    "personalTables": [
+      {
+        "id": "t_c77a9665-a7de-4087-a392-e26a73df3344",
+        "name": "Ba 12",
+        "source": "Ba 12",
+        "notes": "",
+        "patterns": [],
+        "rows": [
+          {
+            "pattern": "*",
+            "customId": "10",
+            "notes": ""
+          },
+          {
+            "pattern": "[*d]",
+            "customId": "20",
+            "notes": ""
+          },
+          {
+            "pattern": "*dd",
+            "customId": "30",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u]",
+            "customId": "40",
+            "notes": ""
+          },
+          {
+            "pattern": "[*ud]",
+            "customId": "41",
+            "notes": ""
+          },
+          {
+            "pattern": "[*udu]",
+            "customId": "42",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u]dd",
+            "customId": "43",
+            "notes": ""
+          },
+          {
+            "pattern": "*uu",
+            "customId": "50",
+            "notes": ""
+          },
+          {
+            "pattern": "*u[ud]",
+            "customId": "51",
+            "notes": ""
+          },
+          {
+            "pattern": "*SeS",
+            "customId": "61",
+            "notes": ""
+          },
+          {
+            "pattern": "[*dL]",
+            "customId": "10+/20-",
+            "notes": ""
+          },
+          {
+            "pattern": "[*ddL]",
+            "customId": "20+",
+            "notes": ""
+          },
+          {
+            "pattern": "[*udL]",
+            "customId": "40+",
+            "notes": ""
+          }
+        ],
+        "isPublished": true
+      }
+    ],
+    "regions": {
+      "Ba 12_46r": [
+        {
+          "id": "r_cc8c1cc8-31ca-41d5-9fe7-bfdfd0385fdb",
+          "name": "Line 13",
+          "points": "13.12,75.48 70.22,75.48 70.22,81.93 13.12,81.93"
+        }
+      ],
+      "Ba 12_46v": [
+        {
+          "id": "r_e66412a3-417c-42be-8d08-c79caed4065e",
+          "name": "Line 1",
+          "points": "35.59,11.47 96.60,11.47 96.60,17.68 35.59,17.68"
+        },
+        {
+          "id": "r_7fa1b1ad-7d66-4d6f-bca3-11926481cecb",
+          "name": "Line 2",
+          "points": "35.54,17.02 96.67,17.02 96.67,23.05 35.54,23.05"
+        },
+        {
+          "id": "r_113ba4bf-7b71-4110-9f0b-b6186f426efc",
+          "name": "Line 4",
+          "points": "35.29,28.07 97.07,28.07 97.07,34.57 35.29,34.57"
+        },
+        {
+          "id": "r_8c809d89-e919-4418-bff3-9a5af34d3d5b",
+          "name": "Line 6",
+          "points": "35.23,39.48 96.86,39.48 96.86,45.60 35.23,45.60"
+        },
+        {
+          "id": "r_bd55970f-1af9-4891-bf89-c08eb865a215",
+          "name": "Line 8",
+          "points": "35.33,50.00 96.88,50.00 96.88,56.83 35.33,56.83"
+        }
+      ]
+    },
+    "regionItems": {
+      "r_cc8c1cc8-31ca-41d5-9fe7-bfdfd0385fdb": [
+        {
+          "id": "i_00a67246-b254-4d2b-82e1-ed0c497bc834",
+          "pattern": "[*d]",
+          "points": "44.10,75.69 46.70,75.69 46.70,78.01 44.10,78.01",
+          "linkData": {
+            "sysId": "Ba 12-46-12|46r|13|ua-|C5-B4"
+          },
+          "variant": "a"
+        },
+        {
+          "id": "i_c9757a95-50bf-48b1-a342-95be15ebd9c6",
+          "pattern": "*dd",
+          "points": "57.94,75.90 60.25,75.90 60.25,78.39 57.94,78.39",
+          "linkData": {
+            "sysId": "Ba 12-46-12|46r|13|o|A4-G4-F4"
+          },
+          "variant": ""
+        }
+      ],
+      "r_e66412a3-417c-42be-8d08-c79caed4065e": [
+        {
+          "id": "i_2d1e09ba-41eb-4256-afde-4da2bbfa91a1",
+          "pattern": "[*udu]",
+          "points": "87.10,13.26 90.81,13.26 90.81,15.78 87.10,15.78",
+          "linkData": {
+            "sysId": "Ba 12-46v-1|46v|1|tor|D4-F4-D4-F4"
+          },
+          "variant": ""
+        }
+      ],
+      "r_7fa1b1ad-7d66-4d6f-bca3-11926481cecb": [
+        {
+          "id": "i_a8dc01b4-942a-451f-9e91-d78703e7448f",
+          "pattern": "[*d]",
+          "points": "49.05,18.07 51.81,18.07 51.81,20.21 49.05,20.21",
+          "linkData": {
+            "sysId": "Ba 12-46v-1|46v|2|sa-|D4-C4"
+          },
+          "variant": "b"
+        },
+        {
+          "id": "i_b62e7348-e1c6-49d7-9789-c1fa80bc7fca",
+          "pattern": "[*u]",
+          "points": "51.81,17.12 55.01,17.12 55.01,20.07 51.81,20.07",
+          "linkData": {
+            "sysId": "Ba 12-46v-1|46v|2|cra-|D4-F4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_1908ca4f-72d8-4a4a-89b8-8a399b31cf9c",
+          "pattern": "[*dL]",
+          "points": "57.95,17.15 60.78,17.15 60.78,19.89 57.95,19.89",
+          "linkData": {
+            "sysId": "Ba 12-46v-1|46v|2|or-|F4-D4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_2a51353e-585a-405c-8a53-f3177617c857",
+          "pattern": "*",
+          "points": "62.01,18.72 64.31,18.72 64.31,20.44 62.01,20.44",
+          "linkData": {
+            "sysId": "Ba 12-46v-1|46v|2|bis|C4"
+          },
+          "variant": "b"
+        },
+        {
+          "id": "i_acf8cc7f-515a-45f4-a39b-3832589cf9f2",
+          "pattern": "*u[ud]",
+          "points": "64.91,17.07 68.93,17.07 68.93,19.78 64.91,19.78",
+          "linkData": {
+            "sysId": "Ba 12-46v-1|46v|2|red-|E4-F4-G4-F4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_e6615c1a-c004-4bfe-ae72-45404d33a3d5",
+          "pattern": "[*u]",
+          "points": "83.78,17.30 87.13,17.30 87.13,19.92 83.78,19.92",
+          "linkData": {
+            "sysId": "Ba 12-46v-1|46v|2|Ie-|D4-F4"
+          },
+          "variant": ""
+        }
+      ],
+      "r_113ba4bf-7b71-4110-9f0b-b6186f426efc": [
+        {
+          "id": "i_8694e61c-adfa-4a64-8d62-4996b8e27f94",
+          "pattern": "*uu",
+          "points": "56.58,28.68 60.60,28.68 60.60,32.14 56.58,32.14",
+          "linkData": {
+            "sysId": "Ba 12-46v-1|46v|4|qui|E4-F4-G4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_f7a52618-8300-466d-8d24-9fd9314cbd0d",
+          "pattern": "[*ud]",
+          "points": "62.92,29.44 66.31,29.44 66.31,31.82 62.92,31.82",
+          "linkData": {
+            "sysId": "Ba 12-46v-1|46v|4|tus|E4-F4-D4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_664aedce-b085-430a-9ab9-15be56a0921f",
+          "pattern": "*SeS",
+          "points": "74.83,29.35 77.85,29.35 77.85,31.03 74.83,31.03",
+          "linkData": {
+            "sysId": "Ba 12-46v-1|46v|4|mi-|F4-F4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_33bae1ab-7e5d-43e9-859d-c0c7d0819ee7",
+          "pattern": "[*u]dd",
+          "points": "82.45,28.90 86.67,28.90 86.67,32.08 82.45,32.08",
+          "linkData": {
+            "sysId": "Ba 12-46v-1|46v|4|do-|F4-G4-F4-E4"
+          },
+          "variant": ""
+        }
+      ],
+      "r_8c809d89-e919-4418-bff3-9a5af34d3d5b": [
+        {
+          "id": "i_17eaf7be-0a95-48da-a2e1-313654cf1d04",
+          "pattern": "[*ddL]",
+          "points": "63.69,40.53 66.10,40.53 66.10,43.49 63.69,43.49",
+          "linkData": {
+            "sysId": "Ba 12-46v-1|46v|6|ei-|F4-D4-C4"
+          },
+          "variant": ""
+        }
+      ],
+      "r_bd55970f-1af9-4891-bf89-c08eb865a215": [
+        {
+          "id": "i_889dc683-30c7-43ba-b5b6-dcfb302c33fa",
+          "pattern": "[*ddL]",
+          "points": "38.87,50.56 41.84,50.56 41.84,53.66 38.87,53.66",
+          "linkData": {
+            "sysId": "Ba 12-46v-1|46v|8|or-|A4-G4-F4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_4a6d0597-7169-4375-8a52-e913cf89bbc2",
+          "pattern": "[*dL]",
+          "points": "73.75,52.68 76.96,52.68 76.96,54.80 73.75,54.80",
+          "linkData": {
+            "sysId": "Ba 12-46v-1|46v|8|con-|D4-C4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_41977ab9-f98d-4eee-a0a2-c249797104c9",
+          "pattern": "[*udL]",
+          "points": "82.65,50.78 86.16,50.78 86.16,54.26 82.65,54.26",
+          "linkData": {
+            "sysId": "Ba 12-46v-1|46v|8|cor-|F4-A4-G4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_ad4d2642-e2f1-4f6d-8286-d5aeac6b7f3d",
+          "pattern": "*",
+          "points": "90.77,51.41 93.25,51.41 93.25,55.02 90.77,55.02",
+          "linkData": {
+            "sysId": "Ba 12-46v-1|46v|8|hu-|G4"
+          },
+          "variant": "a"
+        }
+      ]
+    },
+    "manualLines": {},
+    "iiifLinks": {
+      "Ba 12": "https://iiif.diamm.net/manifests/D-BAa-Msc-Lit-12/manifest.json"
+    }
+  }
+}

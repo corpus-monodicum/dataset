@@ -1,0 +1,41 @@
+{
+  "id": "7fc88a6f-ee06-4e58-81ab-9b07622579c7",
+  "quelle_id": "NY 905",
+  "dokumenten_id": "NY 905-I, 25-6",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Stephanus",
+  "feier": "Messe",
+  "textinitium": "Domine Iesu Christe",
+  "bibliographischerverweis": "Steph intr 16 A 17 B 18 C 19 D 20 E F 21 G 6 (CT I)",
+  "druckausgabe": "II-2",
+  "zeilenstart": "6",
+  "foliostart": "I, 25",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "NY 905-I, 26v-3",
+    "Endseite": "I, 26v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "I, 25",
+    "FestUndGattung": "Steph intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2dc706f4-a09e-43d8-8104-14ed9e546bcf",
+  "quelle_id": "Pa 905",
+  "dokumenten_id": "Pa 905-310-11",
+  "gattung1": "Kyrie",
+  "gattung2": "tropiert",
+  "festtag": "Barbara",
+  "feier": "Messe",
+  "textinitium": "Kyrie lux claritatis",
+  "bibliographischerverweis": "AH 47, 74",
+  "druckausgabe": "",
+  "zeilenstart": "11",
+  "foliostart": "310",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Charles M. Atkinson",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "311",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "Melnicki 48",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509501",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "Nachtrag aus dem 15. Jh.",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

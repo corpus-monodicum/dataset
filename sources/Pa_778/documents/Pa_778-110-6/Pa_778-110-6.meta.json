@@ -1,0 +1,41 @@
+{
+  "id": "892785d6-d235-485e-88d3-a3f2a9dbb9f5",
+  "quelle_id": "Pa 778",
+  "dokumenten_id": "Pa 778-110-6",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dedicatio ecclesiae",
+  "feier": "Messe",
+  "textinitium": "Ad templi ... devota persultat",
+  "bibliographischerverweis": "AH 7, 223; AH 53, 249",
+  "druckausgabe": "",
+  "zeilenstart": "6",
+  "foliostart": "110",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "111",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Eia turma",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

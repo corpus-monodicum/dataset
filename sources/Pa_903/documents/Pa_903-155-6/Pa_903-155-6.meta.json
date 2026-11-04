@@ -1,0 +1,41 @@
+{
+  "id": "76eb0554-d944-4d50-a11b-80e1d85e8fe1",
+  "quelle_id": "Pa 903",
+  "dokumenten_id": "Pa 903-155-6",
+  "gattung1": "Tropus",
+  "gattung2": "Offertorium-Tropus",
+  "festtag": "Ascensio domini",
+  "feier": "Messe",
+  "textinitium": "Elevatus est",
+  "bibliographischerverweis": "Ascens off 9 A 11 B 10 C 12 D (CT III)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "6",
+  "foliostart": "155",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "Viri Galilaei; Off.)",
+    "Endseite": "155",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Ascens off",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "f0c0170a-aab6-4220-bab3-a4cbb4c1947c",
+  "quelle_id": "Or 201",
+  "dokumenten_id": "Or 201-210-15b",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Epiphania",
+  "feier": "Matutin",
+  "textinitium": "Ture deum",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "15",
+  "foliostart": "210",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "210",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "Or 201-205-9S",
+    "Endzeile": "15",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Magi play",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

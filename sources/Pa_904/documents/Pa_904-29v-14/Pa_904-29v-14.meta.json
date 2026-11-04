@@ -1,0 +1,41 @@
+{
+  "id": "e2242586-7679-4d50-9b57-b69bb66353c6",
+  "quelle_id": "Pa 904",
+  "dokumenten_id": "Pa 904-29v-14",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Epiphania",
+  "feier": "Messe",
+  "textinitium": "Ecce puer adest",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "14",
+  "foliostart": "29v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "29v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Pa 904-29-2-aS",
+    "Endzeile": "17",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Magi play",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

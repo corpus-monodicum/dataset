@@ -1,0 +1,41 @@
+{
+  "id": "05a219aa-1a14-4ce1-b119-eec6b6876319",
+  "quelle_id": "Rou 222",
+  "dokumenten_id": "Rou 222-43v-8",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "Feria II post Pascha",
+  "feier": "Vesper",
+  "textinitium": "Et coegerunt illum",
+  "bibliographischerverweis": "CAO 2692",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "8",
+  "foliostart": "43v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "43v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Rou 222-43-19S",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Journey to Emmaus",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

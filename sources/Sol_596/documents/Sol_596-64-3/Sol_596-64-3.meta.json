@@ -1,0 +1,41 @@
+{
+  "id": "fbf7860b-dfef-4e37-ab5b-ce2d64f37a0a",
+  "quelle_id": "Sol 596",
+  "dokumenten_id": "Sol 596-64-3",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Sequenz",
+  "festtag": "Pascha",
+  "feier": "Matutin",
+  "textinitium": "Dic nobis Maria",
+  "bibliographischerverweis": "AH 54, 7 (Victimae paschali laudes)",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "3",
+  "foliostart": "64",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "64v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Sol 596-59-19S",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Easter play / Osterspiel",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

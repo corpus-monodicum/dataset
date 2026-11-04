@@ -1,0 +1,25 @@
+{
+  "id": "Abb 7",
+  "quellensigle": "Abb 7",
+  "herkunftsregion": "Quellen französischer Herkunft",
+  "herkunftsort": "Noyon",
+  "herkunftsinstitution": "Kathedrale Notre-Dame",
+  "ordenstradition": "",
+  "quellentyp": "Missale, Kyriale",
+  "bibliotheksort": "Abbeville",
+  "bibliothek": "Bibliothèque municipale",
+  "bibliothekssignatur": "Ms. 7",
+  "kommentar": "",
+  "datierung": "13. Jh Mitte",
+  "status": "",
+  "jahrhundert": "13.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "",
+  "cantus_century": "13.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Abb_7.description.md"
+  }
+}

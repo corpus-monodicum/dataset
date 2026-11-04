@@ -1,0 +1,41 @@
+{
+  "id": "9d0e8faa-18fe-49e7-8e24-b8e253ca980c",
+  "quelle_id": "Apt 17",
+  "dokumenten_id": "Apt 17-285-2",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Castor",
+  "feier": "Messe",
+  "textinitium": "Laudibus alternis niveae",
+  "bibliographischerverweis": "Os iusti intr 57 A 58 A 59 B 60 D 61 E F 52 A 53 B 54 C 55 D 56 G [mel VI D] 68 A 69 B 70 D 71 A 72 B 73 D 62 A 63 B 64 D 93 A 94 B 95 D (CT X)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "2",
+  "foliostart": "285",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "(Os iusti)",
+    "Endseite": "290",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Os iusti intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "10eeb17a-44c4-41f7-b2f9-178e0f36f342",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-230v-6",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Iohannes Baptista",
+  "feier": "Messe",
+  "textinitium": "Gloriosa dies ... processit*",
+  "bibliographischerverweis": "AH 53, 219",
+  "druckausgabe": "CM III",
+  "zeilenstart": "6",
+  "foliostart": "230v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "230v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Beatus vir qui timet minor",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

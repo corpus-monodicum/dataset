@@ -1,0 +1,41 @@
+{
+  "id": "1d9ae492-da72-4f04-b043-036d749496b0",
+  "quelle_id": "Lo 15102",
+  "dokumenten_id": "Lo 15102-210v-8",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "",
+  "feier": "",
+  "textinitium": "Ego cum meis",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "8",
+  "foliostart": "210v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "210v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Lo 15102-207-4S",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Ordo virtutum (The Play of the Virtues)",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

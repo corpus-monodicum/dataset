@@ -1,0 +1,41 @@
+{
+  "id": "3d01ae3d-625b-4d85-8f94-e1f214e6f7e9",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-298-a-17",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Exaltatio crucis",
+  "feier": "Messe",
+  "textinitium": "Salve crux arbor",
+  "bibliographischerverweis": "AH 54, 121",
+  "druckausgabe": "CM III",
+  "zeilenstart": "17",
+  "foliostart": "298-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "298v-a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Quoniam deus minor",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

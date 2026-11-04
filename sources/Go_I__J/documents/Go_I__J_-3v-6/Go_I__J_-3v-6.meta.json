@@ -1,0 +1,41 @@
+{
+  "id": "d5c1efa7-e44b-4a78-96d3-8168375afc1f",
+  "quelle_id": "Go I (J)",
+  "dokumenten_id": "Go I (J)-3v-6",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Stephanus",
+  "feier": "Messe",
+  "textinitium": "Domine Iesu Christe",
+  "bibliographischerverweis": "Steph intr 16 A 17 B 18 C 19 D 20 E 6 F (CT I)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "6",
+  "foliostart": "3v",
+  "kommentar": "Vieles ohne Notation; insgesamt noch einmal überprüfen",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "(Etenim)",
+    "Endseite": "4v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Steph intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

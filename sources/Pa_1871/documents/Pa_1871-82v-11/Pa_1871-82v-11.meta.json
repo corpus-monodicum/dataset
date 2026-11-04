@@ -1,0 +1,41 @@
+{
+  "id": "d633293c-36ee-4eb3-a8f3-b6125676b6d0",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-82v-11",
+  "gattung1": "Sequenz",
+  "gattung2": "Textlos",
+  "festtag": "Ascensio domini",
+  "feier": "Messe",
+  "textinitium": "Alleluia",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "11",
+  "foliostart": "82v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "82v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "14",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Occidentana",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "Rex omnipotens",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

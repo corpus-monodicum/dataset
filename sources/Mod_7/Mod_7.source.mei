@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Mod 7: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Michael Klaper</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Ordinariumsgesänge)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Gunilla Iversen</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Ritva Maria Jacobsson</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="Mod_7">
+        <identifier type="siglum">Mod 7</identifier>
+        <identifier type="cantus">Mod 7</identifier>
+        <titleStmt>
+          <title>Mod 7</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Forlimpopoli</geogName>
+          <geogName role="origin-region">Quellen italienischer Herkunft</geogName>
+          <date>11. Jh – 12. Jh</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="103v">f. 103v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Mod 7-103v-11</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="104">f. 104</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Mod 7-104-1</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="104">f. 104</locus>
+            <title type="incipit">Tu es deus benignus</title>
+            <identifier type="dokumenten_id">Mod 7-104-3</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="104">f. 104</locus>
+            <title type="incipit">Salus et vita</title>
+            <identifier type="dokumenten_id">Mod 7-104-5</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="104">f. 104</locus>
+            <title type="incipit">Promissionis suae</title>
+            <identifier type="dokumenten_id">Mod 7-104-9</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="104v">f. 104v</locus>
+            <title type="incipit">Quem quaeritis in sepulchro</title>
+            <identifier type="dokumenten_id">Mod 7-104v-1</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="105">f. 105</locus>
+            <title type="incipit">Kyrie o theos</title>
+            <identifier type="dokumenten_id">Mod 7-105-3</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="105v">f. 105v</locus>
+            <title type="incipit">Pastor bone</title>
+            <identifier type="dokumenten_id">Mod 7-105v-8</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="108v">f. 108v</locus>
+            <title type="incipit">Ab increpatione</title>
+            <identifier type="dokumenten_id">Mod 7-108v-2</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="109">f. 109</locus>
+            <title type="incipit">Agios agios agios</title>
+            <identifier type="dokumenten_id">Mod 7-109-7</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus from="109">f. 109</locus>
+            <title type="incipit">Deus fortis ... Filius*</title>
+            <identifier type="dokumenten_id">Mod 7-109-9</identifier>
+          </contentItem>
+          <contentItem n="12">
+            <locus from="109v">f. 109v</locus>
+            <title type="incipit">Ad dexteram patris</title>
+            <identifier type="dokumenten_id">Mod 7-109v-9</identifier>
+          </contentItem>
+          <contentItem n="13">
+            <locus from="110">f. 110</locus>
+            <title type="incipit">Cunctipotens Christus</title>
+            <identifier type="dokumenten_id">Mod 7-110-11</identifier>
+          </contentItem>
+          <contentItem n="14">
+            <locus from="110">f. 110</locus>
+            <title type="incipit">Laus honor … regi nostro</title>
+            <identifier type="dokumenten_id">Mod 7-110-2</identifier>
+          </contentItem>
+          <contentItem n="15">
+            <locus from="112">f. 112</locus>
+            <title type="incipit">Aqua sapientiae</title>
+            <identifier type="dokumenten_id">Mod 7-112-4</identifier>
+          </contentItem>
+          <contentItem n="16">
+            <locus from="113">f. 113</locus>
+            <title type="incipit">Venite benedicti</title>
+            <identifier type="dokumenten_id">Mod 7-113-6</identifier>
+          </contentItem>
+          <contentItem n="17">
+            <locus from="118">f. 118</locus>
+            <title type="incipit">Clangite nunc</title>
+            <identifier type="dokumenten_id">Mod 7-118-3</identifier>
+          </contentItem>
+          <contentItem n="18">
+            <locus from="125">f. 125</locus>
+            <title type="incipit">Pro membris canit</title>
+            <identifier type="dokumenten_id">Mod 7-125-11</identifier>
+          </contentItem>
+          <contentItem n="19">
+            <locus from="128v">f. 128v</locus>
+            <title type="incipit">Vitae diro</title>
+            <identifier type="dokumenten_id">Mod 7-128v-1</identifier>
+          </contentItem>
+          <contentItem n="20">
+            <locus from="132">f. 132</locus>
+            <title type="incipit">Agmina perenniter</title>
+            <identifier type="dokumenten_id">Mod 7-132-3</identifier>
+          </contentItem>
+          <contentItem n="21">
+            <locus from="138">f. 138</locus>
+            <title type="incipit">Hodie redemptor</title>
+            <identifier type="dokumenten_id">Mod 7-138-8</identifier>
+          </contentItem>
+          <contentItem n="22">
+            <locus from="138v">f. 138v</locus>
+            <title type="incipit">Dominator deus</title>
+            <identifier type="dokumenten_id">Mod 7-138v-5</identifier>
+          </contentItem>
+          <contentItem n="23">
+            <locus from="14">f. 14</locus>
+            <title type="incipit">Deus fortis ... Filius</title>
+            <identifier type="dokumenten_id">Mod 7-14-5</identifier>
+          </contentItem>
+          <contentItem n="24">
+            <locus from="140v">f. 140v</locus>
+            <title type="incipit">Cuius in laude</title>
+            <identifier type="dokumenten_id">Mod 7-140v-8</identifier>
+          </contentItem>
+          <contentItem n="25">
+            <locus from="141">f. 141</locus>
+            <title type="incipit">Qui sedes … solus</title>
+            <identifier type="dokumenten_id">Mod 7-141-6</identifier>
+          </contentItem>
+          <contentItem n="26">
+            <locus from="143">f. 143</locus>
+            <title type="incipit">Hodie dominus in igne</title>
+            <identifier type="dokumenten_id">Mod 7-143-4</identifier>
+          </contentItem>
+          <contentItem n="27">
+            <locus from="143">f. 143</locus>
+            <title type="incipit">Canamus cuncti</title>
+            <identifier type="dokumenten_id">Mod 7-143-9</identifier>
+          </contentItem>
+          <contentItem n="28">
+            <locus from="144">f. 144</locus>
+            <title type="incipit">Laus tua deus*</title>
+            <identifier type="dokumenten_id">Mod 7-144-2</identifier>
+          </contentItem>
+          <contentItem n="29">
+            <locus from="148v">f. 148v</locus>
+            <title type="incipit">Hodie spiritus sanctus procedens</title>
+            <identifier type="dokumenten_id">Mod 7-148v-7</identifier>
+          </contentItem>
+          <contentItem n="30">
+            <locus from="149v">f. 149v</locus>
+            <title type="incipit">Sapientiam sanctorum</title>
+            <identifier type="dokumenten_id">Mod 7-149v-13</identifier>
+          </contentItem>
+          <contentItem n="31">
+            <locus from="15">f. 15</locus>
+            <title type="incipit">Qui sedes … solus</title>
+            <identifier type="dokumenten_id">Mod 7-15-6</identifier>
+          </contentItem>
+          <contentItem n="32">
+            <locus from="153v">f. 153v</locus>
+            <title type="incipit">Clara iam nobis</title>
+            <identifier type="dokumenten_id">Mod 7-153v-2</identifier>
+          </contentItem>
+          <contentItem n="33">
+            <locus from="158">f. 158</locus>
+            <title type="incipit">Hodie Simon</title>
+            <identifier type="dokumenten_id">Mod 7-158-4</identifier>
+          </contentItem>
+          <contentItem n="34">
+            <locus from="15v">f. 15v</locus>
+            <title type="incipit">Hodie beatus Stephanus</title>
+            <identifier type="dokumenten_id">Mod 7-15v-4</identifier>
+          </contentItem>
+          <contentItem n="35">
+            <locus from="160">f. 160</locus>
+            <title type="incipit">Scio cui credidi</title>
+            <identifier type="dokumenten_id">Mod 7-160-6</identifier>
+          </contentItem>
+          <contentItem n="36">
+            <locus from="165v">f. 165v</locus>
+            <title type="incipit">Lauream regni</title>
+            <identifier type="dokumenten_id">Mod 7-165v-13</identifier>
+          </contentItem>
+          <contentItem n="37">
+            <locus from="167v">f. 167v</locus>
+            <title type="incipit">Nos sinus ecclesiae matris</title>
+            <identifier type="dokumenten_id">Mod 7-167v-8</identifier>
+          </contentItem>
+          <contentItem n="38">
+            <locus from="171v">f. 171v</locus>
+            <title type="incipit">Gaude virgo gaude</title>
+            <identifier type="dokumenten_id">Mod 7-171v-7</identifier>
+          </contentItem>
+          <contentItem n="39">
+            <locus from="173v">f. 173v</locus>
+            <title type="incipit">Qui patris in caelo</title>
+            <identifier type="dokumenten_id">Mod 7-173v-5</identifier>
+          </contentItem>
+          <contentItem n="40">
+            <locus from="175v">f. 175v</locus>
+            <title type="incipit">Mihi autem</title>
+            <identifier type="dokumenten_id">Mod 7-175v-1</identifier>
+          </contentItem>
+          <contentItem n="41">
+            <locus from="175v">f. 175v</locus>
+            <title type="incipit">Auctor caelorum</title>
+            <identifier type="dokumenten_id">Mod 7-175v-2</identifier>
+          </contentItem>
+          <contentItem n="42">
+            <locus from="176">f. 176</locus>
+            <title type="incipit">Sanguine sacrati</title>
+            <identifier type="dokumenten_id">Mod 7-176-11</identifier>
+          </contentItem>
+          <contentItem n="43">
+            <locus from="176v">f. 176v</locus>
+            <title type="incipit">Laudes officii</title>
+            <identifier type="dokumenten_id">Mod 7-176v-1</identifier>
+          </contentItem>
+          <contentItem n="44">
+            <locus from="178">f. 178</locus>
+            <title type="incipit">Pax in caelo pax in terra</title>
+            <identifier type="dokumenten_id">Mod 7-178-10</identifier>
+          </contentItem>
+          <contentItem n="45">
+            <locus from="181v">f. 181v</locus>
+            <title type="incipit">Admirans vates</title>
+            <identifier type="dokumenten_id">Mod 7-181v-6</identifier>
+          </contentItem>
+          <contentItem n="46">
+            <locus from="19v">f. 19v</locus>
+            <title type="incipit">Gratia celsa dei</title>
+            <identifier type="dokumenten_id">Mod 7-19v-7</identifier>
+          </contentItem>
+          <contentItem n="47">
+            <locus from="202">f. 202</locus>
+            <title type="incipit">Benedicta sit sancta</title>
+            <identifier type="dokumenten_id">Mod 7-202-3</identifier>
+          </contentItem>
+          <contentItem n="48">
+            <locus from="204v">f. 204v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Mod 7-204v-8</identifier>
+          </contentItem>
+          <contentItem n="49">
+            <locus from="205">f. 205</locus>
+            <title type="incipit">Lux et origo</title>
+            <identifier type="dokumenten_id">Mod 7-205-1</identifier>
+          </contentItem>
+          <contentItem n="50">
+            <locus from="205">f. 205</locus>
+            <title type="incipit">Rex magne domine</title>
+            <identifier type="dokumenten_id">Mod 7-205-10</identifier>
+          </contentItem>
+          <contentItem n="51">
+            <locus from="205v">f. 205v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Mod 7-205v-10</identifier>
+          </contentItem>
+          <contentItem n="52">
+            <locus from="205v">f. 205v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Mod 7-205v-11</identifier>
+          </contentItem>
+          <contentItem n="53">
+            <locus from="206">f. 206</locus>
+            <title type="incipit">Quem patris ad dextram</title>
+            <identifier type="dokumenten_id">Mod 7-206-1</identifier>
+          </contentItem>
+          <contentItem n="54">
+            <locus from="206v">f. 206v</locus>
+            <title type="incipit">Laudatur trina maiestas</title>
+            <identifier type="dokumenten_id">Mod 7-206v-6</identifier>
+          </contentItem>
+          <contentItem n="55">
+            <locus from="207">f. 207</locus>
+            <title type="incipit">Quem cherubim atque seraphim</title>
+            <identifier type="dokumenten_id">Mod 7-207-2</identifier>
+          </contentItem>
+          <contentItem n="56">
+            <locus from="207">f. 207</locus>
+            <title type="incipit">Immortalis et verus</title>
+            <identifier type="dokumenten_id">Mod 7-207-9</identifier>
+          </contentItem>
+          <contentItem n="57">
+            <locus from="207v">f. 207v</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Mod 7-207v-3</identifier>
+          </contentItem>
+          <contentItem n="58">
+            <locus from="207v">f. 207v</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Mod 7-207v-6</identifier>
+          </contentItem>
+          <contentItem n="59">
+            <locus from="207v">f. 207v</locus>
+            <title type="incipit">Admirabilis splendor</title>
+            <identifier type="dokumenten_id">Mod 7-207v-9</identifier>
+          </contentItem>
+          <contentItem n="60">
+            <locus from="208">f. 208</locus>
+            <title type="incipit">Laudes deo ore pio</title>
+            <identifier type="dokumenten_id">Mod 7-208-3</identifier>
+          </contentItem>
+          <contentItem n="61">
+            <locus from="208">f. 208</locus>
+            <title type="incipit">Mundi fabricator</title>
+            <identifier type="dokumenten_id">Mod 7-208-9</identifier>
+          </contentItem>
+          <contentItem n="62">
+            <locus from="208v">f. 208v</locus>
+            <title type="incipit">Plasmatum populum</title>
+            <identifier type="dokumenten_id">Mod 7-208v-2</identifier>
+          </contentItem>
+          <contentItem n="63">
+            <locus from="208v">f. 208v</locus>
+            <title type="incipit">Altissimeque rector</title>
+            <identifier type="dokumenten_id">Mod 7-208v-9</identifier>
+          </contentItem>
+          <contentItem n="64">
+            <locus from="209">f. 209</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Mod 7-209-5</identifier>
+          </contentItem>
+          <contentItem n="65">
+            <locus from="209">f. 209</locus>
+            <title type="incipit">Pax in celo permanet</title>
+            <identifier type="dokumenten_id">Mod 7-209-8</identifier>
+          </contentItem>
+          <contentItem n="66">
+            <locus from="209v">f. 209v</locus>
+            <title type="incipit">Quem cives celestes</title>
+            <identifier type="dokumenten_id">Mod 7-209v-9</identifier>
+          </contentItem>
+          <contentItem n="67">
+            <locus from="210">f. 210</locus>
+            <title type="incipit">Ab ipso pueritiae</title>
+            <identifier type="dokumenten_id">Mod 7-210-12</identifier>
+          </contentItem>
+          <contentItem n="68">
+            <locus from="210">f. 210</locus>
+            <title type="incipit">Hodie amicus dei</title>
+            <identifier type="dokumenten_id">Mod 7-210-6</identifier>
+          </contentItem>
+          <contentItem n="69">
+            <locus from="210">f. 210</locus>
+            <title type="incipit">Hodie vas electionis</title>
+            <identifier type="dokumenten_id">Mod 7-210-8</identifier>
+          </contentItem>
+          <contentItem n="70">
+            <locus from="211">f. 211</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Mod 7-211-5</identifier>
+          </contentItem>
+          <contentItem n="71">
+            <locus from="211v">f. 211v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Mod 7-211v-11</identifier>
+          </contentItem>
+          <contentItem n="72">
+            <locus from="211v">f. 211v</locus>
+            <title type="incipit">Nobile apostolici</title>
+            <identifier type="dokumenten_id">Mod 7-211v-8</identifier>
+          </contentItem>
+          <contentItem n="73">
+            <locus from="212">f. 212</locus>
+            <title type="incipit">Qui sedes … miserere</title>
+            <identifier type="dokumenten_id">Mod 7-212-1</identifier>
+          </contentItem>
+          <contentItem n="74">
+            <locus from="212">f. 212</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Mod 7-212-10</identifier>
+          </contentItem>
+          <contentItem n="75">
+            <locus from="212">f. 212</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Mod 7-212-11</identifier>
+          </contentItem>
+          <contentItem n="76">
+            <locus from="212">f. 212</locus>
+            <title type="incipit">Exaudi domine</title>
+            <identifier type="dokumenten_id">Mod 7-212-2</identifier>
+          </contentItem>
+          <contentItem n="77">
+            <locus from="212">f. 212</locus>
+            <title type="incipit">Benigne pater</title>
+            <identifier type="dokumenten_id">Mod 7-212-7</identifier>
+          </contentItem>
+          <contentItem n="78">
+            <locus from="219">f. 219</locus>
+            <title type="incipit">Ecce omnes</title>
+            <identifier type="dokumenten_id">Mod 7-219-10</identifier>
+          </contentItem>
+          <contentItem n="79">
+            <locus from="219">f. 219</locus>
+            <title type="incipit">Laudantes lymphae</title>
+            <identifier type="dokumenten_id">Mod 7-219-3</identifier>
+          </contentItem>
+          <contentItem n="80">
+            <locus from="219">f. 219</locus>
+            <title type="incipit">Haec potens Christus</title>
+            <identifier type="dokumenten_id">Mod 7-219-6</identifier>
+          </contentItem>
+          <contentItem n="81">
+            <locus from="219v">f. 219v</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Mod 7-219v-11</identifier>
+          </contentItem>
+          <contentItem n="82">
+            <locus from="220">f. 220</locus>
+            <title type="incipit">Flagrans nam</title>
+            <identifier type="dokumenten_id">Mod 7-220-1</identifier>
+          </contentItem>
+          <contentItem n="83">
+            <locus from="220">f. 220</locus>
+            <title type="incipit">Laudat in excelsis</title>
+            <identifier type="dokumenten_id">Mod 7-220-10</identifier>
+          </contentItem>
+          <contentItem n="84">
+            <locus from="220">f. 220</locus>
+            <title type="incipit">Plurimorum sanctorum</title>
+            <identifier type="dokumenten_id">Mod 7-220-2</identifier>
+          </contentItem>
+          <contentItem n="85">
+            <locus from="220">f. 220</locus>
+            <title type="incipit">Hodie laetemur omnes</title>
+            <identifier type="dokumenten_id">Mod 7-220-7</identifier>
+          </contentItem>
+          <contentItem n="86">
+            <locus from="220v">f. 220v</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Mod 7-220v-7</identifier>
+          </contentItem>
+          <contentItem n="87">
+            <locus from="222">f. 222</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Mod 7-222-8</identifier>
+          </contentItem>
+          <contentItem n="88">
+            <locus from="222v">f. 222v</locus>
+            <title type="incipit">Rex aeterne pater</title>
+            <identifier type="dokumenten_id">Mod 7-222v-11</identifier>
+          </contentItem>
+          <contentItem n="89">
+            <locus from="222v">f. 222v</locus>
+            <title type="incipit">Quem pater in voce</title>
+            <identifier type="dokumenten_id">Mod 7-222v-6</identifier>
+          </contentItem>
+          <contentItem n="90">
+            <locus from="223">f. 223</locus>
+            <title type="incipit">Spiritus sancti</title>
+            <identifier type="dokumenten_id">Mod 7-223-2</identifier>
+          </contentItem>
+          <contentItem n="91">
+            <locus from="223">f. 223</locus>
+            <title type="incipit">Deus deorum creator</title>
+            <identifier type="dokumenten_id">Mod 7-223-3</identifier>
+          </contentItem>
+          <contentItem n="92">
+            <locus from="225">f. 225</locus>
+            <title type="incipit">Maiestas et potestas</title>
+            <identifier type="dokumenten_id">Mod 7-225-5</identifier>
+          </contentItem>
+          <contentItem n="93">
+            <locus from="225">f. 225</locus>
+            <title type="incipit">O lucis splendor</title>
+            <identifier type="dokumenten_id">Mod 7-225-7</identifier>
+          </contentItem>
+          <contentItem n="94">
+            <locus from="25">f. 25</locus>
+            <title type="incipit">Vultum tuum</title>
+            <identifier type="dokumenten_id">Mod 7-25-7</identifier>
+          </contentItem>
+          <contentItem n="95">
+            <locus from="27">f. 27</locus>
+            <title type="incipit">Pontifex bone</title>
+            <identifier type="dokumenten_id">Mod 7-27-10</identifier>
+          </contentItem>
+          <contentItem n="96">
+            <locus from="27">f. 27</locus>
+            <title type="incipit">Haec est dies valde</title>
+            <identifier type="dokumenten_id">Mod 7-27-9</identifier>
+          </contentItem>
+          <contentItem n="97">
+            <locus from="27v">f. 27v</locus>
+            <title type="incipit">Dominator deus*</title>
+            <identifier type="dokumenten_id">Mod 7-27v-2</identifier>
+          </contentItem>
+          <contentItem n="98">
+            <locus from="30">f. 30</locus>
+            <title type="incipit">Cui Abel iustus</title>
+            <identifier type="dokumenten_id">Mod 7-30-2</identifier>
+          </contentItem>
+          <contentItem n="99">
+            <locus from="33v">f. 33v</locus>
+            <title type="incipit">Agie deus altissime</title>
+            <identifier type="dokumenten_id">Mod 7-33v-7</identifier>
+          </contentItem>
+          <contentItem n="100">
+            <locus from="34">f. 34</locus>
+            <title type="incipit">Divini fuerat</title>
+            <identifier type="dokumenten_id">Mod 7-34-5</identifier>
+          </contentItem>
+          <contentItem n="101">
+            <locus from="3v">f. 3v</locus>
+            <title type="incipit">Exultate iusti</title>
+            <identifier type="dokumenten_id">Mod 7-3v-10</identifier>
+          </contentItem>
+          <contentItem n="102">
+            <locus from="40">f. 40</locus>
+            <title type="incipit">Laetabitur iustus</title>
+            <identifier type="dokumenten_id">Mod 7-40-12</identifier>
+          </contentItem>
+          <contentItem n="103">
+            <locus from="42">f. 42</locus>
+            <title type="incipit">Adest alma virgo parens</title>
+            <identifier type="dokumenten_id">Mod 7-42-8</identifier>
+          </contentItem>
+          <contentItem n="104">
+            <locus from="5">f. 5</locus>
+            <title type="incipit">Iam fulget</title>
+            <identifier type="dokumenten_id">Mod 7-5-4</identifier>
+          </contentItem>
+          <contentItem n="105">
+            <locus from="61">f. 61</locus>
+            <title type="incipit">Confessio</title>
+            <identifier type="dokumenten_id">Mod 7-61-9</identifier>
+          </contentItem>
+          <contentItem n="106">
+            <locus from="6v">f. 6v</locus>
+            <title type="incipit">Quem quaeritis in praesepe</title>
+            <identifier type="dokumenten_id">Mod 7-6v-11</identifier>
+          </contentItem>
+          <contentItem n="107">
+            <locus from="7v">f. 7v</locus>
+            <title type="incipit">Omnipotens genitor</title>
+            <identifier type="dokumenten_id">Mod 7-7v-5</identifier>
+          </contentItem>
+          <contentItem n="108">
+            <locus from="8">f. 8</locus>
+            <title type="incipit">Pax sempiterna</title>
+            <identifier type="dokumenten_id">Mod 7-8-3</identifier>
+          </contentItem>
+          <contentItem n="109">
+            <locus from="89">f. 89</locus>
+            <title type="incipit">Ingresso Iesu</title>
+            <identifier type="dokumenten_id">Mod 7-89-7</identifier>
+          </contentItem>
+          <contentItem n="110">
+            <locus from="92">f. 92</locus>
+            <title type="incipit">Nos autem gloriari</title>
+            <identifier type="dokumenten_id">Mod 7-92-11</identifier>
+          </contentItem>
+        </contents>
+        <notesStmt>
+          <annot type="description">
+            <ref target="Mod_7.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <classification>
+          <termList>
+            <term type="quellentyp">Graduale mit Tropen und Sequenzen, Kyriale</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">O.I.7</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">Modena</geogName>
+                <corpName>Biblioteca Capitolare</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

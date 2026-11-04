@@ -1,0 +1,41 @@
+{
+  "id": "562c8e13-cd1f-4dff-8fdd-55c3dc0db858",
+  "quelle_id": "SCan 7",
+  "dokumenten_id": "SCan 7-281v-6",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Martyres",
+  "feier": "Messe",
+  "textinitium": "Agone triumphali",
+  "bibliographischerverweis": "AH 53, 229",
+  "druckausgabe": "",
+  "zeilenstart": "6",
+  "foliostart": "281v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Gionata Brusa",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "282v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Vox exsultationis",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

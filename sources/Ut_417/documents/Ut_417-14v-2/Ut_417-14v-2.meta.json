@@ -1,0 +1,41 @@
+{
+  "id": "ac394df2-51a4-4989-80ba-515d841cd1c7",
+  "quelle_id": "Ut 417",
+  "dokumenten_id": "Ut 417-14v-2",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Trinitas",
+  "feier": "Messe",
+  "textinitium": "Benedicta semper sancta",
+  "bibliographischerverweis": "AH 53, 81",
+  "druckausgabe": "",
+  "zeilenstart": "2",
+  "foliostart": "14v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "15",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Benedicta",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

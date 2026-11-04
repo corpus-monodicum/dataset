@@ -1,0 +1,41 @@
+{
+  "id": "9a87474e-c371-4e3d-a1a5-1d5ef236bb45",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-152v-9",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Virgines",
+  "feier": "Messe",
+  "textinitium": "Gaude mater ecclesia materna",
+  "bibliographischerverweis": "AH deest",
+  "druckausgabe": "CM III",
+  "zeilenstart": "9",
+  "foliostart": "152v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "152v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "15",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "Ende fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

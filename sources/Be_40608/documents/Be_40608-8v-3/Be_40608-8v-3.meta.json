@@ -1,0 +1,41 @@
+{
+  "id": "3fcd5a14-6de6-4735-b17e-53d7be4e1c72",
+  "quelle_id": "Be 40608",
+  "dokumenten_id": "Be 40608-8v-3",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Andreas",
+  "feier": "Messe",
+  "textinitium": "Mihi autem",
+  "bibliographischerverweis": "AMS 160",
+  "druckausgabe": "",
+  "zeilenstart": "3",
+  "foliostart": "8v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "8v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1c4251b1-be3f-4366-868e-6187bc5f497a",
+  "quelle_id": "Ut 417",
+  "dokumenten_id": "Ut 417-34v-3",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Nicolaus",
+  "feier": "Messe",
+  "textinitium": "Laude Christo debita",
+  "bibliographischerverweis": "AH 55, 265",
+  "druckausgabe": "",
+  "zeilenstart": "3",
+  "foliostart": "34v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "35v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

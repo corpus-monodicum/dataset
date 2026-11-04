@@ -1,0 +1,41 @@
+{
+  "id": "774d2eb4-1a7c-4ad9-af1e-f9edf587f734",
+  "quelle_id": "Ass 695",
+  "dokumenten_id": "Ass 695-102-2",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominicae dies",
+  "feier": "Messe",
+  "textinitium": "Stans a longe qui plurima",
+  "bibliographischerverweis": "AH 53, 93",
+  "druckausgabe": "CM III",
+  "zeilenstart": "2",
+  "foliostart": "102",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "102",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Metensis minor",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

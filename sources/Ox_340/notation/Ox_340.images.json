@@ -1,0 +1,30 @@
+{
+  "source": "Ox_340",
+  "images": [
+    {
+      "file": "patterns/patterns.svg",
+      "kind": "patterns",
+      "media_type": "image/svg+xml",
+      "sha256": "798666c753718cb6787cbb3d920484c5da0790b4cdacc55bab031f606f6ade3f",
+      "bytes": 27200,
+      "shows": "Ox 340: Muster &amp; Entsprechungen",
+      "embeds_raster_image": false,
+      "source": {
+        "siglum": "Ox 340",
+        "library": "Bodleian Library",
+        "place": "Oxford",
+        "shelfmark": "MS. Canon. Liturg. 340",
+        "iiif_manifests": [
+          "https://iiif.bodleian.ox.ac.uk/iiif/manifest/88020db6-3258-4ec9-9b18-1f5b35b63149.json"
+        ],
+        "online_catalogue": []
+      },
+      "rights": {
+        "status": "not checked",
+        "library_terms_url": null,
+        "statement": null,
+        "note": "The images are crops of manuscript images of the library named under `source`; the rights of the library are not settled by the licence of this dataset (see docs/LICENCE-DECISION.md)."
+      }
+    }
+  ]
+}

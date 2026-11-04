@@ -1,0 +1,41 @@
+{
+  "id": "f138991c-51b1-4dde-ae0e-c52b7e6afb10",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-110-7",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Epiphania",
+  "feier": "Messe",
+  "textinitium": "Iam dies instat",
+  "bibliographischerverweis": "AH 7, 39; AH 53, p. 50",
+  "druckausgabe": "",
+  "zeilenstart": "7",
+  "foliostart": "110",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "110v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Concordia",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "38546b3a-7dcf-4d3e-bcb3-758ca74e703e",
+  "quelle_id": "SCan 7",
+  "dokumenten_id": "SCan 7-23-4",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Epiphania",
+  "feier": "Messe",
+  "textinitium": "Ecce advenit",
+  "bibliographischerverweis": "AMS 18",
+  "druckausgabe": "II-2",
+  "zeilenstart": "4",
+  "foliostart": "23",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "23",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

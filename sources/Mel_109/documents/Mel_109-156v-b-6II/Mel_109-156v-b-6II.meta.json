@@ -1,0 +1,41 @@
+{
+  "id": "ca9415d3-5650-46ab-a3f0-c431d3a1358f",
+  "quelle_id": "Mel 109",
+  "dokumenten_id": "Mel 109-156v-b-6II",
+  "gattung1": "Kyrie",
+  "gattung2": "untropiert",
+  "festtag": "Beata Maria virgo",
+  "feier": "Messe",
+  "textinitium": "Kyrie eleyson",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "6",
+  "foliostart": "156v-b",
+  "kommentar": "Nach Korrektur",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "156v-b",
+    "Startposition": "II",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "Melnicki 171: 1A 1B 2A 2B 3A 3B 3C",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509501",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

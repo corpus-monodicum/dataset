@@ -1,0 +1,41 @@
+{
+  "id": "bba0de80-cc6f-406a-87b3-9e902c304102",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-40-9b",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Fabianus et Sebastianus",
+  "feier": "Messe",
+  "textinitium": "Mirabilis deus in sanctis*",
+  "bibliographischerverweis": "AH 53, 231",
+  "druckausgabe": "CM III",
+  "zeilenstart": "9",
+  "foliostart": "40",
+  "kommentar": "Querverweis: cclix (259)",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "40",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Mirabilis (B)",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

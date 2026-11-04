@@ -1,0 +1,41 @@
+{
+  "id": "d7a76957-37d6-4209-88a8-bbf07250372d",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-167v-17",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Virgines",
+  "feier": "Messe",
+  "textinitium": "Gaude caelestis sponsa",
+  "bibliographischerverweis": "AH 54, 92",
+  "druckausgabe": "CM III",
+  "zeilenstart": "17",
+  "foliostart": "167v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "168",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Adducentur",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "A",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

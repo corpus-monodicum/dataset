@@ -1,0 +1,41 @@
+{
+  "id": "6d3e9d2b-6c65-4fde-bf63-c6140e35d2c5",
+  "quelle_id": "Or 201",
+  "dokumenten_id": "Or 201-215-26b",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Innocentes",
+  "feier": "Matutin",
+  "textinitium": "Rex in aeternum...delusus es domine",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "26",
+  "foliostart": "215",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "215",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "Or 201-215-7-aS",
+    "Endzeile": "27",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Play of the Innocents",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

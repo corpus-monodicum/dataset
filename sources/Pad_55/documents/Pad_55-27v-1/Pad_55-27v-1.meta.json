@@ -1,0 +1,41 @@
+{
+  "id": "f3192d67-417b-4052-a6fd-ab26b4d92352",
+  "quelle_id": "Pad 55",
+  "dokumenten_id": "Pad 55-27v-1",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "Feria VI in Parasceve",
+  "feier": "",
+  "textinitium": "Crucem tuam adoramus",
+  "bibliographischerverweis": "CAO 1953",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "1",
+  "foliostart": "27v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "28",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Pad 55-24-5-aS",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Planctus Mariae / Mary's Lament",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

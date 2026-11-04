@@ -1,0 +1,41 @@
+{
+  "id": "5948731d-2991-4500-8be4-c03467dd2ddf",
+  "quelle_id": "Nau I",
+  "dokumenten_id": "Nau I-78-1",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Pascha",
+  "feier": "Messe",
+  "textinitium": "Resurrexi",
+  "bibliographischerverweis": "AMS 80",
+  "druckausgabe": "II-2",
+  "zeilenstart": "1",
+  "foliostart": "78",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "78",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

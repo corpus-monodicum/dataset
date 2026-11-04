@@ -1,0 +1,41 @@
+{
+  "id": "8bfd5872-4a57-4e3a-b7ea-119d5f44cbe7",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-160v-21",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Petrus et Paulus",
+  "feier": "Messe",
+  "textinitium": "Petre summe Christi",
+  "bibliographischerverweis": "AH 53, 210",
+  "druckausgabe": "CM III",
+  "zeilenstart": "21",
+  "foliostart": "160v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "161",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Concordia",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "A",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

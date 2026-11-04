@@ -1,0 +1,41 @@
+{
+  "id": "55001bf0-2728-4a0c-815a-0228f0c2128c",
+  "quelle_id": "To 18",
+  "dokumenten_id": "To 18-136v-7",
+  "gattung1": "Tropus",
+  "gattung2": "Offertorium-Tropus",
+  "festtag": "Omnes sancti",
+  "feier": "Messe",
+  "textinitium": "Gloriosus est rex",
+  "bibliographischerverweis": "Mirabilis deus off 1 A (CT X)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "7",
+  "foliostart": "136v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "To 18 102v-7-",
+    "Endseite": "136v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Mirabilis deus off",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

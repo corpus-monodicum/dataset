@@ -1,0 +1,41 @@
+{
+  "id": "f637109f-71e1-4956-8695-6939e77cff89",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-281v-2",
+  "gattung1": "Sequenz",
+  "gattung2": "Textlos",
+  "festtag": "Angeli",
+  "feier": "Messe",
+  "textinitium": "Alleluia",
+  "bibliographischerverweis": "AH 53, 190",
+  "druckausgabe": "CM III",
+  "zeilenstart": "2",
+  "foliostart": "281v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "281v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Mater sequentiarum",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

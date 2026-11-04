@@ -1,0 +1,41 @@
+{
+  "id": "272451c5-a2f9-41be-8fdf-a6bef00427e4",
+  "quelle_id": "Ben 34",
+  "dokumenten_id": "Ben 34-55v-1",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Annuntiatio Mariae",
+  "feier": "Messe",
+  "textinitium": "Tellus arescit",
+  "bibliographischerverweis": "Rorate 15 A 16 B 17 C (CT IX)",
+  "druckausgabe": "",
+  "zeilenstart": "1",
+  "foliostart": "55v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "(Rorate)",
+    "Endseite": "55v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

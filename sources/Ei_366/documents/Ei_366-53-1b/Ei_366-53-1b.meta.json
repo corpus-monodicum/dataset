@@ -1,0 +1,41 @@
+{
+  "id": "f9b7b37a-f998-420e-9e34-8b46de91b4d2",
+  "quelle_id": "Ei 366",
+  "dokumenten_id": "Ei 366-53-1b",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "",
+  "feier": "Matutin",
+  "textinitium": "Qui sunt hi qui stella",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "1",
+  "foliostart": "53",
+  "kommentar": "2",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "53",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "Ei 366-53-1-aS",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "Beginn fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Magi play",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

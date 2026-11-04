@@ -1,0 +1,25 @@
+{
+  "id": "SCan 7",
+  "quellensigle": "SCan 7",
+  "herkunftsregion": "Quellen deutscher Herkunft",
+  "herkunftsort": "Innichen (San Candido)",
+  "herkunftsinstitution": "Kollegiatstift",
+  "ordenstradition": "",
+  "quellentyp": "Graduale mit Tropen, Kyriale mit Tropen, Sequentiar, Tropar",
+  "bibliotheksort": "Innichen (San Candido)",
+  "bibliothek": "Bibliothek des Kollegiatstiftes",
+  "bibliothekssignatur": "VII a 7",
+  "kommentar": "",
+  "datierung": "15. Jh 2. Hälfte",
+  "status": "",
+  "jahrhundert": "15.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "SCan 7",
+  "cantus_century": "15.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "SCan_7.description.md"
+  }
+}

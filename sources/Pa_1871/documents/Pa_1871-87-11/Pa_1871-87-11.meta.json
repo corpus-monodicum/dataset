@@ -1,0 +1,41 @@
+{
+  "id": "0f330607-edaa-42bb-8686-164b80e57774",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-87-11",
+  "gattung1": "Sequenz",
+  "gattung2": "Textlos",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Alleluia",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "11",
+  "foliostart": "87",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "87",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "13",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Almiphona",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

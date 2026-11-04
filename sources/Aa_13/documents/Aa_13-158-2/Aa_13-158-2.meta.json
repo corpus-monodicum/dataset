@@ -1,0 +1,41 @@
+{
+  "id": "9cd22991-40f0-44cf-98c4-19bb7e7bfce6",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-158-2",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Innocentes",
+  "feier": "Messe",
+  "textinitium": "Laus tibi Christe cui sapit",
+  "bibliographischerverweis": "AH 53, 156",
+  "druckausgabe": "CM III",
+  "zeilenstart": "2",
+  "foliostart": "158",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "158",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Iustus ut palma maior",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "A",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

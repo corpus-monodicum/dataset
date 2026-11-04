@@ -1,0 +1,25 @@
+{
+  "id": "Or 201",
+  "quellensigle": "Or 201",
+  "herkunftsregion": "Quellen französischer Herkunft",
+  "herkunftsort": "Fleury (möglicherweise)",
+  "herkunftsinstitution": "möglicherweise Abbaye Saint-Benoît-sur-Loire",
+  "ordenstradition": "",
+  "quellentyp": "",
+  "bibliotheksort": "Orléans",
+  "bibliothek": "Bibliothèque municipale",
+  "bibliothekssignatur": "Ms. 201",
+  "kommentar": "",
+  "datierung": "12. Jh Ende – 13. Jh",
+  "status": "",
+  "jahrhundert": "12., 13.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Or 201",
+  "cantus_century": "12., 13.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Or_201.description.md"
+  }
+}

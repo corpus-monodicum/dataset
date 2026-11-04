@@ -1,0 +1,41 @@
+{
+  "id": "21c26e9d-996c-4b06-8899-1f7e8d3907d3",
+  "quelle_id": "Ben 34",
+  "dokumenten_id": "Ben 34-220v-10",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Assumptio Mariae",
+  "feier": "Messe",
+  "textinitium": "O quam clara",
+  "bibliographischerverweis": "V(ultum) t(uum) 27 A 28 B 29 C 43 A 44 B 45 C (CT IX)",
+  "druckausgabe": "",
+  "zeilenstart": "10",
+  "foliostart": "220v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "(Vultum tuum)",
+    "Endseite": "221",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

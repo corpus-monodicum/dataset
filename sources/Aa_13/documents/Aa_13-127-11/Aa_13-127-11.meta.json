@@ -1,0 +1,41 @@
+{
+  "id": "617aee16-de04-49e8-aa52-02df21fc82ce",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-127-11",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Conversio Pauli",
+  "feier": "Messe",
+  "textinitium": "Doctori gentium pangat",
+  "bibliographischerverweis": "AH 37, 272",
+  "druckausgabe": "CM III",
+  "zeilenstart": "11",
+  "foliostart": "127",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "128",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

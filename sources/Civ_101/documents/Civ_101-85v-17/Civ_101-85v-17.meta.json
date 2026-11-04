@@ -1,0 +1,41 @@
+{
+  "id": "fae9de16-81d2-4d02-b5ec-7d4e44f4d499",
+  "quelle_id": "Civ 101",
+  "dokumenten_id": "Civ 101-85v-17",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Feria VI in Parasceve",
+  "feier": "",
+  "textinitium": "Profunde me",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "17",
+  "foliostart": "85v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "86",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Civ 101-85-4S",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "Ende fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Planctus Mariae / Mary's Lament",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

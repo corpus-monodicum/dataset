@@ -1,0 +1,41 @@
+{
+  "id": "bbc8e7dd-e820-4da0-963a-ea1745d760af",
+  "quelle_id": "Pa 904",
+  "dokumenten_id": "Pa 904-29v-26",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Epiphania",
+  "feier": "Messe",
+  "textinitium": "Impleta sunt omnia",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "26",
+  "foliostart": "29v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "30",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Pa 904-29-2-aS",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Magi play",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

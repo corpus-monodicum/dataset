@@ -1,0 +1,41 @@
+{
+  "id": "76118dda-5c6d-4cab-9fb2-00e71080fabf",
+  "quelle_id": "Pa 1338",
+  "dokumenten_id": "Pa 1338-11v-6",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Nativitas domini",
+  "feier": "",
+  "textinitium": "Pangat vox humana",
+  "bibliographischerverweis": "AH 7, 27; AH 53, 21b",
+  "druckausgabe": "",
+  "zeilenstart": "6",
+  "foliostart": "11v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "13v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Celebranda",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

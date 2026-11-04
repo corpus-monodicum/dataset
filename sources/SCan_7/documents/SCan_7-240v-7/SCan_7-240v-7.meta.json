@@ -1,0 +1,41 @@
+{
+  "id": "801651fd-8991-474e-ba14-0054e3efa530",
+  "quelle_id": "SCan 7",
+  "dokumenten_id": "SCan 7-240v-7",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Feria II post Pascha",
+  "feier": "Messe",
+  "textinitium": "Pangamus creatoris",
+  "bibliographischerverweis": "AH 53, 46",
+  "druckausgabe": "",
+  "zeilenstart": "7",
+  "foliostart": "240v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Gionata Brusa",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "241v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Mater",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "AugW 13",
+  "quellensigle": "AugW 13",
+  "herkunftsregion": "Quellen deutscher Herkunft",
+  "herkunftsort": "Admont",
+  "herkunftsinstitution": "Kloster",
+  "ordenstradition": "Benediktiner",
+  "quellentyp": "Graduale, Sequentiar",
+  "bibliotheksort": "Augsburg",
+  "bibliothek": "Universitätsbibliothek",
+  "bibliothekssignatur": "Sammlung Oettingen-Wallerstein, Cod. I. 2. 4° 13",
+  "kommentar": "Fraglich, ob aufzunehmen, da oben bereits als Hauptquelle genannt",
+  "datierung": "13. Jh 1. Hälfte",
+  "status": "",
+  "jahrhundert": "13.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "AugW 13",
+  "cantus_century": "13.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "AugW_13.description.md"
+  }
+}

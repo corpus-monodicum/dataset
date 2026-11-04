@@ -1,0 +1,25 @@
+{
+  "id": "Ful 62",
+  "quellensigle": "Ful 62",
+  "herkunftsregion": "Quellen deutscher Herkunft",
+  "herkunftsort": "Petersberg",
+  "herkunftsinstitution": "",
+  "ordenstradition": "",
+  "quellentyp": "Graduale, Kyriale, Prozessionar mit Tropen, Sequentiar",
+  "bibliotheksort": "Fulda",
+  "bibliothek": "Hessische Landesbibliothek",
+  "bibliothekssignatur": "Aa 62",
+  "kommentar": "",
+  "datierung": "14. Jh 1. Hälfte, Palmipsest 14. Jh – 15. Jh",
+  "status": "",
+  "jahrhundert": "14., 15.",
+  "manifest": "",
+  "foliooffset": "pageNr+1",
+  "publish": "all",
+  "cantus_siglum": "Ful 62",
+  "cantus_century": "14., 15.",
+  "dataset_external_files": {
+    "beschreibung": "Ful_62.description.md",
+    "notationsdokumentation": "notation/Ful_62.notation.md"
+  }
+}

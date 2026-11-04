@@ -1,0 +1,136 @@
+{
+  "type": "cm-manuscript-export",
+  "schemaVersion": 2,
+  "exportedAt": "2026-11-02T18:13:45.443Z",
+  "exportedManuscripts": [
+    "Wo 491"
+  ],
+  "data": {
+    "personalTables": [
+      {
+        "id": "1788448456720",
+        "name": "Wo 491",
+        "source": "Wo 491",
+        "notes": "",
+        "patterns": [],
+        "rows": [
+          {
+            "pattern": "*",
+            "customId": "10",
+            "notes": ""
+          },
+          {
+            "pattern": "*[ed]",
+            "customId": "11",
+            "notes": ""
+          },
+          {
+            "pattern": "*[edud]",
+            "customId": "12",
+            "notes": ""
+          },
+          {
+            "pattern": "*eu",
+            "customId": "13",
+            "notes": ""
+          },
+          {
+            "pattern": "[*d]",
+            "customId": "20",
+            "notes": ""
+          },
+          {
+            "pattern": "[*du]",
+            "customId": "21",
+            "notes": ""
+          },
+          {
+            "pattern": "[*dud]",
+            "customId": "22",
+            "notes": ""
+          },
+          {
+            "pattern": "*dd",
+            "customId": "30",
+            "notes": ""
+          },
+          {
+            "pattern": "*ddu",
+            "customId": "31",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u]",
+            "customId": "40",
+            "notes": ""
+          },
+          {
+            "pattern": "[*ud]",
+            "customId": "41",
+            "notes": ""
+          },
+          {
+            "pattern": "[*udu]",
+            "customId": "42",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u]dd",
+            "customId": "43",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u]u",
+            "customId": "44",
+            "notes": ""
+          },
+          {
+            "pattern": "*uu",
+            "customId": "50",
+            "notes": ""
+          },
+          {
+            "pattern": "*u[ud]",
+            "customId": "51",
+            "notes": ""
+          },
+          {
+            "pattern": "*SeS",
+            "customId": "61",
+            "notes": ""
+          },
+          {
+            "pattern": "[*udeO]",
+            "customId": "71",
+            "notes": ""
+          },
+          {
+            "pattern": "[*deO]",
+            "customId": "71",
+            "notes": ""
+          },
+          {
+            "pattern": "[*dL]",
+            "customId": "10+/20-",
+            "notes": ""
+          },
+          {
+            "pattern": "[*uL]",
+            "customId": "10+/40-",
+            "notes": ""
+          },
+          {
+            "pattern": "[*ddL]",
+            "customId": "20+",
+            "notes": ""
+          }
+        ],
+        "isPublished": true
+      }
+    ],
+    "regions": {},
+    "regionItems": {},
+    "manualLines": {},
+    "iiifLinks": {}
+  }
+}

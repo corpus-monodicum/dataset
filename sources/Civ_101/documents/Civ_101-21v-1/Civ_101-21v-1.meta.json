@@ -1,0 +1,41 @@
+{
+  "id": "18c1027b-d82c-48af-945d-cb4005db1ec4",
+  "quelle_id": "Civ 101",
+  "dokumenten_id": "Civ 101-21v-1",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Responsorium",
+  "festtag": "Dominica in palmis",
+  "feier": "Prozession",
+  "textinitium": "Attende domine",
+  "bibliographischerverweis": "CAO 6137",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "1",
+  "foliostart": "21v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "21v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Civ 101-21-7S",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Entry into Jerusalem",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

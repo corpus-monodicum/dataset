@@ -1,0 +1,41 @@
+{
+  "id": "07f3a312-5221-4488-b5ed-2e89acc7ac15",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-223-7a",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominica XIV post Pentecosten",
+  "feier": "Messe",
+  "textinitium": "Iubilemus omnes una*",
+  "bibliographischerverweis": "AH 53, 4",
+  "druckausgabe": "CM III",
+  "zeilenstart": "7",
+  "foliostart": "223",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "223",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Adducentur",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

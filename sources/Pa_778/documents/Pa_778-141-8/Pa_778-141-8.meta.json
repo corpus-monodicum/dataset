@@ -1,0 +1,41 @@
+{
+  "id": "bc421ba4-4050-456b-a9f2-4f45b46146b4",
+  "quelle_id": "Pa 778",
+  "dokumenten_id": "Pa 778-141-8",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Assumptio Mariae",
+  "feier": "Messe",
+  "textinitium": "Aureo flore primae",
+  "bibliographischerverweis": "AH 7, 106; AH 53, 106",
+  "druckausgabe": "",
+  "zeilenstart": "8",
+  "foliostart": "141",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "142v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Hodie Maria virgo",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

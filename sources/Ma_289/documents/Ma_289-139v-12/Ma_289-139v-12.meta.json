@@ -1,0 +1,41 @@
+{
+  "id": "e4899aea-e0f3-472a-a31c-9804816aee01",
+  "quelle_id": "Ma 289",
+  "dokumenten_id": "Ma 289-139v-12",
+  "gattung1": "Lied",
+  "gattung2": "Benedicamus",
+  "festtag": "Nicholaus",
+  "feier": "",
+  "textinitium": "Benedicamus regi sidereo",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "12",
+  "foliostart": "139v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Konstantin Voigt",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "140",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

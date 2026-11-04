@@ -1,0 +1,41 @@
+{
+  "id": "f0b73777-79a1-4e98-9c70-a6690faeca24",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-109-4",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Innocentes",
+  "feier": "",
+  "textinitium": "Qui regis una",
+  "bibliographischerverweis": "AH 7, 140",
+  "druckausgabe": "",
+  "zeilenstart": "4",
+  "foliostart": "109",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "109v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Quoniam deus minor",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

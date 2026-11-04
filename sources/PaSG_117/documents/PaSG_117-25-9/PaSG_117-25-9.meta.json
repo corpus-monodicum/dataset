@@ -1,0 +1,41 @@
+{
+  "id": "04a929d9-c51e-434c-bb9c-7c56f8b171e7",
+  "quelle_id": "PaSG 117",
+  "dokumenten_id": "PaSG 117-25-9",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Versikel",
+  "festtag": "Nativitas domini",
+  "feier": "Laudes",
+  "textinitium": "Dominus vobiscum*",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "9",
+  "foliostart": "25",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "25",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "PaSG 117-24v-11S",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Christmas play",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "064fb3c1-61d6-4f28-adcd-a962c32ee586",
+  "quelle_id": "Wü 165",
+  "dokumenten_id": "Wü 165-17v-3",
+  "gattung1": "Tropus",
+  "gattung2": "Offertorium-Tropus",
+  "festtag": "Epiphania",
+  "feier": "Messe",
+  "textinitium": "O redemptor omnium cui",
+  "bibliographischerverweis": "Epiph off 9 (CT I)",
+  "druckausgabe": "II-2",
+  "zeilenstart": "3",
+  "foliostart": "17v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "Reges Tharsis",
+    "Endseite": "17v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Epiph off",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

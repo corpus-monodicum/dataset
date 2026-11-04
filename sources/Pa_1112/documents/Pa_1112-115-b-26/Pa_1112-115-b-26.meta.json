@@ -1,0 +1,41 @@
+{
+  "id": "8a185592-06b9-4cb9-a8bc-8741c1806506",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-115-b-26",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominica III post Pascha",
+  "feier": "Messe",
+  "textinitium": "Victimae paschali laudes*",
+  "bibliographischerverweis": "AH 54, 7",
+  "druckausgabe": "",
+  "zeilenstart": "26",
+  "foliostart": "115-b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "115b",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "26",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

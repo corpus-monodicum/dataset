@@ -1,0 +1,41 @@
+{
+  "id": "68660c90-752e-4808-82f1-137098d9d1f4",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-307v-7",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Quintinus",
+  "feier": "Messe",
+  "textinitium": "Per unius casum",
+  "bibliographischerverweis": "AH 39, 286",
+  "druckausgabe": "CM III",
+  "zeilenstart": "7",
+  "foliostart": "307v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "309v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

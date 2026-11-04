@@ -1,0 +1,143 @@
+{
+  "type": "cm-manuscript-export",
+  "schemaVersion": 2,
+  "exportedAt": "2026-11-02T18:13:45.443Z",
+  "exportedManuscripts": [
+    "Ei 610"
+  ],
+  "data": {
+    "personalTables": [
+      {
+        "id": "1787578647391",
+        "name": "Ei 610",
+        "source": "Ei 610",
+        "notes": "Zur Paginierung siehe Quellenbeschreibung.",
+        "patterns": [],
+        "rows": [
+          {
+            "pattern": "*",
+            "customId": "10",
+            "notes": ""
+          },
+          {
+            "pattern": "*e",
+            "customId": "11",
+            "notes": ""
+          },
+          {
+            "pattern": "[*d]",
+            "customId": "20",
+            "notes": ""
+          },
+          {
+            "pattern": "[*du]",
+            "customId": "21",
+            "notes": ""
+          },
+          {
+            "pattern": "[*dud]eLD",
+            "customId": "22",
+            "notes": ""
+          },
+          {
+            "pattern": "*dd",
+            "customId": "30",
+            "notes": ""
+          },
+          {
+            "pattern": "*ddu",
+            "customId": "31",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u]",
+            "customId": "40",
+            "notes": ""
+          },
+          {
+            "pattern": "[*ud]",
+            "customId": "41",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u]dd",
+            "customId": "42",
+            "notes": ""
+          },
+          {
+            "pattern": "[*uu]",
+            "customId": "43",
+            "notes": ""
+          },
+          {
+            "pattern": "[*uu]dd",
+            "customId": "44",
+            "notes": ""
+          },
+          {
+            "pattern": "*LD",
+            "customId": "10+/20-",
+            "notes": ""
+          },
+          {
+            "pattern": "*LA",
+            "customId": "10+/40-",
+            "notes": ""
+          }
+        ],
+        "isPublished": true
+      }
+    ],
+    "regions": {
+      "Ei 610_609r": [
+        {
+          "id": "r_1788290024411",
+          "name": "Line 10",
+          "points": "8.09,50.29 75.17,50.29 75.17,56.60 8.09,56.60"
+        },
+        {
+          "id": "r_1788291875911",
+          "name": "Line 13",
+          "points": "7.17,65.55 74.83,65.55 74.83,71.69 7.17,71.69"
+        }
+      ],
+      "Ei 610_610r": [
+        {
+          "id": "r_1788293065464",
+          "name": "Line 3",
+          "points": "27.48,15.63 94.46,15.63 94.46,21.74 27.48,21.74"
+        },
+        {
+          "id": "r_1788293096620",
+          "name": "Line 8",
+          "points": "27.08,41.19 91.73,41.19 91.73,46.99 27.08,46.99"
+        },
+        {
+          "id": "r_1788293165522",
+          "name": "Line 12",
+          "points": "26.92,61.00 93.14,61.00 93.14,67.08 26.92,67.08"
+        },
+        {
+          "id": "r_1788293178445",
+          "name": "Line 13",
+          "points": "26.90,66.17 93.42,66.17 93.42,72.37 26.90,72.37"
+        }
+      ]
+    },
+    "regionItems": {
+      "r_1788290024411": [
+        {
+          "id": 1788290470875,
+          "pattern": "[*uu]",
+          "points": "10.23,50.92 12.77,50.92 12.77,54.73 10.23,54.73",
+          "linkData": {},
+          "variant": ""
+        }
+      ]
+    },
+    "manualLines": {},
+    "iiifLinks": {
+      "Ei 610": "https://www.e-codices.unifr.ch/metadata/iiif/sbe-0610/manifest.json"
+    }
+  }
+}

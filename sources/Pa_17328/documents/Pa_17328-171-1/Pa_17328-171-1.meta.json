@@ -1,0 +1,41 @@
+{
+  "id": "1f793b8e-4984-4e55-9bc7-95e10b7cb82b",
+  "quelle_id": "Pa 17328",
+  "dokumenten_id": "Pa 17328-171-1",
+  "gattung1": "Ite missa est",
+  "gattung2": "untropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Ite missa est",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "1",
+  "foliostart": "171",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "171",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "Eifrig/Pfisterer 225B",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "Ite missa est",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

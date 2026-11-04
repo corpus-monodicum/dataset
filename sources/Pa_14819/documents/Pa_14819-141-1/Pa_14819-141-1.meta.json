@@ -1,0 +1,41 @@
+{
+  "id": "22312aec-1bb1-43f2-93ca-94aad5dabf61",
+  "quelle_id": "Pa 14819",
+  "dokumenten_id": "Pa 14819-141-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Victor Massiliensis",
+  "feier": "Messe",
+  "textinitium": "Exsultet ecclesia",
+  "bibliographischerverweis": "AH 39, 337",
+  "druckausgabe": "CM III",
+  "zeilenstart": "1",
+  "foliostart": "141",
+  "kommentar": "Nachtrag_1",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "141",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "Ende fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "Nachtrag_1",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

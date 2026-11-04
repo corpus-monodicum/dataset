@@ -1,0 +1,41 @@
+{
+  "id": "d8790424-d01a-4df7-b0d1-7f5253ae0dee",
+  "quelle_id": "Ven 4",
+  "dokumenten_id": "Ven 4-73-4",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Annuntiatio Mariae",
+  "feier": "",
+  "textinitium": "Magnificat anima mea*",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "4",
+  "foliostart": "73",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "73",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Ven 4-71-2S",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Annunciation",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

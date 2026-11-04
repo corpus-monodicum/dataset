@@ -1,0 +1,41 @@
+{
+  "id": "5ec9aeb0-794e-4c1e-9cec-2e1e9622903e",
+  "quelle_id": "Pa 14452",
+  "dokumenten_id": "Pa 14452-209-7",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Apostoli",
+  "feier": "Messe",
+  "textinitium": "Clare sanctorum",
+  "bibliographischerverweis": "AH 53, 228",
+  "druckausgabe": "CM III",
+  "zeilenstart": "7",
+  "foliostart": "209",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "209v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Aurea",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

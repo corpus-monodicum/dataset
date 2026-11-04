@@ -1,0 +1,41 @@
+{
+  "id": "a008b20d-8994-444b-bc82-d86e2065f82b",
+  "quelle_id": "Nau I",
+  "dokumenten_id": "Nau I-13v-7",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Stephanus",
+  "feier": "Messe",
+  "textinitium": "Etenim sederunt",
+  "bibliographischerverweis": "AMS 12",
+  "druckausgabe": "II-2",
+  "zeilenstart": "7",
+  "foliostart": "13v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "13v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "v",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

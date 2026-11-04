@@ -1,0 +1,41 @@
+{
+  "id": "936d864d-0c36-42db-ab8c-aeacc7c9e9bb",
+  "quelle_id": "Apt 17",
+  "dokumenten_id": "Apt 17-26-3",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Nativitas domini",
+  "feier": "2. Messe",
+  "textinitium": "Adest praecelsa",
+  "bibliographischerverweis": "AH 7, 15; AH 53, 21",
+  "druckausgabe": "",
+  "zeilenstart": "3",
+  "foliostart": "26",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "28",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Celebranda",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

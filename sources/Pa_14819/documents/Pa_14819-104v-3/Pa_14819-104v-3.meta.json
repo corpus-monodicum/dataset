@@ -1,0 +1,41 @@
+{
+  "id": "9a2a2055-cb2b-4382-8865-a045e268534f",
+  "quelle_id": "Pa 14819",
+  "dokumenten_id": "Pa 14819-104v-3",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Petrus et Paulus",
+  "feier": "Messe",
+  "textinitium": "Roma Petro glorietur",
+  "bibliographischerverweis": "AH 55, 289",
+  "druckausgabe": "CM III",
+  "zeilenstart": "3",
+  "foliostart": "104v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "106v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

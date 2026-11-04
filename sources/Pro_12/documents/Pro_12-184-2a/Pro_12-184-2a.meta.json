@@ -1,0 +1,41 @@
+{
+  "id": "3522f774-b56c-4004-bdf4-4b9258b1ee99",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-184-2a",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Iohannes Baptista",
+  "feier": "Messe",
+  "textinitium": "Organicis ... qui in suis*",
+  "bibliographischerverweis": "AH 53, 242",
+  "druckausgabe": "CM III",
+  "zeilenstart": "2",
+  "foliostart": "184",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "184",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Iustus ut palma maior",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d8124453-9e3a-4ef1-b164-a150c702a939",
+  "quelle_id": "Sol 596",
+  "dokumenten_id": "Sol 596-55-1",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "Sabbatum sanctum",
+  "feier": "Elevatio crucis",
+  "textinitium": "Domum istam protege",
+  "bibliographischerverweis": "CAO 2424",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "1",
+  "foliostart": "55",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "55",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Sol 596-54v-1S",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Elevation of the cross",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

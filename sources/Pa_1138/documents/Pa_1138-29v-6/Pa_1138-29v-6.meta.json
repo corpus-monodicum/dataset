@@ -1,0 +1,41 @@
+{
+  "id": "d1810175-d9c8-496e-8cd7-964d67a05b5b",
+  "quelle_id": "Pa 1138",
+  "dokumenten_id": "Pa 1138-29v-6",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Laurentius",
+  "feier": "Messe",
+  "textinitium": "Clara tibi nos",
+  "bibliographischerverweis": "AH 7, 156",
+  "druckausgabe": "",
+  "zeilenstart": "6",
+  "foliostart": "29v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "30v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Concelebremus",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

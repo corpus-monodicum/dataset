@@ -1,0 +1,41 @@
+{
+  "id": "1a1b711b-5c41-4ea4-bbff-d1814d10161b",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-159-a-2b",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Antonius abbas",
+  "feier": "Messe",
+  "textinitium": "Mundi aetate*",
+  "bibliographischerverweis": "AH 8, 113",
+  "druckausgabe": "",
+  "zeilenstart": "2",
+  "foliostart": "159-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "159a",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

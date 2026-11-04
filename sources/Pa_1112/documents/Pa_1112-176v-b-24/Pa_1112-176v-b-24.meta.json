@@ -1,0 +1,41 @@
+{
+  "id": "4ab5d77b-3348-4e93-8bcc-4c4ebd58ab8d",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-176v-b-24",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Petrus et Paulus",
+  "feier": "Vigil",
+  "textinitium": "Clare sanctorum*",
+  "bibliographischerverweis": "AH 53, 228",
+  "druckausgabe": "",
+  "zeilenstart": "24",
+  "foliostart": "176v-b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "176v-b",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "24",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1118226e-65bc-4553-a027-67ba31f68eff",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-165v-4",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Pentecoste",
+  "feier": "Komplet",
+  "textinitium": "Alma chorus domini",
+  "bibliographischerverweis": "AH 53, 87",
+  "druckausgabe": "CM III",
+  "zeilenstart": "4",
+  "foliostart": "165v",
+  "kommentar": "im Hymnar",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "165v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Tuba (A)",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

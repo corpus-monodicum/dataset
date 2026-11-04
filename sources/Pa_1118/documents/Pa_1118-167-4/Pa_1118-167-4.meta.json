@@ -1,0 +1,41 @@
+{
+  "id": "3cf31d0f-25df-4c24-a980-fe5c31e2b2ad",
+  "quelle_id": "Pa 1118",
+  "dokumenten_id": "Pa 1118-167-4",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Purificatio Mariae",
+  "feier": "",
+  "textinitium": "Salve porta",
+  "bibliographischerverweis": "AH 53, 108",
+  "druckausgabe": "",
+  "zeilenstart": "4",
+  "foliostart": "167",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "167v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Maris stella",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

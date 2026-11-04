@@ -1,0 +1,41 @@
+{
+  "id": "4e3052d0-5fb2-4c33-9a34-c99393abaf37",
+  "quelle_id": "Or 201",
+  "dokumenten_id": "Or 201-223-13a",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Pascha",
+  "feier": "Matutin",
+  "textinitium": "Mulier quid ploras quem quaeris",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "13",
+  "foliostart": "223",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "223",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "Or 201-220-16S",
+    "Endzeile": "13",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Easter play / Osterspiel",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

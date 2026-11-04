@@ -1,0 +1,41 @@
+{
+  "id": "f487d49a-5518-44f5-8d4d-62ad21b9aa0",
+  "quelle_id": "Pa 14452",
+  "dokumenten_id": "Pa 14452-155-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Purificatio Mariae",
+  "feier": "Messe",
+  "textinitium": "Templum cordis",
+  "bibliographischerverweis": "AH 54, 197",
+  "druckausgabe": "CM III",
+  "zeilenstart": "1",
+  "foliostart": "155",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "156",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

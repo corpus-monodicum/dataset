@@ -1,0 +1,41 @@
+{
+  "id": "c4e98f5a-c072-43fd-bd34-0c0fefdd0a87",
+  "quelle_id": "Civ 102",
+  "dokumenten_id": "Civ 102-44v-24a",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Oratio",
+  "festtag": "Feria IV post Pascha / Feria V post Pascha / Feria VI post Pascha",
+  "feier": "Prozession / Vesper",
+  "textinitium": "Praesta quaesumus*",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "24",
+  "foliostart": "44v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "44v",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "Civ 102-44v-16S",
+    "Endzeile": "24",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "Easter play / Osterspiel",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

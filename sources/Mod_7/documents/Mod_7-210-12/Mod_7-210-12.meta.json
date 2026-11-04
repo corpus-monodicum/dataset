@@ -1,0 +1,41 @@
+{
+  "id": "ba497895-0627-47f4-b247-47606c4f6f34",
+  "quelle_id": "Mod 7",
+  "dokumenten_id": "Mod 7-210-12",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Benedictus",
+  "feier": "Messe",
+  "textinitium": "Ab ipso pueritiae",
+  "bibliographischerverweis": "Vir dei benedictus intr 1 A 2 B 3 C D (CT X)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "12",
+  "foliostart": "210",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Vir dei benedictus",
+    "Endseite": "210v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Vir dei benedictus intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "243c61f9-39e8-4d77-9f69-ef6d5331f51b",
+  "quelle_id": "NY 905",
+  "dokumenten_id": "NY 905-I, 21-6",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Nativitas domini",
+  "feier": "3. Messe",
+  "textinitium": "Hodie cantandus est",
+  "bibliographischerverweis": "Nat III intr 25 (CT I)",
+  "druckausgabe": "II-2",
+  "zeilenstart": "6",
+  "foliostart": "I, 21",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "NY 905-I, 22-1",
+    "Endseite": "I, 21v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "I, 21",
+    "FestUndGattung": "Nat III intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

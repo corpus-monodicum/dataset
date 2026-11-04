@@ -1,0 +1,41 @@
+{
+  "id": "9e7d3fb8-9933-4be0-ba21-9b7295fd491e",
+  "quelle_id": "Pa 905",
+  "dokumenten_id": "Pa 905-303-3",
+  "gattung1": "Sanctus",
+  "gattung2": "untropiert",
+  "festtag": "Dominicae dies",
+  "feier": "Messe",
+  "textinitium": "Sanctus … dominus deus",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "3",
+  "foliostart": "303",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Charles M. Atkinson",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "303",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "Thannabaur 223",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509504",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

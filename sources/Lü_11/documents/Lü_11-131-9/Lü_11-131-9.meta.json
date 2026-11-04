@@ -1,0 +1,41 @@
+{
+  "id": "2cd75723-0180-4798-9409-6f0a9e6e914a",
+  "quelle_id": "Lü 11",
+  "dokumenten_id": "Lü 11-131-9",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Epiphania",
+  "feier": "Messe",
+  "textinitium": "Festa Christi",
+  "bibliographischerverweis": "AH 53, 29",
+  "druckausgabe": "CM III",
+  "zeilenstart": "9",
+  "foliostart": "131",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "132",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Trinitas (A)",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

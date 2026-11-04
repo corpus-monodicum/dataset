@@ -1,0 +1,41 @@
+{
+  "id": "6f036dfa-231a-4af9-b563-605c4d5f36ca",
+  "quelle_id": "Or 201",
+  "dokumenten_id": "Or 201-195-24a",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Nicolaus",
+  "feier": "Messe",
+  "textinitium": "Redeamus et",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "24",
+  "foliostart": "195",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "195",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "Or 201-188-8S",
+    "Endzeile": "24",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Nicholas play: Image of Saint Nicholas",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

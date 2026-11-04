@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>RoC 1741: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Edition (Sequenzen)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="RoC_1741">
+          <msIdentifier>
+            <settlement>Rom</settlement>
+            <repository>Biblioteca Casanatense</repository>
+            <idno type="shelfmark">1741</idno>
+            <altIdentifier type="siglum">
+              <idno>RoC 1741</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>RoC 1741</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <term type="quellentyp">Tropar</term>
+            </summary>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="101">f. 101</locus>
+              <title type="incipit">Petre summe Christi</title>
+              <idno type="dokumenten_id">RoC 1741-101-3</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="103">f. 103</locus>
+              <title type="incipit">Sancti merita Benedicti</title>
+              <idno type="dokumenten_id">RoC 1741-103-6</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="105">f. 105</locus>
+              <title type="incipit">Candida contio melos</title>
+              <idno type="dokumenten_id">RoC 1741-105-8</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="107v">f. 107v</locus>
+              <title type="incipit">Laurenti David</title>
+              <idno type="dokumenten_id">RoC 1741-107v-6</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="110">f. 110</locus>
+              <title type="incipit">Congaudent angelorum chori</title>
+              <idno type="dokumenten_id">RoC 1741-110-8</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="112v">f. 112v</locus>
+              <title type="incipit">Summa stirpe genita</title>
+              <idno type="dokumenten_id">RoC 1741-112v-6</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="114">f. 114</locus>
+              <title type="incipit">Alma fulgens</title>
+              <idno type="dokumenten_id">RoC 1741-114-7</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="116">f. 116</locus>
+              <title type="incipit">Summi regis archangele</title>
+              <idno type="dokumenten_id">RoC 1741-116-7</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="118">f. 118</locus>
+              <title type="incipit">Clare sanctorum</title>
+              <idno type="dokumenten_id">RoC 1741-118-8</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="119v">f. 119v</locus>
+              <title type="incipit">Omnes sancti seraphin</title>
+              <idno type="dokumenten_id">RoC 1741-119v-3</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="121">f. 121</locus>
+              <title type="incipit">Sacerdotem Christi</title>
+              <idno type="dokumenten_id">RoC 1741-121-1</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="124">f. 124</locus>
+              <title type="incipit">Deus in tua virtute</title>
+              <idno type="dokumenten_id">RoC 1741-124-8</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="125v">f. 125v</locus>
+              <title type="incipit">Ad templi ... devota persultat</title>
+              <idno type="dokumenten_id">RoC 1741-125v-4</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="127v">f. 127v</locus>
+              <title type="incipit">Benedicta semper sancta</title>
+              <idno type="dokumenten_id">RoC 1741-127v-5</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="131">f. 131</locus>
+              <title type="incipit">Stans a longe qui plurima</title>
+              <idno type="dokumenten_id">RoC 1741-131-2</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="131v">f. 131v</locus>
+              <title type="incipit">Laeta mente canamus</title>
+              <idno type="dokumenten_id">RoC 1741-131v-7</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="132">f. 132</locus>
+              <title type="incipit">O quam mira sunt</title>
+              <idno type="dokumenten_id">RoC 1741-132-8</idno>
+            </msItem>
+            <msItem n="18">
+              <locus from="133">f. 133</locus>
+              <title type="incipit">Almiflua caelorum</title>
+              <idno type="dokumenten_id">RoC 1741-133-1</idno>
+            </msItem>
+            <msItem n="19">
+              <locus from="159">f. 159</locus>
+              <title type="incipit">Rex omnipotens</title>
+              <idno type="dokumenten_id">RoC 1741-159-1</idno>
+            </msItem>
+            <msItem n="20">
+              <locus from="53v">f. 53v</locus>
+              <title type="incipit">Natus ante saecula</title>
+              <idno type="dokumenten_id">RoC 1741-53v-1</idno>
+            </msItem>
+            <msItem n="21">
+              <locus from="56v">f. 56v</locus>
+              <title type="incipit">Hanc concordi</title>
+              <idno type="dokumenten_id">RoC 1741-56v-8</idno>
+            </msItem>
+            <msItem n="22">
+              <locus from="59v">f. 59v</locus>
+              <title type="incipit">Iohannes Iesu Christo</title>
+              <idno type="dokumenten_id">RoC 1741-59v-3</idno>
+            </msItem>
+            <msItem n="23">
+              <locus from="62">f. 62</locus>
+              <title type="incipit">Haec sunt sacra festa</title>
+              <idno type="dokumenten_id">RoC 1741-62-8</idno>
+            </msItem>
+            <msItem n="24">
+              <locus from="64v">f. 64v</locus>
+              <title type="incipit">Laude mirandum</title>
+              <idno type="dokumenten_id">RoC 1741-64v-2</idno>
+            </msItem>
+            <msItem n="25">
+              <locus from="67v">f. 67v</locus>
+              <title type="incipit">Festa Christi</title>
+              <idno type="dokumenten_id">RoC 1741-67v-4</idno>
+            </msItem>
+            <msItem n="26">
+              <locus from="70v">f. 70v</locus>
+              <title type="incipit">Concentu parili hic te</title>
+              <idno type="dokumenten_id">RoC 1741-70v-1</idno>
+            </msItem>
+            <msItem n="27">
+              <locus from="73">f. 73</locus>
+              <title type="incipit">Virginis venerandae</title>
+              <idno type="dokumenten_id">RoC 1741-73-2</idno>
+            </msItem>
+            <msItem n="28">
+              <locus from="76v">f. 76v</locus>
+              <title type="incipit">Ecce vicit radix</title>
+              <idno type="dokumenten_id">RoC 1741-76v-7</idno>
+            </msItem>
+            <msItem n="29">
+              <locus from="80">f. 80</locus>
+              <title type="incipit">Clara gaudia</title>
+              <idno type="dokumenten_id">RoC 1741-80-1</idno>
+            </msItem>
+            <msItem n="30">
+              <locus from="81v">f. 81v</locus>
+              <title type="incipit">Dic nobis quibus</title>
+              <idno type="dokumenten_id">RoC 1741-81v-7</idno>
+            </msItem>
+            <msItem n="31">
+              <locus from="83">f. 83</locus>
+              <title type="incipit">Eia recolamus ... piis</title>
+              <idno type="dokumenten_id">RoC 1741-83-2</idno>
+            </msItem>
+            <msItem n="32">
+              <locus from="85v">f. 85v</locus>
+              <title type="incipit">Sanctae crucis celebremus</title>
+              <idno type="dokumenten_id">RoC 1741-85v-5</idno>
+            </msItem>
+            <msItem n="33">
+              <locus from="87v">f. 87v</locus>
+              <title type="incipit">Laus tibi Christe patris</title>
+              <idno type="dokumenten_id">RoC 1741-87v-3</idno>
+            </msItem>
+            <msItem n="34">
+              <locus from="90v">f. 90v</locus>
+              <title type="incipit">Summi triumphum</title>
+              <idno type="dokumenten_id">RoC 1741-90v-2</idno>
+            </msItem>
+            <msItem n="35">
+              <locus from="93v">f. 93v</locus>
+              <title type="incipit">Sancti spiritus … Quae corda</title>
+              <idno type="dokumenten_id">RoC 1741-93v-4</idno>
+            </msItem>
+            <msItem n="36">
+              <locus from="97">f. 97</locus>
+              <title type="incipit">Alme mundi rex</title>
+              <idno type="dokumenten_id">RoC 1741-97-5</idno>
+            </msItem>
+            <msItem n="37">
+              <locus from="99v">f. 99v</locus>
+              <title type="incipit">Pretiosa sollemnitas</title>
+              <idno type="dokumenten_id">RoC 1741-99v-4</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Nonantola</settlement>
+                <region>Quellen italienischer Herkunft</region>
+                <orgName>Abtei S. Silvestro</orgName>
+              </origPlace>
+              <origDate>11. Jh Ende</origDate>
+            </origin>
+          </history>
+          <additional>
+            <adminInfo>
+              <note type="description">
+                <ref target="RoC_1741.description.md">Source description</ref>
+              </note>
+            </adminInfo>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

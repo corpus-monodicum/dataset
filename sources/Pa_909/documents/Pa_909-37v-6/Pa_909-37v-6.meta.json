@@ -1,0 +1,41 @@
+{
+  "id": "777a898f-2b33-4679-accc-d34f9be5a58b",
+  "quelle_id": "Pa 909",
+  "dokumenten_id": "Pa 909-37v-6",
+  "gattung1": "Tropus",
+  "gattung2": "Communio-Tropus",
+  "festtag": "Pentecoste",
+  "feier": "Messe",
+  "textinitium": "Dum essent",
+  "bibliographischerverweis": "Pent com 5 A 6 B (CT III)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "6",
+  "foliostart": "37v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "Factus est",
+    "Endseite": "37v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Pent com",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

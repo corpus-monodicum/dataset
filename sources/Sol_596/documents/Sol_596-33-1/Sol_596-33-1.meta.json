@@ -1,0 +1,41 @@
+{
+  "id": "1d6f9b4c-449e-44d0-843f-2fba540e4fec",
+  "quelle_id": "Sol 596",
+  "dokumenten_id": "Sol 596-33-1",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Dominica in palmis",
+  "feier": "Prozession",
+  "textinitium": "Cum audisset turba",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "1",
+  "foliostart": "33",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "33",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Sol 596-27-7S",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Entry into Jerusalem",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

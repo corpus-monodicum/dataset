@@ -1,0 +1,41 @@
+{
+  "id": "7620f7cb-84aa-4e4a-b030-fe2ba578688a",
+  "quelle_id": "Pa 778",
+  "dokumenten_id": "Pa 778-57-8",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Stephanus",
+  "feier": "Messe",
+  "textinitium": "Enharmonica voce",
+  "bibliographischerverweis": "AH 7, 200",
+  "druckausgabe": "",
+  "zeilenstart": "8",
+  "foliostart": "57",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "58v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Concordia",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

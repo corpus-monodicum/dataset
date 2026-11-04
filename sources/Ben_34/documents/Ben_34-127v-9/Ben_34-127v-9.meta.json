@@ -1,0 +1,41 @@
+{
+  "id": "803fc483-ed38-4eae-a8ce-f5cd2471fe0b",
+  "quelle_id": "Ben 34",
+  "dokumenten_id": "Ben 34-127v-9",
+  "gattung1": "Tropus",
+  "gattung2": "Offertorium-Tropus",
+  "festtag": "Pascha",
+  "feier": "Messe",
+  "textinitium": "Ab increpatione",
+  "bibliographischerverweis": "Resurr off 1 A 9 B 10 C (CT III)",
+  "druckausgabe": "",
+  "zeilenstart": "9",
+  "foliostart": "127v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "(Terra tremuit)",
+    "Endseite": "128",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Resurr off",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

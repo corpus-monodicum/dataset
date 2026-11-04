@@ -1,0 +1,41 @@
+{
+  "id": "98ba6cd4-a8f9-4484-8ad1-716e5499aca",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-204v-3a",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Michael",
+  "feier": "Messe",
+  "textinitium": "Ad celebres rex*",
+  "bibliographischerverweis": "AH 7, 178; AH 53, 190",
+  "druckausgabe": "CM III",
+  "zeilenstart": "3",
+  "foliostart": "204v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "204v",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Mater sequentiarum",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

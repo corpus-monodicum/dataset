@@ -1,0 +1,41 @@
+{
+  "id": "298acf98-00f6-4d65-8ac0-787120839301",
+  "quelle_id": "Tri 2254",
+  "dokumenten_id": "Tri 2254-339-5",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dedicatio ecclesiae",
+  "feier": "Messe",
+  "textinitium": "Psallat ecclesia mater illibata",
+  "bibliographischerverweis": "AH 53, 247",
+  "druckausgabe": "",
+  "zeilenstart": "5",
+  "foliostart": "339",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "340",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Laetatus sum",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

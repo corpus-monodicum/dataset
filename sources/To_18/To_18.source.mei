@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>To 18: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Jasmin Hartmann-Strauß</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Michael Klaper</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Ordinariumsgesänge)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Gunilla Iversen</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Ritva Maria Jacobsson</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="To_18">
+        <identifier type="siglum">To 18</identifier>
+        <identifier type="cantus">To 18</identifier>
+        <titleStmt>
+          <title>To 18</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Bobbio</geogName>
+          <geogName role="origin-region">Quellen italienischer Herkunft</geogName>
+          <corpName role="origin-institution">Abtei San Colombano</corpName>
+          <date>11. Jh – 12. Jh</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="1">f. 1</locus>
+            <title type="incipit">Gregorius praesul</title>
+            <identifier type="dokumenten_id">To 18-1-2</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="10">f. 10</locus>
+            <title type="incipit">Iam fulget</title>
+            <identifier type="dokumenten_id">To 18-10-7</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="102v">f. 102v</locus>
+            <title type="incipit">Mirabilis deus in sanctis</title>
+            <identifier type="dokumenten_id">To 18-102v-7</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="103">f. 103</locus>
+            <title type="incipit">Terribilis est locus iste</title>
+            <identifier type="dokumenten_id">To 18-103-10</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="104v">f. 104v</locus>
+            <title type="incipit">Viri Galilaei</title>
+            <identifier type="dokumenten_id">To 18-104v-11</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="104v">f. 104v</locus>
+            <title type="incipit">Terrigenis summis</title>
+            <identifier type="dokumenten_id">To 18-104v-7</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="105">f. 105</locus>
+            <title type="incipit">Hodie redemptor</title>
+            <identifier type="dokumenten_id">To 18-105-2</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="107v">f. 107v</locus>
+            <title type="incipit">Hodie spiritus sanctus procedens</title>
+            <identifier type="dokumenten_id">To 18-107v-10</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="107v">f. 107v</locus>
+            <title type="incipit">Laus tua deus</title>
+            <identifier type="dokumenten_id">To 18-107v-13</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="107v">f. 107v</locus>
+            <title type="incipit">Dum pia</title>
+            <identifier type="dokumenten_id">To 18-107v-3</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus from="107v">f. 107v</locus>
+            <title type="incipit">Spiritus domini</title>
+            <identifier type="dokumenten_id">To 18-107v-6</identifier>
+          </contentItem>
+          <contentItem n="12">
+            <locus from="109v">f. 109v</locus>
+            <title type="incipit">Confirma hoc ... dic domne</title>
+            <identifier type="dokumenten_id">To 18-109v-5</identifier>
+          </contentItem>
+          <contentItem n="13">
+            <locus from="10v">f. 10v</locus>
+            <title type="incipit">Lux fulgebit</title>
+            <identifier type="dokumenten_id">To 18-10v-1</identifier>
+          </contentItem>
+          <contentItem n="14">
+            <locus from="110">f. 110</locus>
+            <title type="incipit">Factus est repente ... in adventu</title>
+            <identifier type="dokumenten_id">To 18-110-7</identifier>
+          </contentItem>
+          <contentItem n="15">
+            <locus from="110">f. 110</locus>
+            <title type="incipit">Factus est repente ... advenientis</title>
+            <identifier type="dokumenten_id">To 18-110-9</identifier>
+          </contentItem>
+          <contentItem n="16">
+            <locus from="114v">f. 114v</locus>
+            <title type="incipit">De ventre</title>
+            <identifier type="dokumenten_id">To 18-114v-11</identifier>
+          </contentItem>
+          <contentItem n="17">
+            <locus from="114v">f. 114v</locus>
+            <title type="incipit">Audite insulae</title>
+            <identifier type="dokumenten_id">To 18-114v-3</identifier>
+          </contentItem>
+          <contentItem n="18">
+            <locus from="116">f. 116</locus>
+            <title type="incipit">Ad dexteram patris</title>
+            <identifier type="dokumenten_id">To 18-116-10</identifier>
+          </contentItem>
+          <contentItem n="19">
+            <locus from="116">f. 116</locus>
+            <title type="incipit">Mundi fabricator</title>
+            <identifier type="dokumenten_id">To 18-116-3</identifier>
+          </contentItem>
+          <contentItem n="20">
+            <locus from="118">f. 118</locus>
+            <title type="incipit">Beatissimus Petrus</title>
+            <identifier type="dokumenten_id">To 18-118-8</identifier>
+          </contentItem>
+          <contentItem n="21">
+            <locus from="118v">f. 118v</locus>
+            <title type="incipit">Nunc scio vere</title>
+            <identifier type="dokumenten_id">To 18-118v-2</identifier>
+          </contentItem>
+          <contentItem n="22">
+            <locus from="11v">f. 11v</locus>
+            <title type="incipit">Quem quaeritis in praesepe</title>
+            <identifier type="dokumenten_id">To 18-11v-13</identifier>
+          </contentItem>
+          <contentItem n="23">
+            <locus from="124">f. 124</locus>
+            <title type="incipit">Qui tibi dedit</title>
+            <identifier type="dokumenten_id">To 18-124-5</identifier>
+          </contentItem>
+          <contentItem n="24">
+            <locus from="125v">f. 125v</locus>
+            <title type="incipit">O quam clara</title>
+            <identifier type="dokumenten_id">To 18-125v-10</identifier>
+          </contentItem>
+          <contentItem n="25">
+            <locus from="126">f. 126</locus>
+            <title type="incipit">Vultum tuum</title>
+            <identifier type="dokumenten_id">To 18-126-1</identifier>
+          </contentItem>
+          <contentItem n="26">
+            <locus from="126">f. 126</locus>
+            <title type="incipit">Hodie beata Maria</title>
+            <identifier type="dokumenten_id">To 18-126-4</identifier>
+          </contentItem>
+          <contentItem n="27">
+            <locus from="127v">f. 127v</locus>
+            <title type="incipit">Culminibus caeli</title>
+            <identifier type="dokumenten_id">To 18-127v-3</identifier>
+          </contentItem>
+          <contentItem n="28">
+            <locus from="12v">f. 12v</locus>
+            <title type="incipit">Archangeli laetantur</title>
+            <identifier type="dokumenten_id">To 18-12v-10</identifier>
+          </contentItem>
+          <contentItem n="29">
+            <locus from="12v">f. 12v</locus>
+            <title type="incipit">Puer natus est nobis</title>
+            <identifier type="dokumenten_id">To 18-12v-6</identifier>
+          </contentItem>
+          <contentItem n="30">
+            <locus from="134">f. 134</locus>
+            <title type="incipit">Culminibus caeli*</title>
+            <identifier type="dokumenten_id">To 18-134-1</identifier>
+          </contentItem>
+          <contentItem n="31">
+            <locus from="134v">f. 134v</locus>
+            <title type="incipit">Nobile apostolici</title>
+            <identifier type="dokumenten_id">To 18-134v-8</identifier>
+          </contentItem>
+          <contentItem n="32">
+            <locus from="135v">f. 135v</locus>
+            <title type="incipit">Hodie mundo festivus ... omnium sanctorum</title>
+            <identifier type="dokumenten_id">To 18-135v-11</identifier>
+          </contentItem>
+          <contentItem n="33">
+            <locus from="135v">f. 135v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">To 18-135v-13</identifier>
+          </contentItem>
+          <contentItem n="34">
+            <locus from="135v">f. 135v</locus>
+            <title type="incipit">Nos sinus ecclesiae matris</title>
+            <identifier type="dokumenten_id">To 18-135v-6</identifier>
+          </contentItem>
+          <contentItem n="35">
+            <locus from="135v">f. 135v</locus>
+            <title type="incipit">Gaudeamus omnes ... sanctorum omnium</title>
+            <identifier type="dokumenten_id">To 18-135v-7</identifier>
+          </contentItem>
+          <contentItem n="36">
+            <locus from="136v">f. 136v</locus>
+            <title type="incipit">Martinus meritis</title>
+            <identifier type="dokumenten_id">To 18-136v-10</identifier>
+          </contentItem>
+          <contentItem n="37">
+            <locus from="136v">f. 136v</locus>
+            <title type="incipit">Gloriosus est rex</title>
+            <identifier type="dokumenten_id">To 18-136v-7</identifier>
+          </contentItem>
+          <contentItem n="38">
+            <locus from="138">f. 138</locus>
+            <title type="incipit">Angelico fretus</title>
+            <identifier type="dokumenten_id">To 18-138-8</identifier>
+          </contentItem>
+          <contentItem n="39">
+            <locus from="139v">f. 139v</locus>
+            <title type="incipit">Divini fuerat</title>
+            <identifier type="dokumenten_id">To 18-139v-11</identifier>
+          </contentItem>
+          <contentItem n="40">
+            <locus from="13v">f. 13v</locus>
+            <title type="incipit">Pax sempiterna</title>
+            <identifier type="dokumenten_id">To 18-13v-2</identifier>
+          </contentItem>
+          <contentItem n="41">
+            <locus from="140">f. 140</locus>
+            <title type="incipit">Statuit ei dominus</title>
+            <identifier type="dokumenten_id">To 18-140-2</identifier>
+          </contentItem>
+          <contentItem n="42">
+            <locus from="140v">f. 140v</locus>
+            <title type="incipit">Munere Christe</title>
+            <identifier type="dokumenten_id">To 18-140v-9</identifier>
+          </contentItem>
+          <contentItem n="43">
+            <locus from="141v">f. 141v</locus>
+            <title type="incipit">Festis nunc</title>
+            <identifier type="dokumenten_id">To 18-141v-3</identifier>
+          </contentItem>
+          <contentItem n="44">
+            <locus from="15v">f. 15v</locus>
+            <title type="incipit">Tui sunt caeli ... dicite</title>
+            <identifier type="dokumenten_id">To 18-15v-12a</identifier>
+          </contentItem>
+          <contentItem n="45">
+            <locus from="161v">f. 161v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">To 18-161v-10</identifier>
+          </contentItem>
+          <contentItem n="46">
+            <locus from="161v">f. 161v</locus>
+            <title type="incipit">Cunctipotens genitor</title>
+            <identifier type="dokumenten_id">To 18-161v-12</identifier>
+          </contentItem>
+          <contentItem n="47">
+            <locus from="161v">f. 161v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">To 18-161v-6</identifier>
+          </contentItem>
+          <contentItem n="48">
+            <locus from="161v">f. 161v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">To 18-161v-8</identifier>
+          </contentItem>
+          <contentItem n="49">
+            <locus from="161v">f. 161v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">To 18-161v-9</identifier>
+          </contentItem>
+          <contentItem n="50">
+            <locus from="162">f. 162</locus>
+            <title type="incipit">Orbis factor</title>
+            <identifier type="dokumenten_id">To 18-162-11</identifier>
+          </contentItem>
+          <contentItem n="51">
+            <locus from="162">f. 162</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">To 18-162-14</identifier>
+          </contentItem>
+          <contentItem n="52">
+            <locus from="162v">f. 162v</locus>
+            <title type="incipit">O summe rex</title>
+            <identifier type="dokumenten_id">To 18-162v-8</identifier>
+          </contentItem>
+          <contentItem n="53">
+            <locus from="163v">f. 163v</locus>
+            <title type="incipit">Canamus cuncti</title>
+            <identifier type="dokumenten_id">To 18-163v-2</identifier>
+          </contentItem>
+          <contentItem n="54">
+            <locus from="164">f. 164</locus>
+            <title type="incipit">Dominator deus</title>
+            <identifier type="dokumenten_id">To 18-164-4</identifier>
+          </contentItem>
+          <contentItem n="55">
+            <locus from="164v">f. 164v</locus>
+            <title type="incipit">Kyrie rex genitor</title>
+            <identifier type="dokumenten_id">To 18-164v-1</identifier>
+          </contentItem>
+          <contentItem n="56">
+            <locus from="165">f. 165</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">To 18-165-1</identifier>
+          </contentItem>
+          <contentItem n="57">
+            <locus from="165">f. 165</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">To 18-165-2</identifier>
+          </contentItem>
+          <contentItem n="58">
+            <locus from="165">f. 165</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">To 18-165-3</identifier>
+          </contentItem>
+          <contentItem n="59">
+            <locus from="165">f. 165</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">To 18-165-4</identifier>
+          </contentItem>
+          <contentItem n="60">
+            <locus from="165">f. 165</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">To 18-165-5</identifier>
+          </contentItem>
+          <contentItem n="61">
+            <locus from="165">f. 165</locus>
+            <title type="incipit">Deus fortis ... Filius</title>
+            <identifier type="dokumenten_id">To 18-165-7</identifier>
+          </contentItem>
+          <contentItem n="62">
+            <locus from="165v">f. 165v</locus>
+            <title type="incipit">Quem cherubim atque seraphim</title>
+            <identifier type="dokumenten_id">To 18-165v-9</identifier>
+          </contentItem>
+          <contentItem n="63">
+            <locus from="166">f. 166</locus>
+            <title type="incipit">Patris unicus</title>
+            <identifier type="dokumenten_id">To 18-166-13</identifier>
+          </contentItem>
+          <contentItem n="64">
+            <locus from="166">f. 166</locus>
+            <title type="incipit">Laudes deo ore pio</title>
+            <identifier type="dokumenten_id">To 18-166-3</identifier>
+          </contentItem>
+          <contentItem n="65">
+            <locus from="166v">f. 166v</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">To 18-166v-7</identifier>
+          </contentItem>
+          <contentItem n="66">
+            <locus from="167">f. 167</locus>
+            <title type="incipit">Altissimeque rector</title>
+            <identifier type="dokumenten_id">To 18-167-1</identifier>
+          </contentItem>
+          <contentItem n="67">
+            <locus from="167">f. 167</locus>
+            <title type="incipit">Pater ingenitus ... Orbis</title>
+            <identifier type="dokumenten_id">To 18-167-11</identifier>
+          </contentItem>
+          <contentItem n="68">
+            <locus from="167v">f. 167v</locus>
+            <title type="incipit">O lucis splendor</title>
+            <identifier type="dokumenten_id">To 18-167v-8</identifier>
+          </contentItem>
+          <contentItem n="69">
+            <locus from="168">f. 168</locus>
+            <title type="incipit">Cui Abel iustus</title>
+            <identifier type="dokumenten_id">To 18-168-2</identifier>
+          </contentItem>
+          <contentItem n="70">
+            <locus from="168">f. 168</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">To 18-168-8</identifier>
+          </contentItem>
+          <contentItem n="71">
+            <locus from="168">f. 168</locus>
+            <title type="incipit">Omnipotens te adorant</title>
+            <identifier type="dokumenten_id">To 18-168-9</identifier>
+          </contentItem>
+          <contentItem n="72">
+            <locus from="168v">f. 168v</locus>
+            <title type="incipit">Trinitas unitas</title>
+            <identifier type="dokumenten_id">To 18-168v-1I</identifier>
+          </contentItem>
+          <contentItem n="73">
+            <locus from="168v">f. 168v</locus>
+            <title type="incipit">Trinitas unitas</title>
+            <identifier type="dokumenten_id">To 18-168v-1II</identifier>
+          </contentItem>
+          <contentItem n="74">
+            <locus from="16v">f. 16v</locus>
+            <title type="incipit">Qui sedes … solus</title>
+            <identifier type="dokumenten_id">To 18-16v-10</identifier>
+          </contentItem>
+          <contentItem n="75">
+            <locus from="16v">f. 16v</locus>
+            <title type="incipit">Deus pater ingenitus</title>
+            <identifier type="dokumenten_id">To 18-16v-6</identifier>
+          </contentItem>
+          <contentItem n="76">
+            <locus from="17">f. 17</locus>
+            <title type="incipit">Qui primus meruit</title>
+            <identifier type="dokumenten_id">To 18-17-11</identifier>
+          </contentItem>
+          <contentItem n="77">
+            <locus from="176">f. 176</locus>
+            <title type="incipit">Spiritus et alme</title>
+            <identifier type="dokumenten_id">To 18-176-1</identifier>
+          </contentItem>
+          <contentItem n="78">
+            <locus from="17v">f. 17v</locus>
+            <title type="incipit">Etenim sederunt</title>
+            <identifier type="dokumenten_id">To 18-17v-3</identifier>
+          </contentItem>
+          <contentItem n="79">
+            <locus from="17v">f. 17v</locus>
+            <title type="incipit">Christe redemptor</title>
+            <identifier type="dokumenten_id">To 18-17v-6</identifier>
+          </contentItem>
+          <contentItem n="80">
+            <locus from="17v">f. 17v</locus>
+            <title type="incipit">Quem patris ad dextram</title>
+            <identifier type="dokumenten_id">To 18-17v-9</identifier>
+          </contentItem>
+          <contentItem n="81">
+            <locus from="1v">f. 1v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">To 18-1v-4</identifier>
+          </contentItem>
+          <contentItem n="82">
+            <locus from="2">f. 2</locus>
+            <title type="incipit">Ad te levavi</title>
+            <identifier type="dokumenten_id">To 18-2-1</identifier>
+          </contentItem>
+          <contentItem n="83">
+            <locus from="21">f. 21</locus>
+            <title type="incipit">Lux et origo</title>
+            <identifier type="dokumenten_id">To 18-21-11</identifier>
+          </contentItem>
+          <contentItem n="84">
+            <locus from="21">f. 21</locus>
+            <title type="incipit">Ecce iam Iohannis</title>
+            <identifier type="dokumenten_id">To 18-21-3</identifier>
+          </contentItem>
+          <contentItem n="85">
+            <locus from="21">f. 21</locus>
+            <title type="incipit">In medio ecclesiae</title>
+            <identifier type="dokumenten_id">To 18-21-8</identifier>
+          </contentItem>
+          <contentItem n="86">
+            <locus from="21v">f. 21v</locus>
+            <title type="incipit">Laudat in excelsis</title>
+            <identifier type="dokumenten_id">To 18-21v-9</identifier>
+          </contentItem>
+          <contentItem n="87">
+            <locus from="23">f. 23</locus>
+            <title type="incipit">Gratuletur omnis caro dilecto</title>
+            <identifier type="dokumenten_id">To 18-23-3</identifier>
+          </contentItem>
+          <contentItem n="88">
+            <locus from="23">f. 23</locus>
+            <title type="incipit">Iustus ut palma</title>
+            <identifier type="dokumenten_id">To 18-23-5</identifier>
+          </contentItem>
+          <contentItem n="89">
+            <locus from="27">f. 27</locus>
+            <title type="incipit">Haec est praeclara dies</title>
+            <identifier type="dokumenten_id">To 18-27-8</identifier>
+          </contentItem>
+          <contentItem n="90">
+            <locus from="27v">f. 27v</locus>
+            <title type="incipit">Ecce advenit</title>
+            <identifier type="dokumenten_id">To 18-27v-3</identifier>
+          </contentItem>
+          <contentItem n="91">
+            <locus from="27v">f. 27v</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">To 18-27v-6</identifier>
+          </contentItem>
+          <contentItem n="92">
+            <locus from="34">f. 34</locus>
+            <title type="incipit">Usque in saeculum</title>
+            <identifier type="dokumenten_id">To 18-34-8I</identifier>
+          </contentItem>
+          <contentItem n="93">
+            <locus from="37">f. 37</locus>
+            <title type="incipit">Laetabitur iustus</title>
+            <identifier type="dokumenten_id">To 18-37-7</identifier>
+          </contentItem>
+          <contentItem n="94">
+            <locus from="38v">f. 38v</locus>
+            <title type="incipit">Maria offerens</title>
+            <identifier type="dokumenten_id">To 18-38v-8</identifier>
+          </contentItem>
+          <contentItem n="95">
+            <locus from="39">f. 39</locus>
+            <title type="incipit">Suscepimus</title>
+            <identifier type="dokumenten_id">To 18-39-2</identifier>
+          </contentItem>
+          <contentItem n="96">
+            <locus from="53v">f. 53v</locus>
+            <title type="incipit">Confessio</title>
+            <identifier type="dokumenten_id">To 18-53v-4</identifier>
+          </contentItem>
+          <contentItem n="97">
+            <locus from="75">f. 75</locus>
+            <title type="incipit">Invidiosi Iudaeorum</title>
+            <identifier type="dokumenten_id">To 18-75-12</identifier>
+          </contentItem>
+          <contentItem n="98">
+            <locus from="75v">f. 75v</locus>
+            <title type="incipit">Domine ne longe</title>
+            <identifier type="dokumenten_id">To 18-75v-4</identifier>
+          </contentItem>
+          <contentItem n="99">
+            <locus from="86v">f. 86v</locus>
+            <title type="incipit">Quem quaeritis in sepulchro</title>
+            <identifier type="dokumenten_id">To 18-86v-6</identifier>
+          </contentItem>
+          <contentItem n="100">
+            <locus from="87">f. 87</locus>
+            <title type="incipit">Resurrexi</title>
+            <identifier type="dokumenten_id">To 18-87-1</identifier>
+          </contentItem>
+          <contentItem n="101">
+            <locus from="87">f. 87</locus>
+            <title type="incipit">Gaudete et laetamini</title>
+            <identifier type="dokumenten_id">To 18-87-5</identifier>
+          </contentItem>
+          <contentItem n="102">
+            <locus from="87">f. 87</locus>
+            <title type="incipit">Cives superni</title>
+            <identifier type="dokumenten_id">To 18-87-8</identifier>
+          </contentItem>
+          <contentItem n="103">
+            <locus from="89">f. 89</locus>
+            <title type="incipit">Terra tremuit ... leo fortis</title>
+            <identifier type="dokumenten_id">To 18-89-5</identifier>
+          </contentItem>
+          <contentItem n="104">
+            <locus from="90">f. 90</locus>
+            <title type="incipit">Laus honor … regi nostro</title>
+            <identifier type="dokumenten_id">To 18-90-4</identifier>
+          </contentItem>
+          <contentItem n="105">
+            <locus from="90v">f. 90v</locus>
+            <title type="incipit">Presta ne nobis</title>
+            <identifier type="dokumenten_id">To 18-90v-3</identifier>
+          </contentItem>
+        </contents>
+        <notesStmt>
+          <annot type="description">
+            <ref target="To_18.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <classification>
+          <termList>
+            <term type="quellentyp">Graduale, Tropar, Sequentiar, Kyriale</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">Ms. F IV 18</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">Torino</geogName>
+                <corpName>Biblioteca Nazionale Universitaria</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

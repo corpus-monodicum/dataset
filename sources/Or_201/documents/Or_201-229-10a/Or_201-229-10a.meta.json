@@ -1,0 +1,41 @@
+{
+  "id": "1b38b121-68e4-4432-8998-915c0d5a43c4",
+  "quelle_id": "Or 201",
+  "dokumenten_id": "Or 201-229-10a",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Feria III post Pascha",
+  "feier": "Vesper",
+  "textinitium": "Thoma vidimus",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "10",
+  "foliostart": "229",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "229",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "Or 201-225-35S",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Journey to Emmaus",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

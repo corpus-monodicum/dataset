@@ -1,0 +1,41 @@
+{
+  "id": "ddad9880-60ec-4854-838b-bad70a9242cf",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-8-12",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Innocentes",
+  "feier": "Messe",
+  "textinitium": "Dicite nunc",
+  "bibliographischerverweis": "Innoc intr 27 A 28 D E 53 A 34 C 35 D F 29 A 30 D 1 A 2 B 3 C 4 D 23 A 24 C 25 D (CT I)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "12",
+  "foliostart": "8",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "(Ex ore)",
+    "Endseite": "9",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Innoc intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "f844dc2a-eb2f-474c-a586-e7c7b3f70bb4",
+  "quelle_id": "PaA 135",
+  "dokumenten_id": "PaA 135-152a-23",
+  "gattung1": "Benedicamus",
+  "gattung2": "untropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Benedicamus domino",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "23",
+  "foliostart": "152a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "152a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "23",
+    "Melodiennummer_Katalog": "Eifrig/Pfisterer 164",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "850162",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

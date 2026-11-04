@@ -1,0 +1,41 @@
+{
+  "id": "bcf78a5c-2830-4ccc-bcf9-d3bc3be4f0b3",
+  "quelle_id": "Pst 121",
+  "dokumenten_id": "Pst 121-9-10",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominica I adventus",
+  "feier": "Messe",
+  "textinitium": "Salus aeterna indeficiens",
+  "bibliographischerverweis": "AH 7, 4; AH 53, 1",
+  "druckausgabe": "",
+  "zeilenstart": "10",
+  "foliostart": "9",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "9v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Aurea",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

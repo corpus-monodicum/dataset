@@ -1,0 +1,41 @@
+{
+  "id": "ff5c9376-fcc6-4f59-99b4-6223971cd802",
+  "quelle_id": "Pa 1138",
+  "dokumenten_id": "Pa 1138-125-2",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Omnes sancti",
+  "feier": "",
+  "textinitium": "Alme sanctorum",
+  "bibliographischerverweis": "AH 7, 260",
+  "druckausgabe": "",
+  "zeilenstart": "2",
+  "foliostart": "125",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "126",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Alme sanctorum",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

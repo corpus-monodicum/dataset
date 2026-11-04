@@ -1,0 +1,41 @@
+{
+  "id": "86601bb0-3d58-4e7b-9807-332651257f37",
+  "quelle_id": "Lü 11",
+  "dokumenten_id": "Lü 11-130-2",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Stephanus",
+  "feier": "Messe",
+  "textinitium": "Hanc concordi",
+  "bibliographischerverweis": "AH 53, 215",
+  "druckausgabe": "CM III",
+  "zeilenstart": "2",
+  "foliostart": "130",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "130v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Concordia",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

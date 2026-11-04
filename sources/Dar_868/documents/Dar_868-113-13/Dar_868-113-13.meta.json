@@ -1,0 +1,41 @@
+{
+  "id": "535b60c9-dc26-44c3-a30c-fb93d9bb92af",
+  "quelle_id": "Dar 868",
+  "dokumenten_id": "Dar 868-113-13",
+  "gattung1": "Kyrie",
+  "gattung2": "untropiert",
+  "festtag": "Dominicae dies",
+  "feier": "Messe",
+  "textinitium": "Kyrie eleyson",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "13",
+  "foliostart": "113",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "113",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "16",
+    "Melodiennummer_Katalog": "Melnicki 171: 1A 1B 1C 2A 2B 2C 3A 3B 3C",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509501",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

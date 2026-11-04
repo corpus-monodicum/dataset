@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Nau I: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Isabel Kraft</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Hanna Zühlke</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Gunilla Iversen</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Ritva Maria Jacobsson</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="Nau_I">
+          <msIdentifier>
+            <settlement>Naumburg</settlement>
+            <repository>Domstiftsbibliothek</repository>
+            <idno type="shelfmark">Chorbuch I</idno>
+            <altIdentifier type="siglum">
+              <idno>Nau I</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>Nau I</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <term type="quellentyp">Graduale mit Tropen (Winterteil), Psalterium, Hymnar, Kyriale, Sequentiar</term>
+            </summary>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="11">f. 11</locus>
+              <title type="incipit">Hodie cantandus est</title>
+              <idno type="dokumenten_id">Nau I-11-11</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="11v">f. 11v</locus>
+              <title type="incipit">Puer natus est nobis</title>
+              <idno type="dokumenten_id">Nau I-11v-8</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="13">f. 13</locus>
+              <title type="incipit">Domine Iesu Christe</title>
+              <idno type="dokumenten_id">Nau I-13-1</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="13v">f. 13v</locus>
+              <title type="incipit">Etenim sederunt</title>
+              <idno type="dokumenten_id">Nau I-13v-7</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="14v">f. 14v</locus>
+              <title type="incipit">Quoniam dominus</title>
+              <idno type="dokumenten_id">Nau I-14v-7</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="15v">f. 15v</locus>
+              <title type="incipit">In medio ecclesiae</title>
+              <idno type="dokumenten_id">Nau I-15v-1</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="16v">f. 16v</locus>
+              <title type="incipit">Ex ore infantium</title>
+              <idno type="dokumenten_id">Nau I-16v-10</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="16v">f. 16v</locus>
+              <title type="incipit">Tuae aptans militiae</title>
+              <idno type="dokumenten_id">Nau I-16v-2</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="18v">f. 18v</locus>
+              <title type="incipit">Ecclesiae sponsus</title>
+              <idno type="dokumenten_id">Nau I-18v-1</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="77">f. 77</locus>
+              <title type="incipit">Postquam factus</title>
+              <idno type="dokumenten_id">Nau I-77-11</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="78">f. 78</locus>
+              <title type="incipit">Resurrexi</title>
+              <idno type="dokumenten_id">Nau I-78-1</idno>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <musicNotation>
+              <ref target="notation/Nau_I.notation.md">Notation documentation</ref>
+            </musicNotation>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Meißen</settlement>
+                <region>Quellen deutscher Herkunft</region>
+                <orgName>Dom</orgName>
+              </origPlace>
+              <origDate>16. Jh Anfang (1500–1504)</origDate>
+            </origin>
+          </history>
+          <additional>
+            <adminInfo>
+              <note type="description">
+                <ref target="Nau_I.description.md">Source description</ref>
+              </note>
+            </adminInfo>
+            <surrogates>
+              <bibl>
+                <ref type="iiif-manifest" target="https://archive.thulb.uni-jena.de/korax/api/iiif/presentation/v2/Korax_derivate_00002026/manifest" />
+              </bibl>
+            </surrogates>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,41 @@
+{
+  "id": "7c07677c-443f-428e-9824-23e23aecf3d6",
+  "quelle_id": "Nau I",
+  "dokumenten_id": "Nau I-16v-10",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Innocentes",
+  "feier": "Messe",
+  "textinitium": "Ex ore infantium",
+  "bibliographischerverweis": "AMS 15",
+  "druckausgabe": "II-2",
+  "zeilenstart": "10",
+  "foliostart": "16v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "16v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "v",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

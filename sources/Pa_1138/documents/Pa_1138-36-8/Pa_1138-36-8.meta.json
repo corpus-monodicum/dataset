@@ -1,0 +1,41 @@
+{
+  "id": "313a3b76-6989-40d3-9bdd-bb045ace0549",
+  "quelle_id": "Pa 1138",
+  "dokumenten_id": "Pa 1138-36-8",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Mauritius",
+  "feier": "Messe",
+  "textinitium": "Alludat laetus ordo",
+  "bibliographischerverweis": "AH 7, 176; AH 53, 189",
+  "druckausgabe": "",
+  "zeilenstart": "8",
+  "foliostart": "36",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "38",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Iusti epulentur",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

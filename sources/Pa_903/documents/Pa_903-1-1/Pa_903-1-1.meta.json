@@ -1,0 +1,41 @@
+{
+  "id": "4d955757-81ab-4411-bc7a-5a976a25329e",
+  "quelle_id": "Pa 903",
+  "dokumenten_id": "Pa 903-1-1",
+  "gattung1": "Tropus",
+  "gattung2": "Communio",
+  "festtag": "Dominica I adventus",
+  "feier": "Messe",
+  "textinitium": "Tibi soli honor",
+  "bibliographischerverweis": "Adv I com 2 A",
+  "druckausgabe": "II-3",
+  "zeilenstart": "1",
+  "foliostart": "1",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "1",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "Beginn fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Adv I com",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

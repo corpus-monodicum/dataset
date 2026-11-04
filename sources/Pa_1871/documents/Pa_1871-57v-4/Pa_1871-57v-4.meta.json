@@ -1,0 +1,41 @@
+{
+  "id": "1d6d50f8-d947-44b9-b025-08a4985f1b0a",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-57v-4",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Iohannes Baptista",
+  "feier": "Messe",
+  "textinitium": "Gaude caterva",
+  "bibliographischerverweis": "AH 53, 164",
+  "druckausgabe": "",
+  "zeilenstart": "4",
+  "foliostart": "57v",
+  "kommentar": "Nachtrag",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "58v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Fulgens praeclara",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

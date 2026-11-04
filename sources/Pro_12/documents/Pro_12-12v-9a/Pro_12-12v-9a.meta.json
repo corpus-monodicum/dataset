@@ -1,0 +1,41 @@
+{
+  "id": "6a401428-7883-4609-a41e-24c3e05bf3d4",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-12v-9a",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Nativitas domini",
+  "feier": "1. Vesper",
+  "textinitium": "Nostra tuba nunc tua*",
+  "bibliographischerverweis": "AH 53, 14",
+  "druckausgabe": "CM III",
+  "zeilenstart": "9",
+  "foliostart": "12v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "12v",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Nostra tuba",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

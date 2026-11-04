@@ -1,0 +1,41 @@
+{
+  "id": "6f262300-4a58-4e0c-84c2-0765ed503c01",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-192-b-3",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dies II post nativitatem Mariae",
+  "feier": "Messe",
+  "textinitium": "Res est admirabilis*",
+  "bibliographischerverweis": "AH 54, 253",
+  "druckausgabe": "",
+  "zeilenstart": "3",
+  "foliostart": "192-b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "192b",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

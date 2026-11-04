@@ -1,0 +1,41 @@
+{
+  "id": "7c38513e-4d30-44d1-9bea-07b13ecae1d4",
+  "quelle_id": "Pa 1138",
+  "dokumenten_id": "Pa 1138-129v-2",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominicae dies",
+  "feier": "",
+  "textinitium": "Omnipotens deus fortis",
+  "bibliographischerverweis": "AH 7, 240",
+  "druckausgabe": "",
+  "zeilenstart": "2",
+  "foliostart": "129v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "131",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Trinitas (A)",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

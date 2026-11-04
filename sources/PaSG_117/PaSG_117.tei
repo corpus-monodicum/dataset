@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>PaSG 117: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Edition (Spiele)</resp>
+          <persName>Elaine Stratton Hild</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="PaSG_117">
+          <msIdentifier>
+            <settlement>Paris</settlement>
+            <repository>Bibliothèque Sainte-Geneviève</repository>
+            <idno type="shelfmark">117</idno>
+            <altIdentifier type="siglum">
+              <idno>PaSG 117</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>PaSG 117</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="100">f. 100</locus>
+              <title type="incipit">Praesta quaesumus ... ut in resurrectione*</title>
+              <idno type="dokumenten_id">PaSG 117-100-11</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="100">f. 100</locus>
+              <title type="incipit">Alleluia alleluia alleluia</title>
+              <idno type="dokumenten_id">PaSG 117-100-13a</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="100">f. 100</locus>
+              <title type="incipit">Aurora lucis*</title>
+              <idno type="dokumenten_id">PaSG 117-100-13b</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="100">f. 100</locus>
+              <title type="incipit">Ego sum qui sum</title>
+              <idno type="dokumenten_id">PaSG 117-100-14</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="100">f. 100</locus>
+              <title type="incipit">Christus resurgens</title>
+              <idno type="dokumenten_id">PaSG 117-100-6</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="100v">f. 100v</locus>
+              <title type="incipit">Postulavi patrem</title>
+              <idno type="dokumenten_id">PaSG 117-100v-1</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="100v">f. 100v</locus>
+              <title type="incipit">Angelus domini locutus</title>
+              <idno type="dokumenten_id">PaSG 117-100v-12</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="100v">f. 100v</locus>
+              <title type="incipit">Ego dormivi</title>
+              <idno type="dokumenten_id">PaSG 117-100v-3</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="100v">f. 100v</locus>
+              <title type="incipit">Resurrexit dominus*</title>
+              <idno type="dokumenten_id">PaSG 117-100v-4</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="100v">f. 100v</locus>
+              <title type="incipit">Maria Magdalene et Maria Iacobi*</title>
+              <idno type="dokumenten_id">PaSG 117-100v-5</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="100v">f. 100v</locus>
+              <title type="incipit">Angelus domini descendit ... accedens</title>
+              <idno type="dokumenten_id">PaSG 117-100v-6</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="101">f. 101</locus>
+              <title type="incipit">Te deum laudamus*</title>
+              <idno type="dokumenten_id">PaSG 117-101-10a</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="101">f. 101</locus>
+              <title type="incipit">Surrexit dominus de sepulchro*</title>
+              <idno type="dokumenten_id">PaSG 117-101-10b</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="101">f. 101</locus>
+              <title type="incipit">Et valde mane</title>
+              <idno type="dokumenten_id">PaSG 117-101-2</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="101">f. 101</locus>
+              <title type="incipit">Quem quaeritis in sepulchro</title>
+              <idno type="dokumenten_id">PaSG 117-101-6</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="101">f. 101</locus>
+              <title type="incipit">Alleluia resurrexit dominus</title>
+              <idno type="dokumenten_id">PaSG 117-101-9a</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="101">f. 101</locus>
+              <title type="incipit">Hodie resurrexit leo fortis</title>
+              <idno type="dokumenten_id">PaSG 117-101-9b</idno>
+            </msItem>
+            <msItem n="18">
+              <locus from="24v">f. 24v</locus>
+              <title type="incipit">Deus in adiutorium meum*</title>
+              <idno type="dokumenten_id">PaSG 117-24v-10a</idno>
+            </msItem>
+            <msItem n="19">
+              <locus from="24v">f. 24v</locus>
+              <title type="incipit">Dominus dixit*</title>
+              <idno type="dokumenten_id">PaSG 117-24v-10b</idno>
+            </msItem>
+            <msItem n="20">
+              <locus from="24v">f. 24v</locus>
+              <title type="incipit">Quem vidistis pastores dicite</title>
+              <idno type="dokumenten_id">PaSG 117-24v-11</idno>
+            </msItem>
+            <msItem n="21">
+              <locus from="24v">f. 24v</locus>
+              <title type="incipit">Genuit puerpera</title>
+              <idno type="dokumenten_id">PaSG 117-24v-13</idno>
+            </msItem>
+            <msItem n="22">
+              <locus from="24v">f. 24v</locus>
+              <title type="incipit">Angelus ad pastores</title>
+              <idno type="dokumenten_id">PaSG 117-24v-16</idno>
+            </msItem>
+            <msItem n="23">
+              <locus from="25">f. 25</locus>
+              <title type="incipit">Facta est cum</title>
+              <idno type="dokumenten_id">PaSG 117-25-1</idno>
+            </msItem>
+            <msItem n="24">
+              <locus from="25">f. 25</locus>
+              <idno type="dokumenten_id">PaSG 117-25-10a</idno>
+            </msItem>
+            <msItem n="25">
+              <locus from="25">f. 25</locus>
+              <title type="incipit">Ite missa est*</title>
+              <idno type="dokumenten_id">PaSG 117-25-10b</idno>
+            </msItem>
+            <msItem n="26">
+              <locus from="25">f. 25</locus>
+              <title type="incipit">Pastores dicite</title>
+              <idno type="dokumenten_id">PaSG 117-25-4</idno>
+            </msItem>
+            <msItem n="27">
+              <locus from="25">f. 25</locus>
+              <title type="incipit">Parvulus filius hodie</title>
+              <idno type="dokumenten_id">PaSG 117-25-7</idno>
+            </msItem>
+            <msItem n="28">
+              <locus from="25">f. 25</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">PaSG 117-25-8</idno>
+            </msItem>
+            <msItem n="29">
+              <locus from="25">f. 25</locus>
+              <title type="incipit">Dominus vobiscum*</title>
+              <idno type="dokumenten_id">PaSG 117-25-9</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Beauvais</settlement>
+                <region>Quellen französischer Herkunft</region>
+                <orgName>Kathedrale Saint-Pierre</orgName>
+              </origPlace>
+              <origDate>13. Jh Ende</origDate>
+            </origin>
+          </history>
+          <additional>
+            <adminInfo>
+              <note type="description">
+                <ref target="PaSG_117.description.md">Source description</ref>
+              </note>
+            </adminInfo>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

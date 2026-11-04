@@ -1,0 +1,41 @@
+{
+  "id": "8d027a73-55d1-4f7e-abb1-0a1aa96c3eee",
+  "quelle_id": "Ass 695",
+  "dokumenten_id": "Ass 695-158-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Apostoli",
+  "feier": "Messe",
+  "textinitium": "Caeli solem imitantes",
+  "bibliographischerverweis": "AH 55, 3",
+  "druckausgabe": "CM III",
+  "zeilenstart": "1",
+  "foliostart": "158",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "158v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

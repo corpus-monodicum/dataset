@@ -1,0 +1,41 @@
+{
+  "id": "5aa14ef7-8930-4bb8-b0fd-80c56d73881f",
+  "quelle_id": "Pad 55",
+  "dokumenten_id": "Pad 55-37-1",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "Annuntiatio Mariae",
+  "feier": "",
+  "textinitium": "Ne timeas Maria",
+  "bibliographischerverweis": "CAO 3863",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "1",
+  "foliostart": "37",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "37",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Pad 55-36v-13S",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Annunciation",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1fb92164-b5cd-4881-b586-68aba4a360b0",
+  "quelle_id": "Pa 904",
+  "dokumenten_id": "Pa 904-90v-26",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Feria VI in Parasceve",
+  "feier": "Officium adorande crucis",
+  "textinitium": "Quia eduxi te",
+  "bibliographischerverweis": "CAO 8452",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "26",
+  "foliostart": "90v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "90v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Pa 904-90v-10S",
+    "Endzeile": "28",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Good Friday / Adoration of the Cross",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

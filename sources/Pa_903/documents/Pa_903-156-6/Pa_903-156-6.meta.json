@@ -1,0 +1,41 @@
+{
+  "id": "e9e28322-3846-4e4e-8405-f94783b13735",
+  "quelle_id": "Pa 903",
+  "dokumenten_id": "Pa 903-156-6",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Iohannes Baptista",
+  "feier": "Messe",
+  "textinitium": "Quem creditis natum",
+  "bibliographischerverweis": "De ventre intr 57 A 48 G [mel I D] 45 A 58 C 46 D 47 F 14 H [mel I A] 32 A 15 B 16 C 17 D 18 E 34 F (CT X)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "6",
+  "foliostart": "156",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "De ventre matris)",
+    "Endseite": "156v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "De ventre intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

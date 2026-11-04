@@ -1,0 +1,41 @@
+{
+  "id": "0a2ea9ac-59e0-47d0-b5d4-8118f44d5aea",
+  "quelle_id": "Pia 65",
+  "dokumenten_id": "Pia 65-240v-a-18",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Iohannes Baptista",
+  "feier": "Messe",
+  "textinitium": "Audite insulae",
+  "bibliographischerverweis": "De ventre intr 29 A 22 B 23 C 24 D E A F A (CT X)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "18",
+  "foliostart": "240v-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "De ventre",
+    "Endseite": "240v-b",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "De ventre intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0fc2b889-3673-4eab-a5ad-eeb8adff6789",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-38-1",
+  "gattung1": "Tropus",
+  "gattung2": "Offertorium-Tropus",
+  "festtag": "Andreas",
+  "feier": "Messe",
+  "textinitium": "Christe tuos",
+  "bibliographischerverweis": "Constitues off 17 A 18 B 19 C (CT X)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "1",
+  "foliostart": "38",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "(Constitues)",
+    "Endseite": "38",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Constitues off",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

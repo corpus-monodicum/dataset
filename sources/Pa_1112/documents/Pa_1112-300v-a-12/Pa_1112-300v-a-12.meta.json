@@ -1,0 +1,41 @@
+{
+  "id": "ad15acf3-f006-4c57-8bea-2a6f477ee0c0",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-300v-a-12",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Lucas",
+  "feier": "Messe",
+  "textinitium": "Plausu chorus laetabundo",
+  "bibliographischerverweis": "AH 55, 6",
+  "druckausgabe": "CM III",
+  "zeilenstart": "12",
+  "foliostart": "300v-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "301a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "13",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

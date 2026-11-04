@@ -1,0 +1,41 @@
+{
+  "id": "bc962a78-22dc-45b1-aa42-27c32aa7669e",
+  "quelle_id": "Pa 903",
+  "dokumenten_id": "Pa 903-77v-9",
+  "gattung1": "Antiphon",
+  "gattung2": "Communio",
+  "festtag": "Pascha",
+  "feier": "Messe",
+  "textinitium": "Pascha nostrum ... alleluia",
+  "bibliographischerverweis": "AMS 80",
+  "druckausgabe": "II-3",
+  "zeilenstart": "9",
+  "foliostart": "77v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "77v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

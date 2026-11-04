@@ -1,0 +1,41 @@
+{
+  "id": "50f2b2ed-1696-4739-8f6e-323a88861cb9",
+  "quelle_id": "Pst 121",
+  "dokumenten_id": "Pst 121-59v-10",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Benedictus",
+  "feier": "Messe",
+  "textinitium": "Quem superne",
+  "bibliographischerverweis": "AH 7, 128",
+  "druckausgabe": "",
+  "zeilenstart": "10",
+  "foliostart": "59v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "62",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Iustus germinabit",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2e71ce4e-c196-4bbc-b9c5-80b5c14e262d",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-110v-1",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Omnes sancti",
+  "feier": "Messe",
+  "textinitium": "Hoc festum cunctis",
+  "bibliographischerverweis": "Timete intr 8 A 9 B 10 C D 11 A E 12 A (CT X)",
+  "druckausgabe": "II-2",
+  "zeilenstart": "1",
+  "foliostart": "110v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "Aa 13-97-3",
+    "Endseite": "110v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Timete intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

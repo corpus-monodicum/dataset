@@ -1,0 +1,41 @@
+{
+  "id": "9ffc13b1-f6bd-4b94-b2f7-63eba25b92ac",
+  "quelle_id": "Halb 45",
+  "dokumenten_id": "Halb 45-32v-2",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Assumptio Mariae",
+  "feier": "Messe",
+  "textinitium": "O quam glorifico",
+  "bibliographischerverweis": "Gaudeamus intr 15 A 16 B 17 C D E (CT X) Gaud 140 A (CT IX)",
+  "druckausgabe": "II-2",
+  "zeilenstart": "2",
+  "foliostart": "32v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "(Gaudeamus)",
+    "Endseite": "33",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Gaudeamus intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "bf984ff2-9047-4e24-887a-76eb5ed2f6b5",
+  "quelle_id": "Civ 102",
+  "dokumenten_id": "Civ 102-33v-5",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Feria VI in Parasceve",
+  "feier": "Officium adorande crucis",
+  "textinitium": "Quid ultra debui",
+  "bibliographischerverweis": "CAO 8453",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "5",
+  "foliostart": "33v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "33v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Civ 102-32v-10S",
+    "Endzeile": "13",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Good Friday / Adoration of the Cross",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "9aca4bff-4cf2-4bfb-9bfd-8f97033827a3",
+  "quelle_id": "Pa 1138",
+  "dokumenten_id": "Pa 1138-28-8",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Benedictus",
+  "feier": "Messe",
+  "textinitium": "Praeconia modo",
+  "bibliographischerverweis": "AH 7, 129",
+  "druckausgabe": "",
+  "zeilenstart": "8",
+  "foliostart": "28",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "29v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Apt 17: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>David Catalunya</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Sequenzen)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Gunilla Iversen</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Ritva Maria Jacobsson</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="Apt_17">
+          <msIdentifier>
+            <settlement>Apt</settlement>
+            <repository>Archive Basilique de Sainte Anne</repository>
+            <idno type="shelfmark">Ms. 17</idno>
+            <altIdentifier type="siglum">
+              <idno>Apt 17</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>F-APT 17</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <term type="quellentyp">Tropar, Prosar</term>
+            </summary>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="101">f. 101</locus>
+              <title type="incipit">Stella praevia</title>
+              <idno type="dokumenten_id">Apt 17-101-8</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="102">f. 102</locus>
+              <title type="incipit">Suscipe sanctorum</title>
+              <idno type="dokumenten_id">Apt 17-102-2</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="104">f. 104</locus>
+              <title type="incipit">Organicis ... qui in suis</title>
+              <idno type="dokumenten_id">Apt 17-104-2</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="106">f. 106</locus>
+              <title type="incipit">Vera est</title>
+              <idno type="dokumenten_id">Apt 17-106-2</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="106">f. 106</locus>
+              <title type="incipit">Summa dei</title>
+              <idno type="dokumenten_id">Apt 17-106-7</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="107">f. 107</locus>
+              <title type="incipit">Quem cives polorum</title>
+              <idno type="dokumenten_id">Apt 17-107-1</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="109">f. 109</locus>
+              <title type="incipit">Haec est sancta sollemnitas cunctis</title>
+              <idno type="dokumenten_id">Apt 17-109-5</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="111">f. 111</locus>
+              <title type="incipit">Posuisti domine</title>
+              <idno type="dokumenten_id">Apt 17-111-1</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="111">f. 111</locus>
+              <title type="incipit">O nova res</title>
+              <idno type="dokumenten_id">Apt 17-111-4</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="117">f. 117</locus>
+              <title type="incipit">Hac clara die</title>
+              <idno type="dokumenten_id">Apt 17-117-4</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="119">f. 119</locus>
+              <title type="incipit">Aurea Davitico</title>
+              <idno type="dokumenten_id">Apt 17-119-6</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="120">f. 120</locus>
+              <title type="incipit">Felix qui meruit</title>
+              <idno type="dokumenten_id">Apt 17-120-6</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="126">f. 126</locus>
+              <title type="incipit">Hora est psallite ... eia</title>
+              <idno type="dokumenten_id">Apt 17-126-1</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="13">f. 13</locus>
+              <title type="incipit">Christum regem</title>
+              <idno type="dokumenten_id">Apt 17-13-1</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="139">f. 139</locus>
+              <title type="incipit">Fulgens praeclara</title>
+              <idno type="dokumenten_id">Apt 17-139-3</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="144">f. 144</locus>
+              <title type="incipit">Iam surrexit</title>
+              <idno type="dokumenten_id">Apt 17-144-4</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="147">f. 147</locus>
+              <title type="incipit">Laus honor … regi nostro</title>
+              <idno type="dokumenten_id">Apt 17-147-8</idno>
+            </msItem>
+            <msItem n="18">
+              <locus from="148">f. 148</locus>
+              <title type="incipit">Promissionis suae</title>
+              <idno type="dokumenten_id">Apt 17-148-8</idno>
+            </msItem>
+            <msItem n="19">
+              <locus from="156">f. 156</locus>
+              <title type="incipit">Gaudent ecce</title>
+              <idno type="dokumenten_id">Apt 17-156-1</idno>
+            </msItem>
+            <msItem n="20">
+              <locus from="160">f. 160</locus>
+              <title type="incipit">Et ecce terraemotus</title>
+              <idno type="dokumenten_id">Apt 17-160-2</idno>
+            </msItem>
+            <msItem n="21">
+              <locus from="160">f. 160</locus>
+              <title type="incipit">Discipulis dominus</title>
+              <idno type="dokumenten_id">Apt 17-160-6</idno>
+            </msItem>
+            <msItem n="22">
+              <locus from="161">f. 161</locus>
+              <title type="incipit">Ecce vicit radix</title>
+              <idno type="dokumenten_id">Apt 17-161-4</idno>
+            </msItem>
+            <msItem n="23">
+              <locus from="164">f. 164</locus>
+              <title type="incipit">Iam philomelinis</title>
+              <idno type="dokumenten_id">Apt 17-164-3</idno>
+            </msItem>
+            <msItem n="24">
+              <locus from="165">f. 165</locus>
+              <title type="incipit">Dei iusta fratres</title>
+              <idno type="dokumenten_id">Apt 17-165-6</idno>
+            </msItem>
+            <msItem n="25">
+              <locus from="167">f. 167</locus>
+              <title type="incipit">Concine nunc</title>
+              <idno type="dokumenten_id">Apt 17-167-4</idno>
+            </msItem>
+            <msItem n="26">
+              <locus from="168">f. 168</locus>
+              <title type="incipit">Sancta cunctis laetitia</title>
+              <idno type="dokumenten_id">Apt 17-168-3</idno>
+            </msItem>
+            <msItem n="27">
+              <locus from="170">f. 170</locus>
+              <title type="incipit">Clara gaudia</title>
+              <idno type="dokumenten_id">Apt 17-170-8</idno>
+            </msItem>
+            <msItem n="28">
+              <locus from="173">f. 173</locus>
+              <title type="incipit">Fulgens praeclara</title>
+              <idno type="dokumenten_id">Apt 17-173-1</idno>
+            </msItem>
+            <msItem n="29">
+              <locus from="177">f. 177</locus>
+              <title type="incipit">Mortificando</title>
+              <idno type="dokumenten_id">Apt 17-177-1</idno>
+            </msItem>
+            <msItem n="30">
+              <locus from="178">f. 178</locus>
+              <title type="incipit">Ecce pulchra</title>
+              <idno type="dokumenten_id">Apt 17-178-3</idno>
+            </msItem>
+            <msItem n="31">
+              <locus from="18">f. 18</locus>
+              <title type="incipit">Nato canunt omnia</title>
+              <idno type="dokumenten_id">Apt 17-18-5</idno>
+            </msItem>
+            <msItem n="32">
+              <locus from="180">f. 180</locus>
+              <title type="incipit">Perspicuae</title>
+              <idno type="dokumenten_id">Apt 17-180-9</idno>
+            </msItem>
+            <msItem n="33">
+              <locus from="181">f. 181</locus>
+              <title type="incipit">Vexilla regis</title>
+              <idno type="dokumenten_id">Apt 17-181-8</idno>
+            </msItem>
+            <msItem n="34">
+              <locus from="184">f. 184</locus>
+              <title type="incipit">Psallite cum laude</title>
+              <idno type="dokumenten_id">Apt 17-184-7</idno>
+            </msItem>
+            <msItem n="35">
+              <locus from="192">f. 192</locus>
+              <title type="incipit">Ad templi ... devota persultat</title>
+              <idno type="dokumenten_id">Apt 17-192-1</idno>
+            </msItem>
+            <msItem n="36">
+              <locus from="195">f. 195</locus>
+              <title type="incipit">Affatur Salomon</title>
+              <idno type="dokumenten_id">Apt 17-195-3</idno>
+            </msItem>
+            <msItem n="37">
+              <locus from="195">f. 195</locus>
+              <title type="incipit">Domum istam tu protegere</title>
+              <idno type="dokumenten_id">Apt 17-195-6</idno>
+            </msItem>
+            <msItem n="38">
+              <locus from="196">f. 196</locus>
+              <title type="incipit">Quem creditis super astra</title>
+              <idno type="dokumenten_id">Apt 17-196-1</idno>
+            </msItem>
+            <msItem n="39">
+              <locus from="20">f. 20</locus>
+              <title type="incipit">Iam venit lux</title>
+              <idno type="dokumenten_id">Apt 17-20-8</idno>
+            </msItem>
+            <msItem n="40">
+              <locus from="203">f. 203</locus>
+              <title type="incipit">Rex omnipotens</title>
+              <idno type="dokumenten_id">Apt 17-203-7</idno>
+            </msItem>
+            <msItem n="41">
+              <locus from="207">f. 207</locus>
+              <title type="incipit">Elevatus est</title>
+              <idno type="dokumenten_id">Apt 17-207-2</idno>
+            </msItem>
+            <msItem n="42">
+              <locus from="209">f. 209</locus>
+              <title type="incipit">Corpus quod</title>
+              <idno type="dokumenten_id">Apt 17-209-3</idno>
+            </msItem>
+            <msItem n="43">
+              <locus from="209">f. 209</locus>
+              <title type="incipit">Inclita refulget</title>
+              <idno type="dokumenten_id">Apt 17-209-6</idno>
+            </msItem>
+            <msItem n="44">
+              <locus from="220">f. 220</locus>
+              <title type="incipit">Eia musa</title>
+              <idno type="dokumenten_id">Apt 17-220-8</idno>
+            </msItem>
+            <msItem n="45">
+              <locus from="223">f. 223</locus>
+              <title type="incipit">Pangite iam socii</title>
+              <idno type="dokumenten_id">Apt 17-223-3</idno>
+            </msItem>
+            <msItem n="46">
+              <locus from="224">f. 224</locus>
+              <title type="incipit">Dum essent</title>
+              <idno type="dokumenten_id">Apt 17-224-7</idno>
+            </msItem>
+            <msItem n="47">
+              <locus from="225">f. 225</locus>
+              <title type="incipit">Quem creditis natum</title>
+              <idno type="dokumenten_id">Apt 17-225-1</idno>
+            </msItem>
+            <msItem n="48">
+              <locus from="232">f. 232</locus>
+              <title type="incipit">Nativitas praecursoris</title>
+              <idno type="dokumenten_id">Apt 17-232-1</idno>
+            </msItem>
+            <msItem n="49">
+              <locus from="234">f. 234</locus>
+              <title type="incipit">Iohannes est hic ... de quo canite</title>
+              <idno type="dokumenten_id">Apt 17-234-6</idno>
+            </msItem>
+            <msItem n="50">
+              <locus from="235">f. 235</locus>
+              <title type="incipit">Praevius hic ... en Zacharia</title>
+              <idno type="dokumenten_id">Apt 17-235-2</idno>
+            </msItem>
+            <msItem n="51">
+              <locus from="235">f. 235</locus>
+              <title type="incipit">Petro ad ostium</title>
+              <idno type="dokumenten_id">Apt 17-235-4</idno>
+            </msItem>
+            <msItem n="52">
+              <locus from="243">f. 243</locus>
+              <title type="incipit">Laude iucunda</title>
+              <idno type="dokumenten_id">Apt 17-243-1</idno>
+            </msItem>
+            <msItem n="53">
+              <locus from="245">f. 245</locus>
+              <title type="incipit">Mundum velut</title>
+              <idno type="dokumenten_id">Apt 17-245-8</idno>
+            </msItem>
+            <msItem n="54">
+              <locus from="247">f. 247</locus>
+              <title type="incipit">Simoni eia</title>
+              <idno type="dokumenten_id">Apt 17-247-5</idno>
+            </msItem>
+            <msItem n="55">
+              <locus from="247">f. 247</locus>
+              <title type="incipit">Festivo cultu</title>
+              <idno type="dokumenten_id">Apt 17-247-7</idno>
+            </msItem>
+            <msItem n="56">
+              <locus from="250">f. 250</locus>
+              <title type="incipit">Aulam sanctam</title>
+              <idno type="dokumenten_id">Apt 17-250-8</idno>
+            </msItem>
+            <msItem n="57">
+              <locus from="259">f. 259</locus>
+              <title type="incipit">Aureo flore primae</title>
+              <idno type="dokumenten_id">Apt 17-259-9</idno>
+            </msItem>
+            <msItem n="58">
+              <locus from="26">f. 26</locus>
+              <title type="incipit">Adest praecelsa</title>
+              <idno type="dokumenten_id">Apt 17-26-3</idno>
+            </msItem>
+            <msItem n="59">
+              <locus from="263">f. 263</locus>
+              <title type="incipit">Exsultemus omnes gaudio</title>
+              <idno type="dokumenten_id">Apt 17-263-7</idno>
+            </msItem>
+            <msItem n="60">
+              <locus from="265">f. 265</locus>
+              <title type="incipit">Qualis virgo</title>
+              <idno type="dokumenten_id">Apt 17-265-6</idno>
+            </msItem>
+            <msItem n="61">
+              <locus from="265">f. 265</locus>
+              <title type="incipit">Sacra melodemata ... namque</title>
+              <idno type="dokumenten_id">Apt 17-265-7</idno>
+            </msItem>
+            <msItem n="62">
+              <locus from="268">f. 268</locus>
+              <title type="incipit">Praecursor Christi</title>
+              <idno type="dokumenten_id">Apt 17-268-9</idno>
+            </msItem>
+            <msItem n="63">
+              <locus from="271">f. 271</locus>
+              <title type="incipit">Incesto Herodes</title>
+              <idno type="dokumenten_id">Apt 17-271-2</idno>
+            </msItem>
+            <msItem n="64">
+              <locus from="271">f. 271</locus>
+              <title type="incipit">Rex praecelsus</title>
+              <idno type="dokumenten_id">Apt 17-271-5</idno>
+            </msItem>
+            <msItem n="65">
+              <locus from="271">f. 271</locus>
+              <title type="incipit">Splendore ... qua virgo</title>
+              <idno type="dokumenten_id">Apt 17-271-7</idno>
+            </msItem>
+            <msItem n="66">
+              <locus from="274">f. 274</locus>
+              <title type="incipit">Claris vocibus inclita</title>
+              <idno type="dokumenten_id">Apt 17-274-2</idno>
+            </msItem>
+            <msItem n="67">
+              <locus from="275">f. 275</locus>
+              <title type="incipit">Sancti spiritus … Quae corda</title>
+              <idno type="dokumenten_id">Apt 17-275-1</idno>
+            </msItem>
+            <msItem n="68">
+              <locus from="285">f. 285</locus>
+              <title type="incipit">Laudibus alternis niveae</title>
+              <idno type="dokumenten_id">Apt 17-285-2</idno>
+            </msItem>
+            <msItem n="69">
+              <locus from="29">f. 29</locus>
+              <title type="incipit">Quem quaeritis in praesepe</title>
+              <idno type="dokumenten_id">Apt 17-29-1</idno>
+            </msItem>
+            <msItem n="70">
+              <locus from="296">f. 296</locus>
+              <title type="incipit">Carmen nunc nobile</title>
+              <idno type="dokumenten_id">Apt 17-296-7</idno>
+            </msItem>
+            <msItem n="71">
+              <locus from="302">f. 302</locus>
+              <title type="incipit">Psallite Castori</title>
+              <idno type="dokumenten_id">Apt 17-302-8</idno>
+            </msItem>
+            <msItem n="72">
+              <locus from="303">f. 303</locus>
+              <title type="incipit">Festivo iam</title>
+              <idno type="dokumenten_id">Apt 17-303-1</idno>
+            </msItem>
+            <msItem n="73">
+              <locus from="308">f. 308</locus>
+              <title type="incipit">Ad celebres rex</title>
+              <idno type="dokumenten_id">Apt 17-308-7</idno>
+            </msItem>
+            <msItem n="74">
+              <locus from="312">f. 312</locus>
+              <title type="incipit">Factum est</title>
+              <idno type="dokumenten_id">Apt 17-312-1</idno>
+            </msItem>
+            <msItem n="75">
+              <locus from="312">f. 312</locus>
+              <title type="incipit">Auctorem omnium</title>
+              <idno type="dokumenten_id">Apt 17-312-9</idno>
+            </msItem>
+            <msItem n="76">
+              <locus from="313">f. 313</locus>
+              <title type="incipit">Hodie est fratres</title>
+              <idno type="dokumenten_id">Apt 17-313-2</idno>
+            </msItem>
+            <msItem n="77">
+              <locus from="323">f. 323</locus>
+              <title type="incipit">Christo inclita</title>
+              <idno type="dokumenten_id">Apt 17-323-5</idno>
+            </msItem>
+            <msItem n="78">
+              <locus from="326">f. 326</locus>
+              <title type="incipit">O quam mellifluum</title>
+              <idno type="dokumenten_id">Apt 17-326-4</idno>
+            </msItem>
+            <msItem n="79">
+              <locus from="328">f. 328</locus>
+              <title type="incipit">Fert evangelium</title>
+              <idno type="dokumenten_id">Apt 17-328-1</idno>
+            </msItem>
+            <msItem n="80">
+              <locus from="328">f. 328</locus>
+              <title type="incipit">Laetabunda per orbem</title>
+              <idno type="dokumenten_id">Apt 17-328-4</idno>
+            </msItem>
+            <msItem n="81">
+              <locus from="342">f. 342</locus>
+              <title type="incipit">O Martine sacer</title>
+              <idno type="dokumenten_id">Apt 17-342-4</idno>
+            </msItem>
+            <msItem n="82">
+              <locus from="345">f. 345</locus>
+              <title type="incipit">Festis nunc</title>
+              <idno type="dokumenten_id">Apt 17-345-9</idno>
+            </msItem>
+            <msItem n="83">
+              <locus from="349">f. 349</locus>
+              <title type="incipit">Cunctipotens genitor</title>
+              <idno type="dokumenten_id">Apt 17-349-1</idno>
+            </msItem>
+            <msItem n="84">
+              <locus from="352">f. 352</locus>
+              <title type="incipit">Benedicta semper sancta</title>
+              <idno type="dokumenten_id">Apt 17-352-9</idno>
+            </msItem>
+            <msItem n="85">
+              <locus from="44">f. 44</locus>
+              <title type="incipit">Christi hodiernae ... caelica</title>
+              <idno type="dokumenten_id">Apt 17-44-4</idno>
+            </msItem>
+            <msItem n="86">
+              <locus from="47">f. 47</locus>
+              <title type="incipit">Christum natum</title>
+              <idno type="dokumenten_id">Apt 17-47-6</idno>
+            </msItem>
+            <msItem n="87">
+              <locus from="51">f. 51</locus>
+              <title type="incipit">Gaudeat cunctus</title>
+              <idno type="dokumenten_id">Apt 17-51-6</idno>
+            </msItem>
+            <msItem n="88">
+              <locus from="52">f. 52</locus>
+              <title type="incipit">Quem cernitis</title>
+              <idno type="dokumenten_id">Apt 17-52-4</idno>
+            </msItem>
+            <msItem n="89">
+              <locus from="61">f. 61</locus>
+              <title type="incipit">Gloriosa dies ... processit</title>
+              <idno type="dokumenten_id">Apt 17-61-7</idno>
+            </msItem>
+            <msItem n="90">
+              <locus from="63">f. 63</locus>
+              <title type="incipit">Almo dei Stephano</title>
+              <idno type="dokumenten_id">Apt 17-63-8</idno>
+            </msItem>
+            <msItem n="91">
+              <locus from="66">f. 66</locus>
+              <title type="incipit">Intuitus caelum</title>
+              <idno type="dokumenten_id">Apt 17-66-4</idno>
+            </msItem>
+            <msItem n="92">
+              <locus from="66">f. 66</locus>
+              <title type="incipit">Ecce iam Iohannis</title>
+              <idno type="dokumenten_id">Apt 17-66-5</idno>
+            </msItem>
+            <msItem n="93">
+              <locus from="73">f. 73</locus>
+              <title type="incipit">Oramus te aeterna</title>
+              <idno type="dokumenten_id">Apt 17-73-8</idno>
+            </msItem>
+            <msItem n="94">
+              <locus from="76">f. 76</locus>
+              <title type="incipit">Gratuletur omnis caro</title>
+              <idno type="dokumenten_id">Apt 17-76-2</idno>
+            </msItem>
+            <msItem n="95">
+              <locus from="77">f. 77</locus>
+              <title type="incipit">Corda fratrum</title>
+              <idno type="dokumenten_id">Apt 17-77-4</idno>
+            </msItem>
+            <msItem n="96">
+              <locus from="78">f. 78</locus>
+              <title type="incipit">Hodie parvulorum</title>
+              <idno type="dokumenten_id">Apt 17-78-2</idno>
+            </msItem>
+            <msItem n="97">
+              <locus from="85">f. 85</locus>
+              <title type="incipit">Rex magne deus</title>
+              <idno type="dokumenten_id">Apt 17-85-1</idno>
+            </msItem>
+            <msItem n="98">
+              <locus from="87">f. 87</locus>
+              <title type="incipit">Laudemus dominum pueros</title>
+              <idno type="dokumenten_id">Apt 17-87-3</idno>
+            </msItem>
+            <msItem n="99">
+              <locus from="88">f. 88</locus>
+              <title type="incipit">Psallite sanctorum</title>
+              <idno type="dokumenten_id">Apt 17-88-1</idno>
+            </msItem>
+            <msItem n="100">
+              <locus from="88">f. 88</locus>
+              <title type="incipit">Hodie descendit Christus</title>
+              <idno type="dokumenten_id">Apt 17-88-4</idno>
+            </msItem>
+            <msItem n="101">
+              <locus from="95">f. 95</locus>
+              <title type="incipit">Epiphaniam domino</title>
+              <idno type="dokumenten_id">Apt 17-95-8</idno>
+            </msItem>
+            <msItem n="102">
+              <locus from="98">f. 98</locus>
+              <title type="incipit">Regi Christo</title>
+              <idno type="dokumenten_id">Apt 17-98-8</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Apt</settlement>
+                <region>Quellen aquitanischer Herkunft</region>
+              </origPlace>
+              <origDate>11. Jh Mitte</origDate>
+            </origin>
+          </history>
+          <additional>
+            <adminInfo>
+              <note type="description">
+                <ref target="Apt_17.description.md">Source description</ref>
+              </note>
+            </adminInfo>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

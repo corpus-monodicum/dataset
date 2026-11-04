@@ -1,0 +1,25 @@
+{
+  "id": "Be 792",
+  "quellensigle": "Be 792",
+  "herkunftsregion": "Quellen deutscher Herkunft",
+  "herkunftsort": "Erfurt",
+  "herkunftsinstitution": "Kollegiatsift Sankt Marien",
+  "ordenstradition": "",
+  "quellentyp": "Missale mit Tropen",
+  "bibliotheksort": "Berlin",
+  "bibliothek": "Staatsbibliothek PKB",
+  "bibliothekssignatur": "Ms. lat. fol. 792",
+  "kommentar": "",
+  "datierung": "14. Jh 2. Hälfte",
+  "status": "",
+  "jahrhundert": "14.",
+  "manifest": "",
+  "foliooffset": "pageNr+3",
+  "publish": "all",
+  "cantus_siglum": "Be 792",
+  "cantus_century": "14.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Be_792.description.md"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "e5c6405e-03b6-4b08-b0a8-a26cd636edb8",
+  "quelle_id": "Lo 23935",
+  "dokumenten_id": "Lo 23935-435b-8b",
+  "gattung1": "Ite missa est",
+  "gattung2": "untropiert",
+  "festtag": "",
+  "feier": "Frühmesse",
+  "textinitium": "Ite missa est",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "8",
+  "foliostart": "435b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "435b",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "Eifrig/Pfisterer 412",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "Ite missa est",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

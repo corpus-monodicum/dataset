@@ -1,0 +1,41 @@
+{
+  "id": "350acf9d-a57e-4917-a034-1da2010f9302",
+  "quelle_id": "Ma 19421",
+  "dokumenten_id": "Ma 19421-17v-9",
+  "gattung1": "Gloria",
+  "gattung2": "tropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Laudemus dominum quem",
+  "bibliographischerverweis": "CT XII, 30",
+  "druckausgabe": "I-1",
+  "zeilenstart": "9",
+  "foliostart": "17v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Hiley",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "18v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "Bosse 1",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509502",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

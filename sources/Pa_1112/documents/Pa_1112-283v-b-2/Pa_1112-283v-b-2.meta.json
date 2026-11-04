@@ -1,0 +1,41 @@
+{
+  "id": "ab96840c-9c57-4aff-bb7d-4cc15d2a405f",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-283v-b-2",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Marcus Evangelista",
+  "feier": "Messe",
+  "textinitium": "Victimae paschali laudes*",
+  "bibliographischerverweis": "AH 54, 7",
+  "druckausgabe": "CM III",
+  "zeilenstart": "2",
+  "foliostart": "283v-b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "283v-b",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

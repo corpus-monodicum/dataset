@@ -1,0 +1,41 @@
+{
+  "id": "f1a6b683-593c-4c15-bf71-694d61d2ca4f",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-274v-b-7",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Stephanus",
+  "feier": "Messe",
+  "textinitium": "Magnus deus in universa",
+  "bibliographischerverweis": "AH 7, 201; AH 53, 220",
+  "druckausgabe": "CM III",
+  "zeilenstart": "7",
+  "foliostart": "274v-b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "275b",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Quoniam deus minor",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

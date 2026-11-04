@@ -1,0 +1,41 @@
+{
+  "id": "f04f5447-a55f-4c9d-a410-c0b5156aef4d",
+  "quelle_id": "Ei 366",
+  "dokumenten_id": "Ei 366-49-7a",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Confessores",
+  "feier": "Messe",
+  "textinitium": "Rex regum deus noster",
+  "bibliographischerverweis": "AH 53, 243",
+  "druckausgabe": "CM III",
+  "zeilenstart": "7",
+  "foliostart": "49",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "50b",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Iustus ut palma minor",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

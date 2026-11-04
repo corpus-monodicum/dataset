@@ -1,0 +1,41 @@
+{
+  "id": "07774b9e-1de6-43d4-b246-57089a6a5fa6",
+  "quelle_id": "La 263",
+  "dokumenten_id": "La 263-61v-8a",
+  "gattung1": "Kyrie",
+  "gattung2": "tropiert",
+  "festtag": "Hippolytus",
+  "feier": "Messe",
+  "textinitium": "Cunctipotens genitor*",
+  "bibliographischerverweis": "AH 47, 4",
+  "druckausgabe": "I-1",
+  "zeilenstart": "8",
+  "foliostart": "61v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Charles M. Atkinson",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "61v",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "Melnicki 18",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509501",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

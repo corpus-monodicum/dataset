@@ -1,0 +1,41 @@
+{
+  "id": "00559b37-c19f-4c8b-852f-078f80b1a390",
+  "quelle_id": "Ut 417",
+  "dokumenten_id": "Ut 417-4v-12",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Octava nativitatis",
+  "feier": "Messe",
+  "textinitium": "Eia recolamus ... piis*",
+  "bibliographischerverweis": "AH 53, 16",
+  "druckausgabe": "",
+  "zeilenstart": "12",
+  "foliostart": "4v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "4v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Eia turma",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

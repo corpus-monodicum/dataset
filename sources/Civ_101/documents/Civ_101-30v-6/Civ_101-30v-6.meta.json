@@ -1,0 +1,41 @@
+{
+  "id": "d10dd19b-a916-48ff-a669-b67e399b6478",
+  "quelle_id": "Civ 101",
+  "dokumenten_id": "Civ 101-30v-6",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Feria VI in Parasceve",
+  "feier": "Officium adorande crucis",
+  "textinitium": "Agios o theos",
+  "bibliographischerverweis": "CAO 8450",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "6",
+  "foliostart": "30v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "30v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Civ 101-30-13S",
+    "Endzeile": "17",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Good Friday / Adoration of the Cross / Deposition of the Host",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "e79aa377-7aad-4318-8fa0-cb26625f21e0",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-208-3",
+  "gattung1": "Gloria",
+  "gattung2": "tropiert",
+  "festtag": "Pascha",
+  "feier": "Messe",
+  "textinitium": "Cives superni",
+  "bibliographischerverweis": "CT XII, 36, Versio I",
+  "druckausgabe": "",
+  "zeilenstart": "3",
+  "foliostart": "208",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Charles M. Atkinson",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "209",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "Bosse 39",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509502",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

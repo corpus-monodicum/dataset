@@ -1,0 +1,41 @@
+{
+  "id": "9d03964c-da66-4193-8b93-f21387ff8f99",
+  "quelle_id": "Ben 34",
+  "dokumenten_id": "Ben 34-178-4",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Ascensio domini",
+  "feier": "Messe",
+  "textinitium": "Astra petit Christus",
+  "bibliographischerverweis": "Ascens intr 21 A 54 B 55 C 56 A 57 B 58 C (CT III)",
+  "druckausgabe": "",
+  "zeilenstart": "4",
+  "foliostart": "178",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "(Viri Galilaei Intr.)",
+    "Endseite": "178",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Ascens intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

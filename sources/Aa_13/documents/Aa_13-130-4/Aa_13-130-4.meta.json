@@ -1,0 +1,41 @@
+{
+  "id": "9a103f88-9979-4a6c-8be0-214562d83d17",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-130-4",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Feria III post Pascha",
+  "feier": "Messe",
+  "textinitium": "Salve dies dierum",
+  "bibliographischerverweis": "AH 54, 146",
+  "druckausgabe": "CM III",
+  "zeilenstart": "4",
+  "foliostart": "130",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "130v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

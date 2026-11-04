@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Pa 1064: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Spiele)</resp>
+          <persName>Elaine Stratton Hild</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="Pa_1064">
+        <identifier type="siglum">Pa 1064</identifier>
+        <identifier type="cantus">Pa 1064</identifier>
+        <titleStmt>
+          <title>Pa 1064</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Beauvais</geogName>
+          <geogName role="origin-region">Quellen französischer Herkunft</geogName>
+          <corpName role="origin-institution">Kathedrale Saint-Pierre</corpName>
+          <date>12. Jh</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="10">f. 10</locus>
+            <title type="incipit">Surrexit dominus et apparuit</title>
+            <identifier type="dokumenten_id">Pa 1064-10-11</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="10">f. 10</locus>
+            <title type="incipit">Nonne cor nostrum</title>
+            <identifier type="dokumenten_id">Pa 1064-10-5</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="10">f. 10</locus>
+            <title type="incipit">Heu miseri heu miseri</title>
+            <identifier type="dokumenten_id">Pa 1064-10-7</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="10v">f. 10v</locus>
+            <title type="incipit">Pax vobis ego sum nolite ... quid</title>
+            <identifier type="dokumenten_id">Pa 1064-10v-1</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="10v">f. 10v</locus>
+            <title type="incipit">Vere Thoma vidimus</title>
+            <identifier type="dokumenten_id">Pa 1064-10v-11</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="10v">f. 10v</locus>
+            <title type="incipit">Surrexit dominus de sepulchro ... alleluia</title>
+            <identifier type="dokumenten_id">Pa 1064-10v-7</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="11">f. 11</locus>
+            <title type="incipit">Nisi fixuram clavorum</title>
+            <identifier type="dokumenten_id">Pa 1064-11-1</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="11">f. 11</locus>
+            <title type="incipit">O Iesu domine</title>
+            <identifier type="dokumenten_id">Pa 1064-11-12</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="11">f. 11</locus>
+            <title type="incipit">Pax vobis ego sum alleluia</title>
+            <identifier type="dokumenten_id">Pa 1064-11-5</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="11">f. 11</locus>
+            <title type="incipit">Thoma nunc vulnera</title>
+            <identifier type="dokumenten_id">Pa 1064-11-7</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus from="11v">f. 11v</locus>
+            <title type="incipit">Quia vidisti me</title>
+            <identifier type="dokumenten_id">Pa 1064-11v-3</identifier>
+          </contentItem>
+          <contentItem n="12">
+            <locus from="11v">f. 11v</locus>
+            <title type="incipit">Christus resurgens*</title>
+            <identifier type="dokumenten_id">Pa 1064-11v-5</identifier>
+          </contentItem>
+          <contentItem n="13">
+            <locus from="11v">f. 11v</locus>
+            <title type="incipit">Gavisi sunt discipuli*</title>
+            <identifier type="dokumenten_id">Pa 1064-11v-6a</identifier>
+          </contentItem>
+          <contentItem n="14">
+            <locus from="11v">f. 11v</locus>
+            <identifier type="dokumenten_id">Pa 1064-11v-6b</identifier>
+          </contentItem>
+          <contentItem n="15">
+            <locus from="8">f. 8</locus>
+            <title type="incipit">Quem Iudaei damnaverunt</title>
+            <identifier type="dokumenten_id">Pa 1064-8-10</identifier>
+          </contentItem>
+          <contentItem n="16">
+            <locus from="8">f. 8</locus>
+            <title type="incipit">Iesu nostra redemptio*</title>
+            <identifier type="dokumenten_id">Pa 1064-8-2</identifier>
+          </contentItem>
+          <contentItem n="17">
+            <locus from="8">f. 8</locus>
+            <title type="incipit">Qui sunt hi sermones</title>
+            <identifier type="dokumenten_id">Pa 1064-8-4</identifier>
+          </contentItem>
+          <contentItem n="18">
+            <locus from="8v">f. 8v</locus>
+            <title type="incipit">Iam tres dies</title>
+            <identifier type="dokumenten_id">Pa 1064-8v-1</identifier>
+          </contentItem>
+          <contentItem n="19">
+            <locus from="8v">f. 8v</locus>
+            <title type="incipit">Se vidisse narraverunt</title>
+            <identifier type="dokumenten_id">Pa 1064-8v-4</identifier>
+          </contentItem>
+          <contentItem n="20">
+            <locus from="8v">f. 8v</locus>
+            <title type="incipit">O cum sitis</title>
+            <identifier type="dokumenten_id">Pa 1064-8v-9</identifier>
+          </contentItem>
+          <contentItem n="21">
+            <locus from="9">f. 9</locus>
+            <title type="incipit">Declinante vespera</title>
+            <identifier type="dokumenten_id">Pa 1064-9-11</identifier>
+          </contentItem>
+          <contentItem n="22">
+            <locus from="9">f. 9</locus>
+            <title type="incipit">Haec Moses significaverat</title>
+            <identifier type="dokumenten_id">Pa 1064-9-2</identifier>
+          </contentItem>
+          <contentItem n="23">
+            <locus from="9">f. 9</locus>
+            <title type="incipit">Ne moremur fratres</title>
+            <identifier type="dokumenten_id">Pa 1064-9-9</identifier>
+          </contentItem>
+          <contentItem n="24">
+            <locus from="9v">f. 9v</locus>
+            <title type="incipit">Mane nobiscum</title>
+            <identifier type="dokumenten_id">Pa 1064-9v-1</identifier>
+          </contentItem>
+          <contentItem n="25">
+            <locus from="9v">f. 9v</locus>
+            <title type="incipit">Et intravit cum</title>
+            <identifier type="dokumenten_id">Pa 1064-9v-11</identifier>
+          </contentItem>
+          <contentItem n="26">
+            <locus from="9v">f. 9v</locus>
+            <title type="incipit">Iam sol vergens</title>
+            <identifier type="dokumenten_id">Pa 1064-9v-4</identifier>
+          </contentItem>
+          <contentItem n="27">
+            <locus from="9v">f. 9v</locus>
+            <title type="incipit">Et coegerunt illum</title>
+            <identifier type="dokumenten_id">Pa 1064-9v-8</identifier>
+          </contentItem>
+        </contents>
+        <notesStmt>
+          <annot type="description">
+            <ref target="Pa_1064.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <classification>
+          <termList>
+            <term type="quellentyp">Liturgisches Spiel, Prozessionar</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">Nouv. acq. lat. 1064</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">Paris</geogName>
+                <corpName>Bibliothèque nationale de France</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+        <relationList>
+          <relation rel="hasReproduction" target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b84274480/manifest.json" label="IIIF manifest" />
+        </relationList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

@@ -1,0 +1,41 @@
+{
+  "id": "fe1a0852-1b03-4020-bf19-2bd33e0cc4b4",
+  "quelle_id": "Civ 101",
+  "dokumenten_id": "Civ 101-86-15",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Feria VI in Parasceve",
+  "feier": "",
+  "textinitium": "O pater benigne",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "15",
+  "foliostart": "86",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "86",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Civ 101-85-4S",
+    "Endzeile": "21",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "Ende fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Planctus Mariae / Mary's Lament",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

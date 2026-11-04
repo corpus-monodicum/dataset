@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Civ 41: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Spiele)</resp>
+          <persName>Elaine Stratton Hild</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="Civ_41">
+        <identifier type="siglum">Civ 41</identifier>
+        <identifier type="cantus">Civ 41</identifier>
+        <titleStmt>
+          <title>Civ 41</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Cividale del Friuli</geogName>
+          <geogName role="origin-region">Quellen italienischer Herkunft</geogName>
+          <corpName role="origin-institution">Kathedrale Santa Maria Assunta</corpName>
+          <date>14. Jh 2. Hälfte</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="138">f. 138</locus>
+            <title type="incipit">Alleluia alleluia alleluia</title>
+            <identifier type="dokumenten_id">Civ 41-138-1</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="138">f. 138</locus>
+            <title type="incipit">Angelus domini descendit ... accedens</title>
+            <identifier type="dokumenten_id">Civ 41-138-10</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="138">f. 138</locus>
+            <title type="incipit">Ego sum qui sum</title>
+            <identifier type="dokumenten_id">Civ 41-138-2</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="138">f. 138</locus>
+            <title type="incipit">Postulavi patrem</title>
+            <identifier type="dokumenten_id">Civ 41-138-4</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="138">f. 138</locus>
+            <title type="incipit">Ego dormivi</title>
+            <identifier type="dokumenten_id">Civ 41-138-5</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="138">f. 138</locus>
+            <title type="incipit">Resurrexit dominus alleluia</title>
+            <identifier type="dokumenten_id">Civ 41-138-7</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="138v">f. 138v</locus>
+            <title type="incipit">Angelus domini locutus</title>
+            <identifier type="dokumenten_id">Civ 41-138v-1</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="138v">f. 138v</locus>
+            <title type="incipit">Quis revolvet nobis ab hostio</title>
+            <identifier type="dokumenten_id">Civ 41-138v-14</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="138v">f. 138v</locus>
+            <title type="incipit">Quem quaeritis o tremulae</title>
+            <identifier type="dokumenten_id">Civ 41-138v-18</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="138v">f. 138v</locus>
+            <title type="incipit">Dum transisset sabbatum</title>
+            <identifier type="dokumenten_id">Civ 41-138v-5</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus from="139">f. 139</locus>
+            <title type="incipit">Iesum Nazarenum crucifixum quaerimus</title>
+            <identifier type="dokumenten_id">Civ 41-139-1</identifier>
+          </contentItem>
+          <contentItem n="12">
+            <locus from="139">f. 139</locus>
+            <title type="incipit">Ad monumentum venimus</title>
+            <identifier type="dokumenten_id">Civ 41-139-11</identifier>
+          </contentItem>
+          <contentItem n="13">
+            <locus from="139">f. 139</locus>
+            <title type="incipit">Cernitis o socii</title>
+            <identifier type="dokumenten_id">Civ 41-139-15</identifier>
+          </contentItem>
+          <contentItem n="14">
+            <locus from="139">f. 139</locus>
+            <title type="incipit">Surrexit dominus de sepulchro*</title>
+            <identifier type="dokumenten_id">Civ 41-139-19</identifier>
+          </contentItem>
+          <contentItem n="15">
+            <locus from="139">f. 139</locus>
+            <title type="incipit">Non est hic quem quaeritis</title>
+            <identifier type="dokumenten_id">Civ 41-139-2</identifier>
+          </contentItem>
+          <contentItem n="16">
+            <locus from="139">f. 139</locus>
+            <title type="incipit">Te deum laudamus*</title>
+            <identifier type="dokumenten_id">Civ 41-139-21</identifier>
+          </contentItem>
+          <contentItem n="17">
+            <locus from="139">f. 139</locus>
+            <title type="incipit">Venite et videte</title>
+            <identifier type="dokumenten_id">Civ 41-139-5</identifier>
+          </contentItem>
+        </contents>
+        <notesStmt>
+          <annot type="description">
+            <ref target="Civ_41.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">Ms. XLI</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">Cividale</geogName>
+                <corpName>Museo Archeologico Nazionale</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

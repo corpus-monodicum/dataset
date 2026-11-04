@@ -1,0 +1,41 @@
+{
+  "id": "70dbe068-c704-4412-b170-43bd2d25f1d9",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-168-6",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Karolus Magnus",
+  "feier": "Messe",
+  "textinitium": "In Karoli Magni",
+  "bibliographischerverweis": "AH 37, 223",
+  "druckausgabe": "CM III",
+  "zeilenstart": "6",
+  "foliostart": "168",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "168",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "15",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "A",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

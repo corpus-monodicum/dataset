@@ -1,0 +1,41 @@
+{
+  "id": "7ba20133-53f7-4396-becc-7647d9bb9a7c",
+  "quelle_id": "Pa 904",
+  "dokumenten_id": "Pa 904-92v-30",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Responsorium",
+  "festtag": "Feria VI in Parasceve",
+  "feier": "Officium adorande crucis",
+  "textinitium": "Sicut ovis ad occisionem",
+  "bibliographischerverweis": "CAO 7661",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "30",
+  "foliostart": "92v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "93",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Pa 904-90v-10S",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Good Friday / Adoration of the Cross",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

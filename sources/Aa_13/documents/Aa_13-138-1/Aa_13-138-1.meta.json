@@ -1,0 +1,41 @@
+{
+  "id": "d3d5b330-4db3-4f1e-947e-7bb78724c224",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-138-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Maria Magdalena",
+  "feier": "Messe",
+  "textinitium": "Mane prima sabbati",
+  "bibliographischerverweis": "AH 54, 143",
+  "druckausgabe": "CM III",
+  "zeilenstart": "1",
+  "foliostart": "138",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "138",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "Beginn fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

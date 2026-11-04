@@ -1,0 +1,41 @@
+{
+  "id": "5f56af09-c87d-4e99-bd0c-261c03e3d52d",
+  "quelle_id": "Pa 904",
+  "dokumenten_id": "Pa 904-12-19",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Tropus",
+  "festtag": "Nativitas domini",
+  "feier": "Matutin",
+  "textinitium": "Quem quaeritis in praesepe",
+  "bibliographischerverweis": "CT I (Nat III intr 62)^1",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "19",
+  "foliostart": "12",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "12v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Pa 904-10v-9S",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Christmas play",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

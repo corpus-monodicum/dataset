@@ -1,0 +1,41 @@
+{
+  "id": "1d7c3681-d6f3-45cf-8ab2-9577fe5063e2",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-169v-6",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Florinus",
+  "feier": "Messe",
+  "textinitium": "Haec concordes",
+  "bibliographischerverweis": "AH 53, 148",
+  "druckausgabe": "CM III",
+  "zeilenstart": "6",
+  "foliostart": "169v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "169v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Concordia",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "C",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

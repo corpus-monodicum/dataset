@@ -1,0 +1,41 @@
+{
+  "id": "91cfd5d0-a1b6-4293-b3bc-a8cfdb7a0aec",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-191-b-7b",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Clodoaldus",
+  "feier": "Messe",
+  "textinitium": "Hic sanctus*",
+  "bibliographischerverweis": "AH 55, 37 (ab 21)",
+  "druckausgabe": "",
+  "zeilenstart": "7",
+  "foliostart": "191-b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "191b",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "8f6b588f-cb13-4ff6-8373-00fe0f4b10b1",
+  "quelle_id": "Pa 905",
+  "dokumenten_id": "Pa 905-320-14",
+  "gattung1": "Agnus",
+  "gattung2": "untropiert",
+  "festtag": "Adventus; Septuagesima; Quadragesima",
+  "feier": "Messe",
+  "textinitium": "Agnus dei",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "14",
+  "foliostart": "320",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Charles M. Atkinson",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "320v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "Schildbach 254",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509505",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "Nachtrag aus dem 15. Jh.",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "341a6cd1-093b-491e-a431-f3da2eb3dd48",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-183-5",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Iohannes Baptista",
+  "feier": "Messe",
+  "textinitium": "Iohannes est hic ... cui in laude",
+  "bibliographischerverweis": "De ventre intr 14^1 A 15 B 16 C 17 D 18 E 34 F (CT X)",
+  "druckausgabe": "II-1",
+  "zeilenstart": "5",
+  "foliostart": "183",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "Pro 12 182v-9-",
+    "Endseite": "183v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "De ventre intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

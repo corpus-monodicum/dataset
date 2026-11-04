@@ -1,0 +1,41 @@
+{
+  "id": "5b259fda-3d51-4e87-a512-6ebfe02c47f",
+  "quelle_id": "Ass 695",
+  "dokumenten_id": "Ass 695-135v-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Pentecoste",
+  "feier": "Messe",
+  "textinitium": "Lux iucunda",
+  "bibliographischerverweis": "AH 54, 154",
+  "druckausgabe": "CM III",
+  "zeilenstart": "1",
+  "foliostart": "135v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "136v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "Beginn fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

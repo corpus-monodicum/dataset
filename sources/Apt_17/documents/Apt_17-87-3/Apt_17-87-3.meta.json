@@ -1,0 +1,41 @@
+{
+  "id": "cab0b7fe-0d42-405c-a8a7-63009b46a7b4",
+  "quelle_id": "Apt 17",
+  "dokumenten_id": "Apt 17-87-3",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Innocentes",
+  "feier": "Messe",
+  "textinitium": "Laudemus dominum pueros",
+  "bibliographischerverweis": "Innoc off 12 A (CT I)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "3",
+  "foliostart": "87",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "(Anima)",
+    "Endseite": "87",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Innoc off",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

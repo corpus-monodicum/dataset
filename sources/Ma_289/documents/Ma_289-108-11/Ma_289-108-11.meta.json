@@ -1,0 +1,41 @@
+{
+  "id": "4c735e3a-36be-45d6-9865-df77f1611446",
+  "quelle_id": "Ma 289",
+  "dokumenten_id": "Ma 289-108-11",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Epiphania",
+  "feier": "Matutin",
+  "textinitium": "Ante venire",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "11",
+  "foliostart": "108",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "108",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Ma 289-107-1S",
+    "Endzeile": "13",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "Beginn fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Magi play",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

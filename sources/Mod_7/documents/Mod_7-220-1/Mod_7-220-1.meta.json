@@ -1,0 +1,41 @@
+{
+  "id": "2147c145-b50d-44b9-aeea-00a12cf730ac",
+  "quelle_id": "Mod 7",
+  "dokumenten_id": "Mod 7-220-1",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Martyres",
+  "feier": "Messe",
+  "textinitium": "Flagrans nam",
+  "bibliographischerverweis": "Laetabitur intr 8 A 9 B (CT X)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "1",
+  "foliostart": "220",
+  "kommentar": "Beginn fehlt, Lakune",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Laetabitur",
+    "Endseite": "220",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "Beginn fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Laetabitur intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

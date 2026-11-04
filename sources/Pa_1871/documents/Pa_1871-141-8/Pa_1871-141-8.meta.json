@@ -1,0 +1,41 @@
+{
+  "id": "5ac7df19-4777-469c-9ebd-8ba0fc47a2a0",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-141-8",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Pentecoste",
+  "feier": "",
+  "textinitium": "Canat cuncta",
+  "bibliographischerverweis": "AH 7, 86",
+  "druckausgabe": "",
+  "zeilenstart": "8",
+  "foliostart": "141",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "141v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "(Canat cuncta)",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

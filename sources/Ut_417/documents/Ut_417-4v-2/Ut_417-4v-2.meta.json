@@ -1,0 +1,41 @@
+{
+  "id": "72e0e087-db02-42e4-96f8-c13fe51ecfc3",
+  "quelle_id": "Ut 417",
+  "dokumenten_id": "Ut 417-4v-2",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Octava innocentium",
+  "feier": "Messe",
+  "textinitium": "Laus tibi Christe patris",
+  "bibliographischerverweis": "AH 53, 157",
+  "druckausgabe": "",
+  "zeilenstart": "2",
+  "foliostart": "4v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "4v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Mirabilis (A)",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

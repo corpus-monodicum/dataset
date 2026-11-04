@@ -1,0 +1,41 @@
+{
+  "id": "5d18357e-a015-4c35-9c0a-3c6a57ee1de5",
+  "quelle_id": "Pad 55",
+  "dokumenten_id": "Pad 55-25v-8",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Feria VI in Parasceve",
+  "feier": "",
+  "textinitium": "Ego propter te",
+  "bibliographischerverweis": "CAO 8451",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "8",
+  "foliostart": "25v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "27",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Pad 55-24-5-aS",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Planctus Mariae / Mary's Lament",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

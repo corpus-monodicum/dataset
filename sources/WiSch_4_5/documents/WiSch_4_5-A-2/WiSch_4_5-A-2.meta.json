@@ -1,0 +1,41 @@
+{
+  "id": "94d50c9f-4556-4ce2-9045-d5b7ef371834",
+  "quelle_id": "WiSch 4/5",
+  "dokumenten_id": "WiSch 4/5-A-2",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Dominica I adventus",
+  "feier": "Messe",
+  "textinitium": "Ecce sunt dies",
+  "bibliographischerverweis": "Adv I intr 7 A (CT I)",
+  "druckausgabe": "II-2",
+  "zeilenstart": "2",
+  "foliostart": "A",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "(Ad te levavi)",
+    "Endseite": "A",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Adv I intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

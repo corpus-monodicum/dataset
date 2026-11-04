@@ -1,0 +1,41 @@
+{
+  "id": "3eb23415-31d4-466c-9d8b-cb07fc469299",
+  "quelle_id": "SCan 7",
+  "dokumenten_id": "SCan 7-227v-4",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Stephanus",
+  "feier": "Messe",
+  "textinitium": "Hanc concordi",
+  "bibliographischerverweis": "AH 53, 215",
+  "druckausgabe": "",
+  "zeilenstart": "4",
+  "foliostart": "227v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Gionata Brusa",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "228v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Concordia",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

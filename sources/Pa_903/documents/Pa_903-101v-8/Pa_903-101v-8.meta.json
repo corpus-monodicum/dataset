@@ -1,0 +1,41 @@
+{
+  "id": "27c69377-904b-4a48-a8ff-8d2a04cb4b43",
+  "quelle_id": "Pa 903",
+  "dokumenten_id": "Pa 903-101v-8",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Petrus et Paulus",
+  "feier": "Messe",
+  "textinitium": "Nunc scio vere",
+  "bibliographischerverweis": "AMS 122",
+  "druckausgabe": "II-3",
+  "zeilenstart": "8",
+  "foliostart": "101v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "101v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

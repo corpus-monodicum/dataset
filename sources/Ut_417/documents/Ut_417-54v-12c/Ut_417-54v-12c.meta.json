@@ -1,0 +1,41 @@
+{
+  "id": "d310ef04-e865-4eb8-b247-01e000bb61a3",
+  "quelle_id": "Ut 417",
+  "dokumenten_id": "Ut 417-54v-12c",
+  "gattung1": "Ite missa est",
+  "gattung2": "untropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Ite missa est",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "12",
+  "foliostart": "54v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "55",
+    "Startposition": "c",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "Eifrig/Pfisterer 157",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "Ite missa est",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

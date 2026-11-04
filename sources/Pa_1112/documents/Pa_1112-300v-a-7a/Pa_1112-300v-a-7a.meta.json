@@ -1,0 +1,41 @@
+{
+  "id": "1b8f650d-4455-4328-8c78-192b6d52ba9b",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-300v-a-7a",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Feria II post Dionysium",
+  "feier": "Messe",
+  "textinitium": "Mirabilis deus in sanctis*",
+  "bibliographischerverweis": "AH 53, 231",
+  "druckausgabe": "CM III",
+  "zeilenstart": "7",
+  "foliostart": "300v-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "300v-a",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Mirabilis (B)",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

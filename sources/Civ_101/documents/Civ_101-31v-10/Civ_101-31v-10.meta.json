@@ -1,0 +1,41 @@
+{
+  "id": "a6119978-3071-44f7-aa1f-f83f2ae72e02",
+  "quelle_id": "Civ 101",
+  "dokumenten_id": "Civ 101-31v-10",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Responsorium",
+  "festtag": "Feria VI in Parasceve",
+  "feier": "Depositio hostiae",
+  "textinitium": "Sepulto domino",
+  "bibliographischerverweis": "CAO 7640",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "10",
+  "foliostart": "31v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "32",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Civ 101-30-13S",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Good Friday / Adoration of the Cross / Deposition of the Host",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

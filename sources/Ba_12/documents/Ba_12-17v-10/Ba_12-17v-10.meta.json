@@ -1,0 +1,41 @@
+{
+  "id": "69acfff0-65b0-48cc-a4e5-d4ed8269bebc",
+  "quelle_id": "Ba 12",
+  "dokumenten_id": "Ba 12-17v-10",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Purificatio Mariae",
+  "feier": "Messe",
+  "textinitium": "Concentu parili hic te",
+  "bibliographischerverweis": "AH 53, 99",
+  "druckausgabe": "CM III",
+  "zeilenstart": "10",
+  "foliostart": "17v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "18v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Symphonia",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

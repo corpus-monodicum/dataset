@@ -1,0 +1,41 @@
+{
+  "id": "fb6279a2-2f7e-46a0-9bc8-d85d3f966f00",
+  "quelle_id": "Mod 7",
+  "dokumenten_id": "Mod 7-125-11",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Vitalis",
+  "feier": "Messe",
+  "textinitium": "Pro membris canit",
+  "bibliographischerverweis": "Protexisti intr 27 A 28 B 29 C 30 D 31 E 32 F (CT X)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "11",
+  "foliostart": "125",
+  "kommentar": "Elemente 28, 29 und 31 radiert",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Protexisti",
+    "Endseite": "125v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Protexisti intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

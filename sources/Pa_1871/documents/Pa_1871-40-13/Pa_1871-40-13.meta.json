@@ -1,0 +1,41 @@
+{
+  "id": "0b7daaeb-e0a4-4ea4-8523-efc09c6e1419",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-40-13",
+  "gattung1": "Tropus",
+  "gattung2": "Communio-Tropus",
+  "festtag": "Dedicatio ecclesiae",
+  "feier": "Messe",
+  "textinitium": "Domum istam tu protegere",
+  "bibliographischerverweis": "Ded com 4 A (CT VIII)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "13",
+  "foliostart": "40",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "(Domus mea)",
+    "Endseite": "40",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "14",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Ded com",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

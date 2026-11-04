@@ -1,0 +1,41 @@
+{
+  "id": "f83cb8c2-5f6b-456e-b759-f216a032710b",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-102v-11",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Stephanus",
+  "feier": "Messe",
+  "textinitium": "Praecentorum",
+  "bibliographischerverweis": "AH 7, 194",
+  "druckausgabe": "",
+  "zeilenstart": "11",
+  "foliostart": "102v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "103v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Celsa polorum",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "e041792b-e420-49fe-8864-108f4c83745a",
+  "quelle_id": "MüU 156",
+  "dokumenten_id": "MüU 156-166v-5",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Innocentes",
+  "feier": "Messe",
+  "textinitium": "Laus tibi Christe patris",
+  "bibliographischerverweis": "AH 53, 157",
+  "druckausgabe": "",
+  "zeilenstart": "5",
+  "foliostart": "166v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Gionata Brusa",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "167",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Mirabilis (A)",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

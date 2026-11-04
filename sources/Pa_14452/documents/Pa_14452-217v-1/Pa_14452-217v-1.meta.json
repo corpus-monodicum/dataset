@@ -1,0 +1,41 @@
+{
+  "id": "6e9555b9-723a-492d-89c7-88327a3c8c74",
+  "quelle_id": "Pa 14452",
+  "dokumenten_id": "Pa 14452-217v-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Annuntiatio Mariae",
+  "feier": "Messe",
+  "textinitium": "Hac clara die",
+  "bibliographischerverweis": "AH 53, 98",
+  "druckausgabe": "CM III",
+  "zeilenstart": "1",
+  "foliostart": "217v",
+  "kommentar": "Nachtrag_4 | \"VEL DOMINICA INFRA OCTAVA NATIVITATE\"",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "217v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Post partum",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "Nachtrag_4 | \"VEL DOMINICA INFRA OCTAVA NATIVITATE\"",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

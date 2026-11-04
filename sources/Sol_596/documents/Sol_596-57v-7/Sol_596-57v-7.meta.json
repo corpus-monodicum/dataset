@@ -1,0 +1,41 @@
+{
+  "id": "c284cdc7-e55f-4e12-af6d-1c40d0f4171a",
+  "quelle_id": "Sol 596",
+  "dokumenten_id": "Sol 596-57v-7",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "Sabbatum sanctum",
+  "feier": "Elevatio crucis",
+  "textinitium": "Exaltabo te",
+  "bibliographischerverweis": "CAO 2755",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "7",
+  "foliostart": "57v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "57v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Sol 596-54v-1S",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Elevation of the cross",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

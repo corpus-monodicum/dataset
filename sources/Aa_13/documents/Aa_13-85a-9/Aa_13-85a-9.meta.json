@@ -1,0 +1,41 @@
+{
+  "id": "b33fe38e-08b0-47c8-903b-0490d6f7fc93",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-85a-9",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Agatha",
+  "feier": "Messe",
+  "textinitium": "Gloriosae virginis Agathae",
+  "bibliographischerverweis": "AH 42, 153",
+  "druckausgabe": "CM III",
+  "zeilenstart": "9",
+  "foliostart": "85a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "85b",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "Nachtrag auf eingeschobenem Blatt",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

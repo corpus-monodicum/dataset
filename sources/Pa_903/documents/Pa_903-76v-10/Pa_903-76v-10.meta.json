@@ -1,0 +1,41 @@
+{
+  "id": "be14306b-1508-4cd5-afce-304f36bb1ca9",
+  "quelle_id": "Pa 903",
+  "dokumenten_id": "Pa 903-76v-10",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Pascha",
+  "feier": "Messe",
+  "textinitium": "Resurrexi",
+  "bibliographischerverweis": "AMS 80, [mel IV B]",
+  "druckausgabe": "II-3",
+  "zeilenstart": "10",
+  "foliostart": "76v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "76v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

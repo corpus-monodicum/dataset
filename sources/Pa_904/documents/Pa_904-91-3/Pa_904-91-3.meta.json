@@ -1,0 +1,41 @@
+{
+  "id": "1d6988e1-c56a-4fc5-84d2-7008f9d3c69d",
+  "quelle_id": "Pa 904",
+  "dokumenten_id": "Pa 904-91-3",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Feria VI in Parasceve",
+  "feier": "Officium adorande crucis",
+  "textinitium": "Quid ultra debui",
+  "bibliographischerverweis": "CAO 8453",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "3",
+  "foliostart": "91",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "91",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Pa 904-90v-10S",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Good Friday / Adoration of the Cross",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

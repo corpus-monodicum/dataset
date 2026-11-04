@@ -1,0 +1,41 @@
+{
+  "id": "b83d70a3-b7c8-4567-a423-d15fea455fa3",
+  "quelle_id": "To 18",
+  "dokumenten_id": "To 18-90v-3",
+  "gattung1": "Gloria",
+  "gattung2": "tropiert",
+  "festtag": "Feria II post Pascha",
+  "feier": "Messe",
+  "textinitium": "Presta ne nobis",
+  "bibliographischerverweis": "CT XII, 13: 8 21 9 10 11 12 47 27 13 28 14 15 16 17",
+  "druckausgabe": "",
+  "zeilenstart": "3",
+  "foliostart": "90v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "91",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "Bosse 39",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509502",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

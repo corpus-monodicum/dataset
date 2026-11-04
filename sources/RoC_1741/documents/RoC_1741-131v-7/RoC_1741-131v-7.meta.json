@@ -1,0 +1,41 @@
+{
+  "id": "86410bb9-6a4e-476a-9028-1287d760cfb1",
+  "quelle_id": "RoC 1741",
+  "dokumenten_id": "RoC 1741-131v-7",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominica XIII post Pentecosten",
+  "feier": "Messe",
+  "textinitium": "Laeta mente canamus",
+  "bibliographischerverweis": "AH 53, 60",
+  "druckausgabe": "",
+  "zeilenstart": "7",
+  "foliostart": "131v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "132",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Exsultate deo (A)",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

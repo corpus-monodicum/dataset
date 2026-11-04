@@ -1,0 +1,41 @@
+{
+  "id": "8bc8122f-5b95-430c-8df6-893312079cd7",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-167v-4",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Confessores",
+  "feier": "Messe",
+  "textinitium": "Ad laudes salvatoris",
+  "bibliographischerverweis": "AH 54, 88",
+  "druckausgabe": "CM III",
+  "zeilenstart": "4",
+  "foliostart": "167v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "167v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "17",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Mater",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "A",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

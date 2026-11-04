@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Pad 47: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Michael Klaper</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Gunilla Iversen</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Ritva Maria Jacobsson</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="Pad_47">
+        <identifier type="siglum">Pad 47</identifier>
+        <identifier type="cantus">Pad 47</identifier>
+        <titleStmt>
+          <title>Pad 47</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Ravenna</geogName>
+          <geogName role="origin-region">Quellen italienischer Herkunft</geogName>
+          <date>12. Jh Anfang</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="130v">f. 130v</locus>
+            <title type="incipit">Hora est psallite ... eia ... psallite fratres</title>
+            <identifier type="dokumenten_id">Pad 47-130v-6</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="135">f. 135</locus>
+            <title type="incipit">Ab increpatione</title>
+            <identifier type="dokumenten_id">Pad 47-135-10</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="137">f. 137</locus>
+            <title type="incipit">Laus honor … regi nostro</title>
+            <identifier type="dokumenten_id">Pad 47-137-5</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="139">f. 139</locus>
+            <title type="incipit">Cunctipotens Christus</title>
+            <identifier type="dokumenten_id">Pad 47-139-7</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="14">f. 14</locus>
+            <title type="incipit">Exultate iusti</title>
+            <identifier type="dokumenten_id">Pad 47-14-5</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="154">f. 154</locus>
+            <title type="incipit">Protexisti</title>
+            <identifier type="dokumenten_id">Pad 47-154-10</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="15v">f. 15v</locus>
+            <title type="incipit">Iam fulget</title>
+            <identifier type="dokumenten_id">Pad 47-15v-6</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="161">f. 161</locus>
+            <title type="incipit">Pro membris canit</title>
+            <identifier type="dokumenten_id">Pad 47-161-5</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="170">f. 170</locus>
+            <title type="incipit">Agmina perenniter</title>
+            <identifier type="dokumenten_id">Pad 47-170-4</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="174">f. 174</locus>
+            <title type="incipit">Hodie redemptor</title>
+            <identifier type="dokumenten_id">Pad 47-174-10</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus from="179">f. 179</locus>
+            <title type="incipit">Hodie dominus in igne</title>
+            <identifier type="dokumenten_id">Pad 47-179-12</identifier>
+          </contentItem>
+          <contentItem n="12">
+            <locus from="17v">f. 17v</locus>
+            <title type="incipit">Quem quaeritis in praesepe</title>
+            <identifier type="dokumenten_id">Pad 47-17v-12</identifier>
+          </contentItem>
+          <contentItem n="13">
+            <locus from="190v">f. 190v</locus>
+            <title type="incipit">Clara iam nobis</title>
+            <identifier type="dokumenten_id">Pad 47-190v-11</identifier>
+          </contentItem>
+          <contentItem n="14">
+            <locus from="195v">f. 195v</locus>
+            <title type="incipit">Divina beatus Petrus</title>
+            <identifier type="dokumenten_id">Pad 47-195v-9</identifier>
+          </contentItem>
+          <contentItem n="15">
+            <locus from="1v">f. 1v</locus>
+            <title type="incipit">Musicis melodiis</title>
+            <identifier type="dokumenten_id">Pad 47-1v-1I</identifier>
+          </contentItem>
+          <contentItem n="16">
+            <locus from="205v">f. 205v</locus>
+            <title type="incipit">Lauream regni</title>
+            <identifier type="dokumenten_id">Pad 47-205v-7</identifier>
+          </contentItem>
+          <contentItem n="17">
+            <locus from="208">f. 208</locus>
+            <title type="incipit">Nos sinus ecclesiae matris</title>
+            <identifier type="dokumenten_id">Pad 47-208-9</identifier>
+          </contentItem>
+          <contentItem n="18">
+            <locus from="214v">f. 214v</locus>
+            <title type="incipit">Qui patris in caelo</title>
+            <identifier type="dokumenten_id">Pad 47-214v-17</identifier>
+          </contentItem>
+          <contentItem n="19">
+            <locus from="218">f. 218</locus>
+            <title type="incipit">Sanguine sacrati</title>
+            <identifier type="dokumenten_id">Pad 47-218-10</identifier>
+          </contentItem>
+          <contentItem n="20">
+            <locus from="25v">f. 25v</locus>
+            <title type="incipit">Hodie beatus Stephanus</title>
+            <identifier type="dokumenten_id">Pad 47-25v-7</identifier>
+          </contentItem>
+          <contentItem n="21">
+            <locus from="30v">f. 30v</locus>
+            <title type="incipit">Gratia celsa dei</title>
+            <identifier type="dokumenten_id">Pad 47-30v-12</identifier>
+          </contentItem>
+          <contentItem n="22">
+            <locus from="39v">f. 39v</locus>
+            <title type="incipit">Haec est dies valde</title>
+            <identifier type="dokumenten_id">Pad 47-39v-8</identifier>
+          </contentItem>
+          <contentItem n="23">
+            <locus from="48">f. 48</locus>
+            <title type="incipit">Divini fuerat</title>
+            <identifier type="dokumenten_id">Pad 47-48-12</identifier>
+          </contentItem>
+          <contentItem n="24">
+            <locus from="56v">f. 56v</locus>
+            <title type="incipit">Gaudeamus omnes ... Agathae</title>
+            <identifier type="dokumenten_id">Pad 47-56v-2</identifier>
+          </contentItem>
+          <contentItem n="25">
+            <locus from="75v">f. 75v</locus>
+            <title type="incipit">Confessio</title>
+            <identifier type="dokumenten_id">Pad 47-75v-9</identifier>
+          </contentItem>
+        </contents>
+        <notesStmt>
+          <annot type="description">
+            <ref target="Pad_47.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <classification>
+          <termList>
+            <term type="quellentyp">Graduale mit Tropen und Sequenzen, Kyriale</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">A 47</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">Padua</geogName>
+                <corpName>Biblioteca Capitolare</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

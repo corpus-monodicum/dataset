@@ -1,0 +1,41 @@
+{
+  "id": "2a0b57c1-fe27-4a8b-9705-70ff90964a57",
+  "quelle_id": "Int 5",
+  "dokumenten_id": "Int 5-8-1",
+  "gattung1": "Tropus",
+  "gattung2": "Communio-Tropus",
+  "festtag": "Nativitas domini",
+  "feier": "3. Messe",
+  "textinitium": "Desinat esse",
+  "bibliographischerverweis": "Nat III com 8 A 1 B (CT I)",
+  "druckausgabe": "",
+  "zeilenstart": "1",
+  "foliostart": "8",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "8",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Nat III com",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

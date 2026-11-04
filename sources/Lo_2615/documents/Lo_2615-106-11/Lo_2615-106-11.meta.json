@@ -1,0 +1,41 @@
+{
+  "id": "6e08a8fc-3a78-415b-9e4b-9639b148630b",
+  "quelle_id": "Lo 2615",
+  "dokumenten_id": "Lo 2615-106-11",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Octava nativitatis",
+  "feier": "Matutin",
+  "textinitium": "Heu heu heu quo",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "11",
+  "foliostart": "106",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "106v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Lo 2615-95-1S",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Play of Daniel",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

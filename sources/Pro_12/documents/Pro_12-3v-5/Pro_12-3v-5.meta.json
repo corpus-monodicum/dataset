@@ -1,0 +1,41 @@
+{
+  "id": "032c53c3-0179-4782-9ac5-9749c17d2ecd",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-3v-5",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominica II adventus",
+  "feier": "Messe",
+  "textinitium": "Regnantem sempiterna*",
+  "bibliographischerverweis": "AH 53, 2",
+  "druckausgabe": "CM III",
+  "zeilenstart": "5",
+  "foliostart": "3v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "3v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Laetatus sum",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

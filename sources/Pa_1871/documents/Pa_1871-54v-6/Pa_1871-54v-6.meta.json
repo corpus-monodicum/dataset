@@ -1,0 +1,41 @@
+{
+  "id": "2aaa62e4-c4ca-42bd-9f92-b9426adedd82",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-54v-6",
+  "gattung1": "Sanctus",
+  "gattung2": "tropiert",
+  "festtag": "Nativitas domini",
+  "feier": "Messe",
+  "textinitium": "O sancta maiestas",
+  "bibliographischerverweis": "CT VII, 90: 1 2 3 4a 4b 5",
+  "druckausgabe": "",
+  "zeilenstart": "6",
+  "foliostart": "54v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "55",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "Thannabaur 89",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509504",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

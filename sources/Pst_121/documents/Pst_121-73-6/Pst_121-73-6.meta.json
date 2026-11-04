@@ -1,0 +1,41 @@
+{
+  "id": "2a73fb4d-c6a3-4d40-9173-746ae6659657",
+  "quelle_id": "Pst 121",
+  "dokumenten_id": "Pst 121-73-6",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Omnes sancti",
+  "feier": "Messe",
+  "textinitium": "Christo inclita",
+  "bibliographischerverweis": "AH 7, 118; AH 53, 115",
+  "druckausgabe": "",
+  "zeilenstart": "6",
+  "foliostart": "73",
+  "kommentar": "Ende in SeZ 2",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "7",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Eia turma",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

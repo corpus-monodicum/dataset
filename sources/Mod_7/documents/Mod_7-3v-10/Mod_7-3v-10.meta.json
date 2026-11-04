@@ -1,0 +1,41 @@
+{
+  "id": "bd5819b5-6fa7-4689-afb3-46d57ea17f9b",
+  "quelle_id": "Mod 7",
+  "dokumenten_id": "Mod 7-3v-10",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Nativitas domini",
+  "feier": "1. Messe",
+  "textinitium": "Exultate iusti",
+  "bibliographischerverweis": "Nat I intr 25 A 26 B 27 C D (CT I)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "10",
+  "foliostart": "3v",
+  "kommentar": "Elemente 26 und 27 radiert",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Dominus dixit ad me",
+    "Endseite": "4",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "Beginn fehlt; Abschnitt im Inneren fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Nat I intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

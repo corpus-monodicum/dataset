@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Mü 29307(2: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Isabel Kraft</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Ordinariumsgesänge)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Hanna Zühlke</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Gunilla Iversen</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Ritva Maria Jacobsson</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="Mü_29307_2">
+        <identifier type="siglum">Mü 29307(2</identifier>
+        <identifier type="cantus">Mü 29307(2</identifier>
+        <titleStmt>
+          <title>Mü 29307(2</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Freising (Diözese) möglicherweise Indersdorf</geogName>
+          <geogName role="origin-region">Quellen deutscher Herkunft</geogName>
+          <corpName role="origin-institution">Augustiner-Chorherrenstift</corpName>
+          <date>12. Jh 2. Hälfte</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="2">f. 2</locus>
+            <title type="incipit">Laudibus insomnes</title>
+            <identifier type="dokumenten_id">Mü 29307(2-2-11</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="2">f. 2</locus>
+            <title type="incipit">Hodie cantandus est</title>
+            <identifier type="dokumenten_id">Mü 29307(2-2-1I</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="2">f. 2</locus>
+            <title type="incipit">Hodie resurrexit dominus</title>
+            <identifier type="dokumenten_id">Mü 29307(2-2-7</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="2v">f. 2v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Mü 29307(2-2v-4</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="2v">f. 2v</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Mü 29307(2-2v-7</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="3">f. 3</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Mü 29307(2-3-1</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="3">f. 3</locus>
+            <title type="incipit">Hodie processit leo fortis</title>
+            <identifier type="dokumenten_id">Mü 29307(2-3-10</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="3">f. 3</locus>
+            <title type="incipit">Hodie spiritus sanctus processit</title>
+            <identifier type="dokumenten_id">Mü 29307(2-3-11</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="3">f. 3</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Mü 29307(2-3-5</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="3">f. 3</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Mü 29307(2-3-6</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus from="3">f. 3</locus>
+            <title type="incipit">Gloria in excelsis*</title>
+            <identifier type="dokumenten_id">Mü 29307(2-3-9</identifier>
+          </contentItem>
+          <contentItem n="12">
+            <locus from="3v">f. 3v</locus>
+            <title type="incipit">Summe pater ingenite</title>
+            <identifier type="dokumenten_id">Mü 29307(2-3v-1</identifier>
+          </contentItem>
+          <contentItem n="13">
+            <locus from="4">f. 4</locus>
+            <title type="incipit">Genitor omnium</title>
+            <identifier type="dokumenten_id">Mü 29307(2-4-1</identifier>
+          </contentItem>
+          <contentItem n="14">
+            <locus from="4">f. 4</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Mü 29307(2-4-12</identifier>
+          </contentItem>
+          <contentItem n="15">
+            <locus from="4">f. 4</locus>
+            <title type="incipit">Sancte ingenite genitor</title>
+            <identifier type="dokumenten_id">Mü 29307(2-4-6</identifier>
+          </contentItem>
+          <contentItem n="16">
+            <locus from="4v">f. 4v</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Mü 29307(2-4v-10</identifier>
+          </contentItem>
+          <contentItem n="17">
+            <locus from="4v">f. 4v</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Mü 29307(2-4v-11</identifier>
+          </contentItem>
+          <contentItem n="18">
+            <locus from="4v">f. 4v</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Mü 29307(2-4v-12</identifier>
+          </contentItem>
+          <contentItem n="19">
+            <locus from="4v">f. 4v</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Mü 29307(2-4v-3</identifier>
+          </contentItem>
+          <contentItem n="20">
+            <locus from="4v">f. 4v</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Mü 29307(2-4v-5</identifier>
+          </contentItem>
+          <contentItem n="21">
+            <locus from="4v">f. 4v</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Mü 29307(2-4v-8</identifier>
+          </contentItem>
+        </contents>
+        <classification>
+          <termList>
+            <term type="quellentyp">Fragment: Prozessionsantiphonen, Introitus-Tropen, Ordinariumsmelodien mit Tropen</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">Clm 29307(2</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">München</geogName>
+                <corpName>Bayerische Staatsbibliothek</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+        <relationList>
+          <relation rel="hasReproduction" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00073053/manifest" label="IIIF manifest" />
+        </relationList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

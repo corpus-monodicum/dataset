@@ -1,0 +1,41 @@
+{
+  "id": "61849302-3fc3-4ec2-8174-f7c0e15cc274",
+  "quelle_id": "Pa 778",
+  "dokumenten_id": "Pa 778-136-10",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Iustus et Pastor",
+  "feier": "Messe",
+  "textinitium": "Virtutum deus",
+  "bibliographischerverweis": "AH 7, 155",
+  "druckausgabe": "",
+  "zeilenstart": "10",
+  "foliostart": "136",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "137v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Iusti epulentur",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

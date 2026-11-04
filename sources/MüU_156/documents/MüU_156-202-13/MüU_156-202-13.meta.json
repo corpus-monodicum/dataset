@@ -1,0 +1,41 @@
+{
+  "id": "cf6c4a66-2d31-4ac5-bee6-2c6f78fe6720",
+  "quelle_id": "MüU 156",
+  "dokumenten_id": "MüU 156-202-13",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dedicatio ecclesiae",
+  "feier": "Messe",
+  "textinitium": "Psallat ecclesia mater illibata",
+  "bibliographischerverweis": "AH 53, 247",
+  "druckausgabe": "",
+  "zeilenstart": "13",
+  "foliostart": "202",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Gionata Brusa",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "202v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Laetatus sum",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

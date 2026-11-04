@@ -1,0 +1,41 @@
+{
+  "id": "bf9cb747-2b50-4e76-aafd-1edb096314db",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-149v-2",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Benedictus",
+  "feier": "",
+  "textinitium": "Aetherea laudant",
+  "bibliographischerverweis": "AH 7, 130",
+  "druckausgabe": "",
+  "zeilenstart": "2",
+  "foliostart": "149v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "150v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Iustus germinabit",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "00968ee5-c9fe-4d71-8c3f-0c8ac7e9889a",
+  "quelle_id": "Pst 121",
+  "dokumenten_id": "Pst 121-35v-9",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Pascha",
+  "feier": "Messe",
+  "textinitium": "Nunc exsultet",
+  "bibliographischerverweis": "AH 7, 83; AH 53, 73",
+  "druckausgabe": "",
+  "zeilenstart": "9",
+  "foliostart": "35v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "37v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Frigdola",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

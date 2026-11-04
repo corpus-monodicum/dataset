@@ -1,0 +1,41 @@
+{
+  "id": "ae2e54e0-d92e-44a2-9e6d-322908a94ef3",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-303v-b-16",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Eligius",
+  "feier": "Messe",
+  "textinitium": "Christo inclita*",
+  "bibliographischerverweis": "AH 7, 118; AH 53, 115",
+  "druckausgabe": "CM III",
+  "zeilenstart": "16",
+  "foliostart": "303v-b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "303v-b",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "16",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Eia turma",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

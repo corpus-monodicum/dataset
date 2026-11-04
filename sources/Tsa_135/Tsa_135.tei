@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tsa 135: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Edition (Ordinariumsgesänge)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="Tsa_135">
+          <msIdentifier>
+            <settlement>Tortosa</settlement>
+            <repository>Biblioteca Capitular</repository>
+            <idno type="shelfmark">135</idno>
+            <altIdentifier type="siglum">
+              <idno>Tsa 135</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>Tsa 135</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <term type="quellentyp">Kyriale, Sequentiar</term>
+            </summary>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="1">f. 1</locus>
+              <title type="incipit">?</title>
+              <idno type="dokumenten_id">Tsa 135-1-1</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="1">f. 1</locus>
+              <title type="incipit">Kyrie fons bonitatis</title>
+              <idno type="dokumenten_id">Tsa 135-1-2</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="10v">f. 10v</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Tsa 135-10v-4</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="11v">f. 11v</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Tsa 135-11v-3</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="12">f. 12</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Tsa 135-12-7</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="13">f. 13</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Tsa 135-13-2</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="13v">f. 13v</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Tsa 135-13v-6</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="14v">f. 14v</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Tsa 135-14v-1</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="15">f. 15</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Tsa 135-15-4</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="15v">f. 15v</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Tsa 135-15v-7</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="16">f. 16</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Tsa 135-16-4</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="16">f. 16</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Tsa 135-16-8</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="16v">f. 16v</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Tsa 135-16v-4</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="16v">f. 16v</locus>
+              <title type="incipit">Caeleste praeconium</title>
+              <idno type="dokumenten_id">Tsa 135-16v-7</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="17v">f. 17v</locus>
+              <title type="incipit">Maria mater egregia</title>
+              <idno type="dokumenten_id">Tsa 135-17v-2</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="18">f. 18</locus>
+              <title type="incipit">Clemens et benigna</title>
+              <idno type="dokumenten_id">Tsa 135-18-1</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="18v">f. 18v</locus>
+              <title type="incipit">Clangat coetus</title>
+              <idno type="dokumenten_id">Tsa 135-18v-3I</idno>
+            </msItem>
+            <msItem n="18">
+              <locus from="18v">f. 18v</locus>
+              <title type="incipit">Clangat coetus</title>
+              <idno type="dokumenten_id">Tsa 135-18v-3II</idno>
+            </msItem>
+            <msItem n="19">
+              <locus from="1v">f. 1v</locus>
+              <title type="incipit">Tibi promit cohors</title>
+              <idno type="dokumenten_id">Tsa 135-1v-3</idno>
+            </msItem>
+            <msItem n="20">
+              <locus from="2">f. 2</locus>
+              <title type="incipit">Kyrie rex genitor</title>
+              <idno type="dokumenten_id">Tsa 135-2-1</idno>
+            </msItem>
+            <msItem n="21">
+              <locus from="20">f. 20</locus>
+              <title type="incipit">Fidelium turma</title>
+              <idno type="dokumenten_id">Tsa 135-20-1</idno>
+            </msItem>
+            <msItem n="22">
+              <locus from="20v">f. 20v</locus>
+              <title type="incipit">Patris sapientia</title>
+              <idno type="dokumenten_id">Tsa 135-20v-8</idno>
+            </msItem>
+            <msItem n="23">
+              <locus from="21v">f. 21v</locus>
+              <title type="incipit">Perpetuo numine</title>
+              <idno type="dokumenten_id">Tsa 135-21v-4</idno>
+            </msItem>
+            <msItem n="24">
+              <locus from="22">f. 22</locus>
+              <title type="incipit">Sancte ingenite genitor</title>
+              <idno type="dokumenten_id">Tsa 135-22-3</idno>
+            </msItem>
+            <msItem n="25">
+              <locus from="22v">f. 22v</locus>
+              <title type="incipit">Nunc tuum plasma</title>
+              <idno type="dokumenten_id">Tsa 135-22v-6</idno>
+            </msItem>
+            <msItem n="26">
+              <locus from="23">f. 23</locus>
+              <title type="incipit">Cuncta creans genitor</title>
+              <idno type="dokumenten_id">Tsa 135-23-7</idno>
+            </msItem>
+            <msItem n="27">
+              <locus from="24">f. 24</locus>
+              <title type="incipit">Salvifica</title>
+              <idno type="dokumenten_id">Tsa 135-24-2</idno>
+            </msItem>
+            <msItem n="28">
+              <locus from="24v">f. 24v</locus>
+              <title type="incipit">Carmina plebs sedula</title>
+              <idno type="dokumenten_id">Tsa 135-24v-6</idno>
+            </msItem>
+            <msItem n="29">
+              <locus from="25">f. 25</locus>
+              <title type="incipit">Clemens verbisator</title>
+              <idno type="dokumenten_id">Tsa 135-25-7</idno>
+            </msItem>
+            <msItem n="30">
+              <locus from="25v">f. 25v</locus>
+              <title type="incipit">Sanctorum exultatio</title>
+              <idno type="dokumenten_id">Tsa 135-25v-5</idno>
+            </msItem>
+            <msItem n="31">
+              <locus from="26">f. 26</locus>
+              <title type="incipit">Genitor omnium</title>
+              <idno type="dokumenten_id">Tsa 135-26-2</idno>
+            </msItem>
+            <msItem n="32">
+              <locus from="26">f. 26</locus>
+              <title type="incipit">Veni redemptor</title>
+              <idno type="dokumenten_id">Tsa 135-26-8</idno>
+            </msItem>
+            <msItem n="33">
+              <locus from="27">f. 27</locus>
+              <title type="incipit">Hostia pro miseris</title>
+              <idno type="dokumenten_id">Tsa 135-27-8</idno>
+            </msItem>
+            <msItem n="34">
+              <locus from="27v">f. 27v</locus>
+              <title type="incipit">Sanctorum motus</title>
+              <idno type="dokumenten_id">Tsa 135-27v-6</idno>
+            </msItem>
+            <msItem n="35">
+              <locus from="28">f. 28</locus>
+              <title type="incipit">Summe pater virgo mater</title>
+              <idno type="dokumenten_id">Tsa 135-28-5</idno>
+            </msItem>
+            <msItem n="36">
+              <locus from="28v">f. 28v</locus>
+              <title type="incipit">Splendor Christe ... intactae</title>
+              <idno type="dokumenten_id">Tsa 135-28v-4</idno>
+            </msItem>
+            <msItem n="37">
+              <locus from="29">f. 29</locus>
+              <title type="incipit">Tu super omnia</title>
+              <idno type="dokumenten_id">Tsa 135-29-5</idno>
+            </msItem>
+            <msItem n="38">
+              <locus from="2v">f. 2v</locus>
+              <title type="incipit">Pater creator</title>
+              <idno type="dokumenten_id">Tsa 135-2v-1</idno>
+            </msItem>
+            <msItem n="39">
+              <locus from="2v">f. 2v</locus>
+              <title type="incipit">Clemens rector</title>
+              <idno type="dokumenten_id">Tsa 135-2v-7</idno>
+            </msItem>
+            <msItem n="40">
+              <locus from="3">f. 3</locus>
+              <title type="incipit">Summe deus qui cuncta</title>
+              <idno type="dokumenten_id">Tsa 135-3-8</idno>
+            </msItem>
+            <msItem n="41">
+              <locus from="30">f. 30</locus>
+              <title type="incipit">Divinum mysterium</title>
+              <idno type="dokumenten_id">Tsa 135-30-2</idno>
+            </msItem>
+            <msItem n="42">
+              <locus from="31">f. 31</locus>
+              <title type="incipit">Tempora disponens</title>
+              <idno type="dokumenten_id">Tsa 135-31-1</idno>
+            </msItem>
+            <msItem n="43">
+              <locus from="31v">f. 31v</locus>
+              <title type="incipit">Fons vivus vitae</title>
+              <idno type="dokumenten_id">Tsa 135-31v-1</idno>
+            </msItem>
+            <msItem n="44">
+              <locus from="31v">f. 31v</locus>
+              <title type="incipit">Deus pater cuius</title>
+              <idno type="dokumenten_id">Tsa 135-31v-8</idno>
+            </msItem>
+            <msItem n="45">
+              <locus from="33">f. 33</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Tsa 135-33-5</idno>
+            </msItem>
+            <msItem n="46">
+              <locus from="33v">f. 33v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Tsa 135-33v-1</idno>
+            </msItem>
+            <msItem n="47">
+              <locus from="33v">f. 33v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Tsa 135-33v-4</idno>
+            </msItem>
+            <msItem n="48">
+              <locus from="33v">f. 33v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Tsa 135-33v-8</idno>
+            </msItem>
+            <msItem n="49">
+              <locus from="34">f. 34</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Tsa 135-34-4</idno>
+            </msItem>
+            <msItem n="50">
+              <locus from="34">f. 34</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Tsa 135-34-6</idno>
+            </msItem>
+            <msItem n="51">
+              <locus from="34v">f. 34v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Tsa 135-34v-1</idno>
+            </msItem>
+            <msItem n="52">
+              <locus from="34v">f. 34v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Tsa 135-34v-4</idno>
+            </msItem>
+            <msItem n="53">
+              <locus from="34v">f. 34v</locus>
+              <title type="incipit">Congaudentes in hac die</title>
+              <idno type="dokumenten_id">Tsa 135-34v-6</idno>
+            </msItem>
+            <msItem n="54">
+              <locus from="35v">f. 35v</locus>
+              <title type="incipit">Ave Maria caeli regina</title>
+              <idno type="dokumenten_id">Tsa 135-35v-1</idno>
+            </msItem>
+            <msItem n="55">
+              <locus from="35v">f. 35v</locus>
+              <title type="incipit">Mortis dira</title>
+              <idno type="dokumenten_id">Tsa 135-35v-7</idno>
+            </msItem>
+            <msItem n="56">
+              <locus from="36">f. 36</locus>
+              <title type="incipit">Mitis agnus</title>
+              <idno type="dokumenten_id">Tsa 135-36-5</idno>
+            </msItem>
+            <msItem n="57">
+              <locus from="36v">f. 36v</locus>
+              <title type="incipit">Fons indeficiens</title>
+              <idno type="dokumenten_id">Tsa 135-36v-5</idno>
+            </msItem>
+            <msItem n="58">
+              <locus from="37">f. 37</locus>
+              <title type="incipit">Splendor patris illustrans</title>
+              <idno type="dokumenten_id">Tsa 135-37-3</idno>
+            </msItem>
+            <msItem n="59">
+              <locus from="37v">f. 37v</locus>
+              <title type="incipit">Verus adest</title>
+              <idno type="dokumenten_id">Tsa 135-37v-2</idno>
+            </msItem>
+            <msItem n="60">
+              <locus from="37v">f. 37v</locus>
+              <title type="incipit">Rex immensae pietatis</title>
+              <idno type="dokumenten_id">Tsa 135-37v-7</idno>
+            </msItem>
+            <msItem n="61">
+              <locus from="38">f. 38</locus>
+              <title type="incipit">Eructavit cor meum</title>
+              <idno type="dokumenten_id">Tsa 135-38-7</idno>
+            </msItem>
+            <msItem n="62">
+              <locus from="38v">f. 38v</locus>
+              <title type="incipit">Rex aeternae gloriae</title>
+              <idno type="dokumenten_id">Tsa 135-38v-6</idno>
+            </msItem>
+            <msItem n="63">
+              <locus from="3v">f. 3v</locus>
+              <title type="incipit">Cunctipotens genitor</title>
+              <idno type="dokumenten_id">Tsa 135-3v-7</idno>
+            </msItem>
+            <msItem n="64">
+              <locus from="4">f. 4</locus>
+              <title type="incipit">Sume pater voces</title>
+              <idno type="dokumenten_id">Tsa 135-4-6</idno>
+            </msItem>
+            <msItem n="65">
+              <locus from="4v">f. 4v</locus>
+              <title type="incipit">Kyrie deus sempiterne</title>
+              <idno type="dokumenten_id">Tsa 135-4v-4</idno>
+            </msItem>
+            <msItem n="66">
+              <locus from="5">f. 5</locus>
+              <title type="incipit">Deus solus et immensus</title>
+              <idno type="dokumenten_id">Tsa 135-5-4</idno>
+            </msItem>
+            <msItem n="67">
+              <locus from="5v">f. 5v</locus>
+              <title type="incipit">Theoricam practicamque</title>
+              <idno type="dokumenten_id">Tsa 135-5v-2</idno>
+            </msItem>
+            <msItem n="68">
+              <locus from="6">f. 6</locus>
+              <title type="incipit">Kyrie rex saeclorum</title>
+              <idno type="dokumenten_id">Tsa 135-6-1</idno>
+            </msItem>
+            <msItem n="69">
+              <locus from="6v">f. 6v</locus>
+              <title type="incipit">Rector cosmi</title>
+              <idno type="dokumenten_id">Tsa 135-6v-2</idno>
+            </msItem>
+            <msItem n="70">
+              <locus from="7">f. 7</locus>
+              <title type="incipit">Pater cuncta</title>
+              <idno type="dokumenten_id">Tsa 135-7-1</idno>
+            </msItem>
+            <msItem n="71">
+              <locus from="7">f. 7</locus>
+              <title type="incipit">Pater creator</title>
+              <idno type="dokumenten_id">Tsa 135-7-4</idno>
+            </msItem>
+            <msItem n="72">
+              <locus from="7v">f. 7v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Tsa 135-7v-4</idno>
+            </msItem>
+            <msItem n="73">
+              <locus from="7v">f. 7v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Tsa 135-7v-8</idno>
+            </msItem>
+            <msItem n="74">
+              <locus from="8">f. 8</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Tsa 135-8-3</idno>
+            </msItem>
+            <msItem n="75">
+              <locus from="8">f. 8</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Tsa 135-8-5</idno>
+            </msItem>
+            <msItem n="76">
+              <locus from="8">f. 8</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Tsa 135-8-8</idno>
+            </msItem>
+            <msItem n="77">
+              <locus from="8v">f. 8v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Tsa 135-8v-3</idno>
+            </msItem>
+            <msItem n="78">
+              <locus from="8v">f. 8v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Tsa 135-8v-7</idno>
+            </msItem>
+            <msItem n="79">
+              <locus from="9">f. 9</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Tsa 135-9-1</idno>
+            </msItem>
+            <msItem n="80">
+              <locus from="9">f. 9</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Tsa 135-9-4</idno>
+            </msItem>
+            <msItem n="81">
+              <locus from="9">f. 9</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Tsa 135-9-7</idno>
+            </msItem>
+            <msItem n="82">
+              <locus from="9v">f. 9v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Tsa 135-9v-3</idno>
+            </msItem>
+            <msItem n="83">
+              <locus from="9v">f. 9v</locus>
+              <title type="incipit">Spiritus et alme</title>
+              <idno type="dokumenten_id">Tsa 135-9v-6</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Tortosa</settlement>
+                <region>Quellen spanischer Herkunft</region>
+              </origPlace>
+              <origDate>13. Jh</origDate>
+            </origin>
+          </history>
+          <additional>
+            <adminInfo>
+              <note type="description">
+                <ref target="Tsa_135.description.md">Source description</ref>
+              </note>
+            </adminInfo>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

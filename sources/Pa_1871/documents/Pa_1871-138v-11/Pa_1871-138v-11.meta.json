@@ -1,0 +1,41 @@
+{
+  "id": "7fa050e8-d185-436b-9dc7-0e9f406adf83",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-138v-11",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Pentecoste",
+  "feier": "",
+  "textinitium": "Resonet sacrata",
+  "bibliographischerverweis": "AH 7, 78; AH 53, 74",
+  "druckausgabe": "",
+  "zeilenstart": "11",
+  "foliostart": "138v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "139v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Paratum cor",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

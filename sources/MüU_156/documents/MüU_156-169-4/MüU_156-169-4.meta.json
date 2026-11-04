@@ -1,0 +1,41 @@
+{
+  "id": "7171e41e-8bc1-46cb-bc2c-74341d62122c",
+  "quelle_id": "MüU 156",
+  "dokumenten_id": "MüU 156-169-4",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominica in septuagesima",
+  "feier": "Vesper",
+  "textinitium": "Cantemus cuncti",
+  "bibliographischerverweis": "AH 53, 34",
+  "druckausgabe": "",
+  "zeilenstart": "4",
+  "foliostart": "169",
+  "kommentar": "Ympnus",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Gionata Brusa",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "169v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Puella turbata",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

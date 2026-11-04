@@ -1,0 +1,41 @@
+{
+  "id": "620cdaeb-ac67-44ff-8cef-3813524f1dea",
+  "quelle_id": "Nea 38",
+  "dokumenten_id": "Nea 38-153-3a",
+  "gattung1": "Sanctus",
+  "gattung2": "untropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Sanctus ... dominus deus*",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "3",
+  "foliostart": "153",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "153",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "Thannabaur 32",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509504",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

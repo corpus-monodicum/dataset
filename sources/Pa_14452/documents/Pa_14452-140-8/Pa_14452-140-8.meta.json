@@ -1,0 +1,41 @@
+{
+  "id": "0d0a403a-7909-421d-a2ed-0ea2e4e7e081",
+  "quelle_id": "Pa 14452",
+  "dokumenten_id": "Pa 14452-140-8",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominica III adventus",
+  "feier": "Messe",
+  "textinitium": "Qui regis sceptra",
+  "bibliographischerverweis": "AH 53, 3",
+  "druckausgabe": "CM III",
+  "zeilenstart": "8",
+  "foliostart": "140",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "140",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Excita",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

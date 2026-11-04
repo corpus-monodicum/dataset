@@ -1,0 +1,41 @@
+{
+  "id": "7ffa2674-78d3-48b4-89d1-d59f2ebda25d",
+  "quelle_id": "Ben 34",
+  "dokumenten_id": "Ben 34-285v-4",
+  "gattung1": "Sanctus",
+  "gattung2": "tropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Corona iustitiae",
+  "bibliographischerverweis": "CT VII, 23: A B C D 1 2 3 4 5 6",
+  "druckausgabe": "",
+  "zeilenstart": "4",
+  "foliostart": "285v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "286",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "Thannabaur 152",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509504",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "b8e3135f-f4f9-4ad8-82a0-76b55b7da6ea",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-18-2",
+  "gattung1": "Antiphon",
+  "gattung2": "Offertorium",
+  "festtag": "Nativitas domini",
+  "feier": "3. Messe",
+  "textinitium": "Tui sunt caeli ... orbem",
+  "bibliographischerverweis": "AMS 11",
+  "druckausgabe": "II-1",
+  "zeilenstart": "2",
+  "foliostart": "18",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "18",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

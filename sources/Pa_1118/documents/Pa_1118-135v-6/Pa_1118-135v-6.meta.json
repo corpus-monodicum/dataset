@@ -1,0 +1,41 @@
+{
+  "id": "a40b1fda-705f-404e-b5ed-a93d9dc8f3ce",
+  "quelle_id": "Pa 1118",
+  "dokumenten_id": "Pa 1118-135v-6",
+  "gattung1": "Sequenz",
+  "gattung2": "Teiltextiert",
+  "festtag": "",
+  "feier": "",
+  "textinitium": "Rex in aeternum suscipe",
+  "bibliographischerverweis": "AH 49, 516",
+  "druckausgabe": "",
+  "zeilenstart": "6",
+  "foliostart": "135v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "136",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Fulgens praeclara",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5056b435-0550-48fc-8aeb-b801caf9cbeb",
+  "quelle_id": "Pa 778",
+  "dokumenten_id": "Pa 778-143v-8",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Decollatio Iohannis Baptistae",
+  "feier": "Messe",
+  "textinitium": "Plebs redempta",
+  "bibliographischerverweis": "AH 7, 149",
+  "druckausgabe": "",
+  "zeilenstart": "8",
+  "foliostart": "143v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "145",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Celsa polorum",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

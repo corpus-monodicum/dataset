@@ -1,0 +1,25 @@
+{
+  "id": "Pad 47",
+  "quellensigle": "Pad 47",
+  "herkunftsregion": "Quellen italienischer Herkunft",
+  "herkunftsort": "Ravenna",
+  "herkunftsinstitution": "",
+  "ordenstradition": "",
+  "quellentyp": "Graduale mit Tropen und Sequenzen, Kyriale",
+  "bibliotheksort": "Padua",
+  "bibliothek": "Biblioteca Capitolare",
+  "bibliothekssignatur": "A 47",
+  "kommentar": "",
+  "datierung": "12. Jh Anfang",
+  "status": "",
+  "jahrhundert": "12.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Pad 47",
+  "cantus_century": "12.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Pad_47.description.md"
+  }
+}

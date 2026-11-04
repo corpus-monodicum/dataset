@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pa 1138: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="Pa_1138">
+          <msIdentifier>
+            <settlement>Paris</settlement>
+            <repository>Bibliothèque nationale de France</repository>
+            <idno type="shelfmark">Lat. 1138</idno>
+            <altIdentifier type="siglum">
+              <idno>Pa 1138</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>Pa 1138</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <term type="quellentyp">Sequentiar</term>
+            </summary>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="10">f. 10</locus>
+              <title type="incipit">Qui regis sceptra</title>
+              <idno type="dokumenten_id">Pa 1138-10-2</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="100">f. 100</locus>
+              <title type="incipit">Pulchra praepollent</title>
+              <idno type="dokumenten_id">Pa 1138-100-2</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="101v">f. 101v</locus>
+              <title type="incipit">Concelebremus</title>
+              <idno type="dokumenten_id">Pa 1138-101v-5</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="103">f. 103</locus>
+              <title type="incipit">Aetherea laudant</title>
+              <idno type="dokumenten_id">Pa 1138-103-5</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="106v">f. 106v</locus>
+              <title type="incipit">Quem superne</title>
+              <idno type="dokumenten_id">Pa 1138-106v-4</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="109v">f. 109v</locus>
+              <title type="incipit">Alme martyr</title>
+              <idno type="dokumenten_id">Pa 1138-109v-5</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="10v">f. 10v</locus>
+              <title type="incipit">Iubilemus omnes una</title>
+              <idno type="dokumenten_id">Pa 1138-10v-5</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="111">f. 111</locus>
+              <title type="incipit">Aureo flore primae</title>
+              <idno type="dokumenten_id">Pa 1138-111-5</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="113v">f. 113v</locus>
+              <title type="incipit">Alle caeleste necnon</title>
+              <idno type="dokumenten_id">Pa 1138-113v-1</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="115v">f. 115v</locus>
+              <title type="incipit">Ad celebres rex</title>
+              <idno type="dokumenten_id">Pa 1138-115v-8</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="117v">f. 117v</locus>
+              <title type="incipit">Hodierna dies rutilat</title>
+              <idno type="dokumenten_id">Pa 1138-117v-8</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="119v">f. 119v</locus>
+              <title type="incipit">O Martine sacer</title>
+              <idno type="dokumenten_id">Pa 1138-119v-6</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="11v">f. 11v</locus>
+              <title type="incipit">Laus beata</title>
+              <idno type="dokumenten_id">Pa 1138-11v-4</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="121v">f. 121v</locus>
+              <title type="incipit">Haec est festivitas</title>
+              <idno type="dokumenten_id">Pa 1138-121v-3</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="122v">f. 122v</locus>
+              <title type="incipit">Praefulgida dies</title>
+              <idno type="dokumenten_id">Pa 1138-122v-5</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="124">f. 124</locus>
+              <title type="incipit">En virginum agmina</title>
+              <idno type="dokumenten_id">Pa 1138-124-1</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="125">f. 125</locus>
+              <title type="incipit">Alme sanctorum</title>
+              <idno type="dokumenten_id">Pa 1138-125-2</idno>
+            </msItem>
+            <msItem n="18">
+              <locus from="126">f. 126</locus>
+              <title type="incipit">Rex alme deus</title>
+              <idno type="dokumenten_id">Pa 1138-126-5</idno>
+            </msItem>
+            <msItem n="19">
+              <locus from="127">f. 127</locus>
+              <title type="incipit">O alma trinitas deus</title>
+              <idno type="dokumenten_id">Pa 1138-127-9</idno>
+            </msItem>
+            <msItem n="20">
+              <locus from="129v">f. 129v</locus>
+              <title type="incipit">Omnipotens deus fortis</title>
+              <idno type="dokumenten_id">Pa 1138-129v-2</idno>
+            </msItem>
+            <msItem n="21">
+              <locus from="12v">f. 12v</locus>
+              <title type="incipit">Psalle iam turba laeta</title>
+              <idno type="dokumenten_id">Pa 1138-12v-3</idno>
+            </msItem>
+            <msItem n="22">
+              <locus from="131">f. 131</locus>
+              <title type="incipit">Benedicta sit beata</title>
+              <idno type="dokumenten_id">Pa 1138-131-8</idno>
+            </msItem>
+            <msItem n="23">
+              <locus from="133">f. 133</locus>
+              <title type="incipit">Benedicta semper sancta</title>
+              <idno type="dokumenten_id">Pa 1138-133-2</idno>
+            </msItem>
+            <msItem n="24">
+              <locus from="134v">f. 134v</locus>
+              <title type="incipit">Adest nempe</title>
+              <idno type="dokumenten_id">Pa 1138-134v-6</idno>
+            </msItem>
+            <msItem n="25">
+              <locus from="138v">f. 138v</locus>
+              <title type="incipit">Dic nobis quibus</title>
+              <idno type="dokumenten_id">Pa 1138-138v-2</idno>
+            </msItem>
+            <msItem n="26">
+              <locus from="13v">f. 13v</locus>
+              <title type="incipit">Lux clarissima</title>
+              <idno type="dokumenten_id">Pa 1138-13v-2</idno>
+            </msItem>
+            <msItem n="27">
+              <locus from="14">f. 14</locus>
+              <title type="incipit">Prome verba consona</title>
+              <idno type="dokumenten_id">Pa 1138-14-9</idno>
+            </msItem>
+            <msItem n="28">
+              <locus from="15v">f. 15v</locus>
+              <title type="incipit">Resonet sacrata</title>
+              <idno type="dokumenten_id">Pa 1138-15v-9</idno>
+            </msItem>
+            <msItem n="29">
+              <locus from="17v">f. 17v</locus>
+              <title type="incipit">Laudiflua cantica</title>
+              <idno type="dokumenten_id">Pa 1138-17v-5</idno>
+            </msItem>
+            <msItem n="30">
+              <locus from="21v">f. 21v</locus>
+              <title type="incipit">Ad te summe</title>
+              <idno type="dokumenten_id">Pa 1138-21v-6</idno>
+            </msItem>
+            <msItem n="31">
+              <locus from="24">f. 24</locus>
+              <title type="incipit">Valde lumen</title>
+              <idno type="dokumenten_id">Pa 1138-24-5</idno>
+            </msItem>
+            <msItem n="32">
+              <locus from="27">f. 27</locus>
+              <title type="incipit">Alle sublime</title>
+              <idno type="dokumenten_id">Pa 1138-27-4</idno>
+            </msItem>
+            <msItem n="33">
+              <locus from="28">f. 28</locus>
+              <title type="incipit">Praeconia modo</title>
+              <idno type="dokumenten_id">Pa 1138-28-8</idno>
+            </msItem>
+            <msItem n="34">
+              <locus from="29v">f. 29v</locus>
+              <title type="incipit">Clara tibi nos</title>
+              <idno type="dokumenten_id">Pa 1138-29v-6</idno>
+            </msItem>
+            <msItem n="35">
+              <locus from="31">f. 31</locus>
+              <title type="incipit">Reginae nunc caelorum</title>
+              <idno type="dokumenten_id">Pa 1138-31-3</idno>
+            </msItem>
+            <msItem n="36">
+              <locus from="32">f. 32</locus>
+              <title type="incipit">Aurea virga primae</title>
+              <idno type="dokumenten_id">Pa 1138-32-4</idno>
+            </msItem>
+            <msItem n="37">
+              <locus from="34">f. 34</locus>
+              <title type="incipit">Summatim una</title>
+              <idno type="dokumenten_id">Pa 1138-34-6</idno>
+            </msItem>
+            <msItem n="38">
+              <locus from="35v">f. 35v</locus>
+              <title type="incipit">Nunc cithara Christo</title>
+              <idno type="dokumenten_id">Pa 1138-35v-7</idno>
+            </msItem>
+            <msItem n="39">
+              <locus from="36">f. 36</locus>
+              <title type="incipit">Alludat laetus ordo</title>
+              <idno type="dokumenten_id">Pa 1138-36-8</idno>
+            </msItem>
+            <msItem n="40">
+              <locus from="38">f. 38</locus>
+              <title type="incipit">Auriflua comant</title>
+              <idno type="dokumenten_id">Pa 1138-38-6</idno>
+            </msItem>
+            <msItem n="41">
+              <locus from="40">f. 40</locus>
+              <title type="incipit">Regnantem sempiterna</title>
+              <idno type="dokumenten_id">Pa 1138-40-4</idno>
+            </msItem>
+            <msItem n="42">
+              <locus from="41">f. 41</locus>
+              <title type="incipit">Pangat laudes</title>
+              <idno type="dokumenten_id">Pa 1138-41-1</idno>
+            </msItem>
+            <msItem n="43">
+              <locus from="41v">f. 41v</locus>
+              <title type="incipit">Qui regis sceptra</title>
+              <idno type="dokumenten_id">Pa 1138-41v-5</idno>
+            </msItem>
+            <msItem n="44">
+              <locus from="42">f. 42</locus>
+              <title type="incipit">Iubilemus omnes una</title>
+              <idno type="dokumenten_id">Pa 1138-42-3</idno>
+            </msItem>
+            <msItem n="45">
+              <locus from="42v">f. 42v</locus>
+              <title type="incipit">Laus beata</title>
+              <idno type="dokumenten_id">Pa 1138-42v-9</idno>
+            </msItem>
+            <msItem n="46">
+              <locus from="43v">f. 43v</locus>
+              <title type="incipit">Age nunc dia</title>
+              <idno type="dokumenten_id">Pa 1138-43v-6</idno>
+            </msItem>
+            <msItem n="47">
+              <locus from="44">f. 44</locus>
+              <title type="incipit">Prome nunc contio</title>
+              <idno type="dokumenten_id">Pa 1138-44-7</idno>
+            </msItem>
+            <msItem n="48">
+              <locus from="44v">f. 44v</locus>
+              <title type="incipit">Veneranda die</title>
+              <idno type="dokumenten_id">Pa 1138-44v-8</idno>
+            </msItem>
+            <msItem n="49">
+              <locus from="45">f. 45</locus>
+              <title type="incipit">Caelica resonant</title>
+              <idno type="dokumenten_id">Pa 1138-45-6</idno>
+            </msItem>
+            <msItem n="50">
+              <locus from="46v">f. 46v</locus>
+              <title type="incipit">Adest praecelsa</title>
+              <idno type="dokumenten_id">Pa 1138-46v-9</idno>
+            </msItem>
+            <msItem n="51">
+              <locus from="48v">f. 48v</locus>
+              <title type="incipit">Celebranda satis</title>
+              <idno type="dokumenten_id">Pa 1138-48v-9</idno>
+            </msItem>
+            <msItem n="52">
+              <locus from="50v">f. 50v</locus>
+              <title type="incipit">Nato canunt omnia</title>
+              <idno type="dokumenten_id">Pa 1138-50v-9</idno>
+            </msItem>
+            <msItem n="53">
+              <locus from="52">f. 52</locus>
+              <title type="incipit">Veneranda die</title>
+              <idno type="dokumenten_id">Pa 1138-52-4</idno>
+            </msItem>
+            <msItem n="54">
+              <locus from="52v">f. 52v</locus>
+              <title type="incipit">Hodie puer natus</title>
+              <idno type="dokumenten_id">Pa 1138-52v-3</idno>
+            </msItem>
+            <msItem n="55">
+              <locus from="54">f. 54</locus>
+              <title type="incipit">Celsa polorum</title>
+              <idno type="dokumenten_id">Pa 1138-54-3</idno>
+            </msItem>
+            <msItem n="56">
+              <locus from="56">f. 56</locus>
+              <title type="incipit">Gloriosa dies ... processit</title>
+              <idno type="dokumenten_id">Pa 1138-56-9</idno>
+            </msItem>
+            <msItem n="57">
+              <locus from="57v">f. 57v</locus>
+              <title type="incipit">Regis celsa qui regit</title>
+              <idno type="dokumenten_id">Pa 1138-57v-3</idno>
+            </msItem>
+            <msItem n="58">
+              <locus from="60">f. 60</locus>
+              <title type="incipit">Haec est sancta sollemnitas cunctis</title>
+              <idno type="dokumenten_id">Pa 1138-60-4</idno>
+            </msItem>
+            <msItem n="59">
+              <locus from="61v">f. 61v</locus>
+              <title type="incipit">Organicis ... qui in suis</title>
+              <idno type="dokumenten_id">Pa 1138-61v-1</idno>
+            </msItem>
+            <msItem n="60">
+              <locus from="62v">f. 62v</locus>
+              <title type="incipit">Rex magne deus</title>
+              <idno type="dokumenten_id">Pa 1138-62v-4</idno>
+            </msItem>
+            <msItem n="61">
+              <locus from="64">f. 64</locus>
+              <title type="incipit">Altissime deus</title>
+              <idno type="dokumenten_id">Pa 1138-64-3</idno>
+            </msItem>
+            <msItem n="62">
+              <locus from="65v">f. 65v</locus>
+              <title type="incipit">Epiphaniam domino</title>
+              <idno type="dokumenten_id">Pa 1138-65v-5</idno>
+            </msItem>
+            <msItem n="63">
+              <locus from="67">f. 67</locus>
+              <title type="incipit">Nova gratia</title>
+              <idno type="dokumenten_id">Pa 1138-67-8</idno>
+            </msItem>
+            <msItem n="64">
+              <locus from="69">f. 69</locus>
+              <title type="incipit">Claris vocibus inclita</title>
+              <idno type="dokumenten_id">Pa 1138-69-6</idno>
+            </msItem>
+            <msItem n="65">
+              <locus from="7">f. 7</locus>
+              <title type="incipit">Precamur nostras</title>
+              <idno type="dokumenten_id">Pa 1138-7-1</idno>
+            </msItem>
+            <msItem n="66">
+              <locus from="7">f. 7</locus>
+              <title type="incipit">Salus aeterna indeficiens</title>
+              <idno type="dokumenten_id">Pa 1138-7-5</idno>
+            </msItem>
+            <msItem n="67">
+              <locus from="70v">f. 70v</locus>
+              <title type="incipit">Virgo Israel</title>
+              <idno type="dokumenten_id">Pa 1138-70v-7</idno>
+            </msItem>
+            <msItem n="68">
+              <locus from="72">f. 72</locus>
+              <title type="incipit">Beata tu virgo</title>
+              <idno type="dokumenten_id">Pa 1138-72-10</idno>
+            </msItem>
+            <msItem n="69">
+              <locus from="73v">f. 73v</locus>
+              <title type="incipit">Salve porta</title>
+              <idno type="dokumenten_id">Pa 1138-73v-2</idno>
+            </msItem>
+            <msItem n="70">
+              <locus from="74v">f. 74v</locus>
+              <title type="incipit">Hac clara die</title>
+              <idno type="dokumenten_id">Pa 1138-74v-3</idno>
+            </msItem>
+            <msItem n="71">
+              <locus from="75v">f. 75v</locus>
+              <title type="incipit">Iubilate deo omnis</title>
+              <idno type="dokumenten_id">Pa 1138-75v-4</idno>
+            </msItem>
+            <msItem n="72">
+              <locus from="76">f. 76</locus>
+              <title type="incipit">Iam turma caelica</title>
+              <idno type="dokumenten_id">Pa 1138-76-1</idno>
+            </msItem>
+            <msItem n="73">
+              <locus from="76">f. 76</locus>
+              <title type="incipit">Fulgens praeclara</title>
+              <idno type="dokumenten_id">Pa 1138-76-7</idno>
+            </msItem>
+            <msItem n="74">
+              <locus from="78v">f. 78v</locus>
+              <title type="incipit">Clara gaudia</title>
+              <idno type="dokumenten_id">Pa 1138-78v-9</idno>
+            </msItem>
+            <msItem n="75">
+              <locus from="8">f. 8</locus>
+              <title type="incipit">Regnantem sempiterna</title>
+              <idno type="dokumenten_id">Pa 1138-8-4</idno>
+            </msItem>
+            <msItem n="76">
+              <locus from="80">f. 80</locus>
+              <title type="incipit">Adest enim festa</title>
+              <idno type="dokumenten_id">Pa 1138-80-3</idno>
+            </msItem>
+            <msItem n="77">
+              <locus from="80v">f. 80v</locus>
+              <title type="incipit">Agnus dei Christus</title>
+              <idno type="dokumenten_id">Pa 1138-80v-6</idno>
+            </msItem>
+            <msItem n="78">
+              <locus from="82">f. 82</locus>
+              <title type="incipit">Prome casta</title>
+              <idno type="dokumenten_id">Pa 1138-82-7</idno>
+            </msItem>
+            <msItem n="79">
+              <locus from="83">f. 83</locus>
+              <title type="incipit">Cuncta simul</title>
+              <idno type="dokumenten_id">Pa 1138-83-8</idno>
+            </msItem>
+            <msItem n="80">
+              <locus from="84">f. 84</locus>
+              <title type="incipit">Haec est vera redemptio</title>
+              <idno type="dokumenten_id">Pa 1138-84-3</idno>
+            </msItem>
+            <msItem n="81">
+              <locus from="85v">f. 85v</locus>
+              <title type="incipit">O beata et venerabilis</title>
+              <idno type="dokumenten_id">Pa 1138-85v-1</idno>
+            </msItem>
+            <msItem n="82">
+              <locus from="87">f. 87</locus>
+              <title type="incipit">Laetetur et concrepet</title>
+              <idno type="dokumenten_id">Pa 1138-87-2</idno>
+            </msItem>
+            <msItem n="83">
+              <locus from="88v">f. 88v</locus>
+              <title type="incipit">Ad templi ... concrepet devota</title>
+              <idno type="dokumenten_id">Pa 1138-88v-8</idno>
+            </msItem>
+            <msItem n="84">
+              <locus from="9">f. 9</locus>
+              <title type="incipit">Pangat laudes</title>
+              <idno type="dokumenten_id">Pa 1138-9-1</idno>
+            </msItem>
+            <msItem n="85">
+              <locus from="90v">f. 90v</locus>
+              <title type="incipit">Castrorum proles</title>
+              <idno type="dokumenten_id">Pa 1138-90v-1</idno>
+            </msItem>
+            <msItem n="86">
+              <locus from="92v">f. 92v</locus>
+              <title type="incipit">Rex omnipotens</title>
+              <idno type="dokumenten_id">Pa 1138-92v-2</idno>
+            </msItem>
+            <msItem n="87">
+              <locus from="94v">f. 94v</locus>
+              <title type="incipit">Cantemus organa</title>
+              <idno type="dokumenten_id">Pa 1138-94v-3</idno>
+            </msItem>
+            <msItem n="88">
+              <locus from="96v">f. 96v</locus>
+              <title type="incipit">Praecursor Christi</title>
+              <idno type="dokumenten_id">Pa 1138-96v-7</idno>
+            </msItem>
+            <msItem n="89">
+              <locus from="98">f. 98</locus>
+              <title type="incipit">Laude iucunda</title>
+              <idno type="dokumenten_id">Pa 1138-98-8</idno>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <musicNotation>
+              <ref target="notation/Pa_1138.notation.md">Notation documentation</ref>
+            </musicNotation>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Aquitanien</settlement>
+                <region>Quellen aquitanischer Herkunft</region>
+              </origPlace>
+              <origDate>11. Jh</origDate>
+            </origin>
+          </history>
+          <additional>
+            <adminInfo>
+              <note type="description">
+                <ref target="Pa_1138.description.md">Source description</ref>
+              </note>
+            </adminInfo>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

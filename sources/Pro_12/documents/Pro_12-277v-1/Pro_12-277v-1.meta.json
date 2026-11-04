@@ -1,0 +1,41 @@
+{
+  "id": "19f646af-fcf8-498a-850d-7e24361a8181",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-277v-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textlos",
+  "festtag": "Nativitas Mariae",
+  "feier": "Messe",
+  "textinitium": "Alleluia",
+  "bibliographischerverweis": "AH 53, 98",
+  "druckausgabe": "CM III",
+  "zeilenstart": "1",
+  "foliostart": "277v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "277v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Post partum",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

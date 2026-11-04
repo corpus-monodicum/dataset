@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kön D: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Isabel Kraft</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Hanna Zühlke</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Gunilla Iversen</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Ritva Maria Jacobsson</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="Kön_D">
+          <msIdentifier>
+            <settlement>Königswinter</settlement>
+            <repository>Katholische Pfarrei Sankt Remigius</repository>
+            <idno type="shelfmark">ohne Signatur ("Drachenfels-Missale")</idno>
+            <altIdentifier type="siglum">
+              <idno>Kön D</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>Kön D</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <term type="quellentyp">Missale, Tropar (Fragment), Kyriale, Sequentiar</term>
+            </summary>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="219v-a">f. 219v-a</locus>
+              <title type="incipit">Gaudeamus omnes ... Agathae</title>
+              <idno type="dokumenten_id">Kön D-219v-a-19</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="22b">f. 22b</locus>
+              <title type="incipit">Puer natus est nobis</title>
+              <idno type="dokumenten_id">Kön D-22b-15</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="231a">f. 231a</locus>
+              <title type="incipit">Multae tribulationes</title>
+              <idno type="dokumenten_id">Kön D-231a-2</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="23v-b">f. 23v-b</locus>
+              <title type="incipit">Etenim sederunt</title>
+              <idno type="dokumenten_id">Kön D-23v-b-19</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="24v-a">f. 24v-a</locus>
+              <title type="incipit">Elegerunt apostoli</title>
+              <idno type="dokumenten_id">Kön D-24v-a-28</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="24v-b">f. 24v-b</locus>
+              <title type="incipit">Video caelos apertos</title>
+              <idno type="dokumenten_id">Kön D-24v-b-17</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="25a">f. 25a</locus>
+              <title type="incipit">In medio ecclesiae</title>
+              <idno type="dokumenten_id">Kön D-25a-12</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="26a">f. 26a</locus>
+              <title type="incipit">Ex ore infantium</title>
+              <idno type="dokumenten_id">Kön D-26a-13</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="26v-b">f. 26v-b</locus>
+              <title type="incipit">Anima nostra</title>
+              <idno type="dokumenten_id">Kön D-26v-b-4</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="271v-a">f. 271v-a</locus>
+              <title type="incipit">Terribilis est locus iste</title>
+              <idno type="dokumenten_id">Kön D-271v-a-12</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="27a">f. 27a</locus>
+              <title type="incipit">Vox in Rama</title>
+              <idno type="dokumenten_id">Kön D-27a-2</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="287a">f. 287a</locus>
+              <title type="incipit">Hodie cantandus est</title>
+              <idno type="dokumenten_id">Kön D-287a-1</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="287a">f. 287a</locus>
+              <title type="incipit">Ecce adest</title>
+              <idno type="dokumenten_id">Kön D-287a-13</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="287b">f. 287b</locus>
+              <title type="incipit">Postquam cunctipotens</title>
+              <idno type="dokumenten_id">Kön D-287b-10</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="287b">f. 287b</locus>
+              <title type="incipit">Inter latrantium</title>
+              <idno type="dokumenten_id">Kön D-287b-12</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="287b">f. 287b</locus>
+              <title type="incipit">Quoniam dominus</title>
+              <idno type="dokumenten_id">Kön D-287b-14</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="287b">f. 287b</locus>
+              <title type="incipit">Eia conlevitae</title>
+              <idno type="dokumenten_id">Kön D-287b-2</idno>
+            </msItem>
+            <msItem n="18">
+              <locus from="287v-a">f. 287v-a</locus>
+              <title type="incipit">Hodie te domine</title>
+              <idno type="dokumenten_id">Kön D-287v-a-15</idno>
+            </msItem>
+            <msItem n="19">
+              <locus from="287v-b">f. 287v-b</locus>
+              <title type="incipit">Ecclesiae sponsus</title>
+              <idno type="dokumenten_id">Kön D-287v-b-11</idno>
+            </msItem>
+            <msItem n="20">
+              <locus from="287v-b">f. 287v-b</locus>
+              <title type="incipit">Gaudeamus laetantes</title>
+              <idno type="dokumenten_id">Kön D-287v-b-3</idno>
+            </msItem>
+            <msItem n="21">
+              <locus from="287v-b">f. 287v-b</locus>
+              <title type="incipit">Veneranda praesentis</title>
+              <idno type="dokumenten_id">Kön D-287v-b-7</idno>
+            </msItem>
+            <msItem n="22">
+              <locus from="288a">f. 288a</locus>
+              <title type="incipit">Iustos saeva</title>
+              <idno type="dokumenten_id">Kön D-288a-1</idno>
+            </msItem>
+            <msItem n="23">
+              <locus from="288a">f. 288a</locus>
+              <title type="incipit">Est quia terribilis</title>
+              <idno type="dokumenten_id">Kön D-288a-13</idno>
+            </msItem>
+            <msItem n="24">
+              <locus from="288a">f. 288a</locus>
+              <title type="incipit">O quam glorifico</title>
+              <idno type="dokumenten_id">Kön D-288a-7</idno>
+            </msItem>
+            <msItem n="25">
+              <locus from="28v-a">f. 28v-a</locus>
+              <title type="incipit">Ecce advenit</title>
+              <idno type="dokumenten_id">Kön D-28v-a-20</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Kölner Raum, möglicherweise Bonn</settlement>
+                <region>Quellen deutscher Herkunft</region>
+                <orgName>Stift Sankt Cassius</orgName>
+              </origPlace>
+              <origDate>13. Jh 1. Hälfte (und 15. Jh)</origDate>
+            </origin>
+          </history>
+          <additional>
+            <adminInfo>
+              <note type="description">
+                <ref target="Kön_D.description.md">Source description</ref>
+              </note>
+            </adminInfo>
+            <surrogates>
+              <bibl>
+                <ref type="iiif-manifest" target="https://digital.dombibliothek-koeln.de/hs/i3f/v20/263341/manifest" />
+              </bibl>
+            </surrogates>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

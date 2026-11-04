@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Sol 596: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Spiele)</resp>
+          <persName>Elaine Stratton Hild</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="Sol_596">
+        <identifier type="siglum">Sol 596</identifier>
+        <identifier type="cantus">Sol 596</identifier>
+        <titleStmt>
+          <title>Sol 596</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Wilton</geogName>
+          <geogName role="origin-region">Quellen englischer Herkunft</geogName>
+          <corpName role="origin-institution">Benediktinerinnenabtei St Edith</corpName>
+          <date>13. Jh Ende. Kopie um 1860)</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="109">f. 109</locus>
+            <title type="incipit">Salve festa dies</title>
+            <identifier type="dokumenten_id">Sol 596-109-3</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="109v">f. 109v</locus>
+            <title type="incipit">Sedit angelus</title>
+            <identifier type="dokumenten_id">Sol 596-109v-11</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="110">f. 110</locus>
+            <title type="incipit">Veni sancte spiritus</title>
+            <identifier type="dokumenten_id">Sol 596-110-12</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="110">f. 110</locus>
+            <title type="incipit">Surrexit dominus de sepulchro*</title>
+            <identifier type="dokumenten_id">Sol 596-110-5</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="110">f. 110</locus>
+            <title type="incipit">Ascendit deus*</title>
+            <identifier type="dokumenten_id">Sol 596-110-6a</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="110">f. 110</locus>
+            <title type="incipit">Emitte spiritum*</title>
+            <identifier type="dokumenten_id">Sol 596-110-6b</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="110">f. 110</locus>
+            <title type="incipit">Deus qui nos resurrectionis</title>
+            <identifier type="dokumenten_id">Sol 596-110-7</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="110v">f. 110v</locus>
+            <title type="incipit">Loquebantur variis*</title>
+            <identifier type="dokumenten_id">Sol 596-110v-10</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="110v">f. 110v</locus>
+            <title type="incipit">Deus qui hodierna</title>
+            <identifier type="dokumenten_id">Sol 596-110v-11</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="110v">f. 110v</locus>
+            <title type="incipit">Credo in unum deum</title>
+            <identifier type="dokumenten_id">Sol 596-110v-15</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus from="110v">f. 110v</locus>
+            <title type="incipit">Veni creator spiritus*</title>
+            <identifier type="dokumenten_id">Sol 596-110v-2</identifier>
+          </contentItem>
+          <contentItem n="12">
+            <locus from="110v">f. 110v</locus>
+            <title type="incipit">Accipite spiritum sanctum</title>
+            <identifier type="dokumenten_id">Sol 596-110v-5</identifier>
+          </contentItem>
+          <contentItem n="13">
+            <locus from="112v">f. 112v</locus>
+            <title type="incipit">Ite in orbem</title>
+            <identifier type="dokumenten_id">Sol 596-112v-4</identifier>
+          </contentItem>
+          <contentItem n="14">
+            <locus from="113">f. 113</locus>
+            <title type="incipit">Surrexit dominus de sepulchro*</title>
+            <identifier type="dokumenten_id">Sol 596-113-1a</identifier>
+          </contentItem>
+          <contentItem n="15">
+            <locus from="113">f. 113</locus>
+            <title type="incipit">Dicite in nationibus*</title>
+            <identifier type="dokumenten_id">Sol 596-113-1b</identifier>
+          </contentItem>
+          <contentItem n="16">
+            <locus from="113">f. 113</locus>
+            <title type="incipit">Deus qui pro nobis</title>
+            <identifier type="dokumenten_id">Sol 596-113-1c</identifier>
+          </contentItem>
+          <contentItem n="17">
+            <locus from="113">f. 113</locus>
+            <title type="incipit">Ego sum alpha</title>
+            <identifier type="dokumenten_id">Sol 596-113-2</identifier>
+          </contentItem>
+          <contentItem n="18">
+            <locus from="113">f. 113</locus>
+            <identifier type="dokumenten_id">Sol 596-113-3</identifier>
+          </contentItem>
+          <contentItem n="19">
+            <locus from="113">f. 113</locus>
+            <title type="incipit">Auge in nobis</title>
+            <identifier type="dokumenten_id">Sol 596-113-4</identifier>
+          </contentItem>
+          <contentItem n="20">
+            <locus from="27">f. 27</locus>
+            <title type="incipit">Mediator dei et hominum*</title>
+            <identifier type="dokumenten_id">Sol 596-27-11</identifier>
+          </contentItem>
+          <contentItem n="21">
+            <locus from="27">f. 27</locus>
+            <title type="incipit">Fratres hoc enim</title>
+            <identifier type="dokumenten_id">Sol 596-27-14</identifier>
+          </contentItem>
+          <contentItem n="22">
+            <locus from="27">f. 27</locus>
+            <title type="incipit">Diligebat dominus*</title>
+            <identifier type="dokumenten_id">Sol 596-27-9</identifier>
+          </contentItem>
+          <contentItem n="23">
+            <locus from="27v">f. 27v</locus>
+            <title type="incipit">Pueri Hebraeorum tollentes</title>
+            <identifier type="dokumenten_id">Sol 596-27v-13</identifier>
+          </contentItem>
+          <contentItem n="24">
+            <locus from="27v">f. 27v</locus>
+            <title type="incipit">In nomine enim</title>
+            <identifier type="dokumenten_id">Sol 596-27v-2</identifier>
+          </contentItem>
+          <contentItem n="25">
+            <locus from="28">f. 28</locus>
+            <title type="incipit">Pueri Hebraeorum vestimenta</title>
+            <identifier type="dokumenten_id">Sol 596-28-2</identifier>
+          </contentItem>
+          <contentItem n="26">
+            <locus from="28">f. 28</locus>
+            <title type="incipit">Cum appropinquaret</title>
+            <identifier type="dokumenten_id">Sol 596-28-6</identifier>
+          </contentItem>
+          <contentItem n="27">
+            <locus from="29">f. 29</locus>
+            <title type="incipit">Ante sex dies</title>
+            <identifier type="dokumenten_id">Sol 596-29-4</identifier>
+          </contentItem>
+          <contentItem n="28">
+            <locus from="29v">f. 29v</locus>
+            <title type="incipit">Prima autem azymorum</title>
+            <identifier type="dokumenten_id">Sol 596-29v-4</identifier>
+          </contentItem>
+          <contentItem n="29">
+            <locus from="30">f. 30</locus>
+            <title type="incipit">Occurrunt turbae</title>
+            <identifier type="dokumenten_id">Sol 596-30-7</identifier>
+          </contentItem>
+          <contentItem n="30">
+            <locus from="30v">f. 30v</locus>
+            <title type="incipit">En rex venit</title>
+            <identifier type="dokumenten_id">Sol 596-30v-4</identifier>
+          </contentItem>
+          <contentItem n="31">
+            <locus from="31v">f. 31v</locus>
+            <title type="incipit">Hosanna filio David</title>
+            <identifier type="dokumenten_id">Sol 596-31v-10</identifier>
+          </contentItem>
+          <contentItem n="32">
+            <locus from="31v">f. 31v</locus>
+            <title type="incipit">Ave rex noster fili David</title>
+            <identifier type="dokumenten_id">Sol 596-31v-17</identifier>
+          </contentItem>
+          <contentItem n="33">
+            <locus from="31v">f. 31v</locus>
+            <title type="incipit">Dignus es domine</title>
+            <identifier type="dokumenten_id">Sol 596-31v-8</identifier>
+          </contentItem>
+          <contentItem n="34">
+            <locus from="32">f. 32</locus>
+            <title type="incipit">Coeperunt omnes turbae</title>
+            <identifier type="dokumenten_id">Sol 596-32-8</identifier>
+          </contentItem>
+          <contentItem n="35">
+            <locus from="32v">f. 32v</locus>
+            <title type="incipit">Omnes collaudant nomen</title>
+            <identifier type="dokumenten_id">Sol 596-32v-5</identifier>
+          </contentItem>
+          <contentItem n="36">
+            <locus from="32v">f. 32v</locus>
+            <title type="incipit">Cum angelis et pueris</title>
+            <identifier type="dokumenten_id">Sol 596-32v-8</identifier>
+          </contentItem>
+          <contentItem n="37">
+            <locus from="33">f. 33</locus>
+            <title type="incipit">Cum audisset turba</title>
+            <identifier type="dokumenten_id">Sol 596-33-1</identifier>
+          </contentItem>
+          <contentItem n="38">
+            <locus from="33">f. 33</locus>
+            <title type="incipit">Gloria laus et honor</title>
+            <identifier type="dokumenten_id">Sol 596-33-13</identifier>
+          </contentItem>
+          <contentItem n="39">
+            <locus from="34">f. 34</locus>
+            <title type="incipit">Ingrediente domino</title>
+            <identifier type="dokumenten_id">Sol 596-34-10</identifier>
+          </contentItem>
+          <contentItem n="40">
+            <locus from="34v">f. 34v</locus>
+            <title type="incipit">Collegerunt pontifices</title>
+            <identifier type="dokumenten_id">Sol 596-34v-8</identifier>
+          </contentItem>
+          <contentItem n="41">
+            <locus from="35v">f. 35v</locus>
+            <title type="incipit">Principes sacerdotum</title>
+            <identifier type="dokumenten_id">Sol 596-35v-3</identifier>
+          </contentItem>
+          <contentItem n="42">
+            <locus from="35v">f. 35v</locus>
+            <title type="incipit">Multa turba Iudaeorum</title>
+            <identifier type="dokumenten_id">Sol 596-35v-6</identifier>
+          </contentItem>
+          <contentItem n="43">
+            <locus from="36">f. 36</locus>
+            <title type="incipit">Venite filii Evae</title>
+            <identifier type="dokumenten_id">Sol 596-36-4</identifier>
+          </contentItem>
+          <contentItem n="44">
+            <locus from="36v">f. 36v</locus>
+            <title type="incipit">Ave rex noster tu solus</title>
+            <identifier type="dokumenten_id">Sol 596-36v-2</identifier>
+          </contentItem>
+          <contentItem n="45">
+            <locus from="49">f. 49</locus>
+            <title type="incipit">Cum rex gloriae</title>
+            <identifier type="dokumenten_id">Sol 596-49-4</identifier>
+          </contentItem>
+          <contentItem n="46">
+            <locus from="49v">f. 49v</locus>
+            <title type="incipit">Dum fabricator mundi</title>
+            <identifier type="dokumenten_id">Sol 596-49v-6</identifier>
+          </contentItem>
+          <contentItem n="47">
+            <locus from="54v">f. 54v</locus>
+            <title type="incipit">Haec est sancta dies</title>
+            <identifier type="dokumenten_id">Sol 596-54v-1</identifier>
+          </contentItem>
+          <contentItem n="48">
+            <locus from="54v">f. 54v</locus>
+            <title type="incipit">Congregavit nos Christus</title>
+            <identifier type="dokumenten_id">Sol 596-54v-5</identifier>
+          </contentItem>
+          <contentItem n="49">
+            <locus from="55">f. 55</locus>
+            <title type="incipit">Domum istam protege</title>
+            <identifier type="dokumenten_id">Sol 596-55-1</identifier>
+          </contentItem>
+          <contentItem n="50">
+            <locus from="57v">f. 57v</locus>
+            <title type="incipit">Elevamini portae aeternales</title>
+            <identifier type="dokumenten_id">Sol 596-57v-5</identifier>
+          </contentItem>
+          <contentItem n="51">
+            <locus from="57v">f. 57v</locus>
+            <title type="incipit">Domine abstraxisti</title>
+            <identifier type="dokumenten_id">Sol 596-57v-6</identifier>
+          </contentItem>
+          <contentItem n="52">
+            <locus from="57v">f. 57v</locus>
+            <title type="incipit">Exaltabo te</title>
+            <identifier type="dokumenten_id">Sol 596-57v-7</identifier>
+          </contentItem>
+          <contentItem n="53">
+            <locus from="57v">f. 57v</locus>
+            <title type="incipit">Iesu bone tibi</title>
+            <identifier type="dokumenten_id">Sol 596-57v-9</identifier>
+          </contentItem>
+          <contentItem n="54">
+            <locus from="58">f. 58</locus>
+            <title type="incipit">Morte tua ius mortis</title>
+            <identifier type="dokumenten_id">Sol 596-58-1</identifier>
+          </contentItem>
+          <contentItem n="55">
+            <locus from="58v">f. 58v</locus>
+            <title type="incipit">Christus resurgens</title>
+            <identifier type="dokumenten_id">Sol 596-58v-2</identifier>
+          </contentItem>
+          <contentItem n="56">
+            <locus from="59">f. 59</locus>
+            <title type="incipit">Heu nobis internas mentes</title>
+            <identifier type="dokumenten_id">Sol 596-59-19</identifier>
+          </contentItem>
+          <contentItem n="57">
+            <locus from="60v">f. 60v</locus>
+            <title type="incipit">Quid est hoc</title>
+            <identifier type="dokumenten_id">Sol 596-60v-4</identifier>
+          </contentItem>
+          <contentItem n="58">
+            <locus from="61">f. 61</locus>
+            <title type="incipit">O vos Christicolae</title>
+            <identifier type="dokumenten_id">Sol 596-61-3</identifier>
+          </contentItem>
+          <contentItem n="59">
+            <locus from="61v">f. 61v</locus>
+            <title type="incipit">Vultum tristem</title>
+            <identifier type="dokumenten_id">Sol 596-61v-11</identifier>
+          </contentItem>
+          <contentItem n="60">
+            <locus from="61v">f. 61v</locus>
+            <title type="incipit">Alleluia resurrexit dominus</title>
+            <identifier type="dokumenten_id">Sol 596-61v-18</identifier>
+          </contentItem>
+          <contentItem n="61">
+            <locus from="61v">f. 61v</locus>
+            <title type="incipit">Hodie resurrexit leo fortis</title>
+            <identifier type="dokumenten_id">Sol 596-61v-19</identifier>
+          </contentItem>
+          <contentItem n="62">
+            <locus from="61v">f. 61v</locus>
+            <title type="incipit">Venite et videte</title>
+            <identifier type="dokumenten_id">Sol 596-61v-3</identifier>
+          </contentItem>
+          <contentItem n="63">
+            <locus from="62">f. 62</locus>
+            <title type="incipit">Adsunt feminae</title>
+            <identifier type="dokumenten_id">Sol 596-62-6</identifier>
+          </contentItem>
+          <contentItem n="64">
+            <locus from="64">f. 64</locus>
+            <title type="incipit">Dic nobis Maria</title>
+            <identifier type="dokumenten_id">Sol 596-64-3</identifier>
+          </contentItem>
+          <contentItem n="65">
+            <locus from="64v">f. 64v</locus>
+            <title type="incipit">Te deum laudamus*</title>
+            <identifier type="dokumenten_id">Sol 596-64v-6</identifier>
+          </contentItem>
+        </contents>
+        <notesStmt>
+          <annot type="description">
+            <ref target="Sol_596.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <classification>
+          <termList>
+            <term type="quellentyp">Prozessionar mit liturgischen Spielen</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">Atelier de Pal. mus. No. 596</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">Solesmes</geogName>
+                <corpName>Abbaye Saint-Pierre</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

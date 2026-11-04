@@ -1,0 +1,41 @@
+{
+  "id": "575d1beb-8832-4425-852a-7c904d978675",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-211v-11",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Feria III post Pascha",
+  "feier": "Messe",
+  "textinitium": "Prome casta",
+  "bibliographischerverweis": "AH 7, 47; AH 53, 49",
+  "druckausgabe": "CM III",
+  "zeilenstart": "11",
+  "foliostart": "211v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "212",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Eduxit dominus",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

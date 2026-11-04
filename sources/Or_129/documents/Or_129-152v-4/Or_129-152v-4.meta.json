@@ -1,0 +1,41 @@
+{
+  "id": "6289b1b3-7fe0-4b57-a9b0-010493af6eb9",
+  "quelle_id": "Or 129",
+  "dokumenten_id": "Or 129-152v-4",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "Pascha",
+  "feier": "Messe",
+  "textinitium": "Venite populi ad sacrum",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "4",
+  "foliostart": "152v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "152v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Or 129-36-b-14S",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Easter play / Osterspiel",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

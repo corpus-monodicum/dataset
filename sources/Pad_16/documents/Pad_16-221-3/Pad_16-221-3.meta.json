@@ -1,0 +1,41 @@
+{
+  "id": "bdeea6d3-3c3f-4314-9f92-0ec8950535d6",
+  "quelle_id": "Pad 16",
+  "dokumenten_id": "Pad 16-221-3",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Nativitas domini",
+  "feier": "3. Messe",
+  "textinitium": "Hodie cantandus est",
+  "bibliographischerverweis": "Nat III intr 25 A 33 A 31 B 32 C (CT I)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "3",
+  "foliostart": "221",
+  "kommentar": "olim 217",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Puer natus",
+    "Endseite": "221v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Nat III intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5bbeb69f-85a1-4abf-8cfc-d9a86464ee3c",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-273-6",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Maria Magdalena",
+  "feier": "Messe",
+  "textinitium": "Mane prima sabbati",
+  "bibliographischerverweis": "AH 54, 143",
+  "druckausgabe": "CM III",
+  "zeilenstart": "6",
+  "foliostart": "273",
+  "kommentar": "Zuordnung siehe Hiley 1993.",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "274v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0edfcf5d-a023-44ce-b439-94130a9a29f6",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-149-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "",
+  "feier": "",
+  "textinitium": "Sancti merita Benedicti",
+  "bibliographischerverweis": "AH 54, 35",
+  "druckausgabe": "",
+  "zeilenstart": "1",
+  "foliostart": "149",
+  "kommentar": "Nachtrag auf Rasur",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "149v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Occidentana",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

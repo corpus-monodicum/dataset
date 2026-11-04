@@ -1,0 +1,41 @@
+{
+  "id": "0b1f62aa-8721-45c5-8537-066f0fc72f71",
+  "quelle_id": "Pa 14452",
+  "dokumenten_id": "Pa 14452-197v-5",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Michael",
+  "feier": "Messe",
+  "textinitium": "Laus erumpat",
+  "bibliographischerverweis": "AH 55, 258",
+  "druckausgabe": "CM III",
+  "zeilenstart": "5",
+  "foliostart": "197v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "198v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

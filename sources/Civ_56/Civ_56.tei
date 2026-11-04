@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Civ 56: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Michael Klaper</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Gunilla Iversen</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Ritva Maria Jacobsson</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="Civ_56">
+          <msIdentifier>
+            <settlement>Cividale</settlement>
+            <repository>Museo Archeologico Nazionale</repository>
+            <idno type="shelfmark">Ms. LVI</idno>
+            <altIdentifier type="siglum">
+              <idno>Civ 56</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>Civ 56</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <term type="quellentyp">Graduale, Tropar, Sequentiar</term>
+            </summary>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="133">f. 133</locus>
+              <title type="incipit">Postquam factus</title>
+              <idno type="dokumenten_id">Civ 56-133-4</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="133">f. 133</locus>
+              <title type="incipit">Resurrexi</title>
+              <idno type="dokumenten_id">Civ 56-133-7</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="134v">f. 134v</locus>
+              <title type="incipit">Adducite vitulum</title>
+              <idno type="dokumenten_id">Civ 56-134v-10</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="135">f. 135</locus>
+              <title type="incipit">Pascha nostrum ... alleluia</title>
+              <idno type="dokumenten_id">Civ 56-135-1</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="156">f. 156</locus>
+              <title type="incipit">Hodie spiritus sanctus processit</title>
+              <idno type="dokumenten_id">Civ 56-156-10</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="156v">f. 156v</locus>
+              <title type="incipit">Spiritus domini</title>
+              <idno type="dokumenten_id">Civ 56-156v-3</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="171v">f. 171v</locus>
+              <title type="incipit">Hodie revolvat</title>
+              <idno type="dokumenten_id">Civ 56-171v-4</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="171v">f. 171v</locus>
+              <title type="incipit">Terribilis est locus iste</title>
+              <idno type="dokumenten_id">Civ 56-171v-7</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="180v">f. 180v</locus>
+              <title type="incipit">Hodie sanctissima virgo virginum</title>
+              <idno type="dokumenten_id">Civ 56-180v-9</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="183v">f. 183v</locus>
+              <title type="incipit">Nativitatem venerandam</title>
+              <idno type="dokumenten_id">Civ 56-183v-10</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="188v">f. 188v</locus>
+              <title type="incipit">Sollemnitatem venerandam</title>
+              <idno type="dokumenten_id">Civ 56-188v-12</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="21">f. 21</locus>
+              <title type="incipit">Hodie cantandus est</title>
+              <idno type="dokumenten_id">Civ 56-21-7</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="21v">f. 21v</locus>
+              <title type="incipit">Puer natus est nobis</title>
+              <idno type="dokumenten_id">Civ 56-21v-5</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="22v">f. 22v</locus>
+              <title type="incipit">Domine Iesu Christe</title>
+              <idno type="dokumenten_id">Civ 56-22v-10</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="23v">f. 23v</locus>
+              <title type="incipit">Etenim sederunt</title>
+              <idno type="dokumenten_id">Civ 56-23v-10</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="25">f. 25</locus>
+              <title type="incipit">Magnus et felix</title>
+              <idno type="dokumenten_id">Civ 56-25-3</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="25">f. 25</locus>
+              <title type="incipit">Video caelos apertos</title>
+              <idno type="dokumenten_id">Civ 56-25-7</idno>
+            </msItem>
+            <msItem n="18">
+              <locus from="26">f. 26</locus>
+              <title type="incipit">Quoniam dominus</title>
+              <idno type="dokumenten_id">Civ 56-26-12</idno>
+            </msItem>
+            <msItem n="19">
+              <locus from="27">f. 27</locus>
+              <title type="incipit">In medio ecclesiae</title>
+              <idno type="dokumenten_id">Civ 56-27-9</idno>
+            </msItem>
+            <msItem n="20">
+              <locus from="30">f. 30</locus>
+              <title type="incipit">Ecce adest</title>
+              <idno type="dokumenten_id">Civ 56-30-10</idno>
+            </msItem>
+            <msItem n="21">
+              <locus from="30v">f. 30v</locus>
+              <title type="incipit">Vultum tuum</title>
+              <idno type="dokumenten_id">Civ 56-30v-2</idno>
+            </msItem>
+            <msItem n="22">
+              <locus from="32v">f. 32v</locus>
+              <title type="incipit">Ecce advenit</title>
+              <idno type="dokumenten_id">Civ 56-32v-13</idno>
+            </msItem>
+            <msItem n="23">
+              <locus from="32v">f. 32v</locus>
+              <title type="incipit">Forma speciosissimus</title>
+              <idno type="dokumenten_id">Civ 56-32v-9</idno>
+            </msItem>
+            <msItem n="24">
+              <locus from="45v">f. 45v</locus>
+              <title type="incipit">Gaudeamus omnes ... Agathae</title>
+              <idno type="dokumenten_id">Civ 56-45v-2</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Cividale del Friuli</settlement>
+                <region>Quellen italienischer Herkunft</region>
+                <orgName>Kathedrale Santa Maria Assunta</orgName>
+              </origPlace>
+              <origDate>14. Jh – 15. Jh</origDate>
+            </origin>
+          </history>
+          <additional>
+            <adminInfo>
+              <note type="description">
+                <ref target="Civ_56.description.md">Source description</ref>
+              </note>
+            </adminInfo>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

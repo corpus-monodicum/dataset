@@ -1,0 +1,41 @@
+{
+  "id": "106848f3-8285-4650-8a7c-0eaf147102a9",
+  "quelle_id": "Or 201",
+  "dokumenten_id": "Or 201-223-7",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "Pascha",
+  "feier": "Matutin",
+  "textinitium": "Ardens est cor",
+  "bibliographischerverweis": "CAO 1479",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "7",
+  "foliostart": "223",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "223",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Or 201-220-16S",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Easter play / Osterspiel",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

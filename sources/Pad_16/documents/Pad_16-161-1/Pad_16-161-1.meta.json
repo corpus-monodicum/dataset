@@ -1,0 +1,41 @@
+{
+  "id": "f2e0cee3-0041-4ee3-a95a-2eeae62e89da",
+  "quelle_id": "Pad 16",
+  "dokumenten_id": "Pad 16-161-1",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Petrus et Paulus",
+  "feier": "Messe",
+  "textinitium": "Nunc scio vere",
+  "bibliographischerverweis": "AMS 122",
+  "druckausgabe": "II-4",
+  "zeilenstart": "1",
+  "foliostart": "161",
+  "kommentar": "olim 157",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "161",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d7b9609b-40ae-4999-a7d9-2144c6083b36",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-225-6",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Cyricus",
+  "feier": "Messe",
+  "textinitium": "Deus quoniam",
+  "bibliographischerverweis": "AH 44, 103",
+  "druckausgabe": "CM III",
+  "zeilenstart": "6",
+  "foliostart": "225",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "225v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Quoniam deus maior",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

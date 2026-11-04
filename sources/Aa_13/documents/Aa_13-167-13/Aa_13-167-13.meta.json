@@ -1,0 +1,41 @@
+{
+  "id": "d2078f9b-2b67-4c13-a56c-0ede5ef09c3f",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-167-13",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Martyres",
+  "feier": "Messe",
+  "textinitium": "Agone triumphali",
+  "bibliographischerverweis": "AH 53, 229",
+  "druckausgabe": "CM III",
+  "zeilenstart": "13",
+  "foliostart": "167",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "167v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Vox exsultationis",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "A",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

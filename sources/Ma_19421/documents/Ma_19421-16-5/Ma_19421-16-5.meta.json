@@ -1,0 +1,41 @@
+{
+  "id": "464e3b76-edbf-4593-b899-e5f3b3f063fd",
+  "quelle_id": "Ma 19421",
+  "dokumenten_id": "Ma 19421-16-5",
+  "gattung1": "Gloria",
+  "gattung2": "tropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Pax sempiterna",
+  "bibliographischerverweis": "CT XII, 55",
+  "druckausgabe": "",
+  "zeilenstart": "5",
+  "foliostart": "16",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Hiley",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "17",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "Bosse 39",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509502",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

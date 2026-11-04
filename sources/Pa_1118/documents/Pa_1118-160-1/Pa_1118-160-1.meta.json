@@ -1,0 +1,41 @@
+{
+  "id": "c3b6141a-5814-4776-998a-551eb9edcf6c",
+  "quelle_id": "Pa 1118",
+  "dokumenten_id": "Pa 1118-160-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Innocentes",
+  "feier": "",
+  "textinitium": "Rex magne deus",
+  "bibliographischerverweis": "AH 7, 136",
+  "druckausgabe": "",
+  "zeilenstart": "1",
+  "foliostart": "160",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "160v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Quoniam deus minor",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

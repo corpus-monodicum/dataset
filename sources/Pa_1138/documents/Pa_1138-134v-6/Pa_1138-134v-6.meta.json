@@ -1,0 +1,41 @@
+{
+  "id": "b40ee72c-f8a4-44c7-9ffe-27cb7f2103b1",
+  "quelle_id": "Pa 1138",
+  "dokumenten_id": "Pa 1138-134v-6",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "",
+  "feier": "",
+  "textinitium": "Adest nempe",
+  "bibliographischerverweis": "AH 7, 229",
+  "druckausgabe": "",
+  "zeilenstart": "6",
+  "foliostart": "134v",
+  "kommentar": "beginnt in Pa 1138, endet in Pa 1338",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "81v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Verba mea",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "Uerba mea",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

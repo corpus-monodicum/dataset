@@ -1,0 +1,41 @@
+{
+  "id": "b350c871-d8ba-41c1-a7dc-8ee74cabcb93",
+  "quelle_id": "Sol 596",
+  "dokumenten_id": "Sol 596-110-5",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Versikel",
+  "festtag": "Pentecoste",
+  "feier": "Prozession",
+  "textinitium": "Surrexit dominus de sepulchro*",
+  "bibliographischerverweis": "CAO 8212",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "5",
+  "foliostart": "110",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "110",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Sol 596-109-3S",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Pentecost",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

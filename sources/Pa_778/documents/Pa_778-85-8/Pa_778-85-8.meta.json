@@ -1,0 +1,41 @@
+{
+  "id": "6206c12d-9bc8-4bdf-8aa0-191a584808d1",
+  "quelle_id": "Pa 778",
+  "dokumenten_id": "Pa 778-85-8",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Octava Paschae",
+  "feier": "Messe",
+  "textinitium": "Gaudeat ecclesia innovant",
+  "bibliographischerverweis": "AH 7, 58",
+  "druckausgabe": "",
+  "zeilenstart": "8",
+  "foliostart": "85",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "86v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

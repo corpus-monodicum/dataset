@@ -1,0 +1,41 @@
+{
+  "id": "004002b2-0d6a-49aa-938a-479851f1caaa",
+  "quelle_id": "Apt 17",
+  "dokumenten_id": "Apt 17-119-6",
+  "gattung1": "Tropus",
+  "gattung2": "Offertorium-Tropus",
+  "festtag": "Purificatio Mariae",
+  "feier": "Messe",
+  "textinitium": "Aurea Davitico",
+  "bibliographischerverweis": "Diff 4 A 12 B 10 C (CT IX)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "6",
+  "foliostart": "119",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "(Diffusa est)",
+    "Endseite": "120",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

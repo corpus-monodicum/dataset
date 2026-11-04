@@ -1,0 +1,30 @@
+{
+  "source": "Pa_17328",
+  "images": [
+    {
+      "file": "patterns/patterns.svg",
+      "kind": "patterns",
+      "media_type": "image/svg+xml",
+      "sha256": "93f255a5d07e861d8059b9246024add037eab539dd5f0e705c06308ab8c1b345",
+      "bytes": 18363,
+      "shows": "Pa 17328: Muster &amp; Entsprechungen",
+      "embeds_raster_image": false,
+      "source": {
+        "siglum": "Pa 17328",
+        "library": "Bibliothèque nationale de France",
+        "place": "Paris",
+        "shelfmark": "Lat. 17328",
+        "iiif_manifests": [
+          "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8426270t/manifest.json"
+        ],
+        "online_catalogue": []
+      },
+      "rights": {
+        "status": "not checked",
+        "library_terms_url": null,
+        "statement": null,
+        "note": "The images are crops of manuscript images of the library named under `source`; the rights of the library are not settled by the licence of this dataset (see docs/LICENCE-DECISION.md)."
+      }
+    }
+  ]
+}

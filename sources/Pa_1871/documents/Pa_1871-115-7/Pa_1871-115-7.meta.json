@@ -1,0 +1,41 @@
+{
+  "id": "27ddc977-5fc7-4c17-8cb5-ca71c9ec8cf6",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-115-7",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Pascha",
+  "feier": "Vigil",
+  "textinitium": "Iubilate deo omnis",
+  "bibliographischerverweis": "AH 7, 41",
+  "druckausgabe": "",
+  "zeilenstart": "7",
+  "foliostart": "115",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "115",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Iubilate",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

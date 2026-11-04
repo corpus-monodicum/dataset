@@ -1,0 +1,41 @@
+{
+  "id": "985b2c57-2e60-454c-9c99-e540f056bd68",
+  "quelle_id": "Ma 19421",
+  "dokumenten_id": "Ma 19421-4-11",
+  "gattung1": "Kyrie",
+  "gattung2": "tropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Clemens rector",
+  "bibliographischerverweis": "AH 47, 6",
+  "druckausgabe": "I-1",
+  "zeilenstart": "11",
+  "foliostart": "4",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Hiley",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "4v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "Melnicki 102",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509501",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "e6d1a38b-6add-4a93-8b0d-0caa7508c081",
+  "quelle_id": "Pst 121",
+  "dokumenten_id": "Pst 121-52-9",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Trinitas",
+  "feier": "Messe",
+  "textinitium": "Cunctipotens genitor",
+  "bibliographischerverweis": "Trin intr 13 A 14^1 B 14^2 C D (CT III)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "9",
+  "foliostart": "52",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Benedicta sit sancta",
+    "Endseite": "52v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Trin intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

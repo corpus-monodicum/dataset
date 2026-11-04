@@ -1,0 +1,41 @@
+{
+  "id": "913b0562-756a-48bc-b631-f9df32bc2f8e",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-292-a-12",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Hippolytus",
+  "feier": "Messe",
+  "textinitium": "Mirabilis deus in sanctis*",
+  "bibliographischerverweis": "AH 53, 231",
+  "druckausgabe": "CM III",
+  "zeilenstart": "12",
+  "foliostart": "292-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "292a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Mirabilis (B)",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

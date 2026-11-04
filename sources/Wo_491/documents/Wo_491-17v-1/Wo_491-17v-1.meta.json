@@ -1,0 +1,41 @@
+{
+  "id": "736b0db1-feff-465e-bd73-052889a1bbef",
+  "quelle_id": "Wo 491",
+  "dokumenten_id": "Wo 491-17v-1",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Epiphania",
+  "feier": "Messe",
+  "textinitium": "Ecclesiae sponsus",
+  "bibliographischerverweis": "Epiph intr 15 A 17 B 18 C 19 D (CT I)",
+  "druckausgabe": "II-2",
+  "zeilenstart": "1",
+  "foliostart": "17v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "Wo 491-18-1",
+    "Endseite": "17v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Epiph intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

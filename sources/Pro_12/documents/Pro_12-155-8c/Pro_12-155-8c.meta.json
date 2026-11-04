@@ -1,0 +1,41 @@
+{
+  "id": "6768688e-ca7b-4bb7-af0f-1f0b9d5ecf67",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-155-8c",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Pascha annotinum",
+  "feier": "Messe",
+  "textinitium": "Prome casta*",
+  "bibliographischerverweis": "AH 7, 47; AH 53, 49",
+  "druckausgabe": "CM III",
+  "zeilenstart": "8",
+  "foliostart": "155",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "155",
+    "Startposition": "c",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Eduxit dominus",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

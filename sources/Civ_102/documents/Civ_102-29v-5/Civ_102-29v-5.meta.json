@@ -1,0 +1,41 @@
+{
+  "id": "591eae7c-af85-4cd6-a237-7e033bcec5ad",
+  "quelle_id": "Civ 102",
+  "dokumenten_id": "Civ 102-29v-5",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Responsorium",
+  "festtag": "Dominica in palmis",
+  "feier": "Prozession",
+  "textinitium": "Ingrediente domino",
+  "bibliographischerverweis": "CAO 6961",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "5",
+  "foliostart": "29v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "29v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Civ 102-23-1S",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Entry into Jerusalem",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

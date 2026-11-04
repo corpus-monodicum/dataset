@@ -1,0 +1,41 @@
+{
+  "id": "a13f97d4-a8ff-49f9-944b-f3c56d2b73a0",
+  "quelle_id": "Ut 417",
+  "dokumenten_id": "Ut 417-26v-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Exaltatio crucis",
+  "feier": "Messe",
+  "textinitium": "Salve crux sancta arbor",
+  "bibliographischerverweis": "AH 53, 82",
+  "druckausgabe": "",
+  "zeilenstart": "1",
+  "foliostart": "26v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "26v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Dulce lignum",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

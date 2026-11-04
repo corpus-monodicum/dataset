@@ -1,0 +1,41 @@
+{
+  "id": "d6202b0f-7ba3-4f46-975f-189d5167ca8a",
+  "quelle_id": "Pa 909",
+  "dokumenten_id": "Pa 909-12v-1",
+  "gattung1": "Tropus",
+  "gattung2": "Communio-Tropus",
+  "festtag": "Nativitas domini",
+  "feier": "3. Messe",
+  "textinitium": "Desinat esse",
+  "bibliographischerverweis": "Nat III com 8 A 1 B C B (CT I)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "1",
+  "foliostart": "12v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "Viderunt omnes",
+    "Endseite": "12v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Nat III com",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "502fd93e-9ec5-4b1e-8b86-0beb1204d241",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-218-9",
+  "gattung1": "Tropus",
+  "gattung2": "Offertorium-Tropus",
+  "festtag": "Ascensio domini",
+  "feier": "Messe",
+  "textinitium": "Hodie redemptor",
+  "bibliographischerverweis": "Ascens off 8 A 9 C (CT III)",
+  "druckausgabe": "II-1",
+  "zeilenstart": "9",
+  "foliostart": "218",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "Pa 1235-88v-1-",
+    "Endseite": "218",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Ascens off",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

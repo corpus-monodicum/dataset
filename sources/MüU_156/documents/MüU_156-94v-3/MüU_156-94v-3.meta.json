@@ -1,0 +1,41 @@
+{
+  "id": "a3184dbb-1f1a-42cc-826a-71a9b8b70f92",
+  "quelle_id": "MüU 156",
+  "dokumenten_id": "MüU 156-94v-3",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Ascensio domini",
+  "feier": "Messe",
+  "textinitium": "Viri Galilaei",
+  "bibliographischerverweis": "AMS 102",
+  "druckausgabe": "II-2",
+  "zeilenstart": "3",
+  "foliostart": "94v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "94v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

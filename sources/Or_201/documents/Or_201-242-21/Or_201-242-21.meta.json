@@ -1,0 +1,41 @@
+{
+  "id": "13355b9d-f56b-4898-872e-840cd715056d",
+  "quelle_id": "Or 201",
+  "dokumenten_id": "Or 201-242-21",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Lazarus",
+  "feier": "Matutin",
+  "textinitium": "Velox huius saxi",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "21",
+  "foliostart": "242",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "242",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Or 201-233-24-aS",
+    "Endzeile": "22",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Raising of Lazarus",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

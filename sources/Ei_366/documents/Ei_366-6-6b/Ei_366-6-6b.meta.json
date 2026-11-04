@@ -1,0 +1,41 @@
+{
+  "id": "a38355a3-46d2-4300-8108-88b8be804a86",
+  "quelle_id": "Ei 366",
+  "dokumenten_id": "Ei 366-6-6b",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Purificatio Mariae",
+  "feier": "Messe",
+  "textinitium": "Ave praeclara maris stella",
+  "bibliographischerverweis": "AH 50, 241",
+  "druckausgabe": "CM III",
+  "zeilenstart": "6",
+  "foliostart": "6",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "6b",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "16",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "Abschnitt im Inneren fehlt; Ende fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

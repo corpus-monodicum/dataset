@@ -1,0 +1,41 @@
+{
+  "id": "46b86f19-fc2b-4f7b-984e-9f2b7fceb9d9",
+  "quelle_id": "Mza 77",
+  "dokumenten_id": "Mza 77-81v-10",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Pascha",
+  "feier": "Messe",
+  "textinitium": "Quem quaeritis in sepulchro",
+  "bibliographischerverweis": "Resurr intr Q B F (CT III, S. 217-219)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "10",
+  "foliostart": "81v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Resurrexi",
+    "Endseite": "82",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Resurr intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

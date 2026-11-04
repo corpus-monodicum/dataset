@@ -1,0 +1,41 @@
+{
+  "id": "5769b733-8e1f-4c74-93fa-5213986bc68a",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-20v-3",
+  "gattung1": "Tropus",
+  "gattung2": "Communio-Tropus",
+  "festtag": "Stephanus",
+  "feier": "Messe",
+  "textinitium": "Grandine lapidum",
+  "bibliographischerverweis": "Steph com 7 A 6 (CT I)",
+  "druckausgabe": "II-1",
+  "zeilenstart": "3",
+  "foliostart": "20v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "Pro 12 20v-6-",
+    "Endseite": "20v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Steph com",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

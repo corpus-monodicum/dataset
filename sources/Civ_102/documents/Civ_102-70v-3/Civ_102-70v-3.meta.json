@@ -1,0 +1,41 @@
+{
+  "id": "48faef47-fd4b-4a5d-912d-617d545fee5e",
+  "quelle_id": "Civ 102",
+  "dokumenten_id": "Civ 102-70v-3",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "Annuntiatio Mariae",
+  "feier": "",
+  "textinitium": "Benedicta tu in mulieribus",
+  "bibliographischerverweis": "CAO 1709",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "3",
+  "foliostart": "70v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "70v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Civ 102-69v-2S",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Annunciation",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

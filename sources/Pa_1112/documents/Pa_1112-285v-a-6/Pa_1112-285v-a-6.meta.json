@@ -1,0 +1,41 @@
+{
+  "id": "15dfa7cc-d62e-4bf0-86a4-7e7bce7210f",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-285v-a-6",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Gervasius et Protasius",
+  "feier": "Messe",
+  "textinitium": "Mirabilis deus in sanctis*",
+  "bibliographischerverweis": "AH 53, 231",
+  "druckausgabe": "CM III",
+  "zeilenstart": "6",
+  "foliostart": "285v-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "285v-a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Mirabilis (B)",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

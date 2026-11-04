@@ -1,0 +1,41 @@
+{
+  "id": "85ca9f9b-9719-49be-805e-ee5fa2d3c9af",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-17v-5a",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Nativitas domini",
+  "feier": "3. Messe",
+  "textinitium": "Lux fulget hodierna*",
+  "bibliographischerverweis": "AH 8, 6",
+  "druckausgabe": "CM III",
+  "zeilenstart": "5",
+  "foliostart": "17v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "17v",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Mater",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

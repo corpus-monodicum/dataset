@@ -1,0 +1,41 @@
+{
+  "id": "58fc7eb0-caa9-4712-bb54-b826c8002452",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-207v-2b",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Simon et Iudas",
+  "feier": "Messe",
+  "textinitium": "Mirabilis deus in sanctis*",
+  "bibliographischerverweis": "AH 53, 231",
+  "druckausgabe": "CM III",
+  "zeilenstart": "2",
+  "foliostart": "207v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "207v",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Mirabilis (B)",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

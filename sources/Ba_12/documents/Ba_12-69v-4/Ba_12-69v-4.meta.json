@@ -1,0 +1,41 @@
+{
+  "id": "2b81930b-f471-4eff-b230-93d9459489a4",
+  "quelle_id": "Ba 12",
+  "dokumenten_id": "Ba 12-69v-4",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Corpus Christi",
+  "feier": "Messe",
+  "textinitium": "Lauda Sion",
+  "bibliographischerverweis": "AH 50, 385",
+  "druckausgabe": "CM III",
+  "zeilenstart": "4",
+  "foliostart": "69v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "71",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Laetabitur",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "Nachtrag 2",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

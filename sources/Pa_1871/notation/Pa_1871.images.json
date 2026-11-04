@@ -1,0 +1,30 @@
+{
+  "source": "Pa_1871",
+  "images": [
+    {
+      "file": "patterns/patterns.svg",
+      "kind": "patterns",
+      "media_type": "image/svg+xml",
+      "sha256": "41523041f04ef194beb15d68fa70306c7440b0d10b6e86e0c0599a4592ca21a5",
+      "bytes": 46389,
+      "shows": "Pa 1871: Muster &amp; Entsprechungen",
+      "embeds_raster_image": false,
+      "source": {
+        "siglum": "Pa 1871",
+        "library": "Bibliothèque nationale de France",
+        "place": "Paris",
+        "shelfmark": "Nouv. acq. lat. 1871",
+        "iiif_manifests": [
+          "https://gallica.bnf.fr/iiif/ark:/12148/btv1b85624659/manifest.json"
+        ],
+        "online_catalogue": []
+      },
+      "rights": {
+        "status": "not checked",
+        "library_terms_url": null,
+        "statement": null,
+        "note": "The images are crops of manuscript images of the library named under `source`; the rights of the library are not settled by the licence of this dataset (see docs/LICENCE-DECISION.md)."
+      }
+    }
+  ]
+}

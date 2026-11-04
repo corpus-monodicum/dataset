@@ -1,0 +1,41 @@
+{
+  "id": "d123bb45-ae85-4670-a533-f27a2dc6cf82",
+  "quelle_id": "Pa 14819",
+  "dokumenten_id": "Pa 14819-71v-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Octava Paschae",
+  "feier": "Messe",
+  "textinitium": "Zyma vetus",
+  "bibliographischerverweis": "AH 54, 149",
+  "druckausgabe": "CM III",
+  "zeilenstart": "1",
+  "foliostart": "71v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "73v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Pa 778: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Sequenzen)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="Pa_778">
+        <identifier type="siglum">Pa 778</identifier>
+        <identifier type="cantus">Pa 778</identifier>
+        <titleStmt>
+          <title>Pa 778</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Narbonne</geogName>
+          <geogName role="origin-region">Quellen aquitanischer Herkunft</geogName>
+          <corpName role="origin-institution">Kathedrale</corpName>
+          <date>12. Jh</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="100">f. 100</locus>
+            <title type="incipit">Eia musa</title>
+            <identifier type="dokumenten_id">Pa 778-100-5</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="101">f. 101</locus>
+            <title type="incipit">O alma trinitas deus</title>
+            <identifier type="dokumenten_id">Pa 778-101-5</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="102">f. 102</locus>
+            <title type="incipit">O alma trinitas deitas</title>
+            <identifier type="dokumenten_id">Pa 778-102-8</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="103">f. 103</locus>
+            <title type="incipit">Benedicta sit beata</title>
+            <identifier type="dokumenten_id">Pa 778-103-6</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="104">f. 104</locus>
+            <title type="incipit">Adest nempe</title>
+            <identifier type="dokumenten_id">Pa 778-104-8</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="105v">f. 105v</locus>
+            <title type="incipit">Alma chorus domini</title>
+            <identifier type="dokumenten_id">Pa 778-105v-7</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="106">f. 106</locus>
+            <title type="incipit">Omnipotens deus fortis</title>
+            <identifier type="dokumenten_id">Pa 778-106-6</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="107">f. 107</locus>
+            <title type="incipit">Benedictus es ... atque gloriosus</title>
+            <identifier type="dokumenten_id">Pa 778-107-7</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="108">f. 108</locus>
+            <title type="incipit">Benedicta semper sancta</title>
+            <identifier type="dokumenten_id">Pa 778-108-5</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="109">f. 109</locus>
+            <title type="incipit">Ad templi ... concrepet devota</title>
+            <identifier type="dokumenten_id">Pa 778-109-7</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus from="110">f. 110</locus>
+            <title type="incipit">Ad templi ... devota persultat</title>
+            <identifier type="dokumenten_id">Pa 778-110-6</identifier>
+          </contentItem>
+          <contentItem n="12">
+            <locus from="111">f. 111</locus>
+            <title type="incipit">Laetetur et concrepet</title>
+            <identifier type="dokumenten_id">Pa 778-111-5</identifier>
+          </contentItem>
+          <contentItem n="13">
+            <locus from="112">f. 112</locus>
+            <title type="incipit">Clara chorus</title>
+            <identifier type="dokumenten_id">Pa 778-112-7</identifier>
+          </contentItem>
+          <contentItem n="14">
+            <locus from="113v">f. 113v</locus>
+            <title type="incipit">Hodierna dies veneranda</title>
+            <identifier type="dokumenten_id">Pa 778-113v-6</identifier>
+          </contentItem>
+          <contentItem n="15">
+            <locus from="114v">f. 114v</locus>
+            <title type="incipit">Praecursor Christi</title>
+            <identifier type="dokumenten_id">Pa 778-114v-5</identifier>
+          </contentItem>
+          <contentItem n="16">
+            <locus from="115v">f. 115v</locus>
+            <title type="incipit">Nostra promat herilia</title>
+            <identifier type="dokumenten_id">Pa 778-115v-4</identifier>
+          </contentItem>
+          <contentItem n="17">
+            <locus from="117v">f. 117v</locus>
+            <title type="incipit">Gaude caterva</title>
+            <identifier type="dokumenten_id">Pa 778-117v-2</identifier>
+          </contentItem>
+          <contentItem n="18">
+            <locus from="119v">f. 119v</locus>
+            <title type="incipit">Pulchra praepollent</title>
+            <identifier type="dokumenten_id">Pa 778-119v-1</identifier>
+          </contentItem>
+          <contentItem n="19">
+            <locus from="120v">f. 120v</locus>
+            <title type="incipit">Sanctus Petrus</title>
+            <identifier type="dokumenten_id">Pa 778-120v-1</identifier>
+          </contentItem>
+          <contentItem n="20">
+            <locus from="121v">f. 121v</locus>
+            <title type="incipit">Laude iucunda</title>
+            <identifier type="dokumenten_id">Pa 778-121v-8</identifier>
+          </contentItem>
+          <contentItem n="21">
+            <locus from="122v">f. 122v</locus>
+            <title type="incipit">Ecce pulchra</title>
+            <identifier type="dokumenten_id">Pa 778-122v-9</identifier>
+          </contentItem>
+          <contentItem n="22">
+            <locus from="123v">f. 123v</locus>
+            <title type="incipit">Observanda abunde</title>
+            <identifier type="dokumenten_id">Pa 778-123v-8</identifier>
+          </contentItem>
+          <contentItem n="23">
+            <locus from="125">f. 125</locus>
+            <title type="incipit">Alle sublime</title>
+            <identifier type="dokumenten_id">Pa 778-125-2</identifier>
+          </contentItem>
+          <contentItem n="24">
+            <locus from="125v">f. 125v</locus>
+            <title type="incipit">Quem superne</title>
+            <identifier type="dokumenten_id">Pa 778-125v-8</identifier>
+          </contentItem>
+          <contentItem n="25">
+            <locus from="127v">f. 127v</locus>
+            <title type="incipit">Laudes deo personet</title>
+            <identifier type="dokumenten_id">Pa 778-127v-7</identifier>
+          </contentItem>
+          <contentItem n="26">
+            <locus from="128v">f. 128v</locus>
+            <title type="incipit">Mane prima sabbati</title>
+            <identifier type="dokumenten_id">Pa 778-128v-6</identifier>
+          </contentItem>
+          <contentItem n="27">
+            <locus from="129v">f. 129v</locus>
+            <title type="incipit">Gratulemur et laetemur</title>
+            <identifier type="dokumenten_id">Pa 778-129v-9</identifier>
+          </contentItem>
+          <contentItem n="28">
+            <locus from="132">f. 132</locus>
+            <title type="incipit">Laude summa</title>
+            <identifier type="dokumenten_id">Pa 778-132-5</identifier>
+          </contentItem>
+          <contentItem n="29">
+            <locus from="133">f. 133</locus>
+            <title type="incipit">Summa culmina</title>
+            <identifier type="dokumenten_id">Pa 778-133-7</identifier>
+          </contentItem>
+          <contentItem n="30">
+            <locus from="134v">f. 134v</locus>
+            <title type="incipit">Concrepet symbolica</title>
+            <identifier type="dokumenten_id">Pa 778-134v-6</identifier>
+          </contentItem>
+          <contentItem n="31">
+            <locus from="136">f. 136</locus>
+            <title type="incipit">Virtutum deus</title>
+            <identifier type="dokumenten_id">Pa 778-136-10</identifier>
+          </contentItem>
+          <contentItem n="32">
+            <locus from="137v">f. 137v</locus>
+            <title type="incipit">Alme martyr</title>
+            <identifier type="dokumenten_id">Pa 778-137v-7</identifier>
+          </contentItem>
+          <contentItem n="33">
+            <locus from="138v">f. 138v</locus>
+            <title type="incipit">Stola iucunditatis</title>
+            <identifier type="dokumenten_id">Pa 778-138v-2</identifier>
+          </contentItem>
+          <contentItem n="34">
+            <locus from="139v">f. 139v</locus>
+            <identifier type="dokumenten_id">Pa 778-139v-1</identifier>
+          </contentItem>
+          <contentItem n="35">
+            <locus from="141">f. 141</locus>
+            <title type="incipit">Aureo flore primae</title>
+            <identifier type="dokumenten_id">Pa 778-141-8</identifier>
+          </contentItem>
+          <contentItem n="36">
+            <locus from="142v">f. 142v</locus>
+            <title type="incipit">Virgo dei Maria</title>
+            <identifier type="dokumenten_id">Pa 778-142v-7</identifier>
+          </contentItem>
+          <contentItem n="37">
+            <locus from="143v">f. 143v</locus>
+            <title type="incipit">Plebs redempta</title>
+            <identifier type="dokumenten_id">Pa 778-143v-8</identifier>
+          </contentItem>
+          <contentItem n="38">
+            <locus from="145">f. 145</locus>
+            <title type="incipit">Ecclesia devota</title>
+            <identifier type="dokumenten_id">Pa 778-145-6</identifier>
+          </contentItem>
+          <contentItem n="39">
+            <locus from="145v">f. 145v</locus>
+            <title type="incipit">Nativitas Mariae</title>
+            <identifier type="dokumenten_id">Pa 778-145v-1</identifier>
+          </contentItem>
+          <contentItem n="40">
+            <locus from="146v">f. 146v</locus>
+            <title type="incipit">Alle caeleste necnon</title>
+            <identifier type="dokumenten_id">Pa 778-146v-7</identifier>
+          </contentItem>
+          <contentItem n="41">
+            <locus from="148">f. 148</locus>
+            <title type="incipit">Christo inclita</title>
+            <identifier type="dokumenten_id">Pa 778-148-6</identifier>
+          </contentItem>
+          <contentItem n="42">
+            <locus from="149">f. 149</locus>
+            <title type="incipit">Alludat laetus ordo</title>
+            <identifier type="dokumenten_id">Pa 778-149-8</identifier>
+          </contentItem>
+          <contentItem n="43">
+            <locus from="150v">f. 150v</locus>
+            <title type="incipit">Ad celebres rex</title>
+            <identifier type="dokumenten_id">Pa 778-150v-10</identifier>
+          </contentItem>
+          <contentItem n="44">
+            <locus from="152">f. 152</locus>
+            <title type="incipit">Laudat Christum</title>
+            <identifier type="dokumenten_id">Pa 778-152-7</identifier>
+          </contentItem>
+          <contentItem n="45">
+            <locus from="152v">f. 152v</locus>
+            <title type="incipit">Laetabundus Francisco</title>
+            <identifier type="dokumenten_id">Pa 778-152v-3</identifier>
+          </contentItem>
+          <contentItem n="46">
+            <locus from="153v">f. 153v</locus>
+            <title type="incipit">Adonai Sabaoth</title>
+            <identifier type="dokumenten_id">Pa 778-153v-3</identifier>
+          </contentItem>
+          <contentItem n="47">
+            <locus from="154v">f. 154v</locus>
+            <title type="incipit">Mirabilis deus in sanctis</title>
+            <identifier type="dokumenten_id">Pa 778-154v-8</identifier>
+          </contentItem>
+          <contentItem n="48">
+            <locus from="155">f. 155</locus>
+            <title type="incipit">Vexilla martyrum</title>
+            <identifier type="dokumenten_id">Pa 778-155-8</identifier>
+          </contentItem>
+          <contentItem n="49">
+            <locus from="156">f. 156</locus>
+            <title type="incipit">Haec est dies veneranda</title>
+            <identifier type="dokumenten_id">Pa 778-156-8</identifier>
+          </contentItem>
+          <contentItem n="50">
+            <locus from="157v">f. 157v</locus>
+            <title type="incipit">O Martine sacer</title>
+            <identifier type="dokumenten_id">Pa 778-157v-1</identifier>
+          </contentItem>
+          <contentItem n="51">
+            <locus from="158v">f. 158v</locus>
+            <title type="incipit">Digna cultu</title>
+            <identifier type="dokumenten_id">Pa 778-158v-4</identifier>
+          </contentItem>
+          <contentItem n="52">
+            <locus from="159v">f. 159v</locus>
+            <title type="incipit">Hodiernus sacratior</title>
+            <identifier type="dokumenten_id">Pa 778-159v-6</identifier>
+          </contentItem>
+          <contentItem n="53">
+            <locus from="160v">f. 160v</locus>
+            <title type="incipit">Angelica tuba</title>
+            <identifier type="dokumenten_id">Pa 778-160v-4</identifier>
+          </contentItem>
+          <contentItem n="54">
+            <locus from="162v">f. 162v</locus>
+            <title type="incipit">Adest festa praecelsa</title>
+            <identifier type="dokumenten_id">Pa 778-162v-1</identifier>
+          </contentItem>
+          <contentItem n="55">
+            <locus from="162v">f. 162v</locus>
+            <title type="incipit">Nostra promat caterva</title>
+            <identifier type="dokumenten_id">Pa 778-162v-8</identifier>
+          </contentItem>
+          <contentItem n="56">
+            <locus from="163v">f. 163v</locus>
+            <title type="incipit">Praefulgida dies</title>
+            <identifier type="dokumenten_id">Pa 778-163v-5</identifier>
+          </contentItem>
+          <contentItem n="57">
+            <locus from="164v">f. 164v</locus>
+            <title type="incipit">Congaudentes exsultemus vocali</title>
+            <identifier type="dokumenten_id">Pa 778-164v-3</identifier>
+          </contentItem>
+          <contentItem n="58">
+            <locus from="165v">f. 165v</locus>
+            <title type="incipit">Psallat plebs egregia</title>
+            <identifier type="dokumenten_id">Pa 778-165v-7</identifier>
+          </contentItem>
+          <contentItem n="59">
+            <locus from="167">f. 167</locus>
+            <title type="incipit">Celsa caelorum</title>
+            <identifier type="dokumenten_id">Pa 778-167-2</identifier>
+          </contentItem>
+          <contentItem n="60">
+            <locus from="168v">f. 168v</locus>
+            <title type="incipit">Alle vox promat</title>
+            <identifier type="dokumenten_id">Pa 778-168v-1</identifier>
+          </contentItem>
+          <contentItem n="61">
+            <locus from="169v">f. 169v</locus>
+            <title type="incipit">Clariflua caterva</title>
+            <identifier type="dokumenten_id">Pa 778-169v-5</identifier>
+          </contentItem>
+          <contentItem n="62">
+            <locus from="170v">f. 170v</locus>
+            <title type="incipit">En virginum agmina</title>
+            <identifier type="dokumenten_id">Pa 778-170v-7</identifier>
+          </contentItem>
+          <contentItem n="63">
+            <locus from="171v">f. 171v</locus>
+            <title type="incipit">Gaudeat tellus</title>
+            <identifier type="dokumenten_id">Pa 778-171v-1</identifier>
+          </contentItem>
+          <contentItem n="64">
+            <locus from="173">f. 173</locus>
+            <title type="incipit">Rex aeterne dominator</title>
+            <identifier type="dokumenten_id">Pa 778-173-5</identifier>
+          </contentItem>
+          <contentItem n="65">
+            <locus from="173v">f. 173v</locus>
+            <title type="incipit">Creator poli rexque</title>
+            <identifier type="dokumenten_id">Pa 778-173v-4</identifier>
+          </contentItem>
+          <contentItem n="66">
+            <locus from="175">f. 175</locus>
+            <title type="incipit">Laudes deo persolvamus</title>
+            <identifier type="dokumenten_id">Pa 778-175-3</identifier>
+          </contentItem>
+          <contentItem n="67">
+            <locus from="176v">f. 176v</locus>
+            <title type="incipit">Aurea virga primae</title>
+            <identifier type="dokumenten_id">Pa 778-176v-6</identifier>
+          </contentItem>
+          <contentItem n="68">
+            <locus from="178">f. 178</locus>
+            <title type="incipit">Laude praeclara</title>
+            <identifier type="dokumenten_id">Pa 778-178-6</identifier>
+          </contentItem>
+          <contentItem n="69">
+            <locus from="179v">f. 179v</locus>
+            <title type="incipit">Phoebus nunc</title>
+            <identifier type="dokumenten_id">Pa 778-179v-8</identifier>
+          </contentItem>
+          <contentItem n="70">
+            <locus from="181">f. 181</locus>
+            <title type="incipit">Festum martyrum diem</title>
+            <identifier type="dokumenten_id">Pa 778-181-5</identifier>
+          </contentItem>
+          <contentItem n="71">
+            <locus from="182">f. 182</locus>
+            <title type="incipit">Ave mundi spes</title>
+            <identifier type="dokumenten_id">Pa 778-182-4</identifier>
+          </contentItem>
+          <contentItem n="72">
+            <locus from="183">f. 183</locus>
+            <title type="incipit">Ave Maria gratia plena ... benedicta … gratiam</title>
+            <identifier type="dokumenten_id">Pa 778-183-2</identifier>
+          </contentItem>
+          <contentItem n="73">
+            <locus from="184">f. 184</locus>
+            <title type="incipit">Salve mater salvatoris vas electum</title>
+            <identifier type="dokumenten_id">Pa 778-184-1</identifier>
+          </contentItem>
+          <contentItem n="74">
+            <locus from="185v">f. 185v</locus>
+            <title type="incipit">Sanctae Sion</title>
+            <identifier type="dokumenten_id">Pa 778-185v-5</identifier>
+          </contentItem>
+          <contentItem n="75">
+            <locus from="186v">f. 186v</locus>
+            <title type="incipit">Ecce dies praeoptata</title>
+            <identifier type="dokumenten_id">Pa 778-186v-2</identifier>
+          </contentItem>
+          <contentItem n="76">
+            <locus from="188v">f. 188v</locus>
+            <title type="incipit">Missus Gabriel</title>
+            <identifier type="dokumenten_id">Pa 778-188v-3</identifier>
+          </contentItem>
+          <contentItem n="77">
+            <locus from="189v">f. 189v</locus>
+            <title type="incipit">Ave plena singulari</title>
+            <identifier type="dokumenten_id">Pa 778-189v-3</identifier>
+          </contentItem>
+          <contentItem n="78">
+            <locus from="190v">f. 190v</locus>
+            <title type="incipit">Gaude Roma</title>
+            <identifier type="dokumenten_id">Pa 778-190v-4</identifier>
+          </contentItem>
+          <contentItem n="79">
+            <locus from="192">f. 192</locus>
+            <title type="incipit">Sonent plausus</title>
+            <identifier type="dokumenten_id">Pa 778-192-5</identifier>
+          </contentItem>
+          <contentItem n="80">
+            <locus from="193v">f. 193v</locus>
+            <title type="incipit">Laus erumpat</title>
+            <identifier type="dokumenten_id">Pa 778-193v-7</identifier>
+          </contentItem>
+          <contentItem n="81">
+            <locus from="195">f. 195</locus>
+            <title type="incipit">Zyma vetus</title>
+            <identifier type="dokumenten_id">Pa 778-195-7</identifier>
+          </contentItem>
+          <contentItem n="82">
+            <locus from="196v">f. 196v</locus>
+            <title type="incipit">Exsultemus solventes</title>
+            <identifier type="dokumenten_id">Pa 778-196v-4</identifier>
+          </contentItem>
+          <contentItem n="83">
+            <locus from="197">f. 197</locus>
+            <title type="incipit">Supernae matris</title>
+            <identifier type="dokumenten_id">Pa 778-197-11</identifier>
+          </contentItem>
+          <contentItem n="84">
+            <locus from="199">f. 199</locus>
+            <title type="incipit">Verbum bonum</title>
+            <identifier type="dokumenten_id">Pa 778-199-6</identifier>
+          </contentItem>
+          <contentItem n="85">
+            <locus from="41">f. 41</locus>
+            <title type="incipit">Venit rex ... praestolabatur</title>
+            <identifier type="dokumenten_id">Pa 778-41-2</identifier>
+          </contentItem>
+          <contentItem n="86">
+            <locus from="41v">f. 41v</locus>
+            <title type="incipit">Caeleste organum</title>
+            <identifier type="dokumenten_id">Pa 778-41v-5</identifier>
+          </contentItem>
+          <contentItem n="87">
+            <locus from="42v">f. 42v</locus>
+            <title type="incipit">Nato canunt omnia</title>
+            <identifier type="dokumenten_id">Pa 778-42v-6</identifier>
+          </contentItem>
+          <contentItem n="88">
+            <locus from="43v">f. 43v</locus>
+            <title type="incipit">Age nunc mitis</title>
+            <identifier type="dokumenten_id">Pa 778-43v-4</identifier>
+          </contentItem>
+          <contentItem n="89">
+            <locus from="44v">f. 44v</locus>
+            <title type="incipit">Adest praecelsa</title>
+            <identifier type="dokumenten_id">Pa 778-44v-2</identifier>
+          </contentItem>
+          <contentItem n="90">
+            <locus from="45v">f. 45v</locus>
+            <title type="incipit">Pangat vox humana</title>
+            <identifier type="dokumenten_id">Pa 778-45v-9</identifier>
+          </contentItem>
+          <contentItem n="91">
+            <locus from="47">f. 47</locus>
+            <title type="incipit">Christi hodiernae ... voce</title>
+            <identifier type="dokumenten_id">Pa 778-47-6</identifier>
+          </contentItem>
+          <contentItem n="92">
+            <locus from="48v">f. 48v</locus>
+            <title type="incipit">Haec dies est sancta</title>
+            <identifier type="dokumenten_id">Pa 778-48v-1</identifier>
+          </contentItem>
+          <contentItem n="93">
+            <locus from="49">f. 49</locus>
+            <title type="incipit">Potestate non natura</title>
+            <identifier type="dokumenten_id">Pa 778-49-8</identifier>
+          </contentItem>
+          <contentItem n="94">
+            <locus from="50v">f. 50v</locus>
+            <title type="incipit">Ante torum</title>
+            <identifier type="dokumenten_id">Pa 778-50v-6</identifier>
+          </contentItem>
+          <contentItem n="95">
+            <locus from="52v">f. 52v</locus>
+            <title type="incipit">Quia verbum hodie</title>
+            <identifier type="dokumenten_id">Pa 778-52v-5</identifier>
+          </contentItem>
+          <contentItem n="96">
+            <locus from="53">f. 53</locus>
+            <title type="incipit">Celebranda satis</title>
+            <identifier type="dokumenten_id">Pa 778-53-9</identifier>
+          </contentItem>
+          <contentItem n="97">
+            <locus from="54v">f. 54v</locus>
+            <title type="incipit">Celsa polorum</title>
+            <identifier type="dokumenten_id">Pa 778-54v-6</identifier>
+          </contentItem>
+          <contentItem n="98">
+            <locus from="56">f. 56</locus>
+            <title type="incipit">Gloriosa dies ... processit</title>
+            <identifier type="dokumenten_id">Pa 778-56-8</identifier>
+          </contentItem>
+          <contentItem n="99">
+            <locus from="57">f. 57</locus>
+            <title type="incipit">Enharmonica voce</title>
+            <identifier type="dokumenten_id">Pa 778-57-8</identifier>
+          </contentItem>
+          <contentItem n="100">
+            <locus from="58v">f. 58v</locus>
+            <title type="incipit">Organicis ... qui in suis</title>
+            <identifier type="dokumenten_id">Pa 778-58v-4</identifier>
+          </contentItem>
+          <contentItem n="101">
+            <locus from="59v">f. 59v</locus>
+            <title type="incipit">Organicis ... cuius opera</title>
+            <identifier type="dokumenten_id">Pa 778-59v-4</identifier>
+          </contentItem>
+          <contentItem n="102">
+            <locus from="60v">f. 60v</locus>
+            <title type="incipit">Rex magne deus</title>
+            <identifier type="dokumenten_id">Pa 778-60v-2</identifier>
+          </contentItem>
+          <contentItem n="103">
+            <locus from="61v">f. 61v</locus>
+            <title type="incipit">Qui regis una</title>
+            <identifier type="dokumenten_id">Pa 778-61v-1</identifier>
+          </contentItem>
+          <contentItem n="104">
+            <locus from="62">f. 62</locus>
+            <title type="incipit">Christi sacra</title>
+            <identifier type="dokumenten_id">Pa 778-62-9</identifier>
+          </contentItem>
+          <contentItem n="105">
+            <locus from="63">f. 63</locus>
+            <title type="incipit">Caelica resonant</title>
+            <identifier type="dokumenten_id">Pa 778-63-6</identifier>
+          </contentItem>
+          <contentItem n="106">
+            <locus from="64v">f. 64v</locus>
+            <title type="incipit">Epiphaniam domino</title>
+            <identifier type="dokumenten_id">Pa 778-64v-3</identifier>
+          </contentItem>
+          <contentItem n="107">
+            <locus from="65v">f. 65v</locus>
+            <title type="incipit">Laetabundus exsultet</title>
+            <identifier type="dokumenten_id">Pa 778-65v-6</identifier>
+          </contentItem>
+          <contentItem n="108">
+            <locus from="67">f. 67</locus>
+            <title type="incipit">Praecelsa intonent</title>
+            <identifier type="dokumenten_id">Pa 778-67-3</identifier>
+          </contentItem>
+          <contentItem n="109">
+            <locus from="68">f. 68</locus>
+            <title type="incipit">Post apostolicos</title>
+            <identifier type="dokumenten_id">Pa 778-68-5</identifier>
+          </contentItem>
+          <contentItem n="110">
+            <locus from="69">f. 69</locus>
+            <title type="incipit">Nova gratia</title>
+            <identifier type="dokumenten_id">Pa 778-69-8</identifier>
+          </contentItem>
+          <contentItem n="111">
+            <locus from="70v">f. 70v</locus>
+            <title type="incipit">Virgo Israel</title>
+            <identifier type="dokumenten_id">Pa 778-70v-5</identifier>
+          </contentItem>
+          <contentItem n="112">
+            <locus from="71v">f. 71v</locus>
+            <title type="incipit">Egregia plebs</title>
+            <identifier type="dokumenten_id">Pa 778-71v-6</identifier>
+          </contentItem>
+          <contentItem n="113">
+            <locus from="73">f. 73</locus>
+            <title type="incipit">Hac clara die</title>
+            <identifier type="dokumenten_id">Pa 778-73-5</identifier>
+          </contentItem>
+          <contentItem n="114">
+            <locus from="74">f. 74</locus>
+            <title type="incipit">Ave salutata</title>
+            <identifier type="dokumenten_id">Pa 778-74-1</identifier>
+          </contentItem>
+          <contentItem n="115">
+            <locus from="75">f. 75</locus>
+            <title type="incipit">Fulgens praeclara</title>
+            <identifier type="dokumenten_id">Pa 778-75-7</identifier>
+          </contentItem>
+          <contentItem n="116">
+            <locus from="77">f. 77</locus>
+            <title type="incipit">Clara gaudia</title>
+            <identifier type="dokumenten_id">Pa 778-77-3</identifier>
+          </contentItem>
+          <contentItem n="117">
+            <locus from="77v">f. 77v</locus>
+            <title type="incipit">Adest enim festa</title>
+            <identifier type="dokumenten_id">Pa 778-77v-8</identifier>
+          </contentItem>
+          <contentItem n="118">
+            <locus from="78">f. 78</locus>
+            <title type="incipit">Praecelsa admodum</title>
+            <identifier type="dokumenten_id">Pa 778-78-10</identifier>
+          </contentItem>
+          <contentItem n="119">
+            <locus from="78">f. 78</locus>
+            <title type="incipit">Gaudent ecce*</title>
+            <identifier type="dokumenten_id">Pa 778-78-6</identifier>
+          </contentItem>
+          <contentItem n="120">
+            <locus from="78">f. 78</locus>
+            <title type="incipit">Gaudeat tellus*</title>
+            <identifier type="dokumenten_id">Pa 778-78-7</identifier>
+          </contentItem>
+          <contentItem n="121">
+            <locus from="78">f. 78</locus>
+            <title type="incipit">Mane prima sabbati*</title>
+            <identifier type="dokumenten_id">Pa 778-78-8</identifier>
+          </contentItem>
+          <contentItem n="122">
+            <locus from="78">f. 78</locus>
+            <title type="incipit">Praecelsa admodum*</title>
+            <identifier type="dokumenten_id">Pa 778-78-9</identifier>
+          </contentItem>
+          <contentItem n="123">
+            <locus from="79v">f. 79v</locus>
+            <title type="incipit">Splendent ecce</title>
+            <identifier type="dokumenten_id">Pa 778-79v-1</identifier>
+          </contentItem>
+          <contentItem n="124">
+            <locus from="81v">f. 81v</locus>
+            <title type="incipit">Gaudent ecce</title>
+            <identifier type="dokumenten_id">Pa 778-81v-5</identifier>
+          </contentItem>
+          <contentItem n="125">
+            <locus from="83">f. 83</locus>
+            <title type="incipit">Adest pia ac salutifera</title>
+            <identifier type="dokumenten_id">Pa 778-83-5</identifier>
+          </contentItem>
+          <contentItem n="126">
+            <locus from="83v">f. 83v</locus>
+            <title type="incipit">Victimae paschali laudes</title>
+            <identifier type="dokumenten_id">Pa 778-83v-4</identifier>
+          </contentItem>
+          <contentItem n="127">
+            <locus from="84">f. 84</locus>
+            <title type="incipit">Dic nobis quibus</title>
+            <identifier type="dokumenten_id">Pa 778-84-5</identifier>
+          </contentItem>
+          <contentItem n="128">
+            <locus from="84v">f. 84v</locus>
+            <title type="incipit">Cuncta simul</title>
+            <identifier type="dokumenten_id">Pa 778-84v-8</identifier>
+          </contentItem>
+          <contentItem n="129">
+            <locus from="85">f. 85</locus>
+            <title type="incipit">Gaudeat ecclesia innovant</title>
+            <identifier type="dokumenten_id">Pa 778-85-8</identifier>
+          </contentItem>
+          <contentItem n="130">
+            <locus from="86v">f. 86v</locus>
+            <title type="incipit">Laudes crucis</title>
+            <identifier type="dokumenten_id">Pa 778-86v-3</identifier>
+          </contentItem>
+          <contentItem n="131">
+            <locus from="88">f. 88</locus>
+            <title type="incipit">Vexilla regis</title>
+            <identifier type="dokumenten_id">Pa 778-88-8</identifier>
+          </contentItem>
+          <contentItem n="132">
+            <locus from="89v">f. 89v</locus>
+            <title type="incipit">Spe mercedis</title>
+            <identifier type="dokumenten_id">Pa 778-89v-1</identifier>
+          </contentItem>
+          <contentItem n="133">
+            <locus from="89v">f. 89v</locus>
+            <title type="incipit">Haec est vera redemptio</title>
+            <identifier type="dokumenten_id">Pa 778-89v-2</identifier>
+          </contentItem>
+          <contentItem n="134">
+            <locus from="90v">f. 90v</locus>
+            <title type="incipit">Rex omnipotens</title>
+            <identifier type="dokumenten_id">Pa 778-90v-3</identifier>
+          </contentItem>
+          <contentItem n="135">
+            <locus from="91v">f. 91v</locus>
+            <title type="incipit">Laude laetabunda</title>
+            <identifier type="dokumenten_id">Pa 778-91v-7</identifier>
+          </contentItem>
+          <contentItem n="136">
+            <locus from="93v">f. 93v</locus>
+            <title type="incipit">Sancti spiritus … Quae corda</title>
+            <identifier type="dokumenten_id">Pa 778-93v-9</identifier>
+          </contentItem>
+          <contentItem n="137">
+            <locus from="95">f. 95</locus>
+            <title type="incipit">Cantantibus hodie</title>
+            <identifier type="dokumenten_id">Pa 778-95-4</identifier>
+          </contentItem>
+          <contentItem n="138">
+            <locus from="96v">f. 96v</locus>
+            <title type="incipit">Veni sancte spiritus et emitte</title>
+            <identifier type="dokumenten_id">Pa 778-96v-3</identifier>
+          </contentItem>
+          <contentItem n="139">
+            <locus from="97">f. 97</locus>
+            <title type="incipit">Orbis conditor</title>
+            <identifier type="dokumenten_id">Pa 778-97-7</identifier>
+          </contentItem>
+          <contentItem n="140">
+            <locus from="97v">f. 97v</locus>
+            <title type="incipit">Laudiflua cantica</title>
+            <identifier type="dokumenten_id">Pa 778-97v-3</identifier>
+          </contentItem>
+        </contents>
+        <notesStmt>
+          <annot type="description">
+            <ref target="Pa_778.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <classification>
+          <termList>
+            <term type="quellentyp">Tropar, Sequentiar</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">Lat. 778</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">Paris</geogName>
+                <corpName>Bibliothèque nationale de France</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+        <relationList>
+          <relation rel="hasReproduction" target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b84262695/manifest.json" label="IIIF manifest" />
+        </relationList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

@@ -1,0 +1,41 @@
+{
+  "id": "bb961aa6-1d1e-4e2a-a6aa-03df3abe5168",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-278-8",
+  "gattung1": "Sequenz",
+  "gattung2": "Textlos",
+  "festtag": "Nativitas Mariae",
+  "feier": "Komplet",
+  "textinitium": "Alleluia",
+  "bibliographischerverweis": "AH 53, 108",
+  "druckausgabe": "CM III",
+  "zeilenstart": "8",
+  "foliostart": "278",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "278",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Maris stella",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

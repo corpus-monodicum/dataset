@@ -1,0 +1,41 @@
+{
+  "id": "c46c82e7-fcf8-4d6e-9257-59c461bbb789",
+  "quelle_id": "Dar 868",
+  "dokumenten_id": "Dar 868-152-3b",
+  "gattung1": "Ite missa est",
+  "gattung2": "untropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Ite missa est",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "3",
+  "foliostart": "152",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "152",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "Eifrig/Pfisterer 124",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "Ite missa est",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

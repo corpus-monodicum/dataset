@@ -1,0 +1,41 @@
+{
+  "id": "671f81a2-a045-455f-b02d-7558419aadc0",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-232-11",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Nativitas Mariae",
+  "feier": "Messe",
+  "textinitium": "Alle caeleste necnon",
+  "bibliographischerverweis": "AH 7, 98; AH 53, 97",
+  "druckausgabe": "CM III",
+  "zeilenstart": "11",
+  "foliostart": "232",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "233",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Mater sequentiarum",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

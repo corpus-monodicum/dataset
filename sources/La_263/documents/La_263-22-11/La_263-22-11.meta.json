@@ -1,0 +1,41 @@
+{
+  "id": "f3e82ad2-89e1-4500-9390-70be761c5ec4",
+  "quelle_id": "La 263",
+  "dokumenten_id": "La 263-22-11",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Pentecoste",
+  "feier": "Messe",
+  "textinitium": "Regi regum manet",
+  "bibliographischerverweis": "Pent intr A [mel VIII K] 99^CM B (CT III)",
+  "druckausgabe": "II-1",
+  "zeilenstart": "11",
+  "foliostart": "22",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "(Spiritus)",
+    "Endseite": "22v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Pent intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

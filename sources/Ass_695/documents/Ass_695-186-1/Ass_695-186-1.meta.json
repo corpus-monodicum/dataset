@@ -1,0 +1,41 @@
+{
+  "id": "2332387b-f6de-49e8-bab7-934e376389bc",
+  "quelle_id": "Ass 695",
+  "dokumenten_id": "Ass 695-186-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Pentecoste",
+  "feier": "Messe",
+  "textinitium": "Veni virgo virginum",
+  "bibliographischerverweis": "AH 54, 250",
+  "druckausgabe": "CM III",
+  "zeilenstart": "1",
+  "foliostart": "186",
+  "kommentar": "Zwei Texte überienander",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "186v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "Beginn und Ende fehlen",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

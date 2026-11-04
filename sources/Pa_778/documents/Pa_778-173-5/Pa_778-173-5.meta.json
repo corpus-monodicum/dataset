@@ -1,0 +1,41 @@
+{
+  "id": "6eecec07-1dbc-4257-88be-8d79fb501f0f",
+  "quelle_id": "Pa 778",
+  "dokumenten_id": "Pa 778-173-5",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominicae dies",
+  "feier": "Messe",
+  "textinitium": "Rex aeterne dominator",
+  "bibliographischerverweis": "AH 7, 237; AH 53, 92",
+  "druckausgabe": "",
+  "zeilenstart": "5",
+  "foliostart": "173",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "173v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Metensis minor",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

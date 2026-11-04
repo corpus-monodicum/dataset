@@ -1,0 +1,41 @@
+{
+  "id": "78ca0277-6c13-4d45-9218-e5a3f3cc35ab",
+  "quelle_id": "Pa 909",
+  "dokumenten_id": "Pa 909-9-6",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Nativitas domini",
+  "feier": "3. Messe",
+  "textinitium": "Quem quaeritis in praesepe",
+  "bibliographischerverweis": "Nat III intr 62 A 65 A 66 B 67 C 75 D 51 E 33 A 31 B 32 C 76 D 74 E 34 A 46 C 47 D 48 E H 53 A 54 C 55 D 77 E I 52 A 68 C 56 D 78 E 79 A 80 C 81 D 82 E (CT I)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "6",
+  "foliostart": "9",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "Puer natus",
+    "Endseite": "11",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Nat III intr",
+    "Zusatz_zu_Textinitium": "1 Tropenelement ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

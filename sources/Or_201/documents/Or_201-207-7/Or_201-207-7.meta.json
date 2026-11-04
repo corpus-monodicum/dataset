@@ -1,0 +1,41 @@
+{
+  "id": "f55c021b-913d-48b4-8d55-2594a60f9f5d",
+  "quelle_id": "Or 201",
+  "dokumenten_id": "Or 201-207-7",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Epiphania",
+  "feier": "Matutin",
+  "textinitium": "Pax tibi frater",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "7",
+  "foliostart": "207",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "207",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Or 201-205-9S",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Magi play",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

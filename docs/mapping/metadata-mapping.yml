@@ -1,0 +1,1114 @@
+# Shared metadata mapping: Monodi / CM fields -> TEI, MEI, schema.org, Dublin Core, DataCite.
+#
+# ONE specification for every producer (Monodi-Zero in TypeScript, CM-hub in Python). Neither reads Excel or the
+# Monodi model "by memory": both read this file and `people.csv` / `roles.csv`. Read docs/METADATA-STANDARDS.md
+# first. `python -m cmhub.mapping` (and tests/test_mapping.py) check that this file is consistent.
+#
+# Entry shape (list `mappings`):
+#   id        unique, `src.*` / `doc.*` / `x.*` (x = other formats, corpus level)
+#   entity    source | document | corpus
+#   from      where the value comes from. Keys (at least one):
+#               monodi   field name in the Monodi-Zero model (models.<entity>.monodi)
+#               cm       column(s) of Quellendaten.xlsx (source) or export_full.xlsx (document) (models.<entity>.cm)
+#               config   key in `project:` or the name of a table in `people:`
+#               derived  free text: computed from other data
+#               proposed key of a new custom field (customSourceFields / customDocumentFields) that does not exist yet
+#   to        list of {format, path[, level]}. `path` is relative to the format's root; `{name}` is an alias from
+#             formats.<format>.aliases. `level` on a target overrides the entry's level for that target.
+#   level     1 minimal | 2 standard | 3 extended: the lowest profile level that exports this entry
+#   origin    model (Monodi field) | cm (only a CM column) | new (needs a new field or list) | auto (computed)
+#   in_baseline  document entries only: true if the baseline MEI export already writes it (baseline = Monodi-Zero 0.9.1,
+#             commit 1ace8b2b, state 2026-10-24; see docs/METADATA-STANDARDS.md, section "Terms")
+#   verify    true if the target path has not been validated against the schema, or the modelling is an open question
+#             of the project team
+#   example   invented example value, only to show the shape
+#   note      remark for humans, in English. `note_de` is the German original; both always come together.
+#             The same pairs exist for `reason`/`reason_de` (not_exported), `question`/`question_de` (unresolved) and
+#             `description`/`description_de` (dataset files).
+#
+# German column and field names (Quellensigle, Gattung1, ...) are data and stay as they are; everything else is English.
+# "question N" in a note refers to the numbered open questions in docs/METADATA-STANDARDS.md (section "Decisions and open questions").
+#
+# Rule for all entries: an empty value omits the element and its empty parents. No placeholder text.
+
+spec_version: 1
+
+standards:
+  tei:
+    name: "TEI P5"
+    namespace: "http://www.tei-c.org/ns/1.0"
+    schema: "https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"
+  mei:
+    name: "MEI 5.0"
+    namespace: "http://www.music-encoding.org/ns/mei"
+    schema: "monodi-light/src/app/mei/mei-all.rng (bundled with Monodi-Zero)"
+    note: "The MEI emitter and the bundled schema use MEI 5.0. The template CM/MEI/header_schema.xml says 5.1. Moving to 5.1 means replacing the bundled schema; until then the Standard level writes meiversion 5.0."
+    note_de: "Der MEI-Emitter und das mitgelieferte Schema nutzen MEI 5.0. Das Template CM/MEI/header_schema.xml nennt 5.1. Der Wechsel auf 5.1 bedeutet, das mitgelieferte Schema zu ersetzen; bis dahin schreibt die Standardstufe meiversion 5.0."
+  jsonld:
+    name: "schema.org (JSON-LD)"
+  dc:
+    name: "Dublin Core"
+  datacite:
+    name: "DataCite"
+
+formats:
+  tei:
+    root: "TEI/teiHeader"
+    aliases:
+      msDesc: "fileDesc/sourceDesc/msDesc"
+  mei:
+    root: "meiHead"
+    aliases:
+      work: "workList/work"
+      source: "fileDesc/sourceDesc/source"
+      manifestation: "manifestationList/manifestation"
+  mei-source:        # the description of a manuscript as a MEI file of its own (option --source-format mei); not read by Monodi-Zero
+    root: "meiHead"
+    aliases:
+      manifestation: "manifestationList/manifestation"
+  jsonld:
+    root: "/"
+    aliases: {}
+  dc:
+    root: "/"
+    aliases: {}
+  datacite:
+    root: "/"
+    aliases: {}
+
+levels:
+  1: "Minimal: equals the baseline (MEI export of Monodi-Zero 0.9.1): title, siglum, comment, genre"
+  2: "Standard: schema-conformant header with publisher, licence, source, folio"
+  3: "Extended: authority IDs, normalized dating, table of contents"
+
+origins:
+  model: "Field in the Monodi model"
+  cm: "Only a column in the CM tables"
+  new: "Does not exist in the baseline and needs a custom field or a list"
+  auto: "Computed"
+
+# Field vocabularies. A name used in `from` must be listed here; a name listed here must be used by a mapping entry
+# or appear in `not_exported` / `unresolved`. So a new field cannot be forgotten silently.
+models:
+  source:
+    monodi:   # Source in monodi-light/src/app/api.service.ts
+      - quellensigle
+      - herkunftsregion
+      - herkunftsort
+      - herkunftsinstitution
+      - ordenstradition
+      - quellentyp
+      - bibliotheksort
+      - bibliothek
+      - bibliothekssignatur
+      - kommentar
+      - datierung
+      - iiifManifestUrl
+    cm:       # header row of CM/Quellendaten.xlsx (2026-10-24), spelling as in the file
+      - Quellensigle
+      - cantus_siglum
+      - cantus_century
+      - Beschreibungsformat
+      - Herkunftsregion
+      - Herkunftsort raw
+      - Herkunftsort
+      - Herkunftsinstitution
+      - Ordenstradition
+      - Quellentyp
+      - Quellentyp 2
+      - Bibliotheksort
+      - Bibliothek
+      - Bibliothessignatur
+      - Datierung raw
+      - Datierung
+      - Jahrhundert
+      - Precise date of host manuscript
+      - Century of host manuscript
+      - Kommentar
+      - Kontextuelle Quelle zu
+      - publish
+      - Status
+      - Manifest2
+      - Manifest
+      - Foliooffset
+      - Foliooffsetold
+      - Working
+      - Link
+      - Online catalogue
+      - Print catalogue not included in previous
+      - Other important literature
+      - Primary information source used
+      - Local images
+      - beschreibung
+      - notationsdokumentation
+  document:
+    monodi:   # Document in monodi-light/src/app/api.service.ts
+      - id
+      - quelle_id
+      - dokumenten_id
+      - gattung1
+      - gattung2
+      - festtag
+      - feier
+      - textinitium
+      - bibliographischerverweis
+      - druckausgabe
+      - zeilenstart
+      - foliostart
+      - kommentar
+      - editionsstatus
+    cm:       # columns of export_full.xlsx (CM-hub: metadata/transform.py, snapshot.py EDITOR_TO_EXPORT / ADDITIONAL_TO_EXPORT)
+      - Dokumenten_ID
+      - "Doc-Id' (intern)"
+      - Quellen-ID (intern)
+      - Quellensigle
+      - Gattung1
+      - Gattung2
+      - Fest
+      - Feier
+      - Textinitium Editionseinheit
+      - Zusatz zu Textinitium
+      - Nachweis_Editionseinheit
+      - Druckausgabe
+      - Startseite
+      - Start Verso-Spalte
+      - Startzeile
+      - Startposition
+      - Endseite
+      - End Verso-Spalte
+      - Endzeile
+      - Kommentar
+      - Editor
+      - Schreibzugriff
+      - Editionsstatus
+      - publish
+      - dontpublish
+      - subcorpus
+      - IIIFs
+      - FestUndGattung
+      - Bezugsgesang
+      - Melodie Standard
+      - Melodie Quelle
+      - Melodiennummer_Katalog
+      - Referenz auf Spiel
+      - SpielName
+      - Überlieferungszustand
+      - Nachtragsschicht
+      - Cantus_Genre
+      - Cantus_Melody_ID
+      - Cantus_ID
+      - manuscript
+
+# Values that belong to the project, not to a single record. They replace what is hard-coded in CM/MEI/header_schema.xml,
+# so another Monodi project sets its own. In Monodi-Zero this becomes the block "Publikation" in the project settings.
+project:
+  project_slug: "corpus-monodicum"   # used in the dataset folder name
+  publisher: "Corpus Monodicum"
+  address:
+    - "Domerschulstraße 13"
+    - "97070 Würzburg"
+  address_country: "Germany"
+  address_country_authority: {auth: "TGN", uri: "http://vocab.getty.edu/page/tgn/", id: "7000084"}
+  funder:
+    name: "Akademie der Wissenschaften und der Literatur Mainz"
+    authority: {auth: "GND", uri: "http://d-nb.info/gnd/", id: "35487-9"}
+    address: ["Geschwister-Scholl-Str. 2", "55131 Mainz"]
+  series_title: "Corpus Monodicum"
+  document_base_uri: "https://corpus-monodicum.de/d/"   # + document UUID
+  language: "en"                # language of the header text
+  default_text_language: "la"   # language of the chants (TEI textLang/@mainLang)
+  license_uri: "https://creativecommons.org/licenses/by-nc/4.0/"   # Question 1, decided 2026-11-02 by the project direction (docs/DECISIONS-FOR-THE-TEAM.md, D1)
+  license_label: "CC BY-NC 4.0"
+  # Template source: CM/MEI/header_schema.xml. The funder GND id is copied from there and not checked.
+
+people:
+  people_file: "config/people.csv"
+  roles_file: "config/roles.csv"
+  emails_file: "config/people-emails.csv"   # gitignored; columns person_id,email; maps the sheet column `Editor` to a person
+
+rules:
+  omit_empty: "Empty value: omit the element and its empty parents. Never write placeholder text."
+  no_email: "No e-mail address in any output. Names come from people.csv."
+  licence_gate: "Without project.license_uri the export runs as a draft: the file is marked 'not for publication'."
+  only_published: "Only rows with publish = all are exported (see docs/PIPELINE.md)."
+  xml_id: "xml:id values are slugs of the siglum: spaces become underscores, letters (umlauts included), digits, `.`, `-` and `_` stay, every other character becomes an underscore."
+  profile_level: "A profile exports every entry whose level is lower than or equal to the chosen level."
+
+mappings:
+
+  # ------------------------------------------------------------------ source -> TEI (and its echo in the MEI header)
+  - id: src.siglum
+    entity: source
+    from: {monodi: quellensigle, cm: Quellensigle}
+    to:
+      - {format: tei, path: "{msDesc}/@xml:id"}
+      - {format: tei, path: "{msDesc}/msIdentifier/altIdentifier[@type='siglum']/idno"}
+      - {format: mei, path: "{source}/bibl/identifier[@type='siglum']"}
+      - {format: mei, path: "{manifestation}/titleStmt/title", level: 2}
+      - {format: mei-source, path: "{manifestation}/@xml:id"}
+      - {format: mei-source, path: "{manifestation}/identifier[@type='siglum']"}
+      - {format: mei-source, path: "{manifestation}/titleStmt/title"}
+      - {format: mei, path: "{manifestation}/identifier[@type='siglum']", level: 2}
+    level: 1
+    origin: model
+    example: "Ex 1 (xml:id Ex_1)"
+    note: "The siglum is not unique in the tables; the hub counts occurrences as `sigle#n` (see sources.py)."
+    note_de: "Die Sigle ist in den Tabellen nicht eindeutig, der Hub zählt `sigle#n` (siehe sources.py)."
+
+  - id: src.library_place
+    entity: source
+    from: {monodi: bibliotheksort, cm: Bibliotheksort}
+    to:
+      - {format: tei, path: "{msDesc}/msIdentifier/settlement"}
+      - {format: mei-source, path: "{manifestation}/itemList/item/physLoc/repository/geogName[@role='settlement']"}
+      - {format: mei, path: "{manifestation}/itemList/item/physLoc/repository/geogName[@role='settlement']", level: 2}
+    level: 1
+    origin: model
+    example: "Exampletown"
+    note: "`@ref` with an authority ID from level 3 on (authorities.places)."
+    note_de: "`@ref` mit Normdaten-ID ab Stufe 3 (authorities.places)."
+
+  - id: src.library
+    entity: source
+    from: {monodi: bibliothek, cm: Bibliothek}
+    to:
+      - {format: tei, path: "{msDesc}/msIdentifier/repository"}
+      - {format: mei, path: "{manifestation}/itemList/item/physLoc/repository/corpName", level: 2}
+      - {format: mei-source, path: "{manifestation}/itemList/item/physLoc/repository/corpName"}
+    level: 1
+    origin: model
+    example: "Example Library"
+
+  - id: src.shelfmark
+    entity: source
+    from: {monodi: bibliothekssignatur, cm: Bibliothessignatur}
+    to:
+      - {format: tei, path: "{msDesc}/msIdentifier/idno[@type='shelfmark']"}
+      - {format: mei, path: "{manifestation}/itemList/item/identifier[@type='shelfmark']", level: 2}
+      - {format: mei-source, path: "{manifestation}/itemList/item/identifier[@type='shelfmark']"}
+    level: 1
+    origin: model
+    example: "Cod. 1"
+    verify: true
+    note: "The column is called 'Bibliothessignatur' in Quellendaten.xlsx (typo, kept as in the file). The MEI position (manifestation/itemList/item) is validated against the bundled MEI 5.0 schema (2026-10-24); the TEI path is not."
+    note_de: "Die Spalte heißt in Quellendaten.xlsx 'Bibliothessignatur' (Tippfehler, so im Modell). Die MEI-Position (manifestation/itemList/item) ist gegen das mitgelieferte MEI-5.0-Schema geprüft (2026-10-24); der TEI-Pfad nicht."
+
+  - id: src.country
+    entity: source
+    from: {derived: "Land der Bibliotheksort-Normdaten"}
+    to:
+      - {format: tei, path: "{msDesc}/msIdentifier/country"}
+      - {format: mei-source, path: "{manifestation}/itemList/item/physLoc/repository/geogName[@role='country']"}
+    level: 2
+    origin: auto
+    example: "Germany"
+    note: "Derivable only if the place list carries a country."
+    note_de: "Nur ableitbar, wenn die Ortsliste ein Land trägt."
+
+  - id: src.cantus_siglum
+    entity: source
+    from: {cm: cantus_siglum}
+    to:
+      - {format: tei, path: "{msDesc}/msIdentifier/altIdentifier[@type='cantus']/idno"}
+      - {format: mei-source, path: "{manifestation}/identifier[@type='cantus']"}
+      - {format: mei, path: "{manifestation}/identifier[@type='cantus']", level: 2}
+    level: 2
+    origin: cm
+
+  - id: src.rism_siglum
+    entity: source
+    from: {proposed: rism_siglum}
+    to:
+      - {format: tei, path: "{msDesc}/msIdentifier/altIdentifier[@type='rism']/idno"}
+      - {format: mei-source, path: "{manifestation}/identifier[@type='rism']"}
+    level: 3
+    origin: new
+    note: "Custom field or part of the library list."
+    note_de: "Zusatzfeld oder Teil der Bibliotheksliste."
+
+  - id: src.type
+    entity: source
+    from: {monodi: quellentyp, cm: [Quellentyp, Quellentyp 2]}
+    to:
+      - {format: tei, path: "{msDesc}/msContents/summary/term[@type='quellentyp']"}
+      - {format: mei-source, path: "{manifestation}/classification/termList/term[@type='quellentyp']"}
+      - {format: mei, path: "{manifestation}/classification/termList/term[@type='quellentyp']", level: 2}
+    level: 1
+    origin: model
+    example: "Graduale"
+    verify: true
+    note: "Convention, not a TEI field. A controlled vocabulary is open (question 4)."
+    note_de: "Konvention, kein TEI-Feld. Kontrolliertes Vokabular offen (question 4)."
+
+  - id: src.order
+    entity: source
+    from: {monodi: ordenstradition, cm: Ordenstradition}
+    to:
+      - {format: tei, path: "{msDesc}/msContents/summary/term[@type='ordenstradition']"}
+      - {format: mei-source, path: "{manifestation}/classification/termList/term[@type='ordenstradition']"}
+      - {format: mei, path: "{manifestation}/classification/termList/term[@type='ordenstradition']", level: 2}
+    level: 2
+    origin: model
+    verify: true
+    note: "Alternative: history/origin/orgName[@type='order']. To be decided by the project team (question 4)."
+    note_de: "Alternative: history/origin/orgName[@type='order']. Vom Projektteam zu entscheiden (question 4)."
+
+  - id: src.language
+    entity: source
+    from: {config: default_text_language}
+    to:
+      - {format: tei, path: "{msDesc}/msContents/textLang/@mainLang"}
+      - {format: mei-source, path: "{manifestation}/langUsage/language/@xml:lang"}
+      - {format: mei, path: "{manifestation}/langUsage/language/@xml:lang", level: 2}
+    level: 2
+    origin: auto
+    example: "la"
+
+  - id: src.origin_place
+    entity: source
+    from: {monodi: herkunftsort, cm: [Herkunftsort raw, Herkunftsort]}
+    to:
+      - {format: tei, path: "{msDesc}/history/origin/origPlace/settlement"}
+      - {format: mei-source, path: "{manifestation}/creation/geogName[@role='origin']"}
+      - {format: mei, path: "{manifestation}/creation/geogName[@role='origin']", level: 2}
+    level: 1
+    origin: model
+    example: "Exampletown"
+    note: "'Herkunftsort raw' stays as element text; the normalized place becomes `@ref` (level 3)."
+    note_de: "'Herkunftsort raw' bleibt Elementtext, der normalisierte Ort wird `@ref` (Stufe 3)."
+
+  - id: src.origin_region
+    entity: source
+    from: {monodi: herkunftsregion, cm: Herkunftsregion}
+    to:
+      - {format: tei, path: "{msDesc}/history/origin/origPlace/region"}
+      - {format: mei-source, path: "{manifestation}/creation/geogName[@role='origin-region']"}
+      - {format: mei, path: "{manifestation}/creation/geogName[@role='origin-region']", level: 2}
+    level: 2
+    origin: model
+
+  - id: src.origin_institution
+    entity: source
+    from: {monodi: herkunftsinstitution, cm: Herkunftsinstitution}
+    to:
+      - {format: tei, path: "{msDesc}/history/origin/origPlace/orgName"}
+      - {format: mei-source, path: "{manifestation}/creation/corpName[@role='origin-institution']"}
+      - {format: mei, path: "{manifestation}/creation/corpName[@role='origin-institution']", level: 2}
+    level: 2
+    origin: model
+
+  - id: src.date_text
+    entity: source
+    from: {monodi: datierung, cm: Datierung raw}
+    to:
+      - {format: tei, path: "{msDesc}/history/origin/origDate"}
+      - {format: mei, path: "{manifestation}/creation/date", level: 2}
+      - {format: mei-source, path: "{manifestation}/creation/date"}
+    level: 1
+    origin: model
+    example: "13. Jh."
+    verify: true
+    note: "Clarify with the sheet owners which column fills the Monodi field `datierung` ('Datierung raw' or 'Datierung')."
+    note_de: "Welche Spalte das Monodi-Feld `datierung` füllt ('Datierung raw' oder 'Datierung'), mit den Sheet-Verantwortlichen klären."
+
+  - id: src.date_normalized
+    entity: source
+    from: {cm: [Datierung, Jahrhundert, cantus_century]}
+    to:
+      - {format: tei, path: "{msDesc}/history/origin/origDate/@notBefore"}
+      - {format: tei, path: "{msDesc}/history/origin/origDate/@notAfter"}
+      - {format: mei, path: "{manifestation}/creation/date/@notbefore"}
+      - {format: mei, path: "{manifestation}/creation/date/@notafter"}
+      - {format: mei-source, path: "{manifestation}/creation/date/@notbefore"}
+      - {format: mei-source, path: "{manifestation}/creation/date/@notafter"}
+    level: 2
+    origin: cm
+    example: "1201 to 1300"
+    verify: true
+    note: "Needs a parser or manual curation (question 6). The roles of the three columns are not confirmed."
+    note_de: "Braucht Parser oder Handpflege (question 6). Die Rollen der drei Spalten sind nicht bestätigt."
+
+  - id: src.host_manuscript
+    entity: source
+    from: {cm: [Precise date of host manuscript, Century of host manuscript, Kontextuelle Quelle zu]}
+    to:
+      - {format: tei, path: "{msDesc}/msPart"}
+      - {format: mei-source, path: "{manifestation}/componentList/manifestation"}
+    level: 3
+    origin: cm
+    verify: true
+    note: "For fragments in host volumes. Clarify the modelling (msPart or history/provenance)."
+    note_de: "Für Fragmente in Hostbänden. Modellierung (msPart oder history/provenance) klären."
+
+  - id: src.iiif
+    entity: source
+    from: {monodi: iiifManifestUrl, cm: [Manifest, Manifest2]}
+    to:
+      - {format: tei, path: "{msDesc}/additional/surrogates/bibl/ref[@type='iiif-manifest']/@target"}
+      - {format: mei-source, path: "{manifestation}/relationList/relation[@rel='hasReproduction']/@target"}
+      - {format: mei, path: "{manifestation}/relationList/relation[@rel='hasReproduction']/@target", level: 2}
+    level: 1
+    origin: model
+    example: "https://example.org/manifest.json"
+    note: "Two manifests give two `bibl` elements."
+    note_de: "Zwei Manifeste ergeben zwei `bibl`."
+
+  - id: src.local_images
+    entity: source
+    from: {cm: Local images}
+    to:
+      - {format: tei, path: "{msDesc}/additional/surrogates/bibl[@type='local']"}
+      - {format: mei-source, path: "{manifestation}/biblList[@type='local-images']/bibl"}
+      - {format: mei, path: "{manifestation}/biblList[@type='local-images']/bibl", level: 3}
+    level: 3
+    origin: cm
+
+  - id: src.online_catalogue
+    entity: source
+    from: {cm: Online catalogue}
+    to:
+      - {format: tei, path: "{msDesc}/additional/listBibl[@type='catalogue-online']/bibl/ref/@target"}
+      - {format: mei-source, path: "{manifestation}/biblList[@type='catalogue-online']/bibl"}
+      - {format: mei, path: "{manifestation}/biblList[@type='catalogue-online']/bibl", level: 2}
+    level: 2
+    origin: cm
+
+  - id: src.print_catalogue
+    entity: source
+    from: {cm: Print catalogue not included in previous}
+    to:
+      - {format: tei, path: "{msDesc}/additional/listBibl[@type='catalogue']/bibl"}
+      - {format: mei-source, path: "{manifestation}/biblList[@type='catalogue']/bibl"}
+      - {format: mei, path: "{manifestation}/biblList[@type='catalogue']/bibl", level: 2}
+    level: 2
+    origin: cm
+
+  - id: src.literature
+    entity: source
+    from: {cm: Other important literature}
+    to:
+      - {format: tei, path: "{msDesc}/additional/listBibl[@type='literature']/bibl"}
+      - {format: mei-source, path: "{manifestation}/biblList[@type='literature']/bibl"}
+      - {format: mei, path: "{manifestation}/biblList[@type='literature']/bibl", level: 2}
+    level: 2
+    origin: cm
+
+  - id: src.notation_doc
+    entity: source
+    from: {cm: notationsdokumentation}
+    to:
+      - {format: tei, path: "{msDesc}/physDesc/musicNotation/ref/@target"}
+      - {format: mei-source, path: "{manifestation}/notesStmt/annot[@type='notation-documentation']/ref/@target"}
+    level: 2
+    origin: cm
+    note: "The column contains Markdown. The export holds only a link to the page; the full text stays on the website."
+    note_de: "Die Spalte enthält Markdown. Im Export nur ein Link auf die Seite, der Volltext bleibt auf der Webseite."
+
+  - id: src.description
+    entity: source
+    from: {cm: beschreibung}
+    to:
+      - {format: tei, path: "{msDesc}/additional/adminInfo/note[@type='description']/ref/@target"}
+      - {format: mei-source, path: "{manifestation}/notesStmt/annot[@type='description']/ref/@target"}
+    level: 2
+    origin: cm
+    verify: true
+    note: "Link to the source description. Structuring the full text belongs to implementation step 5 (docs/METADATA-STANDARDS.md)."
+    note_de: "Link auf die Quellenbeschreibung. Den Volltext zu strukturieren ist Teil von Umsetzungsschritt 5 (docs/METADATA-STANDARDS.md)."
+
+  - id: src.comment
+    entity: source
+    from: {monodi: kommentar, cm: Kommentar}
+    to:
+      - {format: tei, path: "{msDesc}/additional/adminInfo/note[@type='kommentar']"}
+      - {format: mei-source, path: "{manifestation}/notesStmt/annot[@type='kommentar']"}
+    level: 2
+    origin: model
+    verify: true
+    note: "Export only if the comment is public (question 7)."
+    note_de: "Nur exportieren, wenn der Kommentar öffentlich ist (question 7)."
+
+  - id: src.physical
+    entity: source
+    from: {proposed: physical_description}
+    to:
+      - {format: tei, path: "{msDesc}/physDesc/objectDesc/supportDesc/support/material"}
+      - {format: tei, path: "{msDesc}/physDesc/objectDesc/supportDesc/extent/measure[@unit='leaf']"}
+      - {format: tei, path: "{msDesc}/physDesc/objectDesc/supportDesc/support/dimensions"}
+      - {format: mei-source, path: "{manifestation}/physDesc/physMedium"}
+      - {format: mei-source, path: "{manifestation}/physDesc/extent"}
+      - {format: mei-source, path: "{manifestation}/physDesc/dimensions"}
+    level: 3
+    origin: new
+    example: "parchment, 120 leaves"
+    note: "Material, number of leaves and dimensions as custom fields (customSourceFields) with a target path."
+    note_de: "Material, Blattzahl, Maße als Zusatzfelder (customSourceFields) mit Zielpfad."
+
+  - id: src.hands_foliation
+    entity: source
+    from: {proposed: hands_foliation}
+    to:
+      - {format: tei, path: "{msDesc}/physDesc/handDesc/handNote"}
+      - {format: tei, path: "{msDesc}/physDesc/objectDesc/supportDesc/foliation"}
+      - {format: mei-source, path: "{manifestation}/physDesc/handList/hand"}
+      - {format: mei-source, path: "{manifestation}/physDesc/foliaDesc"}
+    level: 3
+    origin: new
+
+  - id: src.contents
+    entity: source
+    from: {derived: "alle Dokumente der Quelle: Folio, Initium, Verweis auf die MEI-Datei"}
+    to:
+      - {format: tei, path: "{msDesc}/msContents/msItem[@n]/locus"}
+      - {format: tei, path: "{msDesc}/msContents/msItem[@n]/title[@type='incipit']"}
+      - {format: mei-source, path: "{manifestation}/contents/contentItem[@n]/locus"}
+      - {format: mei-source, path: "{manifestation}/contents/contentItem[@n]/title[@type='incipit']"}
+    level: 3
+    origin: auto
+    example: "f. 1v-2r, Hodie"
+
+  - id: src.describer
+    entity: source
+    from: {config: people}
+    to:
+      - {format: tei, path: "fileDesc/titleStmt/respStmt"}
+      - {format: mei-source, path: "fileDesc/titleStmt/respStmt"}
+    level: 2
+    origin: new
+    verify: true
+    note: "Role manuscript-descriptions from roles.csv. The assignment source -> describing person is missing (question 10)."
+    note_de: "Rolle manuscript-descriptions aus roles.csv. Die Zuordnung Quelle -> beschreibende Person fehlt noch."
+
+  - id: src.publication
+    entity: source
+    from: {config: publisher}
+    to:
+      - {format: tei, path: "fileDesc/publicationStmt/publisher"}
+      - {format: tei, path: "fileDesc/publicationStmt/availability/licence/@target"}
+      - {format: tei, path: "fileDesc/publicationStmt/idno[@type='URI']"}
+      - {format: mei-source, path: "fileDesc/pubStmt/respStmt/corpName[@role='publisher']"}
+      - {format: mei-source, path: "fileDesc/pubStmt/availability/useRestrict/@auth.uri"}
+      - {format: mei-source, path: "fileDesc/pubStmt/identifier"}
+    level: 1
+    origin: auto
+    note: "Taken from `project`. For the licence see rules.licence_gate."
+    note_de: "Aus project. Lizenz siehe rules.licence_gate."
+
+  - id: src.export_info
+    entity: source
+    from: {derived: "Exportdatum, Werkzeug, Version"}
+    to:
+      - {format: tei, path: "revisionDesc/change/@when"}
+      - {format: tei, path: "encodingDesc/appInfo/application"}
+      - {format: mei-source, path: "revisionDesc/change/@isodate"}
+      - {format: mei-source, path: "encodingDesc/appInfo/application"}
+    level: 1
+    origin: auto
+
+  # ------------------------------------------------------------------ document -> MEI header
+  - id: doc.id
+    entity: document
+    from: {monodi: dokumenten_id, cm: Dokumenten_ID}
+    to:
+      - {format: mei, path: "fileDesc/titleStmt/title"}
+      - {format: mei, path: "{work}/identifier"}
+      - {format: jsonld, path: "identifier"}
+      - {format: dc, path: "dc:identifier"}
+    level: 1
+    origin: model
+    in_baseline: true
+    example: "Ex_1-1v-12"
+    note: "The baseline writes only the ID as title. The template CM/MEI/header_schema.xml uses '{dokumenten_id} | {textinitium}'."
+    note_de: "Im Ausgangsstand steht nur die ID im Titel. Das Template CM/MEI/header_schema.xml verwendet '{dokumenten_id} | {textinitium}'."
+
+  - id: doc.uuid
+    entity: document
+    from: {monodi: id, cm: "Doc-Id' (intern)"}
+    to:
+      - {format: mei, path: "fileDesc/pubStmt/identifier"}
+      - {format: jsonld, path: "url"}
+    level: 2
+    origin: model
+    verify: true
+    note: "URL = project.document_base_uri + UUID. The template puts it in seriesStmt/identifier; the position is to be clarified."
+    note_de: "URL = project.document_base_uri + UUID. Das Template legt sie in seriesStmt/identifier; Ort klären."
+
+  - id: doc.incipit
+    entity: document
+    from: {monodi: textinitium, cm: Textinitium Editionseinheit}
+    to:
+      - {format: mei, path: "{work}/title"}
+      - {format: mei, path: "{work}/incip/incipText/p", level: 2}
+      - {format: jsonld, path: "name"}
+      - {format: dc, path: "dc:title"}
+    level: 1
+    origin: model
+    in_baseline: true
+    example: "Hodie"
+
+  - id: doc.incipit_addition
+    entity: document
+    from: {cm: Zusatz zu Textinitium}
+    to:
+      - {format: mei, path: "{work}/title[@type='alternative']"}
+    level: 2
+    origin: cm
+    example: "Incipit"
+
+  - id: doc.genre
+    entity: document
+    from: {monodi: [gattung1, gattung2], cm: [Gattung1, Gattung2]}
+    to:
+      - {format: mei, path: "{work}/classification/termList/term[@type='genre']"}
+      - {format: jsonld, path: "musicCompositionForm"}
+      - {format: dc, path: "dc:subject"}
+    level: 1
+    origin: model
+    in_baseline: true
+    example: "Tropus"
+    note: "The baseline writes `@type='gattung1'` and `'gattung2'`. Change to `genre` with a vocabulary (level 3: @auth and @codedval = Cantus Index code)."
+    note_de: "Der Ausgangsstand schreibt `@type='gattung1'` und `'gattung2'`. Umstellen auf `genre` mit Vokabular (Stufe 3: @auth und @codedval = Cantus-Index-Code)."
+
+  - id: doc.feast
+    entity: document
+    from: {monodi: [festtag, feier], cm: [Fest, Feier]}
+    to:
+      - {format: mei, path: "{work}/classification/termList/term[@type='feast']"}
+      - {format: dc, path: "dc:subject"}
+    level: 1
+    origin: model
+    in_baseline: true
+    example: "Nativitas"
+
+  - id: doc.vocabularies
+    entity: document
+    from: {config: vocabularies}
+    to:
+      - {format: mei, path: "encodingDesc/classDecls/taxonomy/category"}
+    level: 2
+    origin: new
+    note: "Declares where genre and feast terms come from."
+    note_de: "Erklärt, woher Gattungs- und Festbegriffe stammen."
+
+  - id: doc.folio
+    entity: document
+    from:
+      monodi: [foliostart, zeilenstart]
+      cm: [Startseite, Start Verso-Spalte, Startzeile, Startposition, Endseite, End Verso-Spalte, Endzeile]
+    to:
+      - {format: mei, path: "{work}/contents/contentItem/locus"}
+      - {format: mei, path: "{work}/contents/contentItem/locus/@from"}
+    level: 2
+    origin: model
+    example: "f. 1v-2r"
+    note: "The hub delivers page, verso column, line and position separately; Monodi has only foliostart and zeilenstart. Verso column and position go into the text of the locus."
+    note_de: "Der Hub liefert Seite, Verso-Spalte, Zeile und Position getrennt; Monodi kennt nur foliostart und zeilenstart. Verso-Spalte und Position stehen im Text des locus."
+
+  - id: doc.bibl_ref
+    entity: document
+    from: {monodi: bibliographischerverweis}
+    to:
+      - {format: mei, path: "{work}/biblList/bibl"}
+    level: 2
+    origin: model
+    note: "The CM template uses otherChar/bibl. The hub does not carry this field."
+    note_de: "Das CM-Template nutzt otherChar/bibl. Der Hub trägt dieses Feld nicht."
+
+  - id: doc.text_reference
+    entity: document
+    from: {cm: Nachweis_Editionseinheit}
+    to:
+      - {format: mei, path: "{work}/biblList/bibl[@type='text-reference']"}
+    level: 3
+    origin: cm
+    verify: true
+    note: "Called 'Nachweis (Text)' in the hub. The hub derives FestUndGattung from it (tropes only)."
+    note_de: "Im Hub 'Nachweis (Text)'. Der Hub leitet daraus FestUndGattung ab (nur Tropen)."
+
+  - id: doc.print_edition
+    entity: document
+    from: {monodi: druckausgabe, cm: Druckausgabe}
+    to:
+      - {format: mei, path: "{work}/biblList/bibl[@type='printed-edition']"}
+    level: 2
+    origin: model
+
+  - id: doc.comment
+    entity: document
+    from: {monodi: kommentar, cm: Kommentar}
+    to:
+      - {format: mei, path: "fileDesc/notesStmt/annot[@type='document']"}
+    level: 1
+    origin: model
+    in_baseline: true
+    note: "Public comments only (question 7)."
+    note_de: "Nur öffentliche Kommentare (question 7)."
+
+  - id: doc.critical_comments
+    entity: document
+    from: {derived: "Kommentare und Lesarten im Notentext (root.comments)"}
+    to:
+      - {format: mei, path: "fileDesc/notesStmt/annot[@startid][@endid]"}
+    level: 1
+    origin: auto
+    in_baseline: true
+    note: "Unchanged from the baseline."
+    note_de: "Unverändert gegenüber dem Ausgangsstand."
+
+  - id: doc.edition_status
+    entity: document
+    from: {monodi: editionsstatus, cm: Editionsstatus}
+    to:
+      - {format: mei, path: "fileDesc/editionStmt/edition"}
+    level: 2
+    origin: model
+    note: "Validated against the bundled MEI 5.0 schema (2026-10-24). Alternative: revisionDesc."
+    note_de: "Gegen das mitgelieferte MEI-5.0-Schema geprüft (2026-10-24). Alternative: revisionDesc."
+
+  - id: doc.source_ref
+    entity: document
+    from: {monodi: quelle_id, cm: [Quellen-ID (intern), Quellensigle]}
+    to:
+      - {format: mei, path: "{source}/@xml:id"}
+      - {format: dc, path: "dc:source"}
+    level: 1
+    origin: model
+    in_baseline: true
+    note: "The fields of the source (library, shelfmark, date) arrive through the src.* entries that have a mei target."
+    note_de: "Die Felder der Quelle (Bibliothek, Signatur, Datierung) kommen über die src.*-Einträge mit Ziel format mei."
+
+  - id: doc.source_link
+    entity: document
+    from: {derived: "Dateiname der TEI-Datei der Quelle"}
+    to:
+      - {format: mei, path: "{source}/relatedItem"}
+    level: 3
+    origin: auto
+    verify: true
+
+  - id: doc.witnesses
+    entity: document
+    from: {derived: "Zeugen in den Lesarten (readingWitnesses)"}
+    to:
+      - {format: mei, path: "{source}"}
+    level: 1
+    origin: auto
+    in_baseline: true
+    note: "One source per witness. Unchanged from the baseline."
+    note_de: "Ein source je Zeuge. Unverändert gegenüber dem Ausgangsstand."
+
+  - id: doc.relations
+    entity: document
+    from: {config: relationTypes, cm: Bezugsgesang}
+    to:
+      - {format: mei, path: "{work}/relationList/relation"}
+    level: 3
+    origin: cm
+    verify: true
+    note: "relationTypes live in the Monodi project settings; Bezugsgesang is the hub counterpart."
+    note_de: "relationTypes stehen in den Monodi-Projekteinstellungen; Bezugsgesang ist das Hub-Gegenstück."
+
+  - id: doc.subcorpus
+    entity: document
+    from: {cm: subcorpus}
+    to:
+      - {format: mei, path: "{work}/classification/termList/term[@type='subcorpus']"}
+    level: 2
+    origin: cm
+    example: "edition"
+
+  - id: doc.custom
+    entity: document
+    from: {config: customDocumentFields}
+    to:
+      - {format: mei, path: "{work}/classification/termList/term[@type]"}
+    level: 2
+    origin: new
+    note: "One term per custom field with @type = field key, or the target from the field definition."
+    note_de: "Je Zusatzfeld ein term mit @type = Feldschlüssel, oder das Ziel aus der Felddefinition."
+
+  - id: doc.cantus
+    entity: document
+    from: {cm: [Cantus_ID, Cantus_Melody_ID, Cantus_Genre]}
+    to:
+      - {format: mei, path: "{work}/identifier[@type='cantus-id']"}
+      - {format: mei, path: "{work}/classification/termList/term[@type='genre'][@auth='Cantus Index']"}
+    level: 3
+    origin: cm
+    verify: true
+
+  - id: doc.hub_extra
+    entity: document
+    from: {cm: [Melodie Standard, Melodie Quelle, Melodiennummer_Katalog, Referenz auf Spiel, SpielName, Überlieferungszustand, Nachtragsschicht]}
+    to:
+      - {format: mei, path: "{work}/classification/termList/term[@type]"}
+    level: 3
+    origin: cm
+    verify: true
+    note: "Further hub fields. Clarify with the editors whether they are public and how they should be named."
+    note_de: "Weitere Hub-Felder. Ob sie öffentlich sind und wie sie heißen sollen, mit den Bearbeitenden klären."
+
+  - id: doc.iiif
+    entity: document
+    from: {cm: IIIFs}
+    to:
+      - {format: mei, path: "{manifestation}/itemList/item/ptr[@type='iiif']"}
+    level: 3
+    origin: cm
+    verify: true
+
+  - id: doc.facsimile
+    entity: document
+    from: {derived: "IIIF-Zonen aus Monodi-Zero"}
+    to:
+      - {format: mei, path: "/mei/music/facsimile/surface/graphic/@target"}
+    level: 3
+    origin: auto
+    verify: true
+    note: "This is content, not header (implementation step 5 in docs/METADATA-STANDARDS.md)."
+    note_de: "Das ist Inhalt, kein Header (Umsetzungsschritt 5 in docs/METADATA-STANDARDS.md)."
+
+  - id: doc.editor
+    entity: document
+    from: {cm: Editor}
+    to:
+      - {format: mei, path: "fileDesc/titleStmt/respStmt/persName"}
+    level: 2
+    origin: cm
+    verify: true
+    note: "Name via people-emails.csv and people.csv, never the e-mail address."
+    note_de: "Name über people-emails.csv und people.csv, nie die E-Mail-Adresse."
+
+  - id: doc.project_credits
+    entity: document
+    from: {config: people}
+    to:
+      - {format: mei, path: "fileDesc/seriesStmt/respStmt"}
+    level: 2
+    origin: auto
+    note: "Roles with level = corpus from roles.csv, all persons."
+    note_de: "Rollen mit level = corpus aus roles.csv, alle Personen."
+
+  - id: doc.publication
+    entity: document
+    from: {config: publisher}
+    to:
+      - {format: mei, path: "fileDesc/pubStmt/respStmt/corpName"}
+      - {format: mei, path: "fileDesc/pubStmt/address"}
+      - {format: mei, path: "fileDesc/pubStmt/availability/useRestrict"}
+      - {format: mei, path: "fileDesc/pubStmt/date/@isodate"}
+      - {format: mei, path: "fileDesc/seriesStmt/funder"}
+      - {format: dc, path: "dc:publisher"}
+      - {format: dc, path: "dc:rights"}
+    level: 1
+    origin: auto
+    note: "Hard-coded in the template CM/MEI/header_schema.xml, with the date 2020-10-10 and the placeholder 'LICENCE STATEMENT'. Taken from `project` here instead."
+    note_de: "Im Template CM/MEI/header_schema.xml fest eingetragen, mit Datum 2020-10-10 und dem Platzhalter 'LICENCE STATEMENT'. Hier stattdessen aus `project`."
+
+  - id: doc.encoding
+    entity: document
+    from: {derived: "Werkzeug, Version, Richtlinien"}
+    to:
+      - {format: mei, path: "encodingDesc/appInfo/application"}
+      - {format: mei, path: "encodingDesc/editorialDecl/p"}
+    level: 2
+    origin: auto
+    note: "`encodingDesc` is missing in the baseline emitter."
+    note_de: "`encodingDesc` fehlt im Emitter."
+
+  - id: doc.lang
+    entity: document
+    from: {config: language}
+    to:
+      - {format: mei, path: "@xml:lang"}
+      - {format: jsonld, path: "inLanguage"}
+    level: 1
+    origin: auto
+
+  - id: doc.revision
+    entity: document
+    from: {derived: "Exportzeitpunkt"}
+    to:
+      - {format: mei, path: "revisionDesc/change"}
+      - {format: dc, path: "dc:date"}
+    level: 2
+    origin: auto
+
+  # ------------------------------------------------------------------ other formats, corpus level
+  - id: x.jsonld.source
+    entity: source
+    from: {derived: "Quelle als Ganzes"}
+    to:
+      - {format: jsonld, path: "CreativeWork: name, identifier (PropertyValue shelfmark), locationCreated, dateCreated, isPartOf"}
+    level: 3
+    origin: auto
+    verify: true
+    note: "Check the type: schema.org `Manuscript` means unpublished works."
+    note_de: "Typ prüfen: schema.org `Manuscript` meint unveröffentlichte Werke."
+
+  - id: x.jsonld.document
+    entity: document
+    from: {derived: "Gesang als Ganzes"}
+    to:
+      - {format: jsonld, path: "MusicComposition: name, identifier, url, musicCompositionForm, inLanguage, isPartOf, license"}
+    level: 3
+    origin: auto
+
+  - id: x.jsonld.corpus
+    entity: corpus
+    from: {config: publisher}
+    to:
+      - {format: jsonld, path: "Dataset: name, creator, license, distribution"}
+    level: 3
+    origin: new
+    note: "For Google Dataset Search."
+    note_de: "Für die Google-Datensatzsuche."
+
+  - id: x.dc.type
+    entity: document
+    from: {derived: "feste Typen"}
+    to:
+      - {format: dc, path: "dc:type"}
+      - {format: dc, path: "dc:relation"}
+    level: 3
+    origin: auto
+    note: "Needed only if an aggregator harvests via OAI-PMH."
+    note_de: "Nur nötig, wenn ein Aggregator über OAI-PMH erntet."
+
+  - id: x.datacite.release
+    entity: corpus
+    from: {config: publisher}
+    to:
+      - {format: datacite, path: "titles, creators, publisher, publicationYear, resourceType=Dataset, rightsList, version"}
+      - {format: datacite, path: "relatedIdentifier[@relationType='IsPartOf']"}
+    level: 3
+    origin: new
+    note: "Only for releases and cm-datasets, not per chant."
+    note_de: "Nur für Releases und cm-datasets, nicht pro Gesang."
+
+# Authority files per field group (Level 3). Question numbers refer to the open questions in docs/METADATA-STANDARDS.md.
+authorities:
+  - {id: places, applies_to: [src.library_place, src.origin_place], services: [GND, GeoNames, TGN], question: 3}
+  - {id: institutions, applies_to: [src.library, src.origin_institution], services: [GND, ISIL, RISM], question: 3}
+  - {id: orders, applies_to: [src.order], services: [GND, own vocabulary], question: 4}
+  - {id: genre_feast, applies_to: [doc.genre, doc.feast, doc.cantus], services: [Cantus Index], question: 5}
+  - {id: persons, applies_to: [doc.editor, doc.project_credits, src.describer], services: [ORCID, GND], question: 2}
+  - {id: licence, applies_to: [src.publication, doc.publication], services: [SPDX, creativecommons.org], question: 1}
+  - {id: images, applies_to: [src.iiif], services: [IIIF], question: null}
+
+# Columns that are never exported. `reason` is mandatory.
+not_exported:
+  - {entity: source, cm: Beschreibungsformat, reason: "internal; the project team must confirm what the values mean", reason_de: "intern, Bedeutung der Werte vom Projektteam bestätigen"}
+  - {entity: source, cm: publish, reason: "only controls which rows are exported", reason_de: "steuert nur, welche Zeilen exportiert werden"}
+  - {entity: source, cm: Status, reason: "internal working state", reason_de: "interner Arbeitsstand"}
+  - {entity: source, cm: Foliooffset, reason: "internal; only used to match folio to image", reason_de: "intern, nur für die Zuordnung Folio zu Bild"}
+  - {entity: source, cm: Foliooffsetold, reason: "internal; only used to match folio to image", reason_de: "intern, nur für die Zuordnung Folio zu Bild"}
+  - {entity: source, cm: Working, reason: "internal working state", reason_de: "interner Arbeitsstand"}
+  - {entity: document, cm: Schreibzugriff, reason: "e-mail addresses (rules.no_email)", reason_de: "E-Mail-Adressen (rules.no_email)"}
+  - {entity: document, cm: publish, reason: "only controls which rows are exported (rules.only_published)", reason_de: "steuert nur, welche Zeilen exportiert werden (rules.only_published)"}
+  - {entity: document, cm: dontpublish, reason: "only controls which rows are exported", reason_de: "steuert nur, welche Zeilen exportiert werden"}
+  - {entity: document, cm: FestUndGattung, reason: "helper column derived from Nachweis_Editionseinheit (tropes only)", reason_de: "Hilfsspalte, abgeleitet aus Nachweis_Editionseinheit (nur Tropen)"}
+
+# Columns whose meaning is not confirmed. Do not map them before the question is answered.
+unresolved:
+  - {entity: source, cm: Link, question: "What does the column contain? A link to what?", question_de: "Was enthält die Spalte? Ein Link worauf?"}
+  - {entity: source, cm: Primary information source used, question: "Internal or bibliographic? Confirm what the values mean", question_de: "Intern oder bibliographisch? Bedeutung der Werte bestätigen"}
+  - {entity: document, cm: manuscript, question: "Key from the editor's additionalData; clarify its meaning and its relation to quelle_id", question_de: "Schlüssel aus additionalData des Editors; Bedeutung und Verhältnis zu quelle_id klären"}
+
+# Credits: who is named in the metadata of which source and chant. The sheet config/credits.csv is edited by hand
+# (docs/METADATA-STANDARDS.md, section 17). Category names and genre names are data and stay German.
+credits:
+  file: "config/credits.csv"
+  # Category on the team page of the project -> genres (`gattung1`) of the documents
+  categories:
+    Ordinariumsgesänge: [Agnus, Benedicamus, Credo, Gloria, Ite missa est, Kyrie, Requiescant, Sanctus, Humiliate vos]
+    Tropen: [Tropus]
+    Sequenzen: [Sequenz]
+    Lieder: [Lied, Benedicamus Domino]
+    Spiele: [Spiele-Passus, Spiel]
+  # Roles named in the MEI header of a chant (for its source and category) and in the TEI file of a source
+  document_roles: [edition, text-edition, text-revision]
+  source_roles: [edition, text-edition, text-revision, manuscript-descriptions]
+  # Roles of the whole project: named in the TEI file of every source as `principal` (project direction) and in docs/CONTRIBUTORS.md
+  project_roles: [project-direction]
+
+# Target picture: ONE folder (the dataset) that holds everything created in Monodi in a standardized, documented layout.
+# This block is the layout specification. `python -m cmhub.dataset` / `cm dataset package` creates exactly these paths.
+# Documentation: docs/METADATA-STANDARDS.md, sections 14 and 16.
+#
+#   placeholders  names allowed inside `path`; {source_id} is the siglum slug (rules.xml_id), {document_id} the Dokumenten_ID,
+#                 {asset} a file path below the notation folder of a source (for example patterns/p01.svg)
+#   files         one entry per file or file pattern:
+#     id            unique, `ds.*`
+#     path          relative to the dataset root; ends with `/` for a directory. File names repeat the id of their source or
+#                   document, so a file is still identifiable when it is copied out of its folder.
+#     entity        corpus | source | document
+#     format        what the file is: md, html, json, csv, txt, tei, mei, ro-crate, cff, yaml, image, dir
+#     level         lowest profile level (1-3) that writes the file
+#     required      true if a dataset is invalid without it
+#     lossless      true if the file keeps the Monodi data completely. The text fields `beschreibung` and
+#                   `notationsdokumentation` of a source are moved to their own files when those files are written; the
+#                   metadata file then names the files in `dataset_external_files`.
+#     generated_from where the content comes from (mapping ids, tables, Monodi data)
+#     description   what the file contains, for readers who open the folder
+dataset:
+  layout_version: 1
+  root_name: "{project_slug}-{version}"
+  placeholders: [source_id, document_id, asset]
+  files:
+    - {id: ds.readme, path: "README.md", entity: corpus, format: md, level: 1, required: true, lossless: false,
+       generated_from: "project, counts, this layout", description: "Entry point: content, structure, how to cite, licence, version", description_de: "Einstieg: Inhalt, Aufbau, Zitierweise, Lizenz, Version"}
+    - {id: ds.structure, path: "docs/STRUCTURE.md", entity: corpus, format: md, level: 1, required: true, lossless: false,
+       generated_from: "dataset.files", description: "Explanation of every file and folder of this structure", description_de: "Erklärung jeder Datei und jedes Ordners dieser Struktur"}
+    - {id: ds.contributors, path: "docs/CONTRIBUTORS.md", entity: corpus, format: md, level: 1, required: true, lossless: false,
+       generated_from: "people, roles, credits", description: "Everybody who contributed, with roles, periods and the sources they are credited for", description_de: "Alle Beteiligten mit Rollen, Zeiträumen und den Quellen, für die sie genannt werden"}
+    - {id: ds.license, path: "LICENSE.txt", entity: corpus, format: txt, level: 1, required: true, lossless: false,
+       generated_from: "project.license_uri", description: "Licence text or reference; without a confirmed licence the dataset is not for publication (rules.licence_gate)", description_de: "Lizenztext oder Verweis; ohne bestätigte Lizenz nicht zur Veröffentlichung (rules.licence_gate)"}
+    - {id: ds.citation, path: "CITATION.cff", entity: corpus, format: cff, level: 2, required: false, lossless: false,
+       generated_from: "project, people", description: "Citation hint in machine-readable form (Citation File Format)", description_de: "Zitierhinweis in maschinenlesbarer Form (Citation File Format)"}
+    - {id: ds.dataset_json, path: "dataset.json", entity: corpus, format: json, level: 1, required: true, lossless: false,
+       generated_from: "run of the writer", description: "Version, creation time, tool versions, counts (sources, documents), status, anything not generated", description_de: "Version, Erstellzeitpunkt, Werkzeugversionen, Zähler (Quellen, Dokumente), Status, alles nicht Erzeugte"}
+    - {id: ds.rocrate, path: "ro-crate-metadata.json", entity: corpus, format: ro-crate, level: 3, required: false, lossless: false,
+       generated_from: "x.jsonld.*, x.datacite.release, all files", description: "RO-Crate (schema.org JSON-LD): describes every file of the dataset in machine-readable form", description_de: "RO-Crate (schema.org JSON-LD): beschreibt jede Datei des Datasets maschinenlesbar"}
+    - {id: ds.checksums, path: "checksums.sha256", entity: corpus, format: txt, level: 1, required: true, lossless: false,
+       generated_from: "all files", description: "SHA-256 checksum of every file, for integrity checks", description_de: "SHA-256-Prüfsumme jeder Datei, zur Integritätsprüfung"}
+    - {id: ds.spec_copy, path: "docs/mapping/metadata-mapping.yml", entity: corpus, format: yaml, level: 1, required: true, lossless: false,
+       generated_from: "config/metadata-mapping.yml", description: "Copy of the specification used, so the dataset stays understandable without access to the repository", description_de: "Kopie der verwendeten Spezifikation, damit das Dataset ohne Zugriff aufs Repository verständlich bleibt"}
+    - {id: ds.people, path: "docs/mapping/people.csv", entity: corpus, format: csv, level: 1, required: true, lossless: false,
+       generated_from: "config/people.csv", description: "Contributing persons, periods and roles (without e-mail addresses)", description_de: "Beteiligte Personen, Zeiträume und Rollen (ohne E-Mail-Adressen)"}
+    - {id: ds.roles, path: "docs/mapping/roles.csv", entity: corpus, format: csv, level: 1, required: true, lossless: false,
+       generated_from: "config/roles.csv", description: "Roles and how they are used in the headers", description_de: "Rollen und ihre Verwendung in den Köpfen"}
+    - {id: ds.credits, path: "docs/mapping/credits.csv", entity: corpus, format: csv, level: 1, required: true, lossless: false,
+       generated_from: "config/credits.csv", description: "Who is credited for which source and category of chants, with the status of each row", description_de: "Wer für welche Quelle und Gesangskategorie genannt wird, mit dem Status jeder Zeile"}
+    - {id: ds.sources_index, path: "sources/index.csv", entity: corpus, format: csv, level: 1, required: true, lossless: false,
+       generated_from: "all src.* mappings (flat)", description: "One row per source with the most important metadata, for quick filtering", description_de: "Eine Zeile je Quelle mit den wichtigsten Metadaten, zum schnellen Filtern"}
+    - {id: ds.source_dir, path: "sources/{source_id}/", entity: source, format: dir, level: 1, required: true, lossless: false,
+       generated_from: "", description: "Folder of one source; name = siglum as slug", description_de: "Ordner einer Quelle; Name = Sigle als Slug"}
+    - {id: ds.source_json, path: "sources/{source_id}/{source_id}.meta.json", entity: source, format: json, level: 1, required: true, lossless: true,
+       generated_from: "Monodi source (meta.json of the Monodi ZIP)", description: "All metadata of the source in the Monodi format; the long texts are in the description and notation files", description_de: "Alle Metadaten der Quelle im Monodi-Format; die langen Texte stehen in den Beschreibungs- und Notationsdateien"}
+    - {id: ds.source_tei, path: "sources/{source_id}/{source_id}.tei", entity: source, format: tei, level: 2, required: false, lossless: false,
+       generated_from: "src.* mappings", description: "Manuscript description as TEI msDescription, with the people credited for this source", description_de: "Handschriftenbeschreibung als TEI msDescription, mit den für diese Quelle genannten Personen"}
+    - {id: ds.source_mei, path: "sources/{source_id}/{source_id}.source.mei", entity: source, format: mei, level: 2, required: false, lossless: false,
+       generated_from: "src.* mappings (format mei-source)", description: "Manuscript description as a MEI header file (`meiHead` with the manuscript as `manifestation`, empty `music`), written instead of or next to the TEI file when the option `--source-format mei` or `both` is chosen", description_de: "Handschriftenbeschreibung als MEI-Kopf-Datei (`meiHead` mit der Handschrift als `manifestation`, leeres `music`), geschrieben statt oder neben der TEI-Datei, wenn die Option `--source-format mei` oder `both` gewählt ist"}
+    - {id: ds.source_description, path: "sources/{source_id}/{source_id}.description.md", entity: source, format: md, level: 2, required: false, lossless: true,
+       generated_from: "cm: beschreibung", description: "Source description as Markdown (the field `beschreibung`)", description_de: "Quellenbeschreibung als Markdown (das Feld `beschreibung`)"}
+    - {id: ds.source_notation, path: "sources/{source_id}/notation/{source_id}.notation.md", entity: source, format: md, level: 2, required: false, lossless: true,
+       generated_from: "cm: notationsdokumentation", description: "Notation documentation as Markdown (the field `notationsdokumentation`); its images are the files next to it. If the annotations file of the source exists, the links to the picture sheets are removed and a line names that file", description_de: "Notationsdokumentation als Markdown (das Feld `notationsdokumentation`); ihre Bilder sind die Dateien daneben"}
+    - {id: ds.source_notation_images, path: "sources/{source_id}/notation/{source_id}.images.json", entity: source, format: json, level: 2, required: false, lossless: false,
+       generated_from: "the images of the notation documentation, source metadata, config/library-image-terms.csv", description: "Provenance of each image of the notation documentation: file, checksum, what it shows, the source with its library and IIIF manifests, and the rights statement of the library", description_de: "Herkunft jedes Bildes der Notationsdokumentation: Datei, Prüfsumme, was es zeigt, die Quelle mit Bibliothek und IIIF-Manifesten und die Rechteangabe der Bibliothek"}
+    - {id: ds.source_notation_annotations, path: "sources/{source_id}/notation/{source_id}.annotations.json", entity: source, format: json, level: 2, required: false, lossless: false,
+       generated_from: "the data of the transcription-equivalents tool (repository CM-Transcription-Equivalents), cut per manuscript", description: "Transcription equivalents of the manuscript as data, in the format of the tool (`cm-manuscript-export`): the table of neume patterns with their reference numbers, the line regions with polygons on the manuscript pages, the neume signs marked in them with their links to chants, and the IIIF manifest. No images", description_de: "Transkriptionsäquivalente der Handschrift als Daten im Format des Werkzeugs (`cm-manuscript-export`): die Tabelle der Neumenmuster mit ihren Referenznummern, die Zeilenbereiche mit Polygonen auf den Handschriftenseiten, die darin markierten Neumenzeichen mit Verknüpfung zu den Gesängen und das IIIF-Manifest. Keine Bilder"}
+    - {id: ds.source_notation_html, path: "sources/{source_id}/notation/{source_id}.notation.html", entity: source, format: html, level: 2, required: false, lossless: false,
+       generated_from: "the export of the transcription-equivalents tool (notation/<id>/index.html in CM-hub)", description: "The notation documentation as the HTML page of corpus-monodicum.de (patterns table and manuscript lines). The photos of the manuscript lines are not delivered (unclear image rights): the page shows them from the IIIF server of the library where the page could be determined, and a notice otherwise", description_de: "Die Notationsdokumentation als HTML-Seite von corpus-monodicum.de (Mustertabelle und Handschriftenzeilen). Die Fotos der Handschriftenzeilen werden nicht mitgeliefert (unklare Bildrechte): die Seite zeigt sie vom IIIF-Server der Bibliothek, wo die Seite bestimmt werden konnte, sonst einen Hinweis"}
+    - {id: ds.source_notation_assets, path: "sources/{source_id}/notation/{asset}", entity: source, format: image, level: 2, required: false, lossless: false,
+       generated_from: "images referenced by the notation documentation", description: "Images of the notation documentation that are part of the dataset: `patterns/patterns.svg` (table of the neume patterns, SVG, no photo); the Markdown links point to it. Photos of manuscripts are not part of the dataset", description_de: "Die Bilder der Notationsdokumentation (Muster, Tafeln), ins Dataset kopiert; die Markdown-Verweise zeigen auf sie"}
+    - {id: ds.source_iiif, path: "sources/{source_id}/{source_id}.iiif.json", entity: source, format: json, level: 2, required: false, lossless: false,
+       generated_from: "src.iiif", description: "List of the IIIF manifests of the source", description_de: "Liste der IIIF-Manifeste der Quelle"}
+    - {id: ds.document_dir, path: "sources/{source_id}/documents/{document_id}/", entity: document, format: dir, level: 1, required: true, lossless: false,
+       generated_from: "", description: "Folder of one document; name = document ID", description_de: "Ordner eines Dokuments; Name = Dokumenten-ID"}
+    - {id: ds.document_mei, path: "sources/{source_id}/documents/{document_id}/{document_id}.mei", entity: document, format: mei, level: 1, required: true, lossless: false,
+       generated_from: "doc.* mappings and the notes", description: "The chant as MEI, with a metadata header and the people credited for this chant", description_de: "Der Gesang als MEI, mit Metadaten-Kopf und den für diesen Gesang genannten Personen"}
+    - {id: ds.document_json, path: "sources/{source_id}/documents/{document_id}/{document_id}.meta.json", entity: document, format: json, level: 1, required: true, lossless: true,
+       generated_from: "Monodi document (meta.json of the Monodi ZIP)", description: "All metadata of the document in the Monodi format", description_de: "Alle Metadaten des Dokuments im Monodi-Format"}
+    - {id: ds.document_notes, path: "sources/{source_id}/documents/{document_id}/{document_id}.notes.json", entity: document, format: json, level: 1, required: true, lossless: true,
+       generated_from: "Monodi notes (data.json of the Monodi ZIP)", description: "Music text, comments and readings in the Monodi format", description_de: "Notentext, Kommentare und Lesarten im Monodi-Format"}

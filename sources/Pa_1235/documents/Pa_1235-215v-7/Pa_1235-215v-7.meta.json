@@ -1,0 +1,41 @@
+{
+  "id": "d90dd00b-d263-467a-8e7a-26456385d782",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-215v-7",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Ascensio domini",
+  "feier": "Messe",
+  "textinitium": "Quem creditis super astra",
+  "bibliographischerverweis": "Ascens intr 25 A 19 B 20 C D A E 22 A 23 B 24 C (CT III)",
+  "druckausgabe": "II-1",
+  "zeilenstart": "7",
+  "foliostart": "215v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "Pa 1235-88v-1-",
+    "Endseite": "216",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Ascens intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

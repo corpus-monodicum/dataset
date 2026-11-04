@@ -1,0 +1,41 @@
+{
+  "id": "97fa39f4-fda4-4601-9d27-ef823b630d02",
+  "quelle_id": "Pa 903",
+  "dokumenten_id": "Pa 903-150-17",
+  "gattung1": "Tropus",
+  "gattung2": "Offertorium-Tropus",
+  "festtag": "Innocentes",
+  "feier": "Messe",
+  "textinitium": "Infantum dic",
+  "bibliographischerverweis": "Innoc off 11 A 13 B (CT I)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "17",
+  "foliostart": "150",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "Anima nostra)",
+    "Endseite": "150",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "19",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Innoc off",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

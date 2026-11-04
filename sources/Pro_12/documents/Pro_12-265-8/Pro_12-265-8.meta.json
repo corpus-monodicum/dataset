@@ -1,0 +1,41 @@
+{
+  "id": "d3f0c47c-b4ce-40bf-802a-5e33b9190d6e",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-265-8",
+  "gattung1": "Sequenz",
+  "gattung2": "Textlos",
+  "festtag": "Feria II post Pascha",
+  "feier": "Messe",
+  "textinitium": "Alleluia",
+  "bibliographischerverweis": "AH 53, 37",
+  "druckausgabe": "CM III",
+  "zeilenstart": "8",
+  "foliostart": "265",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "265",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Romana",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

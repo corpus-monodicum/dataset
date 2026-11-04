@@ -1,0 +1,41 @@
+{
+  "id": "ee8f8453-70c7-4de1-ac57-b27264351008",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-126v-a-25",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Feria II post Pentecosten",
+  "feier": "Messe",
+  "textinitium": "Lux iucunda*",
+  "bibliographischerverweis": "AH 54, 154",
+  "druckausgabe": "",
+  "zeilenstart": "25",
+  "foliostart": "126v-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "125v-a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "25",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

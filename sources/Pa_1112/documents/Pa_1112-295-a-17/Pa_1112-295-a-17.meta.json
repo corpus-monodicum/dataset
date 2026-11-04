@@ -1,0 +1,41 @@
+{
+  "id": "7eb7f08b-e272-4de3-be7b-a7457e15f29f",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-295-a-17",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Bartholomaeus",
+  "feier": "Messe",
+  "textinitium": "Clare sanctorum*",
+  "bibliographischerverweis": "AH 53, 228",
+  "druckausgabe": "CM III",
+  "zeilenstart": "17",
+  "foliostart": "295-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "295a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "17",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Aurea",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "c0d0cc2c-858f-4d20-ae03-1975181f23b9",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-229-7",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominica XXI post Pentecosten",
+  "feier": "Messe",
+  "textinitium": "Qui regis sceptra*",
+  "bibliographischerverweis": "AH 53, 3",
+  "druckausgabe": "CM III",
+  "zeilenstart": "7",
+  "foliostart": "229",
+  "kommentar": "Korrigiert aus: Dominica XXIV post pentecosten",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "229",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Excita",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

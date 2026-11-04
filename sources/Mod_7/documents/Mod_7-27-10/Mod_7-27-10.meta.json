@@ -1,0 +1,41 @@
+{
+  "id": "6b519d84-835d-41f3-8fdc-f188d71baf1d",
+  "quelle_id": "Mod 7",
+  "dokumenten_id": "Mod 7-27-10",
+  "gattung1": "Gloria",
+  "gattung2": "tropiert",
+  "festtag": "Epiphania",
+  "feier": "Messe",
+  "textinitium": "Pontifex bone",
+  "bibliographischerverweis": "CT XII, 38: Ic 1 2 3 4 5 7 8 R",
+  "druckausgabe": "",
+  "zeilenstart": "10",
+  "foliostart": "27",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "28",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "Bosse 39",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509502",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

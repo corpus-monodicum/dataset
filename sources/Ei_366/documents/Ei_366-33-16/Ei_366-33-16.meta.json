@@ -1,0 +1,41 @@
+{
+  "id": "a62a96b6-a221-46d4-bb52-787c6481d719",
+  "quelle_id": "Ei 366",
+  "dokumenten_id": "Ei 366-33-16",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Exaltatio crucis",
+  "feier": "Messe",
+  "textinitium": "Rex regum dei agne",
+  "bibliographischerverweis": "AH 50, 240",
+  "druckausgabe": "CM III",
+  "zeilenstart": "16",
+  "foliostart": "33",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "35",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "Nachtrag 3",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

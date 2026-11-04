@@ -1,0 +1,41 @@
+{
+  "id": "47d61725-b092-43ae-b81b-f7551a7a2706",
+  "quelle_id": "Pa 14452",
+  "dokumenten_id": "Pa 14452-139v-9",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominica II adventus",
+  "feier": "Messe",
+  "textinitium": "Regnantem sempiterna",
+  "bibliographischerverweis": "AH 53, 2",
+  "druckausgabe": "CM III",
+  "zeilenstart": "9",
+  "foliostart": "139v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "140",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Laetatus sum",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

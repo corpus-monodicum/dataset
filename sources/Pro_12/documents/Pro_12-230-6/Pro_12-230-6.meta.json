@@ -1,0 +1,41 @@
+{
+  "id": "a5610e19-5fb5-44c2-8f26-e7f48e3ed397",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-230-6",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominica XXII post Pentecosten",
+  "feier": "Messe",
+  "textinitium": "Sonent regi*",
+  "bibliographischerverweis": "AH 50, 212",
+  "druckausgabe": "CM III",
+  "zeilenstart": "6",
+  "foliostart": "230",
+  "kommentar": "Korrigiert aus: Dominica XXV post pentecosten",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "230",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Graeca",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

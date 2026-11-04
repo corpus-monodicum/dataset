@@ -1,0 +1,41 @@
+{
+  "id": "4fdfc766-c834-4778-b3c5-106400f29168",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-193v-8",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Innocentes",
+  "feier": "Messe",
+  "textinitium": "Nunc pueri",
+  "bibliographischerverweis": "Innoc intr 39 A 24 B 25 C D A E (CT I)",
+  "druckausgabe": "II-1",
+  "zeilenstart": "8",
+  "foliostart": "193v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "Pa 1235-20v-13-",
+    "Endseite": "193v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Innoc intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

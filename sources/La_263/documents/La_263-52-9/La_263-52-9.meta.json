@@ -1,0 +1,41 @@
+{
+  "id": "a223ba01-d20b-46cb-8124-6e62ff0fe465",
+  "quelle_id": "La 263",
+  "dokumenten_id": "La 263-52-9",
+  "gattung1": "Gloria",
+  "gattung2": "untropiert",
+  "festtag": "Ascensio domini",
+  "feier": "Messe",
+  "textinitium": "Gloria in excelsis*",
+  "bibliographischerverweis": "",
+  "druckausgabe": "I-1",
+  "zeilenstart": "9",
+  "foliostart": "52",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Charles M. Atkinson",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "52",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "Bosse 22",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509502",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

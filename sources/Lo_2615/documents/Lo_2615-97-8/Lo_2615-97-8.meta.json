@@ -1,0 +1,41 @@
+{
+  "id": "556d0886-c275-4c65-8013-419ecb6f6ff2",
+  "quelle_id": "Lo 2615",
+  "dokumenten_id": "Lo 2615-97-8",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Octava nativitatis",
+  "feier": "Matutin",
+  "textinitium": "Vocate mathematicos",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "8",
+  "foliostart": "97",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "97",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Lo 2615-95-1S",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Play of Daniel",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

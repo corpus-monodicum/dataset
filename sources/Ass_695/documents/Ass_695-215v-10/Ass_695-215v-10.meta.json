@@ -1,0 +1,41 @@
+{
+  "id": "7ddb7291-039c-4bf2-8caf-7f75eaeac353",
+  "quelle_id": "Ass 695",
+  "dokumenten_id": "Ass 695-215v-10",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Aegidius",
+  "feier": "Messe",
+  "textinitium": "Promat pia vox",
+  "bibliographischerverweis": "AH 39, 93",
+  "druckausgabe": "CM III",
+  "zeilenstart": "10",
+  "foliostart": "215v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "217",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

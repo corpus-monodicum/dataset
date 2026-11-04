@@ -1,0 +1,25 @@
+{
+  "id": "Mil 25",
+  "quellensigle": "Mil 25",
+  "herkunftsregion": "Quellen italienischer Herkunft",
+  "herkunftsort": "unbekannt",
+  "herkunftsinstitution": "nicht bekannt",
+  "ordenstradition": "nicht bekannt",
+  "quellentyp": "Graduale",
+  "bibliotheksort": "Mailand",
+  "bibliothek": "Biblioteca Ambrosiana",
+  "bibliothekssignatur": "D 25 supra",
+  "kommentar": "Hinteres Spiegelblatt eines Codex (\"Meditazione sopra la vita di Christo ...\") aus dem Jahre 1443",
+  "datierung": "",
+  "status": "",
+  "jahrhundert": "",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Mil 25",
+  "cantus_century": "",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Mil_25.description.md"
+  }
+}

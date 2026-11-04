@@ -1,0 +1,41 @@
+{
+  "id": "d4e523c6-ce87-4038-85f4-dd2600ebef7b",
+  "quelle_id": "Pa 1118",
+  "dokumenten_id": "Pa 1118-230v-12",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Martinus",
+  "feier": "",
+  "textinitium": "O Martine sacer",
+  "bibliographischerverweis": "AH 7, 174",
+  "druckausgabe": "",
+  "zeilenstart": "12",
+  "foliostart": "230v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "231v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "(O Martine)",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

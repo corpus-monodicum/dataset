@@ -1,0 +1,41 @@
+{
+  "id": "b5d255a7-261e-48cf-8249-f94dc14466fd",
+  "quelle_id": "Pia 65",
+  "dokumenten_id": "Pia 65-250b-7",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Dedicatio ecclesiae",
+  "feier": "Messe",
+  "textinitium": "Hodie fratres haec aula",
+  "bibliographischerverweis": "Ded intr 127 A 128 B 129 C D A E A (CT VIII)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "7",
+  "foliostart": "250b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Terribilis",
+    "Endseite": "250b",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "19",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Ded intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d542c011-f3c1-4272-b2f1-dd9ad9b7b886",
+  "quelle_id": "Or 201",
+  "dokumenten_id": "Or 201-226-29",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Feria III post Pascha",
+  "feier": "Vesper",
+  "textinitium": "Sol occasum",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "29",
+  "foliostart": "226",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "226",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Or 201-225-35S",
+    "Endzeile": "31",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Journey to Emmaus",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

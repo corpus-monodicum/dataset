@@ -1,0 +1,41 @@
+{
+  "id": "24ec102c-fff3-4e27-bdbd-494c2bc45a85",
+  "quelle_id": "RoV 52",
+  "dokumenten_id": "RoV 52-153v-1",
+  "gattung1": "Gloria",
+  "gattung2": "tropiert",
+  "festtag": "Nativitas domini",
+  "feier": "Messe",
+  "textinitium": "Laus tua deus",
+  "bibliographischerverweis": "CT XII, 38: 1 17 2 35 5 3 33 6 7 8 R",
+  "druckausgabe": "",
+  "zeilenstart": "1",
+  "foliostart": "153v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "154v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "Bosse 39",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509502",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

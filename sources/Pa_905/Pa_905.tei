@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pa 905: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Edition (Ordinariumsgesänge)</resp>
+          <persName>Charles M. Atkinson</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Jasmin Hartmann-Strauß</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="Pa_905">
+          <msIdentifier>
+            <settlement>Paris</settlement>
+            <repository>Bibliothèque nationale de France</repository>
+            <idno type="shelfmark">Lat. 905</idno>
+            <altIdentifier type="siglum">
+              <idno>Pa 905</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>Pa 905</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <term type="quellentyp">Graduale, Kyriale</term>
+            </summary>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="104v">f. 104v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 905-104v-1</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="104v">f. 104v</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pa 905-104v-5</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="289">f. 289</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 905-289-11</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="289v">f. 289v</locus>
+              <title type="incipit">Spiritus et alme</title>
+              <idno type="dokumenten_id">Pa 905-289v-5</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="298">f. 298</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 905-298-11</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="298v">f. 298v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 905-298v-4</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="298v">f. 298v</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Pa 905-298v-8</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="299">f. 299</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 905-299-11</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="299v">f. 299v</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Pa 905-299v-3</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="300">f. 300</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 905-300-6</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="300">f. 300</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Pa 905-300-8</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="300v">f. 300v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 905-300v-10</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="301">f. 301</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 905-301-4</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="301">f. 301</locus>
+              <title type="incipit">Mariae filius</title>
+              <idno type="dokumenten_id">Pa 905-301-9</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="301v">f. 301v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Pa 905-301v-1</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="301v">f. 301v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Pa 905-301v-11</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="301v">f. 301v</locus>
+              <title type="incipit">Sanctus … dominus deus</title>
+              <idno type="dokumenten_id">Pa 905-301v-7</idno>
+            </msItem>
+            <msItem n="18">
+              <locus from="302">f. 302</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Pa 905-302-10</idno>
+            </msItem>
+            <msItem n="19">
+              <locus from="302">f. 302</locus>
+              <title type="incipit">Sanctus … dominus deus</title>
+              <idno type="dokumenten_id">Pa 905-302-5</idno>
+            </msItem>
+            <msItem n="20">
+              <locus from="302v">f. 302v</locus>
+              <title type="incipit">Sanctus … dominus deus</title>
+              <idno type="dokumenten_id">Pa 905-302v-4</idno>
+            </msItem>
+            <msItem n="21">
+              <locus from="302v">f. 302v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Pa 905-302v-9</idno>
+            </msItem>
+            <msItem n="22">
+              <locus from="303">f. 303</locus>
+              <title type="incipit">Sanctus … dominus deus</title>
+              <idno type="dokumenten_id">Pa 905-303-3</idno>
+            </msItem>
+            <msItem n="23">
+              <locus from="303">f. 303</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Pa 905-303-7</idno>
+            </msItem>
+            <msItem n="24">
+              <locus from="307">f. 307</locus>
+              <title type="incipit">Kyrie fons bonitatis</title>
+              <idno type="dokumenten_id">Pa 905-307-1</idno>
+            </msItem>
+            <msItem n="25">
+              <locus from="308">f. 308</locus>
+              <title type="incipit">Cunctipotens genitor</title>
+              <idno type="dokumenten_id">Pa 905-308-4</idno>
+            </msItem>
+            <msItem n="26">
+              <locus from="308v">f. 308v</locus>
+              <title type="incipit">Credo in unum deum</title>
+              <idno type="dokumenten_id">Pa 905-308v-7</idno>
+            </msItem>
+            <msItem n="27">
+              <locus from="310">f. 310</locus>
+              <title type="incipit">Kyrie lux claritatis</title>
+              <idno type="dokumenten_id">Pa 905-310-11</idno>
+            </msItem>
+            <msItem n="28">
+              <locus from="314">f. 314</locus>
+              <title type="incipit">Sanctus … dominus deus*</title>
+              <idno type="dokumenten_id">Pa 905-314-11</idno>
+            </msItem>
+            <msItem n="29">
+              <locus from="314">f. 314</locus>
+              <title type="incipit">Rex virginum amator</title>
+              <idno type="dokumenten_id">Pa 905-314-12</idno>
+            </msItem>
+            <msItem n="30">
+              <locus from="315">f. 315</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 905-315-10</idno>
+            </msItem>
+            <msItem n="31">
+              <locus from="315v">f. 315v</locus>
+              <title type="incipit">Sanctus … dominus deus</title>
+              <idno type="dokumenten_id">Pa 905-315v-6</idno>
+            </msItem>
+            <msItem n="32">
+              <locus from="316">f. 316</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Pa 905-316-1</idno>
+            </msItem>
+            <msItem n="33">
+              <locus from="316">f. 316</locus>
+              <title type="incipit">Sanctus … dominus deus</title>
+              <idno type="dokumenten_id">Pa 905-316-11</idno>
+            </msItem>
+            <msItem n="34">
+              <locus from="316v">f. 316v</locus>
+              <title type="incipit">Sanctus … dominus deus</title>
+              <idno type="dokumenten_id">Pa 905-316v-12</idno>
+            </msItem>
+            <msItem n="35">
+              <locus from="316v">f. 316v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Pa 905-316v-3</idno>
+            </msItem>
+            <msItem n="36">
+              <locus from="317">f. 317</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Pa 905-317-8</idno>
+            </msItem>
+            <msItem n="37">
+              <locus from="317v">f. 317v</locus>
+              <title type="incipit">Sanctus … dominus deus</title>
+              <idno type="dokumenten_id">Pa 905-317v-8</idno>
+            </msItem>
+            <msItem n="38">
+              <locus from="318">f. 318</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Pa 905-318-5</idno>
+            </msItem>
+            <msItem n="39">
+              <locus from="318v">f. 318v</locus>
+              <title type="incipit">Sanctus … dominus deus</title>
+              <idno type="dokumenten_id">Pa 905-318v-6</idno>
+            </msItem>
+            <msItem n="40">
+              <locus from="319">f. 319</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Pa 905-319-1</idno>
+            </msItem>
+            <msItem n="41">
+              <locus from="319">f. 319</locus>
+              <title type="incipit">Sanctus … dominus deus</title>
+              <idno type="dokumenten_id">Pa 905-319-9</idno>
+            </msItem>
+            <msItem n="42">
+              <locus from="319v">f. 319v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Pa 905-319v-5</idno>
+            </msItem>
+            <msItem n="43">
+              <locus from="320">f. 320</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Pa 905-320-14</idno>
+            </msItem>
+            <msItem n="44">
+              <locus from="320">f. 320</locus>
+              <title type="incipit">Sanctus … dominus deus</title>
+              <idno type="dokumenten_id">Pa 905-320-7</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Rouen</settlement>
+                <region>Quellen französischer Herkunft</region>
+              </origPlace>
+              <origDate>15. Jh</origDate>
+            </origin>
+          </history>
+          <additional>
+            <adminInfo>
+              <note type="description">
+                <ref target="Pa_905.description.md">Source description</ref>
+              </note>
+            </adminInfo>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

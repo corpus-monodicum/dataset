@@ -1,0 +1,41 @@
+{
+  "id": "c692f4c1-b47f-4c7e-a0ca-86b95cd00959",
+  "quelle_id": "La 263",
+  "dokumenten_id": "La 263-45-8b",
+  "gattung1": "Kyrie",
+  "gattung2": "tropiert",
+  "festtag": "Pascha",
+  "feier": "Messe",
+  "textinitium": "Cunctipotens genitor*",
+  "bibliographischerverweis": "AH 47, 4",
+  "druckausgabe": "I-1",
+  "zeilenstart": "8",
+  "foliostart": "45",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Charles M. Atkinson",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "45",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "Melnicki 18",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509501",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

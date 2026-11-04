@@ -1,0 +1,41 @@
+{
+  "id": "3e4a769a-dedf-4535-9da0-18e861598f80",
+  "quelle_id": "Ass 695",
+  "dokumenten_id": "Ass 695-201v-8",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Quintinus",
+  "feier": "Messe",
+  "textinitium": "Per unius casum",
+  "bibliographischerverweis": "AH 39, 286",
+  "druckausgabe": "CM III",
+  "zeilenstart": "8",
+  "foliostart": "201v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "203",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "Beginn fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

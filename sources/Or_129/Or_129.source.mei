@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Or 129: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Spiele)</resp>
+          <persName>Elaine Stratton Hild</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="Or_129">
+        <identifier type="siglum">Or 129</identifier>
+        <identifier type="cantus">Or 129</identifier>
+        <titleStmt>
+          <title>Or 129</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Fleury</geogName>
+          <geogName role="origin-region">Quellen französischer Herkunft</geogName>
+          <date>13. Jh</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="149">f. 149</locus>
+            <title type="incipit">Christus vincit</title>
+            <identifier type="dokumenten_id">Or 129-149-1</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="150v">f. 150v</locus>
+            <title type="incipit">Fulgens praeclara</title>
+            <identifier type="dokumenten_id">Or 129-150v-1</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="152">f. 152</locus>
+            <title type="incipit">Ego sum alpha et</title>
+            <identifier type="dokumenten_id">Or 129-152-5</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="152v">f. 152v</locus>
+            <title type="incipit">Venite populi ad sacrum</title>
+            <identifier type="dokumenten_id">Or 129-152v-4</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="153">f. 153</locus>
+            <title type="incipit">Hunc diem</title>
+            <identifier type="dokumenten_id">Or 129-153-3</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="153v">f. 153v</locus>
+            <title type="incipit">Ite missa est*</title>
+            <identifier type="dokumenten_id">Or 129-153v-15</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="217">f. 217</locus>
+            <title type="incipit">Vidi aquam</title>
+            <identifier type="dokumenten_id">Or 129-217-6</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="217v">f. 217v</locus>
+            <title type="incipit">Sedit angelus</title>
+            <identifier type="dokumenten_id">Or 129-217v-1</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="217v">f. 217v</locus>
+            <title type="incipit">Christus resurgens</title>
+            <identifier type="dokumenten_id">Or 129-217v-8</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="36-b">f. 36-b</locus>
+            <title type="incipit">Quem quaeritis in sepulchro</title>
+            <identifier type="dokumenten_id">Or 129-36-b-14</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus from="36-b">f. 36-b</locus>
+            <title type="incipit">Alleluia resurrexit dominus</title>
+            <identifier type="dokumenten_id">Or 129-36-b-20</identifier>
+          </contentItem>
+          <contentItem n="12">
+            <locus from="36-b">f. 36-b</locus>
+            <title type="incipit">Deo gratias</title>
+            <identifier type="dokumenten_id">Or 129-36-b-21</identifier>
+          </contentItem>
+          <contentItem n="13">
+            <locus from="36-b">f. 36-b</locus>
+            <title type="incipit">Ego sum alpha et*</title>
+            <identifier type="dokumenten_id">Or 129-36-b-26</identifier>
+          </contentItem>
+          <contentItem n="14">
+            <locus from="36v-a">f. 36v-a</locus>
+            <title type="incipit">Venite populi ad sacrum*</title>
+            <identifier type="dokumenten_id">Or 129-36v-a-4</identifier>
+          </contentItem>
+          <contentItem n="15">
+            <locus from="46-a">f. 46-a</locus>
+            <title type="incipit">Ite in orbem*</title>
+            <identifier type="dokumenten_id">Or 129-46-a-11</identifier>
+          </contentItem>
+          <contentItem n="16">
+            <locus from="46-a">f. 46-a</locus>
+            <title type="incipit">Cum pervenisset</title>
+            <identifier type="dokumenten_id">Or 129-46-a-13</identifier>
+          </contentItem>
+          <contentItem n="17">
+            <locus from="46-a">f. 46-a</locus>
+            <identifier type="dokumenten_id">Or 129-46-a-14b</identifier>
+          </contentItem>
+          <contentItem n="18">
+            <locus from="46-a">f. 46-a</locus>
+            <identifier type="dokumenten_id">Or 129-46-a-15</identifier>
+          </contentItem>
+          <contentItem n="19">
+            <locus from="46-a">f. 46-a</locus>
+            <title type="incipit">Haec sunt verba*</title>
+            <identifier type="dokumenten_id">Or 129-46-a-19</identifier>
+          </contentItem>
+          <contentItem n="20">
+            <locus from="46-a">f. 46-a</locus>
+            <title type="incipit">O rex gloriae*</title>
+            <identifier type="dokumenten_id">Or 129-46-a-23</identifier>
+          </contentItem>
+          <contentItem n="21">
+            <locus from="46-a">f. 46-a</locus>
+            <title type="incipit">Vidi aquam*</title>
+            <identifier type="dokumenten_id">Or 129-46-a-26</identifier>
+          </contentItem>
+          <contentItem n="22">
+            <locus from="46-b">f. 46-b</locus>
+            <title type="incipit">Christus resurgens*</title>
+            <identifier type="dokumenten_id">Or 129-46-b-13</identifier>
+          </contentItem>
+          <contentItem n="23">
+            <locus from="46-b">f. 46-b</locus>
+            <title type="incipit">Quem cernitis*</title>
+            <identifier type="dokumenten_id">Or 129-46-b-17</identifier>
+          </contentItem>
+          <contentItem n="24">
+            <locus from="46-b">f. 46-b</locus>
+            <title type="incipit">Sedit angelus*</title>
+            <identifier type="dokumenten_id">Or 129-46-b-6</identifier>
+          </contentItem>
+        </contents>
+        <notesStmt>
+          <annot type="description">
+            <ref target="Or_129.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">Ms. 129</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">Orléans</geogName>
+                <corpName>Bibliothèque municipale</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

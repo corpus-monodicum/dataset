@@ -1,0 +1,41 @@
+{
+  "id": "3474b1cf-fd74-422f-ab9d-fa1bf29f9afd",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-30v-1",
+  "gattung1": "Tropus",
+  "gattung2": "Offertorium-Tropus",
+  "festtag": "Epiphania",
+  "feier": "Messe",
+  "textinitium": "Laetetur omnis",
+  "bibliographischerverweis": "Epiph intr 76 A E 15 A 17 B 18 C 19 D 95 (CT I)",
+  "druckausgabe": "II-1",
+  "zeilenstart": "1",
+  "foliostart": "30v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "Pro 12 30v-3-",
+    "Endseite": "30v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Epiph intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

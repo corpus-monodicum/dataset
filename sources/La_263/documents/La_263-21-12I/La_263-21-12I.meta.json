@@ -1,0 +1,41 @@
+{
+  "id": "54c65223-e5ae-4edb-bbe8-c61c66298847",
+  "quelle_id": "La 263",
+  "dokumenten_id": "La 263-21-12I",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Dedicatio ecclesiae",
+  "feier": "Messe",
+  "textinitium": "Doxe per saecula",
+  "bibliographischerverweis": "Ded intr A [mel II H] 148^CM B (CT VIII)",
+  "druckausgabe": "II-1",
+  "zeilenstart": "12",
+  "foliostart": "21",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "(Terribilis)",
+    "Endseite": "21",
+    "Startposition": "I",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "15",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Ded intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

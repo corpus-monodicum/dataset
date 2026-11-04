@@ -1,0 +1,41 @@
+{
+  "id": "50e877ef-957d-4fc9-ad93-815a80c80a58",
+  "quelle_id": "Pa 1118",
+  "dokumenten_id": "Pa 1118-193-2",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Trinitas",
+  "feier": "",
+  "textinitium": "O alma trinitas deitas",
+  "bibliographischerverweis": "AH 7, 97",
+  "druckausgabe": "",
+  "zeilenstart": "2",
+  "foliostart": "193",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "193v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "O alma minor",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

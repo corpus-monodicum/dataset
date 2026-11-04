@@ -1,0 +1,41 @@
+{
+  "id": "9b17357e-0db2-4b1c-bf57-b2b4e7f0a4f2",
+  "quelle_id": "Ma 289",
+  "dokumenten_id": "Ma 289-139v-8",
+  "gattung1": "Lied",
+  "gattung2": "Benedicamus",
+  "festtag": "Dedicatio ecclesiae",
+  "feier": "",
+  "textinitium": "Haec est domus",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "8",
+  "foliostart": "139v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Konstantin Voigt",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "139v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

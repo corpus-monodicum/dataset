@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Nvr G3: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Michael Klaper</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Gunilla Iversen</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Ritva Maria Jacobsson</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="Nvr_G3">
+          <msIdentifier>
+            <settlement>Novara</settlement>
+            <repository>Archivio Storico Diocesano</repository>
+            <idno type="shelfmark">Ms. G3</idno>
+            <altIdentifier type="siglum">
+              <idno>Nvr G3</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>Nvr G3</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <term type="quellentyp">Graduale, Tropar</term>
+            </summary>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="1">f. 1</locus>
+              <title type="incipit">Gregorius praesul</title>
+              <idno type="dokumenten_id">Nvr G3-1-1</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="1">f. 1</locus>
+              <title type="incipit">Ad te levavi</title>
+              <idno type="dokumenten_id">Nvr G3-1-8</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="13">f. 13</locus>
+              <title type="incipit">Iam fulget</title>
+              <idno type="dokumenten_id">Nvr G3-13-4</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="13v">f. 13v</locus>
+              <title type="incipit">Lux fulgebit</title>
+              <idno type="dokumenten_id">Nvr G3-13v-2</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="14v">f. 14v</locus>
+              <title type="incipit">Quem quaeritis in praesepe</title>
+              <idno type="dokumenten_id">Nvr G3-14v-6</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="15">f. 15</locus>
+              <title type="incipit">Puer natus est nobis</title>
+              <idno type="dokumenten_id">Nvr G3-15-1</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="15">f. 15</locus>
+              <title type="incipit">Archangeli laetantur</title>
+              <idno type="dokumenten_id">Nvr G3-15-2</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="17v">f. 17v</locus>
+              <title type="incipit">Beatus protomartyr</title>
+              <idno type="dokumenten_id">Nvr G3-17v-5</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="21">f. 21</locus>
+              <title type="incipit">Quoniam dominus</title>
+              <idno type="dokumenten_id">Nvr G3-21-5</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="29">f. 29</locus>
+              <title type="incipit">Haec est praeclara dies</title>
+              <idno type="dokumenten_id">Nvr G3-29-5</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="92v">f. 92v</locus>
+              <title type="incipit">Hodie sanctissimi patroni ... Petri</title>
+              <idno type="dokumenten_id">Nvr G3-92v-1</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Borgosesia</settlement>
+                <region>Quellen italienischer Herkunft</region>
+              </origPlace>
+              <origDate>13. Jh – 14. Jh</origDate>
+            </origin>
+          </history>
+          <additional>
+            <adminInfo>
+              <note type="description">
+                <ref target="Nvr_G3.description.md">Source description</ref>
+              </note>
+            </adminInfo>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

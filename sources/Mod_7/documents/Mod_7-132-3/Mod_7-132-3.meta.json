@@ -1,0 +1,41 @@
+{
+  "id": "d18255ba-b31f-40b6-a936-de3ce6b6a7d3",
+  "quelle_id": "Mod 7",
+  "dokumenten_id": "Mod 7-132-3",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Dedicatio ecclesiae",
+  "feier": "Messe",
+  "textinitium": "Agmina perenniter",
+  "bibliographischerverweis": "Ded intr 80 A 131 B 132 C 45 D E (CT VIII)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "3",
+  "foliostart": "132",
+  "kommentar": "Elemente 131, 132 und 45 radiert",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Terribilis",
+    "Endseite": "132",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Ded intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

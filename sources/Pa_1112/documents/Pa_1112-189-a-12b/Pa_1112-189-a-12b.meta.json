@@ -1,0 +1,41 @@
+{
+  "id": "a5197175-86b8-4c38-bb0e-0f1e174d6728",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-189-a-12b",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Bartholomaeus",
+  "feier": "Messe",
+  "textinitium": "Laudemus omnes*",
+  "bibliographischerverweis": "AH 55, 86",
+  "druckausgabe": "",
+  "zeilenstart": "12",
+  "foliostart": "189-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "189a",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

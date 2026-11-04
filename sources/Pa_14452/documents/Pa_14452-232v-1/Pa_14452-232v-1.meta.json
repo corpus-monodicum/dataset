@@ -1,0 +1,41 @@
+{
+  "id": "83c63b8c-f706-49ad-bcc5-630fdc7ce5f3",
+  "quelle_id": "Pa 14452",
+  "dokumenten_id": "Pa 14452-232v-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Adventus",
+  "feier": "Messe",
+  "textinitium": "Mittit ad virginem",
+  "bibliographischerverweis": "AH 54, 191",
+  "druckausgabe": "CM III",
+  "zeilenstart": "1",
+  "foliostart": "232v",
+  "kommentar": "Nachtrag_6",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "233v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "Nachtrag_6",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "dd36d18b-3d6e-4bab-9a46-00afebbac238",
+  "quelle_id": "Pad 55",
+  "dokumenten_id": "Pad 55-14v-4",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Responsorium",
+  "festtag": "Purificatio Mariae",
+  "feier": "Prozession",
+  "textinitium": "Obtulerunt pro eo ... sicut scriptum",
+  "bibliographischerverweis": "CAO 7307",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "4",
+  "foliostart": "14v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "15",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Pad 55-12v-4S",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Presentation of Jesus",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

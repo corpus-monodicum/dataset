@@ -1,0 +1,41 @@
+{
+  "id": "dea4f190-21f6-4179-b15c-66fc5f9cd5ae",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-24v-1",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Petrus et Paulus",
+  "feier": "Messe",
+  "textinitium": "Petri clavigeri cari",
+  "bibliographischerverweis": "Nunc scio vere intr 74 A 50 A 25 A 14 C 15 D 16 F 17 G 53 H [mel III G] 13 A [mel 1] B 38 C 39 E 40 G I [mel III B] 29 A 30 B [mel 2] 31 C [mel 3] 32 D 33 F 34 G (CT X)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "1",
+  "foliostart": "24v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "(Nunc scio)",
+    "Endseite": "25v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Nunc scio vere intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

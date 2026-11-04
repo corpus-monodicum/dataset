@@ -1,0 +1,41 @@
+{
+  "id": "c7a251e5-c4cf-4b78-856f-65d3b34ae15e",
+  "quelle_id": "Rou 222",
+  "dokumenten_id": "Rou 222-4v-7c",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Sanctus",
+  "festtag": "Epiphania",
+  "feier": "Messe",
+  "textinitium": "Sanctus ... dominus deus*",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "7",
+  "foliostart": "4v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "4v",
+    "Startposition": "c",
+    "Referenz_auf_Spiel": "Rou 222-4-4S",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "Beginn fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Magi play",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3fae41dc-7570-4d21-8943-d1ec53a962b9",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-199v-b-5b",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Quintinus",
+  "feier": "Messe",
+  "textinitium": "Per unius casum*",
+  "bibliographischerverweis": "AH 39, 286",
+  "druckausgabe": "",
+  "zeilenstart": "5",
+  "foliostart": "199v-b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "199v-b",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

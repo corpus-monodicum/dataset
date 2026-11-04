@@ -1,0 +1,41 @@
+{
+  "id": "02eaccb5-8497-4b97-9aa7-2bc667d2d7cc",
+  "quelle_id": "Ben 34",
+  "dokumenten_id": "Ben 34-186-3",
+  "gattung1": "Gloria",
+  "gattung2": "tropiert",
+  "festtag": "Pentecoste",
+  "feier": "Messe",
+  "textinitium": "Qui deus et rector",
+  "bibliographischerverweis": "CT XII, 82: 1 2 3 4 5 6 7 8 9 10 11 12 13 15",
+  "druckausgabe": "",
+  "zeilenstart": "3",
+  "foliostart": "186",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "187",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "Bosse 11",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509502",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

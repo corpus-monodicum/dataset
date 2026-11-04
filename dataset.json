@@ -1,0 +1,42 @@
+{
+  "layout_version": 1,
+  "name": "corpus-monodicum-review-2026-11-04",
+  "version": "review-2026-11-04",
+  "created": "2026-11-04T10:37:19.025808+00:00",
+  "profile_level": 3,
+  "source_format": "both",
+  "status": "release",
+  "counts": {
+    "sources": 116,
+    "documents": 6881
+  },
+  "credits": {
+    "rows": 295,
+    "sources_not_in_this_dataset": 20
+  },
+  "privacy": {
+    "email_addresses_in_output": 0,
+    "fields_where_addresses_were_replaced_by_names": 0
+  },
+  "notation": {
+    "sources": 17,
+    "images_copied": 17,
+    "image_links_unresolved": 0,
+    "vector_sources": 17,
+    "lines_with_iiif": 53,
+    "lines_without_image": 150,
+    "microfilm_sources": 2,
+    "annotation_files": 35,
+    "annotations_not_in_dataset": [
+      "Nau I_hys_Chorbuch"
+    ]
+  },
+  "tools": {
+    "name": "CM-hub",
+    "version": "0.1.0",
+    "mapping_spec_version": 1
+  },
+  "not_generated": [],
+  "licence": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "licence_confirmed": true
+}

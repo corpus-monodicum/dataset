@@ -1,0 +1,25 @@
+{
+  "id": "NY 905",
+  "quellensigle": "NY 905",
+  "herkunftsregion": "Quellen deutscher Herkunft",
+  "herkunftsort": "Nürnberg",
+  "herkunftsinstitution": "Sankt Lorenz",
+  "ordenstradition": "",
+  "quellentyp": "Graduale mit Tropen und Sequenzen, Kyriale mit Tropen (zwei Bände)",
+  "bibliotheksort": "New York",
+  "bibliothek": "The Morgan Library & Museum",
+  "bibliothekssignatur": "M. 905 (\"Gänsebuch\")",
+  "kommentar": "",
+  "datierung": "16. Jh (1507 Band I, 1510 Band II)",
+  "status": "",
+  "jahrhundert": "16.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "NY 905",
+  "cantus_century": "16.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "NY_905.description.md"
+  }
+}

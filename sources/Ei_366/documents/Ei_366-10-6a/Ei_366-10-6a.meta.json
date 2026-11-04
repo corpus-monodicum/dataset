@@ -1,0 +1,41 @@
+{
+  "id": "748a2f18-7463-47e0-aeeb-41648564549",
+  "quelle_id": "Ei 366",
+  "dokumenten_id": "Ei 366-10-6a",
+  "gattung1": "Sequenz",
+  "gattung2": "Textlos",
+  "festtag": "Assumptio Mariae",
+  "feier": "Messe",
+  "textinitium": "Alleluia",
+  "bibliographischerverweis": "AH 7, 107",
+  "druckausgabe": "CM III",
+  "zeilenstart": "6",
+  "foliostart": "10",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "10a",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "16",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Hodie Maria virgo",
+    "Überlieferungszustand": "Abschnitt im Inneren fehlt; Ende fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

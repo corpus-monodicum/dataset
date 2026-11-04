@@ -1,0 +1,41 @@
+{
+  "id": "6172fc98-d0ab-4b00-98dc-33638994de77",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-13v-5",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Pascha",
+  "feier": "Messe",
+  "textinitium": "Quem quaeritis in sepulchro",
+  "bibliographischerverweis": "Resurr intr Q A (CT III, S. 217-218) A 50 A 51 C 52 D G 64 A 65 C 66 D H 88 A 89 C 90 D 91 F 92 A 46 C 47 D 48 F 49 A 93 C 94 D 57 F 95 A 96 C 97 D 98 F 58 A [mel 1] 59 B [mel 2] 60 C [mel 3] 61 D [mel 4] 62 E [mel 5] 63 F I [mel IV B] (CT III)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "5",
+  "foliostart": "13v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "(Resurrexi)",
+    "Endseite": "15",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "Beginn fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Resurr intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

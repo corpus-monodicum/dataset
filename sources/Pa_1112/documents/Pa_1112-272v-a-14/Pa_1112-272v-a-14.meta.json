@@ -1,0 +1,41 @@
+{
+  "id": "aa6ae58a-694f-4029-89c9-2b155f89985c",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-272v-a-14",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Sabbatum post Pentecosten",
+  "feier": "Messe",
+  "textinitium": "Sancti spiritus … Quae corda*",
+  "bibliographischerverweis": "AH 53, 70",
+  "druckausgabe": "CM III",
+  "zeilenstart": "14",
+  "foliostart": "272v-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "272v-a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "14",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Occidentana",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

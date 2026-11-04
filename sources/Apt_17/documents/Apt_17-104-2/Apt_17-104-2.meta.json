@@ -1,0 +1,41 @@
+{
+  "id": "28a120cf-afe5-4607-9ee8-070a115a86b4",
+  "quelle_id": "Apt 17",
+  "dokumenten_id": "Apt 17-104-2",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Fabianus et Sebastianus",
+  "feier": "Messe",
+  "textinitium": "Organicis ... qui in suis",
+  "bibliographischerverweis": "AH 53, 242",
+  "druckausgabe": "",
+  "zeilenstart": "2",
+  "foliostart": "104",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "106",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Iustus ut palma maior",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "de125049-8752-47a3-9d24-ea97451894c5",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-145v-11",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dionysius",
+  "feier": "Messe",
+  "textinitium": "Gaude prole Graecia",
+  "bibliographischerverweis": "AH 55, 113",
+  "druckausgabe": "CM III",
+  "zeilenstart": "11",
+  "foliostart": "145v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "146v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

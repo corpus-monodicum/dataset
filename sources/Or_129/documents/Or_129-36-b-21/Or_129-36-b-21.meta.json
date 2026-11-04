@@ -1,0 +1,41 @@
+{
+  "id": "278fba62-b0ee-407f-9d12-a42b63798a51",
+  "quelle_id": "Or 129",
+  "dokumenten_id": "Or 129-36-b-21",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Pascha",
+  "feier": "Messe",
+  "textinitium": "Deo gratias",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "21",
+  "foliostart": "36-b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "36b",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Or 129-36-b-14S",
+    "Endzeile": "21",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Easter play / Osterspiel",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

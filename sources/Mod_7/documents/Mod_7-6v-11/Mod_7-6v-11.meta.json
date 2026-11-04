@@ -1,0 +1,41 @@
+{
+  "id": "eb23dad9-5d3f-4a3e-b286-879077c8fe81",
+  "quelle_id": "Mod 7",
+  "dokumenten_id": "Mod 7-6v-11",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Nativitas domini",
+  "feier": "3. Messe",
+  "textinitium": "Quem quaeritis in praesepe",
+  "bibliographischerverweis": "Nat III intr 62 A 117 33 A 31 C 51 D 120 A E F (CT I)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "11",
+  "foliostart": "6v",
+  "kommentar": "Elemente 31, 51 und 120 radiert",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Puer natus",
+    "Endseite": "7v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "Beginn fehlt; Abschnitt im Inneren fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Nat III intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

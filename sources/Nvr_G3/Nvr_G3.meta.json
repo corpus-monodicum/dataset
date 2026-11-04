@@ -1,0 +1,25 @@
+{
+  "id": "Nvr G3",
+  "quellensigle": "Nvr G3",
+  "herkunftsregion": "Quellen italienischer Herkunft",
+  "herkunftsort": "Borgosesia",
+  "herkunftsinstitution": "",
+  "ordenstradition": "",
+  "quellentyp": "Graduale, Tropar",
+  "bibliotheksort": "Novara",
+  "bibliothek": "Archivio Storico Diocesano",
+  "bibliothekssignatur": "Ms. G3",
+  "kommentar": "",
+  "datierung": "13. Jh – 14. Jh",
+  "status": "",
+  "jahrhundert": "13., 14.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Nvr G3",
+  "cantus_century": "13., 14.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Nvr_G3.description.md"
+  }
+}

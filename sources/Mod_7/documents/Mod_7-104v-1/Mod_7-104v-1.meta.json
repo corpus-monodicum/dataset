@@ -1,0 +1,41 @@
+{
+  "id": "a760380c-81ba-4d92-aff0-95d50b4e2ab7",
+  "quelle_id": "Mod 7",
+  "dokumenten_id": "Mod 7-104v-1",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Pascha",
+  "feier": "Messe",
+  "textinitium": "Quem quaeritis in sepulchro",
+  "bibliographischerverweis": "Resurr intr Q B F (CT III, S. 217-219) A 164 67 A 68 B 69 C D E (CT III)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "1",
+  "foliostart": "104v",
+  "kommentar": "Elemente 68 und 69 radiert",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Resurrexi",
+    "Endseite": "105",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Resurr intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6ce81650-a3db-441e-8396-5d9472245f1a",
+  "quelle_id": "Pa 778",
+  "dokumenten_id": "Pa 778-152-7",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Michael",
+  "feier": "Messe",
+  "textinitium": "Laudat Christum",
+  "bibliographischerverweis": "AH 44, S. 7",
+  "druckausgabe": "",
+  "zeilenstart": "7",
+  "foliostart": "152",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "152",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Alme martyr ?",
+    "Überlieferungszustand": "Ende fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "751135c1-7c1c-4814-9b1b-cd5af7b1b0ba",
+  "quelle_id": "Mod 7",
+  "dokumenten_id": "Mod 7-34-5",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Marcellus",
+  "feier": "Messe",
+  "textinitium": "Divini fuerat",
+  "bibliographischerverweis": "Statuit intr 8 A 16 B 17 C D (CT X)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "5",
+  "foliostart": "34",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Statuit",
+    "Endseite": "34",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "Abschnitt im Inneren fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Statuit intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

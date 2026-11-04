@@ -1,0 +1,41 @@
+{
+  "id": "e428897a-8f24-4640-a465-79374e2cdb41",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-41v-8",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Vincentius",
+  "feier": "Messe",
+  "textinitium": "Laetabitur iustus",
+  "bibliographischerverweis": "AMS 27",
+  "druckausgabe": "II-1",
+  "zeilenstart": "8",
+  "foliostart": "41v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "42",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

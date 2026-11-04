@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Lo 4: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Ordinariumsgesänge)</resp>
+          <persName>Jasmin Hartmann-Strauß</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Jasmin Hartmann-Strauß</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="Lo_4">
+        <identifier type="siglum">Lo 4</identifier>
+        <identifier type="cantus">Lo 4</identifier>
+        <titleStmt>
+          <title>Lo 4</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Sankt Albans</geogName>
+          <geogName role="origin-region">Quellen englischer Herkunft</geogName>
+          <corpName role="origin-institution">Benediktinerkloster</corpName>
+          <date>12. Jh</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="1">f. 1</locus>
+            <title type="incipit">Te Christe rex</title>
+            <identifier type="dokumenten_id">Lo 4-1-1</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="11">f. 11</locus>
+            <title type="incipit">O pater excelse</title>
+            <identifier type="dokumenten_id">Lo 4-11-5</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="12v">f. 12v</locus>
+            <title type="incipit">Kyrie fons bonitatis</title>
+            <identifier type="dokumenten_id">Lo 4-12v-1</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="14v">f. 14v</locus>
+            <title type="incipit">Kyrie deus sempiterne</title>
+            <identifier type="dokumenten_id">Lo 4-14v-2</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="16">f. 16</locus>
+            <title type="incipit">Orbis factor</title>
+            <identifier type="dokumenten_id">Lo 4-16-4</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="17">f. 17</locus>
+            <title type="incipit">Lux et origo</title>
+            <identifier type="dokumenten_id">Lo 4-17-5</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="184">f. 184</locus>
+            <title type="incipit">Pater ex quo omnia</title>
+            <identifier type="dokumenten_id">Lo 4-184-1</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="184v">f. 184v</locus>
+            <title type="incipit">Deus pater ingenitus</title>
+            <identifier type="dokumenten_id">Lo 4-184v-2</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="186">f. 186</locus>
+            <title type="incipit">Cuncta coaeterno</title>
+            <identifier type="dokumenten_id">Lo 4-186-1</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="186v">f. 186v</locus>
+            <title type="incipit">Sanctorum exultatio</title>
+            <identifier type="dokumenten_id">Lo 4-186v-7</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus from="187v">f. 187v</locus>
+            <title type="incipit">Ex quo sunt omnia</title>
+            <identifier type="dokumenten_id">Lo 4-187v-3</identifier>
+          </contentItem>
+          <contentItem n="12">
+            <locus from="188">f. 188</locus>
+            <title type="incipit">Deus omnipotens pater</title>
+            <identifier type="dokumenten_id">Lo 4-188-6</identifier>
+          </contentItem>
+          <contentItem n="13">
+            <locus from="188v">f. 188v</locus>
+            <title type="incipit">Perpetuo numine</title>
+            <identifier type="dokumenten_id">Lo 4-188v-7</identifier>
+          </contentItem>
+          <contentItem n="14">
+            <locus from="189v">f. 189v</locus>
+            <title type="incipit">Clemens deus pater</title>
+            <identifier type="dokumenten_id">Lo 4-189v-3</identifier>
+          </contentItem>
+          <contentItem n="15">
+            <locus from="18v">f. 18v</locus>
+            <title type="incipit">Kyrie genitor eleison</title>
+            <identifier type="dokumenten_id">Lo 4-18v-1</identifier>
+          </contentItem>
+          <contentItem n="16">
+            <locus from="19">f. 19</locus>
+            <title type="incipit">Kyrie rex genitor</title>
+            <identifier type="dokumenten_id">Lo 4-19-5</identifier>
+          </contentItem>
+          <contentItem n="17">
+            <locus from="190">f. 190</locus>
+            <title type="incipit">Laudes deo ore pio</title>
+            <identifier type="dokumenten_id">Lo 4-190-2</identifier>
+          </contentItem>
+          <contentItem n="18">
+            <locus from="191">f. 191</locus>
+            <title type="incipit">Quem pium benedicit</title>
+            <identifier type="dokumenten_id">Lo 4-191-3</identifier>
+          </contentItem>
+          <contentItem n="19">
+            <locus from="192">f. 192</locus>
+            <title type="incipit">Sancte ingenite genitor</title>
+            <identifier type="dokumenten_id">Lo 4-192-1</identifier>
+          </contentItem>
+          <contentItem n="20">
+            <locus from="193">f. 193</locus>
+            <title type="incipit">Deus pater cuius</title>
+            <identifier type="dokumenten_id">Lo 4-193-3</identifier>
+          </contentItem>
+          <contentItem n="21">
+            <locus from="193v">f. 193v</locus>
+            <title type="incipit">Summe pater deitatis</title>
+            <identifier type="dokumenten_id">Lo 4-193v-6</identifier>
+          </contentItem>
+          <contentItem n="22">
+            <locus from="195">f. 195</locus>
+            <title type="incipit">Quem Iohannes in deserto</title>
+            <identifier type="dokumenten_id">Lo 4-195-1</identifier>
+          </contentItem>
+          <contentItem n="23">
+            <locus from="195v">f. 195v</locus>
+            <title type="incipit">Quem Iohannes in Iordane</title>
+            <identifier type="dokumenten_id">Lo 4-195v-7</identifier>
+          </contentItem>
+          <contentItem n="24">
+            <locus from="196v">f. 196v</locus>
+            <title type="incipit">Omnipotens aeterna</title>
+            <identifier type="dokumenten_id">Lo 4-196v-3</identifier>
+          </contentItem>
+          <contentItem n="25">
+            <locus from="197">f. 197</locus>
+            <title type="incipit">Qui patris in solio</title>
+            <identifier type="dokumenten_id">Lo 4-197-4</identifier>
+          </contentItem>
+          <contentItem n="26">
+            <locus from="197v">f. 197v</locus>
+            <title type="incipit">Lux lucis</title>
+            <identifier type="dokumenten_id">Lo 4-197v-5</identifier>
+          </contentItem>
+          <contentItem n="27">
+            <locus from="198">f. 198</locus>
+            <title type="incipit">Deus deorum creator</title>
+            <identifier type="dokumenten_id">Lo 4-198-7</identifier>
+          </contentItem>
+          <contentItem n="28">
+            <locus from="209">f. 209</locus>
+            <title type="incipit">Qui pius ac mitis</title>
+            <identifier type="dokumenten_id">Lo 4-209-6</identifier>
+          </contentItem>
+          <contentItem n="29">
+            <locus from="20v">f. 20v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Lo 4-20v-6</identifier>
+          </contentItem>
+          <contentItem n="30">
+            <locus from="21">f. 21</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Lo 4-21-5</identifier>
+          </contentItem>
+          <contentItem n="31">
+            <locus from="213">f. 213</locus>
+            <title type="incipit">Spes mundi</title>
+            <identifier type="dokumenten_id">Lo 4-213-1</identifier>
+          </contentItem>
+          <contentItem n="32">
+            <locus from="213v">f. 213v</locus>
+            <title type="incipit">Fons indeficiens</title>
+            <identifier type="dokumenten_id">Lo 4-213v-6</identifier>
+          </contentItem>
+          <contentItem n="33">
+            <locus from="214">f. 214</locus>
+            <title type="incipit">Lux angelorum</title>
+            <identifier type="dokumenten_id">Lo 4-214-6</identifier>
+          </contentItem>
+          <contentItem n="34">
+            <locus from="214v">f. 214v</locus>
+            <title type="incipit">Splendor patris illustrans</title>
+            <identifier type="dokumenten_id">Lo 4-214v-7</identifier>
+          </contentItem>
+          <contentItem n="35">
+            <locus from="21v">f. 21v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Lo 4-21v-4</identifier>
+          </contentItem>
+          <contentItem n="36">
+            <locus from="22">f. 22</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Lo 4-22-2</identifier>
+          </contentItem>
+          <contentItem n="37">
+            <locus from="22">f. 22</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Lo 4-22-5</identifier>
+          </contentItem>
+          <contentItem n="38">
+            <locus from="22v">f. 22v</locus>
+            <title type="incipit">Te Christe rex*</title>
+            <identifier type="dokumenten_id">Lo 4-22v-2</identifier>
+          </contentItem>
+          <contentItem n="39">
+            <locus from="22v">f. 22v</locus>
+            <title type="incipit">Clemens rector*</title>
+            <identifier type="dokumenten_id">Lo 4-22v-3</identifier>
+          </contentItem>
+          <contentItem n="40">
+            <locus from="22v">f. 22v</locus>
+            <title type="incipit">Pater creator*</title>
+            <identifier type="dokumenten_id">Lo 4-22v-4</identifier>
+          </contentItem>
+          <contentItem n="41">
+            <locus from="22v">f. 22v</locus>
+            <title type="incipit">Conditor kyrie omnium*</title>
+            <identifier type="dokumenten_id">Lo 4-22v-5</identifier>
+          </contentItem>
+          <contentItem n="42">
+            <locus from="22v">f. 22v</locus>
+            <title type="incipit">Rex magne genitor*</title>
+            <identifier type="dokumenten_id">Lo 4-22v-6</identifier>
+          </contentItem>
+          <contentItem n="43">
+            <locus from="22v">f. 22v</locus>
+            <title type="incipit">O pater excelse*</title>
+            <identifier type="dokumenten_id">Lo 4-22v-7</identifier>
+          </contentItem>
+          <contentItem n="44">
+            <locus from="23">f. 23</locus>
+            <title type="incipit">Kyrie fons bonitatis*</title>
+            <identifier type="dokumenten_id">Lo 4-23-1</identifier>
+          </contentItem>
+          <contentItem n="45">
+            <locus from="23">f. 23</locus>
+            <title type="incipit">Kyrie deus sempiterne*</title>
+            <identifier type="dokumenten_id">Lo 4-23-2</identifier>
+          </contentItem>
+          <contentItem n="46">
+            <locus from="23">f. 23</locus>
+            <title type="incipit">Orbis factor*</title>
+            <identifier type="dokumenten_id">Lo 4-23-3</identifier>
+          </contentItem>
+          <contentItem n="47">
+            <locus from="23">f. 23</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Lo 4-23-4</identifier>
+          </contentItem>
+          <contentItem n="48">
+            <locus from="23v">f. 23v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Lo 4-23v-2</identifier>
+          </contentItem>
+          <contentItem n="49">
+            <locus from="24v">f. 24v</locus>
+            <title type="incipit">Laudemus dominum quem</title>
+            <identifier type="dokumenten_id">Lo 4-24v-1</identifier>
+          </contentItem>
+          <contentItem n="50">
+            <locus from="27">f. 27</locus>
+            <title type="incipit">Quem vere pia laus</title>
+            <identifier type="dokumenten_id">Lo 4-27-7</identifier>
+          </contentItem>
+          <contentItem n="51">
+            <locus from="29v">f. 29v</locus>
+            <title type="incipit">Qui de morte</title>
+            <identifier type="dokumenten_id">Lo 4-29v-3</identifier>
+          </contentItem>
+          <contentItem n="52">
+            <locus from="2v">f. 2v</locus>
+            <title type="incipit">Clemens rector</title>
+            <identifier type="dokumenten_id">Lo 4-2v-6</identifier>
+          </contentItem>
+          <contentItem n="53">
+            <locus from="32v">f. 32v</locus>
+            <title type="incipit">Qui deus et rector</title>
+            <identifier type="dokumenten_id">Lo 4-32v-2</identifier>
+          </contentItem>
+          <contentItem n="54">
+            <locus from="35">f. 35</locus>
+            <title type="incipit">Quem decet ut superis</title>
+            <identifier type="dokumenten_id">Lo 4-35-5</identifier>
+          </contentItem>
+          <contentItem n="55">
+            <locus from="37">f. 37</locus>
+            <title type="incipit">Ave deus summa</title>
+            <identifier type="dokumenten_id">Lo 4-37-2</identifier>
+          </contentItem>
+          <contentItem n="56">
+            <locus from="38v">f. 38v</locus>
+            <title type="incipit">O gloria sanctorum</title>
+            <identifier type="dokumenten_id">Lo 4-38v-7I</identifier>
+          </contentItem>
+          <contentItem n="57">
+            <locus from="38v">f. 38v</locus>
+            <title type="incipit">O gloria sanctorum</title>
+            <identifier type="dokumenten_id">Lo 4-38v-7II</identifier>
+          </contentItem>
+          <contentItem n="58">
+            <locus from="41v">f. 41v</locus>
+            <title type="incipit">Angelica iam pater</title>
+            <identifier type="dokumenten_id">Lo 4-41v-6</identifier>
+          </contentItem>
+          <contentItem n="59">
+            <locus from="43">f. 43</locus>
+            <title type="incipit">Ut possimus consequi</title>
+            <identifier type="dokumenten_id">Lo 4-43-5</identifier>
+          </contentItem>
+          <contentItem n="60">
+            <locus from="44v">f. 44v</locus>
+            <title type="incipit">Deus invisibilis rex</title>
+            <identifier type="dokumenten_id">Lo 4-44v-4</identifier>
+          </contentItem>
+          <contentItem n="61">
+            <locus from="46">f. 46</locus>
+            <title type="incipit">Sponsus ecclesie</title>
+            <identifier type="dokumenten_id">Lo 4-46-6</identifier>
+          </contentItem>
+          <contentItem n="62">
+            <locus from="48v">f. 48v</locus>
+            <title type="incipit">Quem dominum rerum</title>
+            <identifier type="dokumenten_id">Lo 4-48v-2</identifier>
+          </contentItem>
+          <contentItem n="63">
+            <locus from="4v">f. 4v</locus>
+            <title type="incipit">Pater creator</title>
+            <identifier type="dokumenten_id">Lo 4-4v-3</identifier>
+          </contentItem>
+          <contentItem n="64">
+            <locus from="50v">f. 50v</locus>
+            <title type="incipit">Qua iugi voce</title>
+            <identifier type="dokumenten_id">Lo 4-50v-5</identifier>
+          </contentItem>
+          <contentItem n="65">
+            <locus from="52">f. 52</locus>
+            <title type="incipit">Quam deus acceptat</title>
+            <identifier type="dokumenten_id">Lo 4-52-5</identifier>
+          </contentItem>
+          <contentItem n="66">
+            <locus from="6">f. 6</locus>
+            <title type="incipit">Conditor kyrie omnium</title>
+            <identifier type="dokumenten_id">Lo 4-6-5</identifier>
+          </contentItem>
+          <contentItem n="67">
+            <locus from="8">f. 8</locus>
+            <title type="incipit">Cunctipotens genitor</title>
+            <identifier type="dokumenten_id">Lo 4-8-5</identifier>
+          </contentItem>
+          <contentItem n="68">
+            <locus from="9v">f. 9v</locus>
+            <title type="incipit">Rex magne genitor</title>
+            <identifier type="dokumenten_id">Lo 4-9v-4</identifier>
+          </contentItem>
+        </contents>
+        <notesStmt>
+          <annot type="description">
+            <ref target="Lo_4.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <classification>
+          <termList>
+            <term type="quellentyp">Kyriale mit Tropen, Graduale mit Sequenzen</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">Royal 2 B. IV</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">London</geogName>
+                <corpName>British Library</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+        <relationList>
+          <relation rel="hasReproduction" target="https://bl.digirati.io/iiif/ark:/81055/vdc_100056063395.0x000001" label="IIIF manifest" />
+        </relationList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

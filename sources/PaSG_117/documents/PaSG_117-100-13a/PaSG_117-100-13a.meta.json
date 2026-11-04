@@ -1,0 +1,41 @@
+{
+  "id": "b6add575-6cc2-4b92-80d4-3d0ab03c44dd",
+  "quelle_id": "PaSG 117",
+  "dokumenten_id": "PaSG 117-100-13a",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "Pascha",
+  "feier": "Matutin",
+  "textinitium": "Alleluia alleluia alleluia",
+  "bibliographischerverweis": "CAO 1023",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "13",
+  "foliostart": "100",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "100",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "PaSG 117-100-13-aS",
+    "Endzeile": "13",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Easter play / Osterspiel",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

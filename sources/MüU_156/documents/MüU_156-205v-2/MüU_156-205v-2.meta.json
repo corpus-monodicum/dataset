@@ -1,0 +1,41 @@
+{
+  "id": "974a681a-06c8-42a4-9aac-da4e64fbc702",
+  "quelle_id": "MüU 156",
+  "dokumenten_id": "MüU 156-205v-2",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Nicolaus",
+  "feier": "Messe",
+  "textinitium": "Congaudentes exsultemus vocali",
+  "bibliographischerverweis": "AH 54, 66",
+  "druckausgabe": "",
+  "zeilenstart": "2",
+  "foliostart": "205v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Gionata Brusa",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "206",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "-",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

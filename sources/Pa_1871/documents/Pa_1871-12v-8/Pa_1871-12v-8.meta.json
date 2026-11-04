@@ -1,0 +1,41 @@
+{
+  "id": "613b2d80-9344-476a-9fbe-f3876b512d2f",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-12v-8",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Benedictus",
+  "feier": "Messe",
+  "textinitium": "In iubilo vocis",
+  "bibliographischerverweis": "Os iusti intr 9 A 10 B 11 C D 36 A 37 B 38 C 17 A 18 B 19 C 4 D 65 A 66 B 67 C 77 A 78 B 79 C (CT X)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "8",
+  "foliostart": "12v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "(Os iusti)",
+    "Endseite": "13",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "13",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Os iusti intr",
+    "Zusatz_zu_Textinitium": "Teilweise ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

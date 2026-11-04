@@ -1,0 +1,41 @@
+{
+  "id": "51d9ceab-9a18-4a61-806d-09f2b319f5c0",
+  "quelle_id": "Ei 366",
+  "dokumenten_id": "Ei 366-55-4",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Pascha",
+  "feier": "Matutin",
+  "textinitium": "Quem quaeritis in sepulchro",
+  "bibliographischerverweis": "CT III (Resurr intr Q, S. 217)",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "4",
+  "foliostart": "55",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "55",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Ei 366-55-4S",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Easter play / Osterspiel",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

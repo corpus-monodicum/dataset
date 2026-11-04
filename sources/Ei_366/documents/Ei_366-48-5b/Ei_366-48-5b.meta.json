@@ -1,0 +1,41 @@
+{
+  "id": "025b70c6-57ae-4c04-bfd4-49cb3a04167f",
+  "quelle_id": "Ei 366",
+  "dokumenten_id": "Ei 366-48-5b",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Apostoli",
+  "feier": "Messe",
+  "textinitium": "Clare sanctorum",
+  "bibliographischerverweis": "AH 53, 228",
+  "druckausgabe": "CM III",
+  "zeilenstart": "5",
+  "foliostart": "48",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "48b",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "16",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Aurea",
+    "Überlieferungszustand": "Ende fehlt",
+    "Melodie_Quelle": "Aurea",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

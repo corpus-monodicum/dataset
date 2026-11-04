@@ -1,0 +1,41 @@
+{
+  "id": "050a8eb5-082a-44f3-98fb-dae5242ac3a8",
+  "quelle_id": "To 18",
+  "dokumenten_id": "To 18-134-1",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Gallus",
+  "feier": "Messe",
+  "textinitium": "Culminibus caeli*",
+  "bibliographischerverweis": "Laetabitur intr 7 A D (CT X)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "1",
+  "foliostart": "134",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "To 18-37-7-",
+    "Endseite": "134",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Laetabitur intr",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

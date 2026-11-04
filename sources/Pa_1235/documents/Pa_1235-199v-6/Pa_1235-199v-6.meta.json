@@ -1,0 +1,41 @@
+{
+  "id": "1c202e51-e1b6-4a76-821a-16700d48b1d8",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-199v-6",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Epiphania",
+  "feier": "Messe",
+  "textinitium": "Ecclesiae sponsus",
+  "bibliographischerverweis": "Epiph intr 15 A 17 B 18 C 19 D E A (CT I)",
+  "druckausgabe": "II-1",
+  "zeilenstart": "6",
+  "foliostart": "199v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "Pa 1235-25-7-",
+    "Endseite": "199v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Epiph intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

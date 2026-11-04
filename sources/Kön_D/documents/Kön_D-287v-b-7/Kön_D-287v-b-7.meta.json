@@ -1,0 +1,41 @@
+{
+  "id": "0f740885-c0b8-4ab1-8f45-49359e4b8635",
+  "quelle_id": "Kön D",
+  "dokumenten_id": "Kön D-287v-b-7",
+  "gattung1": "Tropus",
+  "gattung2": "Communio-Tropus",
+  "festtag": "Innocentes",
+  "feier": "Messe",
+  "textinitium": "Veneranda praesentis",
+  "bibliographischerverweis": "Innoc com 1 A (CT I)",
+  "druckausgabe": "II-2",
+  "zeilenstart": "7",
+  "foliostart": "287v-b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "Kön D-27a-2",
+    "Endseite": "287v-b",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Innoc com",
+    "Zusatz_zu_Textinitium": "Ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

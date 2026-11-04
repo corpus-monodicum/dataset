@@ -1,0 +1,25 @@
+{
+  "id": "Aa 13",
+  "quellensigle": "Aa 13",
+  "herkunftsregion": "Quellen deutscher Herkunft",
+  "herkunftsort": "Aachen",
+  "herkunftsinstitution": "Marienstift",
+  "ordenstradition": "",
+  "quellentyp": "Graduale, Tropar, Kyriale mit Tropen, Sequentiar",
+  "bibliotheksort": "Aachen",
+  "bibliothek": "Domarchiv",
+  "bibliothekssignatur": "Hs. G 13",
+  "kommentar": "",
+  "datierung": "12. Jh 2. Hälfte",
+  "status": "",
+  "jahrhundert": "12.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "",
+  "cantus_century": "12.",
+  "dataset_external_files": {
+    "beschreibung": "Aa_13.description.md",
+    "notationsdokumentation": "notation/Aa_13.notation.md"
+  }
+}

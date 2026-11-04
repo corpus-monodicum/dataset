@@ -1,0 +1,41 @@
+{
+  "id": "704b5550-3018-45ae-9333-011bc668dde3",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-284v-b-15",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Germanus Parisiensis",
+  "feier": "Messe",
+  "textinitium": "Lux illuxit triumphalis",
+  "bibliographischerverweis": "AH 8, 176",
+  "druckausgabe": "CM III",
+  "zeilenstart": "15",
+  "foliostart": "284v-b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "285b",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "16",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

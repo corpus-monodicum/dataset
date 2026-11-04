@@ -1,0 +1,41 @@
+{
+  "id": "22cd3310-9e4e-4e6b-bcdf-a484276e5a29",
+  "quelle_id": "Sol 596",
+  "dokumenten_id": "Sol 596-54v-5",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "Sabbatum sanctum",
+  "feier": "Elevatio crucis",
+  "textinitium": "Congregavit nos Christus",
+  "bibliographischerverweis": "CAO 1888; CAO 5290",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "5",
+  "foliostart": "54v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "55",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Sol 596-54v-1S",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Elevation of the cross",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

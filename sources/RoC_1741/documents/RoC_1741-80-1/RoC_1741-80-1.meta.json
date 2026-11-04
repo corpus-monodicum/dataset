@@ -1,0 +1,41 @@
+{
+  "id": "8c73d68e-d965-419d-a46d-765299816185",
+  "quelle_id": "RoC 1741",
+  "dokumenten_id": "RoC 1741-80-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Feria II post Pascha",
+  "feier": "Messe",
+  "textinitium": "Clara gaudia",
+  "bibliographischerverweis": "AH 53, 38",
+  "druckausgabe": "",
+  "zeilenstart": "1",
+  "foliostart": "80",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "81",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Romana",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

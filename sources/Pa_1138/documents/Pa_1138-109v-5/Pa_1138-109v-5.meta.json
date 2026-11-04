@@ -1,0 +1,41 @@
+{
+  "id": "5ef8469f-db19-4254-bcd5-2f3eaa3ec05e",
+  "quelle_id": "Pa 1138",
+  "dokumenten_id": "Pa 1138-109v-5",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Laurentius",
+  "feier": "Messe",
+  "textinitium": "Alme martyr",
+  "bibliographischerverweis": "AH 7, 157; AH 53, 174",
+  "druckausgabe": "",
+  "zeilenstart": "5",
+  "foliostart": "109v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "111",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Alme martyr",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

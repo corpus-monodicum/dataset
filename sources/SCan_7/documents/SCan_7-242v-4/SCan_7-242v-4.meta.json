@@ -1,0 +1,41 @@
+{
+  "id": "a6d2f9d1-5a26-4f31-a5c4-118136c9841b",
+  "quelle_id": "SCan 7",
+  "dokumenten_id": "SCan 7-242v-4",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Feria IV post Pascha",
+  "feier": "Messe",
+  "textinitium": "Grates salvatori",
+  "bibliographischerverweis": "AH 53, 52",
+  "druckausgabe": "",
+  "zeilenstart": "4",
+  "foliostart": "242v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Gionata Brusa",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "243",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Duo tres",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

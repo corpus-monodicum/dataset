@@ -1,0 +1,25 @@
+{
+  "id": "Ven 4",
+  "quellensigle": "Ven 4",
+  "herkunftsregion": "",
+  "herkunftsort": "Aquileia (möglicherweise)",
+  "herkunftsinstitution": "",
+  "ordenstradition": "",
+  "quellentyp": "",
+  "bibliotheksort": "Venezia",
+  "bibliothek": "Biblioteca Santa Maria della Consolazione",
+  "bibliothekssignatur": "Ms. Lit. 4",
+  "kommentar": "",
+  "datierung": "",
+  "status": "",
+  "jahrhundert": "15.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Ven 4",
+  "cantus_century": "15.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Ven_4.description.md"
+  }
+}

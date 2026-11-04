@@ -1,0 +1,41 @@
+{
+  "id": "70e7d358-0b58-4f81-96e3-38f8509cd648",
+  "quelle_id": "Sol 596",
+  "dokumenten_id": "Sol 596-110-6b",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Versikel",
+  "festtag": "Pentecoste",
+  "feier": "Prozession",
+  "textinitium": "Emitte spiritum*",
+  "bibliographischerverweis": "CAO 8052",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "6",
+  "foliostart": "110",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "110",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "Sol 596-109-3S",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Pentecost",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

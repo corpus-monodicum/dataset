@@ -1,0 +1,41 @@
+{
+  "id": "24c7a404-02b8-4f63-91c9-8a1b149efb76",
+  "quelle_id": "Pad 16",
+  "dokumenten_id": "Pad 16-242v-5",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Dedicatio ecclesiae",
+  "feier": "Messe",
+  "textinitium": "Celebremus ovanter",
+  "bibliographischerverweis": "Ded intr 42 A 43 B 44 C 45 D (CT VIII)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "5",
+  "foliostart": "242v",
+  "kommentar": "olim 238v",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Terribilis",
+    "Endseite": "243",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Ded intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

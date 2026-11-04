@@ -1,0 +1,41 @@
+{
+  "id": "963114d4-b130-40d2-9a66-91c56d4ec886",
+  "quelle_id": "MüU 156",
+  "dokumenten_id": "MüU 156-103v-2",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Iohannes Baptista",
+  "feier": "Messe",
+  "textinitium": "De ventre",
+  "bibliographischerverweis": "AMS 119",
+  "druckausgabe": "II-2",
+  "zeilenstart": "2",
+  "foliostart": "103v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "103v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

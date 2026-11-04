@@ -1,0 +1,41 @@
+{
+  "id": "5a4845a2-5276-414a-84ed-709b821f78a2",
+  "quelle_id": "Pst 121",
+  "dokumenten_id": "Pst 121-68v-9",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Exaltatio crucis",
+  "feier": "Messe",
+  "textinitium": "Vitae diro",
+  "bibliographischerverweis": "Nos autem intr 29 A 30 B 31 C 32 D (CT X)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "9",
+  "foliostart": "68v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Nos autem gloriari",
+    "Endseite": "69",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Nos autem intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "03a18b0c-8cbb-4be2-85b7-8b2e3bba6744",
+  "quelle_id": "Pa 778",
+  "dokumenten_id": "Pa 778-123v-8",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Martialis",
+  "feier": "Messe",
+  "textinitium": "Observanda abunde",
+  "bibliographischerverweis": "AH 7, 221",
+  "druckausgabe": "",
+  "zeilenstart": "8",
+  "foliostart": "123v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "125",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Adorabo maior",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "306c73ce-f61d-49dd-b7b9-8659f9a56d49",
+  "quelle_id": "Pa 778",
+  "dokumenten_id": "Pa 778-186v-2",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Vincentius",
+  "feier": "Messe",
+  "textinitium": "Ecce dies praeoptata",
+  "bibliographischerverweis": "AH 55, 339",
+  "druckausgabe": "",
+  "zeilenstart": "2",
+  "foliostart": "186v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "188v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

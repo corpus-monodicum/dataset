@@ -1,0 +1,25 @@
+{
+  "id": "Aut 183",
+  "quellensigle": "Aut 183",
+  "herkunftsregion": "Quellen französischer Herkunft",
+  "herkunftsort": "Autun",
+  "herkunftsinstitution": "Abtei Saint-Martin",
+  "ordenstradition": "",
+  "quellentyp": "Prozessionar mit Tropen",
+  "bibliotheksort": "Autun",
+  "bibliothek": "Bibliothèque municipale",
+  "bibliothekssignatur": "Ms. S 183 (Z)",
+  "kommentar": "",
+  "datierung": "13. Jh 1. Hälfte",
+  "status": "",
+  "jahrhundert": "13.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Aut 183",
+  "cantus_century": "13.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Aut_183.description.md"
+  }
+}

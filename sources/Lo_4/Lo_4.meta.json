@@ -1,0 +1,25 @@
+{
+  "id": "Lo 4",
+  "quellensigle": "Lo 4",
+  "herkunftsregion": "Quellen englischer Herkunft",
+  "herkunftsort": "Sankt Albans",
+  "herkunftsinstitution": "Benediktinerkloster",
+  "ordenstradition": "",
+  "quellentyp": "Kyriale mit Tropen, Graduale mit Sequenzen",
+  "bibliotheksort": "London",
+  "bibliothek": "British Library",
+  "bibliothekssignatur": "Royal 2 B. IV",
+  "kommentar": "",
+  "datierung": "12. Jh",
+  "status": "",
+  "jahrhundert": "12.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Lo 4",
+  "cantus_century": "12.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Lo_4.description.md"
+  }
+}

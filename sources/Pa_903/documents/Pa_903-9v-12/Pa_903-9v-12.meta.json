@@ -1,0 +1,41 @@
+{
+  "id": "921a7bdb-b477-4539-aec6-6e9e0ef173f0",
+  "quelle_id": "Pa 903",
+  "dokumenten_id": "Pa 903-9v-12",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Nativitas domini",
+  "feier": "Messe",
+  "textinitium": "Puer natus est nobis",
+  "bibliographischerverweis": "AMS 11, [mel VII D]",
+  "druckausgabe": "II-3",
+  "zeilenstart": "12",
+  "foliostart": "9v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "10",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

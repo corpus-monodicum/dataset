@@ -1,0 +1,41 @@
+{
+  "id": "56cdd5d6-4c44-4e49-a940-bcf80fdc4cde",
+  "quelle_id": "Ut 417",
+  "dokumenten_id": "Ut 417-8v-4",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Feria II post Pascha",
+  "feier": "Messe",
+  "textinitium": "Laudes Christo redempti",
+  "bibliographischerverweis": "AH 53, 45",
+  "druckausgabe": "",
+  "zeilenstart": "4",
+  "foliostart": "8v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "9",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Mater",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

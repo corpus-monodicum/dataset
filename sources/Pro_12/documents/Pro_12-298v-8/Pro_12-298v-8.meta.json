@@ -1,0 +1,41 @@
+{
+  "id": "00df9c79-bc58-4fde-8494-f1aa98df2f3",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-298v-8",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Augustinus",
+  "feier": "Messe",
+  "textinitium": "Interni festi",
+  "bibliographischerverweis": "AH 55, 74",
+  "druckausgabe": "CM III",
+  "zeilenstart": "8",
+  "foliostart": "298v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "300",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

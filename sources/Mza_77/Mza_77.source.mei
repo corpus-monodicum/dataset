@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Mza 77: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Michael Klaper</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Gunilla Iversen</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Ritva Maria Jacobsson</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="Mza_77">
+        <identifier type="siglum">Mza 77</identifier>
+        <identifier type="cantus">Mza 77</identifier>
+        <titleStmt>
+          <title>Mza 77</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Monza</geogName>
+          <geogName role="origin-region">Quellen italienischer Herkunft</geogName>
+          <date>12. Jh – 13. Jh</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="103">f. 103</locus>
+            <title type="incipit">De ventre</title>
+            <identifier type="dokumenten_id">Mza 77-103-2</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="105v">f. 105v</locus>
+            <title type="incipit">Nunc scio vere</title>
+            <identifier type="dokumenten_id">Mza 77-105v-6</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="10v">f. 10v</locus>
+            <title type="incipit">Puer natus est nobis</title>
+            <identifier type="dokumenten_id">Mza 77-10v-4</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="145">f. 145</locus>
+            <title type="incipit">Hodie salvator</title>
+            <identifier type="dokumenten_id">Mza 77-145-1</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="149">f. 149</locus>
+            <title type="incipit">Hodie descendit Christus</title>
+            <identifier type="dokumenten_id">Mza 77-149-7</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="155">f. 155</locus>
+            <title type="incipit">Hodie redemptor</title>
+            <identifier type="dokumenten_id">Mza 77-155-9</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="156v">f. 156v</locus>
+            <title type="incipit">Hodie spiritus sanctus procedens</title>
+            <identifier type="dokumenten_id">Mza 77-156v-4</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="157v">f. 157v</locus>
+            <title type="incipit">Audite insulae</title>
+            <identifier type="dokumenten_id">Mza 77-157v-9</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="158v">f. 158v</locus>
+            <title type="incipit">Beatissimus Petrus</title>
+            <identifier type="dokumenten_id">Mza 77-158v-9</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="16v">f. 16v</locus>
+            <title type="incipit">Ecce advenit</title>
+            <identifier type="dokumenten_id">Mza 77-16v-6</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus from="171">f. 171</locus>
+            <title type="incipit">Ingresso Iesu</title>
+            <identifier type="dokumenten_id">Mza 77-171-1</identifier>
+          </contentItem>
+          <contentItem n="12">
+            <locus from="70">f. 70</locus>
+            <title type="incipit">Domine ne longe</title>
+            <identifier type="dokumenten_id">Mza 77-70-3</identifier>
+          </contentItem>
+          <contentItem n="13">
+            <locus from="81v">f. 81v</locus>
+            <title type="incipit">Quem quaeritis in sepulchro</title>
+            <identifier type="dokumenten_id">Mza 77-81v-10</identifier>
+          </contentItem>
+          <contentItem n="14">
+            <locus from="82">f. 82</locus>
+            <title type="incipit">Resurrexi</title>
+            <identifier type="dokumenten_id">Mza 77-82-6</identifier>
+          </contentItem>
+          <contentItem n="15">
+            <locus from="95v">f. 95v</locus>
+            <title type="incipit">Viri Galilaei</title>
+            <identifier type="dokumenten_id">Mza 77-95v-2</identifier>
+          </contentItem>
+          <contentItem n="16">
+            <locus from="97">f. 97</locus>
+            <title type="incipit">Spiritus domini</title>
+            <identifier type="dokumenten_id">Mza 77-97-7</identifier>
+          </contentItem>
+        </contents>
+        <notesStmt>
+          <annot type="description">
+            <ref target="Mza_77.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <classification>
+          <termList>
+            <term type="quellentyp">Graduale, Kyriale, Tropar, Sequentiar</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">Ms. c. 14/77</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">Monza</geogName>
+                <corpName>Biblioteca Capitolare</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

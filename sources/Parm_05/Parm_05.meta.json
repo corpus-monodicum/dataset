@@ -1,0 +1,25 @@
+{
+  "id": "Parm 05",
+  "quellensigle": "Parm 05",
+  "herkunftsregion": "Quellen italienischer Herkunft",
+  "herkunftsort": "Parma",
+  "herkunftsinstitution": "Kathedrale",
+  "ordenstradition": "",
+  "quellentyp": "Graduale mit Tropen (Sanctorale)",
+  "bibliotheksort": "Parma",
+  "bibliothek": "Archivio della Fabbriceria",
+  "bibliothekssignatur": "Ms. F 05",
+  "kommentar": "",
+  "datierung": "14. Jh – 15. Jh",
+  "status": "",
+  "jahrhundert": "14., 15.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Parm 05",
+  "cantus_century": "14., 15.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Parm_05.description.md"
+  }
+}

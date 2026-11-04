@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Rhe 2: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Edition (Spiele)</resp>
+          <persName>Elaine Stratton Hild</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="Rhe_2">
+          <msIdentifier>
+            <settlement>Wiesbaden</settlement>
+            <repository>Hochschul- und Landesbibliothek RheinMain</repository>
+            <idno type="shelfmark">Hs. 2, Riesencodex</idno>
+            <altIdentifier type="siglum">
+              <idno>Rhe 2</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>Rhe 2</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <term type="ordenstradition">Benedictine</term>
+            </summary>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="132v-a">f. 132v-a</locus>
+              <title type="incipit">O splendidissima gemma</title>
+              <idno type="dokumenten_id">Rhe 2-132v-a-38</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="132v-b">f. 132v-b</locus>
+              <title type="incipit">O gloriosissimi lux</title>
+              <idno type="dokumenten_id">Rhe 2-132v-b-10</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="132v-b">f. 132v-b</locus>
+              <title type="incipit">O spectabiles uiri</title>
+              <idno type="dokumenten_id">Rhe 2-132v-b-32</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="133a">f. 133a</locus>
+              <title type="incipit">O uictoriosissimi triumphatores</title>
+              <idno type="dokumenten_id">Rhe 2-133a-26</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="133a">f. 133a</locus>
+              <title type="incipit">O successores fortissimi</title>
+              <idno type="dokumenten_id">Rhe 2-133a-43</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="133a">f. 133a</locus>
+              <title type="incipit">O cohors militiae</title>
+              <idno type="dokumenten_id">Rhe 2-133a-5</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="133b">f. 133b</locus>
+              <title type="incipit">O pulchrae facies</title>
+              <idno type="dokumenten_id">Rhe 2-133b-12</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="133b">f. 133b</locus>
+              <title type="incipit">O plangens uox</title>
+              <idno type="dokumenten_id">Rhe 2-133b-27</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="133v-a">f. 133v-a</locus>
+              <title type="incipit">Nos uirtutes</title>
+              <idno type="dokumenten_id">Rhe 2-133v-a-16</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="133v-a">f. 133v-a</locus>
+              <title type="incipit">O nos peregrine</title>
+              <idno type="dokumenten_id">Rhe 2-133v-a-26</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="133v-a">f. 133v-a</locus>
+              <title type="incipit">O dulcis diuinitas</title>
+              <idno type="dokumenten_id">Rhe 2-133v-a-33</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="133v-a">f. 133v-a</locus>
+              <title type="incipit">O felix anima</title>
+              <idno type="dokumenten_id">Rhe 2-133v-a-37</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="133v-a">f. 133v-a</locus>
+              <title type="incipit">O libenter</title>
+              <idno type="dokumenten_id">Rhe 2-133v-a-41</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="133v-a">f. 133v-a</locus>
+              <title type="incipit">Nos debemus</title>
+              <idno type="dokumenten_id">Rhe 2-133v-a-42</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="133v-a">f. 133v-a</locus>
+              <title type="incipit">O grauis labor</title>
+              <idno type="dokumenten_id">Rhe 2-133v-a-45</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="133v-b">f. 133v-b</locus>
+              <title type="incipit">O nescio</title>
+              <idno type="dokumenten_id">Rhe 2-133v-b-11</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="133v-b">f. 133v-b</locus>
+              <title type="incipit">O infelix</title>
+              <idno type="dokumenten_id">Rhe 2-133v-b-14</idno>
+            </msItem>
+            <msItem n="18">
+              <locus from="133v-b">f. 133v-b</locus>
+              <title type="incipit">Tu nescis</title>
+              <idno type="dokumenten_id">Rhe 2-133v-b-17</idno>
+            </msItem>
+            <msItem n="19">
+              <locus from="133v-b">f. 133v-b</locus>
+              <title type="incipit">Deus creauit</title>
+              <idno type="dokumenten_id">Rhe 2-133v-b-18</idno>
+            </msItem>
+            <msItem n="20">
+              <locus from="133v-b">f. 133v-b</locus>
+              <title type="incipit">O anima uoluntate</title>
+              <idno type="dokumenten_id">Rhe 2-133v-b-2</idno>
+            </msItem>
+            <msItem n="21">
+              <locus from="133v-b">f. 133v-b</locus>
+              <title type="incipit">Fatue fatue</title>
+              <idno type="dokumenten_id">Rhe 2-133v-b-21</idno>
+            </msItem>
+            <msItem n="22">
+              <locus from="133v-b">f. 133v-b</locus>
+              <title type="incipit">Heu heu nos virtutes</title>
+              <idno type="dokumenten_id">Rhe 2-133v-b-23</idno>
+            </msItem>
+            <msItem n="23">
+              <locus from="133v-b">f. 133v-b</locus>
+              <title type="incipit">Ego humilitas</title>
+              <idno type="dokumenten_id">Rhe 2-133v-b-25</idno>
+            </msItem>
+            <msItem n="24">
+              <locus from="133v-b">f. 133v-b</locus>
+              <title type="incipit">O gloriosa regina</title>
+              <idno type="dokumenten_id">Rhe 2-133v-b-30</idno>
+            </msItem>
+            <msItem n="25">
+              <locus from="133v-b">f. 133v-b</locus>
+              <title type="incipit">Ideo dilectissime</title>
+              <idno type="dokumenten_id">Rhe 2-133v-b-32</idno>
+            </msItem>
+            <msItem n="26">
+              <locus from="133v-b">f. 133v-b</locus>
+              <title type="incipit">O filie Israhel</title>
+              <idno type="dokumenten_id">Rhe 2-133v-b-33</idno>
+            </msItem>
+            <msItem n="27">
+              <locus from="133v-b">f. 133v-b</locus>
+              <title type="incipit">Que est hec</title>
+              <idno type="dokumenten_id">Rhe 2-133v-b-37</idno>
+            </msItem>
+            <msItem n="28">
+              <locus from="133v-b">f. 133v-b</locus>
+              <title type="incipit">Ego cum meis</title>
+              <idno type="dokumenten_id">Rhe 2-133v-b-43</idno>
+            </msItem>
+            <msItem n="29">
+              <locus from="133v-b">f. 133v-b</locus>
+              <title type="incipit">Nos autem omnes</title>
+              <idno type="dokumenten_id">Rhe 2-133v-b-46</idno>
+            </msItem>
+            <msItem n="30">
+              <locus from="133v-b">f. 133v-b</locus>
+              <title type="incipit">Succurrite michi</title>
+              <idno type="dokumenten_id">Rhe 2-133v-b-6</idno>
+            </msItem>
+            <msItem n="31">
+              <locus from="133v-b">f. 133v-b</locus>
+              <title type="incipit">Vide quid</title>
+              <idno type="dokumenten_id">Rhe 2-133v-b-8</idno>
+            </msItem>
+            <msItem n="32">
+              <locus from="134a">f. 134a</locus>
+              <title type="incipit">Noli timere nec</title>
+              <idno type="dokumenten_id">Rhe 2-134a-10</idno>
+            </msItem>
+            <msItem n="33">
+              <locus from="134a">f. 134a</locus>
+              <title type="incipit">Nunc est michi</title>
+              <idno type="dokumenten_id">Rhe 2-134a-13</idno>
+            </msItem>
+            <msItem n="34">
+              <locus from="134a">f. 134a</locus>
+              <title type="incipit">Curre ad nos</title>
+              <idno type="dokumenten_id">Rhe 2-134a-15</idno>
+            </msItem>
+            <msItem n="35">
+              <locus from="134a">f. 134a</locus>
+              <title type="incipit">Ego peccator</title>
+              <idno type="dokumenten_id">Rhe 2-134a-18</idno>
+            </msItem>
+            <msItem n="36">
+              <locus from="134a">f. 134a</locus>
+              <title type="incipit">O anima fugitiua</title>
+              <idno type="dokumenten_id">Rhe 2-134a-21</idno>
+            </msItem>
+            <msItem n="37">
+              <locus from="134a">f. 134a</locus>
+              <title type="incipit">O tu omnis</title>
+              <idno type="dokumenten_id">Rhe 2-134a-23</idno>
+            </msItem>
+            <msItem n="38">
+              <locus from="134a">f. 134a</locus>
+              <title type="incipit">Et o uera medicina</title>
+              <idno type="dokumenten_id">Rhe 2-134a-28</idno>
+            </msItem>
+            <msItem n="39">
+              <locus from="134a">f. 134a</locus>
+              <title type="incipit">O uos regales</title>
+              <idno type="dokumenten_id">Rhe 2-134a-3</idno>
+            </msItem>
+            <msItem n="40">
+              <locus from="134a">f. 134a</locus>
+              <title type="incipit">O omnes virtutes</title>
+              <idno type="dokumenten_id">Rhe 2-134a-32</idno>
+            </msItem>
+            <msItem n="41">
+              <locus from="134a">f. 134a</locus>
+              <title type="incipit">Volumus te</title>
+              <idno type="dokumenten_id">Rhe 2-134a-35</idno>
+            </msItem>
+            <msItem n="42">
+              <locus from="134a">f. 134a</locus>
+              <title type="incipit">O misera filia</title>
+              <idno type="dokumenten_id">Rhe 2-134a-39</idno>
+            </msItem>
+            <msItem n="43">
+              <locus from="134a">f. 134a</locus>
+              <title type="incipit">Que es aut</title>
+              <idno type="dokumenten_id">Rhe 2-134a-43</idno>
+            </msItem>
+            <msItem n="44">
+              <locus from="134a">f. 134a</locus>
+              <title type="incipit">O fugitiue</title>
+              <idno type="dokumenten_id">Rhe 2-134a-6</idno>
+            </msItem>
+            <msItem n="45">
+              <locus from="134a">f. 134a</locus>
+              <title type="incipit">Ach ach feruens</title>
+              <idno type="dokumenten_id">Rhe 2-134a-8</idno>
+            </msItem>
+            <msItem n="46">
+              <locus from="134b">f. 134b</locus>
+              <title type="incipit">Ego omnes uias meas</title>
+              <idno type="dokumenten_id">Rhe 2-134b-1</idno>
+            </msItem>
+            <msItem n="47">
+              <locus from="134b">f. 134b</locus>
+              <title type="incipit">O dulcissima bellatrix</title>
+              <idno type="dokumenten_id">Rhe 2-134b-12</idno>
+            </msItem>
+            <msItem n="48">
+              <locus from="134b">f. 134b</locus>
+              <title type="incipit">Ligate ergo</title>
+              <idno type="dokumenten_id">Rhe 2-134b-16</idno>
+            </msItem>
+            <msItem n="49">
+              <locus from="134b">f. 134b</locus>
+              <title type="incipit">O regina nostra</title>
+              <idno type="dokumenten_id">Rhe 2-134b-17</idno>
+            </msItem>
+            <msItem n="50">
+              <locus from="134b">f. 134b</locus>
+              <title type="incipit">Gaudete o socii</title>
+              <idno type="dokumenten_id">Rhe 2-134b-19</idno>
+            </msItem>
+            <msItem n="51">
+              <locus from="134b">f. 134b</locus>
+              <title type="incipit">Laus tibi Christe rex</title>
+              <idno type="dokumenten_id">Rhe 2-134b-21</idno>
+            </msItem>
+            <msItem n="52">
+              <locus from="134b">f. 134b</locus>
+              <title type="incipit">O deus quis es</title>
+              <idno type="dokumenten_id">Rhe 2-134b-22</idno>
+            </msItem>
+            <msItem n="53">
+              <locus from="134b">f. 134b</locus>
+              <title type="incipit">O pater omnipotens ex</title>
+              <idno type="dokumenten_id">Rhe 2-134b-26</idno>
+            </msItem>
+            <msItem n="54">
+              <locus from="134b">f. 134b</locus>
+              <title type="incipit">O victoria que</title>
+              <idno type="dokumenten_id">Rhe 2-134b-6</idno>
+            </msItem>
+            <msItem n="55">
+              <locus from="134b">f. 134b</locus>
+              <title type="incipit">O fortissimi</title>
+              <idno type="dokumenten_id">Rhe 2-134b-9</idno>
+            </msItem>
+            <msItem n="56">
+              <locus from="467a">f. 467a</locus>
+              <title type="incipit">Quia ergo femina</title>
+              <idno type="dokumenten_id">Rhe 2-467a-17</idno>
+            </msItem>
+            <msItem n="57">
+              <locus from="478v-b">f. 478v-b</locus>
+              <title type="incipit">O nos peregrine</title>
+              <idno type="dokumenten_id">Rhe 2-478v-b-10</idno>
+            </msItem>
+            <msItem n="58">
+              <locus from="478v-b">f. 478v-b</locus>
+              <title type="incipit">O dulcis diuinitas</title>
+              <idno type="dokumenten_id">Rhe 2-478v-b-16</idno>
+            </msItem>
+            <msItem n="59">
+              <locus from="478v-b">f. 478v-b</locus>
+              <title type="incipit">O felix anima</title>
+              <idno type="dokumenten_id">Rhe 2-478v-b-19</idno>
+            </msItem>
+            <msItem n="60">
+              <locus from="478v-b">f. 478v-b</locus>
+              <title type="incipit">Qui sunt hi qui ut nubes*</title>
+              <idno type="dokumenten_id">Rhe 2-478v-b-2</idno>
+            </msItem>
+            <msItem n="61">
+              <locus from="478v-b">f. 478v-b</locus>
+              <title type="incipit">O antiqui sancti</title>
+              <idno type="dokumenten_id">Rhe 2-478v-b-3</idno>
+            </msItem>
+            <msItem n="62">
+              <locus from="478v-b">f. 478v-b</locus>
+              <title type="incipit">Nos sumus radices</title>
+              <idno type="dokumenten_id">Rhe 2-478v-b-7</idno>
+            </msItem>
+            <msItem n="63">
+              <locus from="479-a">f. 479-a</locus>
+              <title type="incipit">O anima uoluntate</title>
+              <idno type="dokumenten_id">Rhe 2-479-a-11</idno>
+            </msItem>
+            <msItem n="64">
+              <locus from="479-a">f. 479-a</locus>
+              <title type="incipit">Succurrite michi</title>
+              <idno type="dokumenten_id">Rhe 2-479-a-14</idno>
+            </msItem>
+            <msItem n="65">
+              <locus from="479-a">f. 479-a</locus>
+              <title type="incipit">Vide quid</title>
+              <idno type="dokumenten_id">Rhe 2-479-a-17</idno>
+            </msItem>
+            <msItem n="66">
+              <locus from="479-a">f. 479-a</locus>
+              <title type="incipit">O nescio</title>
+              <idno type="dokumenten_id">Rhe 2-479-a-19</idno>
+            </msItem>
+            <msItem n="67">
+              <locus from="479-a">f. 479-a</locus>
+              <title type="incipit">O infelix</title>
+              <idno type="dokumenten_id">Rhe 2-479-a-21</idno>
+            </msItem>
+            <msItem n="68">
+              <locus from="479-a">f. 479-a</locus>
+              <title type="incipit">O libenter</title>
+              <idno type="dokumenten_id">Rhe 2-479-a-3</idno>
+            </msItem>
+            <msItem n="69">
+              <locus from="479-a">f. 479-a</locus>
+              <title type="incipit">Nos debemus</title>
+              <idno type="dokumenten_id">Rhe 2-479-a-4</idno>
+            </msItem>
+            <msItem n="70">
+              <locus from="479-a">f. 479-a</locus>
+              <title type="incipit">O grauis labor</title>
+              <idno type="dokumenten_id">Rhe 2-479-a-7</idno>
+            </msItem>
+            <msItem n="71">
+              <locus from="479-b">f. 479-b</locus>
+              <title type="incipit">Tu nescis</title>
+              <idno type="dokumenten_id">Rhe 2-479-b-1</idno>
+            </msItem>
+            <msItem n="72">
+              <locus from="479-b">f. 479-b</locus>
+              <title type="incipit">Que est hec</title>
+              <idno type="dokumenten_id">Rhe 2-479-b-17</idno>
+            </msItem>
+            <msItem n="73">
+              <locus from="479-b">f. 479-b</locus>
+              <title type="incipit">Ego cum meis</title>
+              <idno type="dokumenten_id">Rhe 2-479-b-21</idno>
+            </msItem>
+            <msItem n="74">
+              <locus from="479-b">f. 479-b</locus>
+              <title type="incipit">Deus creauit</title>
+              <idno type="dokumenten_id">Rhe 2-479-b-3</idno>
+            </msItem>
+            <msItem n="75">
+              <locus from="479-b">f. 479-b</locus>
+              <title type="incipit">Fatue fatue</title>
+              <idno type="dokumenten_id">Rhe 2-479-b-5</idno>
+            </msItem>
+            <msItem n="76">
+              <locus from="479-b">f. 479-b</locus>
+              <title type="incipit">O plangens uox</title>
+              <idno type="dokumenten_id">Rhe 2-479-b-7</idno>
+            </msItem>
+            <msItem n="77">
+              <locus from="479v-a">f. 479v-a</locus>
+              <title type="incipit">Ego karitas</title>
+              <idno type="dokumenten_id">Rhe 2-479v-a-11</idno>
+            </msItem>
+            <msItem n="78">
+              <locus from="479v-a">f. 479v-a</locus>
+              <title type="incipit">O dilectissime flos</title>
+              <idno type="dokumenten_id">Rhe 2-479v-a-14</idno>
+            </msItem>
+            <msItem n="79">
+              <locus from="479v-a">f. 479v-a</locus>
+              <title type="incipit">Ego timor dei</title>
+              <idno type="dokumenten_id">Rhe 2-479v-a-16</idno>
+            </msItem>
+            <msItem n="80">
+              <locus from="479v-a">f. 479v-a</locus>
+              <title type="incipit">O timor ualde</title>
+              <idno type="dokumenten_id">Rhe 2-479v-a-19</idno>
+            </msItem>
+            <msItem n="81">
+              <locus from="479v-a">f. 479v-a</locus>
+              <title type="incipit">Nos autem omnes</title>
+              <idno type="dokumenten_id">Rhe 2-479v-a-2</idno>
+            </msItem>
+            <msItem n="82">
+              <locus from="479v-a">f. 479v-a</locus>
+              <title type="incipit">Euge euge</title>
+              <idno type="dokumenten_id">Rhe 2-479v-a-22</idno>
+            </msItem>
+            <msItem n="83">
+              <locus from="479v-a">f. 479v-a</locus>
+              <title type="incipit">Tu autem exterritus</title>
+              <idno type="dokumenten_id">Rhe 2-479v-a-27</idno>
+            </msItem>
+            <msItem n="84">
+              <locus from="479v-a">f. 479v-a</locus>
+              <title type="incipit">Ego humilitas</title>
+              <idno type="dokumenten_id">Rhe 2-479v-a-3</idno>
+            </msItem>
+            <msItem n="85">
+              <locus from="479v-a">f. 479v-a</locus>
+              <title type="incipit">O gloriosa regina</title>
+              <idno type="dokumenten_id">Rhe 2-479v-a-6</idno>
+            </msItem>
+            <msItem n="86">
+              <locus from="479v-a">f. 479v-a</locus>
+              <title type="incipit">Ideo dilectissime</title>
+              <idno type="dokumenten_id">Rhe 2-479v-a-8</idno>
+            </msItem>
+            <msItem n="87">
+              <locus from="479v-b">f. 479v-b</locus>
+              <title type="incipit">O serena speculata</title>
+              <idno type="dokumenten_id">Rhe 2-479v-b-11</idno>
+            </msItem>
+            <msItem n="88">
+              <locus from="479v-b">f. 479v-b</locus>
+              <title type="incipit">Ego sum dulcis conspectrix</title>
+              <idno type="dokumenten_id">Rhe 2-479v-b-14</idno>
+            </msItem>
+            <msItem n="89">
+              <locus from="479v-b">f. 479v-b</locus>
+              <title type="incipit">O uiuens uita</title>
+              <idno type="dokumenten_id">Rhe 2-479v-b-17</idno>
+            </msItem>
+            <msItem n="90">
+              <locus from="479v-b">f. 479v-b</locus>
+              <title type="incipit">O virginitas</title>
+              <idno type="dokumenten_id">Rhe 2-479v-b-19</idno>
+            </msItem>
+            <msItem n="91">
+              <locus from="479v-b">f. 479v-b</locus>
+              <title type="incipit">Ego lucida obedientia</title>
+              <idno type="dokumenten_id">Rhe 2-479v-b-2</idno>
+            </msItem>
+            <msItem n="92">
+              <locus from="479v-b">f. 479v-b</locus>
+              <title type="incipit">O dulcissima uocatrix</title>
+              <idno type="dokumenten_id">Rhe 2-479v-b-6</idno>
+            </msItem>
+            <msItem n="93">
+              <locus from="479v-b">f. 479v-b</locus>
+              <title type="incipit">Ego fides</title>
+              <idno type="dokumenten_id">Rhe 2-479v-b-8</idno>
+            </msItem>
+            <msItem n="94">
+              <locus from="480-a">f. 480-a</locus>
+              <title type="incipit">Ego contemptus mundi</title>
+              <idno type="dokumenten_id">Rhe 2-480-a-10</idno>
+            </msItem>
+            <msItem n="95">
+              <locus from="480-a">f. 480-a</locus>
+              <title type="incipit">O gloriosa domina</title>
+              <idno type="dokumenten_id">Rhe 2-480-a-13</idno>
+            </msItem>
+            <msItem n="96">
+              <locus from="480-a">f. 480-a</locus>
+              <title type="incipit">Ego aurea porta</title>
+              <idno type="dokumenten_id">Rhe 2-480-a-17</idno>
+            </msItem>
+            <msItem n="97">
+              <locus from="480-a">f. 480-a</locus>
+              <title type="incipit">O filia regis</title>
+              <idno type="dokumenten_id">Rhe 2-480-a-20</idno>
+            </msItem>
+            <msItem n="98">
+              <locus from="480-a">f. 480-a</locus>
+              <title type="incipit">Flos campi</title>
+              <idno type="dokumenten_id">Rhe 2-480-a-3</idno>
+            </msItem>
+            <msItem n="99">
+              <locus from="480-a">f. 480-a</locus>
+              <title type="incipit">Fugite oues</title>
+              <idno type="dokumenten_id">Rhe 2-480-a-7</idno>
+            </msItem>
+            <msItem n="100">
+              <locus from="480-a">f. 480-a</locus>
+              <title type="incipit">Has te</title>
+              <idno type="dokumenten_id">Rhe 2-480-a-9</idno>
+            </msItem>
+            <msItem n="101">
+              <locus from="480-b">f. 480-b</locus>
+              <title type="incipit">O quam amara</title>
+              <idno type="dokumenten_id">Rhe 2-480-b-10</idno>
+            </msItem>
+            <msItem n="102">
+              <locus from="480-b">f. 480-b</locus>
+              <title type="incipit">O laudabilis mater</title>
+              <idno type="dokumenten_id">Rhe 2-480-b-13</idno>
+            </msItem>
+            <msItem n="103">
+              <locus from="480-b">f. 480-b</locus>
+              <title type="incipit">Ego victoria</title>
+              <idno type="dokumenten_id">Rhe 2-480-b-15</idno>
+            </msItem>
+            <msItem n="104">
+              <locus from="480-b">f. 480-b</locus>
+              <title type="incipit">O dulcissima bellatrix</title>
+              <idno type="dokumenten_id">Rhe 2-480-b-18</idno>
+            </msItem>
+            <msItem n="105">
+              <locus from="480-b">f. 480-b</locus>
+              <title type="incipit">Ego sum amatrix</title>
+              <idno type="dokumenten_id">Rhe 2-480-b-2</idno>
+            </msItem>
+            <msItem n="106">
+              <locus from="480-b">f. 480-b</locus>
+              <title type="incipit">O tu angelica</title>
+              <idno type="dokumenten_id">Rhe 2-480-b-5</idno>
+            </msItem>
+            <msItem n="107">
+              <locus from="480-b">f. 480-b</locus>
+              <title type="incipit">Ego obtenebro</title>
+              <idno type="dokumenten_id">Rhe 2-480-b-7</idno>
+            </msItem>
+            <msItem n="108">
+              <locus from="480-b">f. 480-b</locus>
+              <title type="incipit">Tu es in edificatione</title>
+              <idno type="dokumenten_id">Rhe 2-480-b-8</idno>
+            </msItem>
+            <msItem n="109">
+              <locus from="480v-a">f. 480v-a</locus>
+              <title type="incipit">O firma</title>
+              <idno type="dokumenten_id">Rhe 2-480v-a-12</idno>
+            </msItem>
+            <msItem n="110">
+              <locus from="480v-a">f. 480v-a</locus>
+              <title type="incipit">O filie Israhel</title>
+              <idno type="dokumenten_id">Rhe 2-480v-a-14</idno>
+            </msItem>
+            <msItem n="111">
+              <locus from="480v-a">f. 480v-a</locus>
+              <title type="incipit">Heu heu nos virtutes</title>
+              <idno type="dokumenten_id">Rhe 2-480v-a-16</idno>
+            </msItem>
+            <msItem n="112">
+              <locus from="480v-a">f. 480v-a</locus>
+              <title type="incipit">O uos regales</title>
+              <idno type="dokumenten_id">Rhe 2-480v-a-19</idno>
+            </msItem>
+            <msItem n="113">
+              <locus from="480v-a">f. 480v-a</locus>
+              <title type="incipit">Ego discretio</title>
+              <idno type="dokumenten_id">Rhe 2-480v-a-4</idno>
+            </msItem>
+            <msItem n="114">
+              <locus from="480v-a">f. 480v-a</locus>
+              <title type="incipit">O pulcherrima</title>
+              <idno type="dokumenten_id">Rhe 2-480v-a-7</idno>
+            </msItem>
+            <msItem n="115">
+              <locus from="480v-a">f. 480v-a</locus>
+              <title type="incipit">Ego sum columpna</title>
+              <idno type="dokumenten_id">Rhe 2-480v-a-9</idno>
+            </msItem>
+            <msItem n="116">
+              <locus from="480v-b">f. 480v-b</locus>
+              <title type="incipit">O fugitiue</title>
+              <idno type="dokumenten_id">Rhe 2-480v-b-1</idno>
+            </msItem>
+            <msItem n="117">
+              <locus from="480v-b">f. 480v-b</locus>
+              <title type="incipit">Curre ad nos</title>
+              <idno type="dokumenten_id">Rhe 2-480v-b-10</idno>
+            </msItem>
+            <msItem n="118">
+              <locus from="480v-b">f. 480v-b</locus>
+              <title type="incipit">Ego peccator</title>
+              <idno type="dokumenten_id">Rhe 2-480v-b-13</idno>
+            </msItem>
+            <msItem n="119">
+              <locus from="480v-b">f. 480v-b</locus>
+              <title type="incipit">O anima fugitiua</title>
+              <idno type="dokumenten_id">Rhe 2-480v-b-19</idno>
+            </msItem>
+            <msItem n="120">
+              <locus from="480v-b">f. 480v-b</locus>
+              <title type="incipit">Ach ach feruens</title>
+              <idno type="dokumenten_id">Rhe 2-480v-b-3</idno>
+            </msItem>
+            <msItem n="121">
+              <locus from="480v-b">f. 480v-b</locus>
+              <title type="incipit">Noli timere nec</title>
+              <idno type="dokumenten_id">Rhe 2-480v-b-4</idno>
+            </msItem>
+            <msItem n="122">
+              <locus from="480v-b">f. 480v-b</locus>
+              <title type="incipit">Nunc est michi</title>
+              <idno type="dokumenten_id">Rhe 2-480v-b-6</idno>
+            </msItem>
+            <msItem n="123">
+              <locus from="481-a">f. 481-a</locus>
+              <title type="incipit">O misera filia</title>
+              <idno type="dokumenten_id">Rhe 2-481-a-12</idno>
+            </msItem>
+            <msItem n="124">
+              <locus from="481-a">f. 481-a</locus>
+              <title type="incipit">O uiuens fons</title>
+              <idno type="dokumenten_id">Rhe 2-481-a-14</idno>
+            </msItem>
+            <msItem n="125">
+              <locus from="481-a">f. 481-a</locus>
+              <title type="incipit">Et o uera medicina</title>
+              <idno type="dokumenten_id">Rhe 2-481-a-2</idno>
+            </msItem>
+            <msItem n="126">
+              <locus from="481-a">f. 481-a</locus>
+              <title type="incipit">O omnes virtutes</title>
+              <idno type="dokumenten_id">Rhe 2-481-a-6</idno>
+            </msItem>
+            <msItem n="127">
+              <locus from="481-a">f. 481-a</locus>
+              <title type="incipit">Volumus te</title>
+              <idno type="dokumenten_id">Rhe 2-481-a-8</idno>
+            </msItem>
+            <msItem n="128">
+              <locus from="481-b">f. 481-b</locus>
+              <title type="incipit">O victoria que</title>
+              <idno type="dokumenten_id">Rhe 2-481-b-14</idno>
+            </msItem>
+            <msItem n="129">
+              <locus from="481-b">f. 481-b</locus>
+              <title type="incipit">O fortissimi</title>
+              <idno type="dokumenten_id">Rhe 2-481-b-17</idno>
+            </msItem>
+            <msItem n="130">
+              <locus from="481-b">f. 481-b</locus>
+              <title type="incipit">O dulcissima bellatrix*</title>
+              <idno type="dokumenten_id">Rhe 2-481-b-19</idno>
+            </msItem>
+            <msItem n="131">
+              <locus from="481-b">f. 481-b</locus>
+              <title type="incipit">Ligate ergo</title>
+              <idno type="dokumenten_id">Rhe 2-481-b-20</idno>
+            </msItem>
+            <msItem n="132">
+              <locus from="481-b">f. 481-b</locus>
+              <title type="incipit">O regina nostra</title>
+              <idno type="dokumenten_id">Rhe 2-481-b-22</idno>
+            </msItem>
+            <msItem n="133">
+              <locus from="481-b">f. 481-b</locus>
+              <title type="incipit">Gaudete o socii</title>
+              <idno type="dokumenten_id">Rhe 2-481-b-24</idno>
+            </msItem>
+            <msItem n="134">
+              <locus from="481-b">f. 481-b</locus>
+              <title type="incipit">Que es aut</title>
+              <idno type="dokumenten_id">Rhe 2-481-b-5</idno>
+            </msItem>
+            <msItem n="135">
+              <locus from="481-b">f. 481-b</locus>
+              <title type="incipit">Ego omnes uias meas</title>
+              <idno type="dokumenten_id">Rhe 2-481-b-9</idno>
+            </msItem>
+            <msItem n="136">
+              <locus from="481v-a">f. 481v-a</locus>
+              <title type="incipit">Laus tibi Christe rex</title>
+              <idno type="dokumenten_id">Rhe 2-481v-a-1</idno>
+            </msItem>
+            <msItem n="137">
+              <locus from="481v-a">f. 481v-a</locus>
+              <title type="incipit">Quomodo posset</title>
+              <idno type="dokumenten_id">Rhe 2-481v-a-11</idno>
+            </msItem>
+            <msItem n="138">
+              <locus from="481v-a">f. 481v-a</locus>
+              <title type="incipit">O deus quis es</title>
+              <idno type="dokumenten_id">Rhe 2-481v-a-15</idno>
+            </msItem>
+            <msItem n="139">
+              <locus from="481v-a">f. 481v-a</locus>
+              <title type="incipit">O pater omnipotens ex</title>
+              <idno type="dokumenten_id">Rhe 2-481v-a-19</idno>
+            </msItem>
+            <msItem n="140">
+              <locus from="481v-a">f. 481v-a</locus>
+              <title type="incipit">In mente altissimi</title>
+              <idno type="dokumenten_id">Rhe 2-481v-a-2</idno>
+            </msItem>
+            <msItem n="141">
+              <locus from="481v-a">f. 481v-a</locus>
+              <title type="incipit">Tu nescis quid</title>
+              <idno type="dokumenten_id">Rhe 2-481v-a-7</idno>
+            </msItem>
+            <msItem n="142">
+              <locus from="481v-b">f. 481v-b</locus>
+              <title type="incipit">In principio omnes</title>
+              <idno type="dokumenten_id">Rhe 2-481v-b-4</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Rupertsberg</settlement>
+                <region>Quellen deutscher Herkunft</region>
+                <orgName>Monastery - Rupertsberg</orgName>
+              </origPlace>
+              <origDate>1175 - 1179</origDate>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

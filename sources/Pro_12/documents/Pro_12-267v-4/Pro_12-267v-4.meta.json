@@ -1,0 +1,41 @@
+{
+  "id": "6e5a88fc-e56b-4e42-9ae3-0ad16022ba77",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-267v-4",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Feria IV post Pascha",
+  "feier": "Messe",
+  "textinitium": "Prome casta",
+  "bibliographischerverweis": "AH 7, 47; AH 53, 49",
+  "druckausgabe": "CM III",
+  "zeilenstart": "4",
+  "foliostart": "267v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "268",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Eduxit dominus",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

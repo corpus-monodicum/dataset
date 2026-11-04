@@ -1,0 +1,41 @@
+{
+  "id": "5a97030c-8dac-4200-919f-41b1f2626a99",
+  "quelle_id": "Pa 778",
+  "dokumenten_id": "Pa 778-78-9",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominica IV post Pascha",
+  "feier": "Messe",
+  "textinitium": "Praecelsa admodum*",
+  "bibliographischerverweis": "AH 7, 71",
+  "druckausgabe": "",
+  "zeilenstart": "9",
+  "foliostart": "78",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "78",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

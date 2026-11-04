@@ -1,0 +1,41 @@
+{
+  "id": "754332f6-7c20-420f-87b4-123c88cb6233",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-214v-3a",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominica II post Pentecosten",
+  "feier": "Messe",
+  "textinitium": "Regnantem sempiterna*",
+  "bibliographischerverweis": "AH 53, 2",
+  "druckausgabe": "CM III",
+  "zeilenstart": "3",
+  "foliostart": "214v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "214v",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Laetatus sum",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

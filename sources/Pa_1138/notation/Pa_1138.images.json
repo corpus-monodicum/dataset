@@ -1,0 +1,28 @@
+{
+  "source": "Pa_1138",
+  "images": [
+    {
+      "file": "patterns/patterns.svg",
+      "kind": "patterns",
+      "media_type": "image/svg+xml",
+      "sha256": "0ae92c5629021dd89d41d67249c91f8db431fd9b05a6a9881cc1132e6b0fcf34",
+      "bytes": 31815,
+      "shows": "Pa 1138: Muster &amp; Entsprechungen",
+      "embeds_raster_image": false,
+      "source": {
+        "siglum": "Pa 1138",
+        "library": "Bibliothèque nationale de France",
+        "place": "Paris",
+        "shelfmark": "Lat. 1138",
+        "iiif_manifests": [],
+        "online_catalogue": []
+      },
+      "rights": {
+        "status": "not checked",
+        "library_terms_url": null,
+        "statement": null,
+        "note": "The images are crops of manuscript images of the library named under `source`; the rights of the library are not settled by the licence of this dataset (see docs/LICENCE-DECISION.md)."
+      }
+    }
+  ]
+}

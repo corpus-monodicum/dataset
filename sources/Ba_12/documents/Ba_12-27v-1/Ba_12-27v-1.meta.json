@@ -1,0 +1,41 @@
+{
+  "id": "399ff08b-454b-461c-ae2f-fc55298a5796",
+  "quelle_id": "Ba 12",
+  "dokumenten_id": "Ba 12-27v-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Martyres",
+  "feier": "Messe",
+  "textinitium": "Agone triumphali",
+  "bibliographischerverweis": "AH 53, 229",
+  "druckausgabe": "CM III",
+  "zeilenstart": "1",
+  "foliostart": "27v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "27v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Vox exsultationis",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

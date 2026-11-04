@@ -1,0 +1,41 @@
+{
+  "id": "2829b64c-a3cc-451e-9266-0b7bbfbeb656",
+  "quelle_id": "Pa 903",
+  "dokumenten_id": "Pa 903-148-10",
+  "gattung1": "Tropus",
+  "gattung2": "Offertorium-Tropus",
+  "festtag": "Nativitas domini",
+  "feier": "3. Messe",
+  "textinitium": "Qui es sine",
+  "bibliographischerverweis": "Nat III off 17 A 18 B 19 C 6 D (CT I)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "10",
+  "foliostart": "148",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "Tui sunt)",
+    "Endseite": "148",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Nat III off",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

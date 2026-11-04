@@ -1,0 +1,41 @@
+{
+  "id": "8cf60d02-b5ac-427e-96aa-c4aa98735b20",
+  "quelle_id": "Pa 14452",
+  "dokumenten_id": "Pa 14452-154-12",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Conversio Pauli",
+  "feier": "Messe",
+  "textinitium": "Iubilemus salvatori qui",
+  "bibliographischerverweis": "AH 55, 282",
+  "druckausgabe": "CM III",
+  "zeilenstart": "12",
+  "foliostart": "154",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "154v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

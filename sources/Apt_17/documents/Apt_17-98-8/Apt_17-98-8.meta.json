@@ -1,0 +1,41 @@
+{
+  "id": "def1520a-f7a3-4573-9981-6d018a61efe9",
+  "quelle_id": "Apt 17",
+  "dokumenten_id": "Apt 17-98-8",
+  "gattung1": "Tropus",
+  "gattung2": "Offertorium-Tropus",
+  "festtag": "Epiphania",
+  "feier": "Messe",
+  "textinitium": "Regi Christo",
+  "bibliographischerverweis": "Epiph off 29 A (CT I)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "8",
+  "foliostart": "98",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "(Reges Tharsis)",
+    "Endseite": "99",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Epiph off",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

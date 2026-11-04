@@ -1,0 +1,41 @@
+{
+  "id": "27c444cc-f2dd-4377-a9cc-ff5141a73aa7",
+  "quelle_id": "Pa 778",
+  "dokumenten_id": "Pa 778-134v-6",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Felix Gerundensis",
+  "feier": "Messe",
+  "textinitium": "Concrepet symbolica",
+  "bibliographischerverweis": "AH 7, 133; AH 53, 145",
+  "druckausgabe": "",
+  "zeilenstart": "6",
+  "foliostart": "134v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "136",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Hodie Maria virgo",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

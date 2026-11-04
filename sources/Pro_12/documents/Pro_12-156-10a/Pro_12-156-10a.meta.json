@@ -1,0 +1,41 @@
+{
+  "id": "b3093339-26fd-4ba6-92d3-3b7e3f9df717",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-156-10a",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominica IV post Pascha",
+  "feier": "Messe",
+  "textinitium": "Iubilemus omnes una*",
+  "bibliographischerverweis": "AH 53, 4",
+  "druckausgabe": "CM III",
+  "zeilenstart": "10",
+  "foliostart": "156",
+  "kommentar": "Querverweis: cc... ? (284)",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "156",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Adducentur",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

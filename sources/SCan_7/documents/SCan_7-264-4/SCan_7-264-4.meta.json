@@ -1,0 +1,41 @@
+{
+  "id": "c5a2b3ae-585f-4ab8-b7b5-e7b6203a011d",
+  "quelle_id": "SCan 7",
+  "dokumenten_id": "SCan 7-264-4",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Nativitas Mariae",
+  "feier": "Messe",
+  "textinitium": "Stirpe Maria",
+  "bibliographischerverweis": "AH 53, 95",
+  "druckausgabe": "",
+  "zeilenstart": "4",
+  "foliostart": "264",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Gionata Brusa",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "264v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Adducentur",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

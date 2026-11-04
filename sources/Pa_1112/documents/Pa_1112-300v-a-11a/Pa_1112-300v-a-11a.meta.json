@@ -1,0 +1,41 @@
+{
+  "id": "690639f8-cef5-4042-b576-bb7bd59f1e1f",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-300v-a-11a",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominica post Dionysium",
+  "feier": "Messe",
+  "textinitium": "Gaude prole Graecia*",
+  "bibliographischerverweis": "AH 55, 113",
+  "druckausgabe": "CM III",
+  "zeilenstart": "11",
+  "foliostart": "300v-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "300v-a",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

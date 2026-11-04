@@ -1,0 +1,41 @@
+{
+  "id": "b77ae0e3-ca48-401b-aea7-342574363b91",
+  "quelle_id": "Tri 2254",
+  "dokumenten_id": "Tri 2254-322-5",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Sancta crux",
+  "feier": "Messe",
+  "textinitium": "Laudes crucis",
+  "bibliographischerverweis": "AH 54, 120",
+  "druckausgabe": "",
+  "zeilenstart": "5",
+  "foliostart": "322",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "326",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Laetabitur",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

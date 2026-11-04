@@ -1,0 +1,41 @@
+{
+  "id": "aacd2e63-d191-4a54-a621-8068a6b54300",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-242-10",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Andreas",
+  "feier": "Messe",
+  "textinitium": "Ecce pulchra*",
+  "bibliographischerverweis": "AH 7, 116; AH 53, 114",
+  "druckausgabe": "CM III",
+  "zeilenstart": "10",
+  "foliostart": "242",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "242",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Lyra",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

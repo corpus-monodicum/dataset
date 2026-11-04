@@ -1,0 +1,41 @@
+{
+  "id": "5e58c517-fb5c-41b2-881f-6c44933c46eb",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-129-12",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Infra octavam Paschae",
+  "feier": "",
+  "textinitium": "Arvi polique",
+  "bibliographischerverweis": "AH 53, 65",
+  "druckausgabe": "",
+  "zeilenstart": "12",
+  "foliostart": "129",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "130",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Te decet",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

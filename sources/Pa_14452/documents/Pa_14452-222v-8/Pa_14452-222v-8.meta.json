@@ -1,0 +1,41 @@
+{
+  "id": "ec6e07b0-35cb-4dbe-bb4b-be8dfa2a432a",
+  "quelle_id": "Pa 14452",
+  "dokumenten_id": "Pa 14452-222v-8",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Marcellus",
+  "feier": "Messe",
+  "textinitium": "Gaude superna civitas",
+  "bibliographischerverweis": "AH 44, 216",
+  "druckausgabe": "CM III",
+  "zeilenstart": "8",
+  "foliostart": "222v",
+  "kommentar": "Nachtrag_5",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "223v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "Nachtrag_5",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "f5d4e41c-d0a3-4283-ab65-c78d10a63293",
+  "quelle_id": "Pa 1138",
+  "dokumenten_id": "Pa 1138-60-4",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Iohannes Evangelista",
+  "feier": "Messe",
+  "textinitium": "Haec est sancta sollemnitas cunctis",
+  "bibliographischerverweis": "AH 53, 240",
+  "druckausgabe": "",
+  "zeilenstart": "4",
+  "foliostart": "60",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "61",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Virgo plorans",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

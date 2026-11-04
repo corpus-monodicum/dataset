@@ -1,0 +1,41 @@
+{
+  "id": "a6665906-a025-4275-8aa5-f3db7d0486a9",
+  "quelle_id": "To 18",
+  "dokumenten_id": "To 18-21-8",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Iohannes Evangelista",
+  "feier": "Messe",
+  "textinitium": "In medio ecclesiae",
+  "bibliographischerverweis": "AMS 14",
+  "druckausgabe": "II-4",
+  "zeilenstart": "8",
+  "foliostart": "21",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "21",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

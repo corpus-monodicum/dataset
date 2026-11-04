@@ -1,0 +1,41 @@
+{
+  "id": "8f601b8b-6d65-4239-9abe-e14b953065b7",
+  "quelle_id": "Ba 12",
+  "dokumenten_id": "Ba 12-15v-9",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Iohannes Evangelista",
+  "feier": "Messe",
+  "textinitium": "Iohannes Iesu Christo",
+  "bibliographischerverweis": "AH 53, 168",
+  "druckausgabe": "CM III",
+  "zeilenstart": "9",
+  "foliostart": "15v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "16",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Romana",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

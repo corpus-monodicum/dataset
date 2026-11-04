@@ -1,0 +1,25 @@
+{
+  "id": "Ma 20-4",
+  "quellensigle": "Ma 20-4",
+  "herkunftsregion": "Quellen normanno-sizilischer Herkunft",
+  "herkunftsort": "Palermo",
+  "herkunftsinstitution": "Kathedrale",
+  "ordenstradition": "",
+  "quellentyp": "Graduale",
+  "bibliotheksort": "Madrid",
+  "bibliothek": "Biblioteca Nacional",
+  "bibliothekssignatur": "Vitrina a 20-4",
+  "kommentar": "",
+  "datierung": "12. Jh Mitte",
+  "status": "",
+  "jahrhundert": "12.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Ma 20-4",
+  "cantus_century": "12.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Ma_20-4.description.md"
+  }
+}

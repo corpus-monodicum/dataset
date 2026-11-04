@@ -1,0 +1,25 @@
+{
+  "id": "Pa 1112",
+  "quellensigle": "Pa 1112",
+  "herkunftsregion": "Quellen französischer Herkunft",
+  "herkunftsort": "Paris",
+  "herkunftsinstitution": "Kathedrale Notre-Dame",
+  "ordenstradition": "",
+  "quellentyp": "Missale, Prozessionar, Kyriale mit Tropen und Sequenzen",
+  "bibliotheksort": "Paris",
+  "bibliothek": "Bibliothèque nationale de France",
+  "bibliothekssignatur": "Lat. 1112",
+  "kommentar": "",
+  "datierung": "13. Jh (1212-1218)",
+  "status": "",
+  "jahrhundert": "13.",
+  "manifest": "",
+  "foliooffset": "pageNr+10",
+  "publish": "all",
+  "cantus_siglum": "Pa 1112",
+  "cantus_century": "13.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Pa_1112.description.md"
+  }
+}

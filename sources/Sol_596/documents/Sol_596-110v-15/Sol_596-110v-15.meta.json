@@ -1,0 +1,41 @@
+{
+  "id": "b748a467-3bb6-4d88-859e-73bc0d4f1e18",
+  "quelle_id": "Sol 596",
+  "dokumenten_id": "Sol 596-110v-15",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Credo",
+  "festtag": "Pentecoste",
+  "feier": "Prozession",
+  "textinitium": "Credo in unum deum",
+  "bibliographischerverweis": "Miazga I",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "15",
+  "foliostart": "110v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "112v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Sol 596-109-3S",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Pentecost",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

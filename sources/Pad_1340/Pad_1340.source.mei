@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Pad 1340: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Ordinariumsgesänge)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="Pad_1340">
+        <identifier type="siglum">Pad 1340</identifier>
+        <identifier type="cantus">Pad 1340</identifier>
+        <titleStmt>
+          <title>Pad 1340</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Italien</geogName>
+          <geogName role="origin-region">Quellen aus Ordenstraditionen</geogName>
+          <date>13. Jh 2. Hälfte</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="156v">f. 156v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Pad 1340-156v-2</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="156v">f. 156v</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Pad 1340-156v-4</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="157">f. 157</locus>
+            <title type="incipit">Ite missa est</title>
+            <identifier type="dokumenten_id">Pad 1340-157-11</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="157">f. 157</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Pad 1340-157-3</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="157">f. 157</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Pad 1340-157-7</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="157v">f. 157v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Pad 1340-157v-1</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="157v">f. 157v</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Pad 1340-157v-3</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="158">f. 158</locus>
+            <title type="incipit">Ite missa est</title>
+            <identifier type="dokumenten_id">Pad 1340-158-12</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="158">f. 158</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Pad 1340-158-4</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="158">f. 158</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Pad 1340-158-7</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus from="158v">f. 158v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Pad 1340-158v-1</identifier>
+          </contentItem>
+          <contentItem n="12">
+            <locus from="158v">f. 158v</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Pad 1340-158v-5</identifier>
+          </contentItem>
+          <contentItem n="13">
+            <locus from="159">f. 159</locus>
+            <title type="incipit">Ite missa est</title>
+            <identifier type="dokumenten_id">Pad 1340-159-12</identifier>
+          </contentItem>
+          <contentItem n="14">
+            <locus from="159">f. 159</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Pad 1340-159-6</identifier>
+          </contentItem>
+          <contentItem n="15">
+            <locus from="159">f. 159</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Pad 1340-159-8</identifier>
+          </contentItem>
+          <contentItem n="16">
+            <locus from="159v">f. 159v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Pad 1340-159v-1</identifier>
+          </contentItem>
+          <contentItem n="17">
+            <locus from="159v">f. 159v</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Pad 1340-159v-3</identifier>
+          </contentItem>
+          <contentItem n="18">
+            <locus from="160">f. 160</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Pad 1340-160-11</identifier>
+          </contentItem>
+          <contentItem n="19">
+            <locus from="160">f. 160</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Pad 1340-160-3</identifier>
+          </contentItem>
+          <contentItem n="20">
+            <locus from="160">f. 160</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Pad 1340-160-7</identifier>
+          </contentItem>
+          <contentItem n="21">
+            <locus from="160">f. 160</locus>
+            <title type="incipit">Ite missa est</title>
+            <identifier type="dokumenten_id">Pad 1340-160-9</identifier>
+          </contentItem>
+          <contentItem n="22">
+            <locus from="160v">f. 160v</locus>
+            <title type="incipit">Gloria in excelsis*</title>
+            <identifier type="dokumenten_id">Pad 1340-160v-2a</identifier>
+          </contentItem>
+          <contentItem n="23">
+            <locus from="160v">f. 160v</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Pad 1340-160v-2b</identifier>
+          </contentItem>
+          <contentItem n="24">
+            <locus from="161">f. 161</locus>
+            <title type="incipit">Benedicamus domino</title>
+            <identifier type="dokumenten_id">Pad 1340-161-11</identifier>
+          </contentItem>
+          <contentItem n="25">
+            <locus from="161">f. 161</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Pad 1340-161-12</identifier>
+          </contentItem>
+          <contentItem n="26">
+            <locus from="161">f. 161</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Pad 1340-161-2</identifier>
+          </contentItem>
+          <contentItem n="27">
+            <locus from="161">f. 161</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Pad 1340-161-6</identifier>
+          </contentItem>
+          <contentItem n="28">
+            <locus from="161">f. 161</locus>
+            <title type="incipit">Ite missa est</title>
+            <identifier type="dokumenten_id">Pad 1340-161-8</identifier>
+          </contentItem>
+          <contentItem n="29">
+            <locus from="161">f. 161</locus>
+            <title type="incipit">Benedicamus domino</title>
+            <identifier type="dokumenten_id">Pad 1340-161-9</identifier>
+          </contentItem>
+          <contentItem n="30">
+            <locus from="161v">f. 161v</locus>
+            <title type="incipit">Gloria in excelsis*</title>
+            <identifier type="dokumenten_id">Pad 1340-161v-1</identifier>
+          </contentItem>
+          <contentItem n="31">
+            <locus from="161v">f. 161v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Pad 1340-161v-10</identifier>
+          </contentItem>
+          <contentItem n="32">
+            <locus from="161v">f. 161v</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Pad 1340-161v-11</identifier>
+          </contentItem>
+          <contentItem n="33">
+            <locus from="161v">f. 161v</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Pad 1340-161v-2</identifier>
+          </contentItem>
+          <contentItem n="34">
+            <locus from="161v">f. 161v</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Pad 1340-161v-5</identifier>
+          </contentItem>
+          <contentItem n="35">
+            <locus from="161v">f. 161v</locus>
+            <title type="incipit">Ite missa est</title>
+            <identifier type="dokumenten_id">Pad 1340-161v-8</identifier>
+          </contentItem>
+          <contentItem n="36">
+            <locus from="162v">f. 162v</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Pad 1340-162v-1</identifier>
+          </contentItem>
+          <contentItem n="37">
+            <locus from="162v">f. 162v</locus>
+            <title type="incipit">Ite missa est</title>
+            <identifier type="dokumenten_id">Pad 1340-162v-11a</identifier>
+          </contentItem>
+          <contentItem n="38">
+            <locus from="162v">f. 162v</locus>
+            <title type="incipit">Ite missa est</title>
+            <identifier type="dokumenten_id">Pad 1340-162v-11b</identifier>
+          </contentItem>
+          <contentItem n="39">
+            <locus from="162v">f. 162v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Pad 1340-162v-12</identifier>
+          </contentItem>
+          <contentItem n="40">
+            <locus from="162v">f. 162v</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Pad 1340-162v-13</identifier>
+          </contentItem>
+          <contentItem n="41">
+            <locus from="162v">f. 162v</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Pad 1340-162v-5</identifier>
+          </contentItem>
+          <contentItem n="42">
+            <locus from="163">f. 163</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Pad 1340-163-3</identifier>
+          </contentItem>
+          <contentItem n="43">
+            <locus from="163">f. 163</locus>
+            <title type="incipit">Benedicamus domino</title>
+            <identifier type="dokumenten_id">Pad 1340-163-6a</identifier>
+          </contentItem>
+          <contentItem n="44">
+            <locus from="163">f. 163</locus>
+            <title type="incipit">Benedicamus domino</title>
+            <identifier type="dokumenten_id">Pad 1340-163-6a</identifier>
+          </contentItem>
+          <contentItem n="45">
+            <locus from="163">f. 163</locus>
+            <title type="incipit">Benedicamus domino</title>
+            <identifier type="dokumenten_id">Pad 1340-163-6b</identifier>
+          </contentItem>
+          <contentItem n="46">
+            <locus from="163">f. 163</locus>
+            <title type="incipit">Benedicamus domino</title>
+            <identifier type="dokumenten_id">Pad 1340-163-6b</identifier>
+          </contentItem>
+          <contentItem n="47">
+            <locus from="163">f. 163</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Pad 1340-163-8</identifier>
+          </contentItem>
+          <contentItem n="48">
+            <locus from="163">f. 163</locus>
+            <title type="incipit">Sanctus ... dominus deus*</title>
+            <identifier type="dokumenten_id">Pad 1340-163-9a</identifier>
+          </contentItem>
+          <contentItem n="49">
+            <locus from="163">f. 163</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Pad 1340-163-9b</identifier>
+          </contentItem>
+          <contentItem n="50">
+            <locus from="163v">f. 163v</locus>
+            <title type="incipit">Requiescant</title>
+            <identifier type="dokumenten_id">Pad 1340-163v-4</identifier>
+          </contentItem>
+          <contentItem n="51">
+            <locus from="163v">f. 163v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Pad 1340-163v-5</identifier>
+          </contentItem>
+          <contentItem n="52">
+            <locus from="163v">f. 163v</locus>
+            <title type="incipit">Spiritus et alme</title>
+            <identifier type="dokumenten_id">Pad 1340-163v-9</identifier>
+          </contentItem>
+          <contentItem n="53">
+            <locus from="164v">f. 164v</locus>
+            <title type="incipit">Credo in unum deum</title>
+            <identifier type="dokumenten_id">Pad 1340-164v-11</identifier>
+          </contentItem>
+          <contentItem n="54">
+            <locus from="164v">f. 164v</locus>
+            <title type="incipit">Sanctus ... dominus deus*</title>
+            <identifier type="dokumenten_id">Pad 1340-164v-2</identifier>
+          </contentItem>
+          <contentItem n="55">
+            <locus from="164v">f. 164v</locus>
+            <title type="incipit">Agnus dei*</title>
+            <identifier type="dokumenten_id">Pad 1340-164v-3a</identifier>
+          </contentItem>
+          <contentItem n="56">
+            <locus from="164v">f. 164v</locus>
+            <title type="incipit">Ite missa est</title>
+            <identifier type="dokumenten_id">Pad 1340-164v-3b</identifier>
+          </contentItem>
+          <contentItem n="57">
+            <locus from="74v-b">f. 74v-b</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Pad 1340-74v-b-12</identifier>
+          </contentItem>
+        </contents>
+        <notesStmt>
+          <annot type="description">
+            <ref target="Pad_1340.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <classification>
+          <termList>
+            <term type="quellentyp">Graduale, Kyriale</term>
+            <term type="ordenstradition">Franziskaner</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">1340</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">Padua</geogName>
+                <corpName>Biblioteca Universitaria</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

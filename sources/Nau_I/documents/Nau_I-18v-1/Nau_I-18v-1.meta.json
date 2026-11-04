@@ -1,0 +1,41 @@
+{
+  "id": "8c63dd1e-8016-4e64-b7b5-18b33ea5b3ff",
+  "quelle_id": "Nau I",
+  "dokumenten_id": "Nau I-18v-1",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Epiphania",
+  "feier": "Messe",
+  "textinitium": "Ecclesiae sponsus",
+  "bibliographischerverweis": "Epiph intr 15 A 17 B 18 C D 19 (CT I)",
+  "druckausgabe": "II-2",
+  "zeilenstart": "1",
+  "foliostart": "18v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "Nau VIII-19-1",
+    "Endseite": "18v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "v",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Epiph intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

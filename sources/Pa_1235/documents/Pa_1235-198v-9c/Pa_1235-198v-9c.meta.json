@@ -1,0 +1,41 @@
+{
+  "id": "07bddf8e-c0df-46a9-971a-936ccc64801c",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-198v-9c",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Octava nativitatis",
+  "feier": "Messe",
+  "textinitium": "Si illum regnare*",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "9",
+  "foliostart": "198v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "198v",
+    "Startposition": "c",
+    "Referenz_auf_Spiel": "Pa 1235-198-11S",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Magi play",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

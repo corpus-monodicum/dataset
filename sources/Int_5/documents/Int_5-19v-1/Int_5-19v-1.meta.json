@@ -1,0 +1,41 @@
+{
+  "id": "eae646ea-9414-4e96-96b1-128f95d05139",
+  "quelle_id": "Int 5",
+  "dokumenten_id": "Int 5-19v-1",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Innocentes",
+  "feier": "Messe",
+  "textinitium": "Filii carissimi",
+  "bibliographischerverweis": "Innoc intr 23 A 24 B 25 C (CT I)",
+  "druckausgabe": "",
+  "zeilenstart": "1",
+  "foliostart": "19v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "19v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Innoc intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

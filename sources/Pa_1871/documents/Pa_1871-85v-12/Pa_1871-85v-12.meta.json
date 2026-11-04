@@ -1,0 +1,41 @@
+{
+  "id": "f45eccc9-d7e6-41a7-aeeb-a5f1fb6cddbd",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-85v-12",
+  "gattung1": "Sequenz",
+  "gattung2": "Teiltextiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Iam nunc intonat",
+  "bibliographischerverweis": "AH 49, S. 277",
+  "druckausgabe": "",
+  "zeilenstart": "12",
+  "foliostart": "85v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "86",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "O alma maior",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

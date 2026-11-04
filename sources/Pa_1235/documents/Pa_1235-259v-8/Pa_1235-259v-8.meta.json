@@ -1,0 +1,41 @@
+{
+  "id": "7dad47c2-8771-4f81-b6df-a0010f8b8619",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-259v-8",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Corpus Christi",
+  "feier": "Messe",
+  "textinitium": "Lauda Sion",
+  "bibliographischerverweis": "AH 50, 385",
+  "druckausgabe": "CM III",
+  "zeilenstart": "8",
+  "foliostart": "259v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "262v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Laetabitur",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "Nachtrag",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

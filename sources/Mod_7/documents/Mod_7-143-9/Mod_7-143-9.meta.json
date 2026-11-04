@@ -1,0 +1,41 @@
+{
+  "id": "3ba3e268-35a9-4416-8453-3297025af4c1",
+  "quelle_id": "Mod 7",
+  "dokumenten_id": "Mod 7-143-9",
+  "gattung1": "Kyrie",
+  "gattung2": "tropiert",
+  "festtag": "Pentecoste",
+  "feier": "Messe",
+  "textinitium": "Canamus cuncti",
+  "bibliographischerverweis": "AH 47, 29: 1A 1B 1C 2B 2A 2C 3A 3B 3C1 3C2",
+  "druckausgabe": "",
+  "zeilenstart": "9",
+  "foliostart": "143",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "144",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "Melnicki 68",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509501",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

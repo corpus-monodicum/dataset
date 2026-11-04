@@ -1,0 +1,41 @@
+{
+  "id": "cd17592f-0834-4f17-a84a-94130f72830e",
+  "quelle_id": "Mod 7",
+  "dokumenten_id": "Mod 7-89-7",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Dominica in palmis",
+  "feier": "Messe",
+  "textinitium": "Ingresso Iesu",
+  "bibliographischerverweis": "Palm intr 18 A 4 A 5 B 3 C D (CT III)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "7",
+  "foliostart": "89",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Domine ne longe",
+    "Endseite": "89v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Palm intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

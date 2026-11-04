@@ -1,0 +1,25 @@
+{
+  "id": "Civ 79",
+  "quellensigle": "Civ 79",
+  "herkunftsregion": "Quellen italienischer Herkunft",
+  "herkunftsort": "Cividale del Friuli",
+  "herkunftsinstitution": "",
+  "ordenstradition": "",
+  "quellentyp": "Graduale, Tropar, Sequentiar",
+  "bibliotheksort": "Cividale",
+  "bibliothek": "Museo Archeologico Nazionale",
+  "bibliothekssignatur": "Ms. LXXIX",
+  "kommentar": "",
+  "datierung": "14. Jh – 15. Jh",
+  "status": "",
+  "jahrhundert": "14., 15.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Civ 79",
+  "cantus_century": "14., 15.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Civ_79.description.md"
+  }
+}

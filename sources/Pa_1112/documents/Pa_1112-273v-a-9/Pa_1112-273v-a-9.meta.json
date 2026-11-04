@@ -1,0 +1,41 @@
+{
+  "id": "ae06ccac-bb8c-4152-ad78-74d5694cc00b",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-273v-a-9",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Trinitas",
+  "feier": "Messe",
+  "textinitium": "Benedicta semper sancta",
+  "bibliographischerverweis": "AH 53, 81",
+  "druckausgabe": "CM III",
+  "zeilenstart": "9",
+  "foliostart": "273v-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "274a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Benedicta",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

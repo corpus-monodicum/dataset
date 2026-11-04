@@ -1,0 +1,41 @@
+{
+  "id": "aa028998-b145-4781-a552-869ac7e8d763",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-121v-6",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Infra octavam Paschae",
+  "feier": "",
+  "textinitium": "Quoniam vita",
+  "bibliographischerverweis": "AH 7, 57",
+  "druckausgabe": "",
+  "zeilenstart": "6",
+  "foliostart": "121v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "122",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Lyra",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

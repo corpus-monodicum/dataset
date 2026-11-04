@@ -1,0 +1,41 @@
+{
+  "id": "c0adbeba-34b8-4a65-a3e8-57b49341a780",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-165v-19",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Martinus",
+  "feier": "Messe",
+  "textinitium": "Sacerdotem Christi",
+  "bibliographischerverweis": "AH 53, 181",
+  "druckausgabe": "CM III",
+  "zeilenstart": "19",
+  "foliostart": "165v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "166",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "14",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Beatus vir qui timet maior",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "A",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

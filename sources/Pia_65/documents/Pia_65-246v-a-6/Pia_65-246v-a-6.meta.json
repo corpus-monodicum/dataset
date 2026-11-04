@@ -1,0 +1,41 @@
+{
+  "id": "3c88d1fd-b6e9-4763-8f5e-c0fc80069066",
+  "quelle_id": "Pia 65",
+  "dokumenten_id": "Pia 65-246v-a-6",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Martinus",
+  "feier": "Messe",
+  "textinitium": "Martinus meritis",
+  "bibliographischerverweis": "Statuit intr 46 A B (CT X)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "6",
+  "foliostart": "246v-a",
+  "kommentar": "Original: Beatus Martinus (Verweis in CT X, S. 50)",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Statuit",
+    "Endseite": "246v-a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Statuit intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

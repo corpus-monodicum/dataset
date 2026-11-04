@@ -1,0 +1,41 @@
+{
+  "id": "e80fd2a5-f93c-4cc6-b52c-7f4ca48da0a4",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-79v-10",
+  "gattung1": "Sequenz",
+  "gattung2": "Teiltextiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Rex in aeternum suscipe",
+  "bibliographischerverweis": "AH 49, 516",
+  "druckausgabe": "",
+  "zeilenstart": "10",
+  "foliostart": "79v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "80",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Fulgens praeclara",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "Fulgens praeclara",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

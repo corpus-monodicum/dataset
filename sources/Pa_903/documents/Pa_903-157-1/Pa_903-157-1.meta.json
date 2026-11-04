@@ -1,0 +1,41 @@
+{
+  "id": "dc6cf1b8-aad2-4898-9d4b-c217dbd3d0d8",
+  "quelle_id": "Pa 903",
+  "dokumenten_id": "Pa 903-157-1",
+  "gattung1": "Tropus",
+  "gattung2": "Communio-Tropus",
+  "festtag": "Iohannes Baptista",
+  "feier": "Messe",
+  "textinitium": "Praevius hic ... prophetizat",
+  "bibliographischerverweis": "Tu puer com 5 A 6 B 7 C (CT X)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "1",
+  "foliostart": "157",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "Tu puer)",
+    "Endseite": "157",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Tu puer com",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

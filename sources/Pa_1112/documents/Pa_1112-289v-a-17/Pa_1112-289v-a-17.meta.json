@@ -1,0 +1,41 @@
+{
+  "id": "9617e709-7bd1-458b-8528-9b58a4064cb",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-289v-a-17",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Translatio Benedicti",
+  "feier": "Messe",
+  "textinitium": "Supernae matris*",
+  "bibliographischerverweis": "AH 55, 37",
+  "druckausgabe": "CM III",
+  "zeilenstart": "17",
+  "foliostart": "289v-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "289v-a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "17",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

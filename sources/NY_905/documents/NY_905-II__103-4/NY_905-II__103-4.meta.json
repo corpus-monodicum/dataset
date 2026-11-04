@@ -1,0 +1,41 @@
+{
+  "id": "d28e4dd0-a843-49c5-ac72-3ab29a9e404b",
+  "quelle_id": "NY 905",
+  "dokumenten_id": "NY 905-II, 103-4",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Nativitas Mariae",
+  "feier": "Messe",
+  "textinitium": "Nativitatem venerandam",
+  "bibliographischerverweis": "Gaud 1 (CT IX)",
+  "druckausgabe": "II-2",
+  "zeilenstart": "4",
+  "foliostart": "II, 103",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "NY 905-II, 91-1",
+    "Endseite": "II, 103",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "II, 103",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

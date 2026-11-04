@@ -1,0 +1,41 @@
+{
+  "id": "a546265f-8b59-454e-abba-23df6ff64c9d",
+  "quelle_id": "SCan 7",
+  "dokumenten_id": "SCan 7-285-10",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Confessores",
+  "feier": "Messe",
+  "textinitium": "Dilectus deo et hominibus",
+  "bibliographischerverweis": "AH 54, 90",
+  "druckausgabe": "",
+  "zeilenstart": "10",
+  "foliostart": "285",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Gionata Brusa",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "285v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "-",
+    "Überlieferungszustand": "Ende fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

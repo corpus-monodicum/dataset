@@ -1,0 +1,41 @@
+{
+  "id": "95bf7f7c-8170-4058-8405-b997bd9ddfe3",
+  "quelle_id": "Ut 417",
+  "dokumenten_id": "Ut 417-48-6",
+  "gattung1": "Kyrie",
+  "gattung2": "tropiert",
+  "festtag": "Nativitas domini; Tempore paschali; Dedicatio ecclesiae",
+  "feier": "1. Messe",
+  "textinitium": "Lux et origo",
+  "bibliographischerverweis": "AH 47, 12a: 1A 1B 1C 2A 2C 2B 3A 3B 3C",
+  "druckausgabe": "",
+  "zeilenstart": "6",
+  "foliostart": "48",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "48v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "Melnicki 39",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509501",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

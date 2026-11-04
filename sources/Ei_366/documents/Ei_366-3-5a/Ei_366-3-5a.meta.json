@@ -1,0 +1,41 @@
+{
+  "id": "1fbe8c3b-6068-4862-b347-5b1932fbed78",
+  "quelle_id": "Ei 366",
+  "dokumenten_id": "Ei 366-3-5a",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Innocentes",
+  "feier": "Messe",
+  "textinitium": "Laus tibi Christe qui humilis",
+  "bibliographischerverweis": "AH 53, 158",
+  "druckausgabe": "CM III",
+  "zeilenstart": "5",
+  "foliostart": "3",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "4b",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Te martyrum",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "Te martyrum",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

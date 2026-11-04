@@ -1,0 +1,41 @@
+{
+  "id": "e476bd34-99a8-4d44-8458-bd6dfbb27297",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-199v-a-26",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Lucanus",
+  "feier": "Messe",
+  "textinitium": "Supernae matris*",
+  "bibliographischerverweis": "AH 55, 37",
+  "druckausgabe": "",
+  "zeilenstart": "26",
+  "foliostart": "199v-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "199v-a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "26",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

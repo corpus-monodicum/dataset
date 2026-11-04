@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Ass 695: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Ordinariumsgesänge)</resp>
+          <persName>Charles M. Atkinson</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Jasmin Hartmann-Strauß</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Ordinariumsgesänge)</resp>
+          <persName>David Hiley</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Sequenzen)</resp>
+          <persName>Anna Sanda</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="Ass_695">
+        <identifier type="siglum">Ass 695</identifier>
+        <identifier type="cantus">Ass 695</identifier>
+        <titleStmt>
+          <title>Ass 695</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Reims (möglicherweise)</geogName>
+          <geogName role="origin-region">Quellen französischer Herkunft</geogName>
+          <date>13. Jh 2. Viertel</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="100v">f. 100v</locus>
+            <title type="incipit">Gloriosa dies ... processit</title>
+            <identifier type="dokumenten_id">Ass 695-100v-7</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="101v">f. 101v</locus>
+            <title type="incipit">Virginis venerandae</title>
+            <identifier type="dokumenten_id">Ass 695-101v-2</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="102">f. 102</locus>
+            <title type="incipit">Tripudiet timentium</title>
+            <identifier type="dokumenten_id">Ass 695-102-10</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="102">f. 102</locus>
+            <title type="incipit">Stans a longe qui plurima</title>
+            <identifier type="dokumenten_id">Ass 695-102-2</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="102v">f. 102v</locus>
+            <title type="incipit">Clara chorus</title>
+            <identifier type="dokumenten_id">Ass 695-102v-10</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="104">f. 104</locus>
+            <title type="incipit">Clare sanctorum</title>
+            <identifier type="dokumenten_id">Ass 695-104-4</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="104v">f. 104v</locus>
+            <title type="incipit">Mirabilis deus in sanctis</title>
+            <identifier type="dokumenten_id">Ass 695-104v-6</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="105">f. 105</locus>
+            <title type="incipit">Mundi aetate</title>
+            <identifier type="dokumenten_id">Ass 695-105-5</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="105v">f. 105v</locus>
+            <title type="incipit">Inviolata intacta</title>
+            <identifier type="dokumenten_id">Ass 695-105v-2</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="105v">f. 105v</locus>
+            <title type="incipit">Ave mundi spes</title>
+            <identifier type="dokumenten_id">Ass 695-105v-9</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus from="106v">f. 106v</locus>
+            <title type="incipit">Hodiernae lux diei</title>
+            <identifier type="dokumenten_id">Ass 695-106v-6</identifier>
+          </contentItem>
+          <contentItem n="12">
+            <locus from="107">f. 107</locus>
+            <title type="incipit">Ecce martyr</title>
+            <identifier type="dokumenten_id">Ass 695-107-10</identifier>
+          </contentItem>
+          <contentItem n="13">
+            <locus from="107v">f. 107v</locus>
+            <title type="incipit">Vos primaevi</title>
+            <identifier type="dokumenten_id">Ass 695-107v-17</identifier>
+          </contentItem>
+          <contentItem n="14">
+            <locus from="107v">f. 107v</locus>
+            <title type="incipit">Paulus et Iohannes</title>
+            <identifier type="dokumenten_id">Ass 695-107v-28</identifier>
+          </contentItem>
+          <contentItem n="15">
+            <locus from="107v">f. 107v</locus>
+            <title type="incipit">Flore vernat</title>
+            <identifier type="dokumenten_id">Ass 695-107v-6</identifier>
+          </contentItem>
+          <contentItem n="16">
+            <locus from="108">f. 108</locus>
+            <title type="incipit">Petrus splendor</title>
+            <identifier type="dokumenten_id">Ass 695-108-21</identifier>
+          </contentItem>
+          <contentItem n="17">
+            <locus from="108">f. 108</locus>
+            <title type="incipit">Duae verae sunt</title>
+            <identifier type="dokumenten_id">Ass 695-108-9</identifier>
+          </contentItem>
+          <contentItem n="18">
+            <locus from="108v">f. 108v</locus>
+            <title type="incipit">Ave maris stella dei</title>
+            <identifier type="dokumenten_id">Ass 695-108v-3</identifier>
+          </contentItem>
+          <contentItem n="19">
+            <locus from="109v">f. 109v</locus>
+            <title type="incipit">Missus Gabriel</title>
+            <identifier type="dokumenten_id">Ass 695-109v-6</identifier>
+          </contentItem>
+          <contentItem n="20">
+            <locus from="10v">f. 10v</locus>
+            <title type="incipit">Kyrion o theos pater</title>
+            <identifier type="dokumenten_id">Ass 695-10v-3</identifier>
+          </contentItem>
+          <contentItem n="21">
+            <locus from="11">f. 11</locus>
+            <title type="incipit">Alpha et o princeps</title>
+            <identifier type="dokumenten_id">Ass 695-11-5</identifier>
+          </contentItem>
+          <contentItem n="22">
+            <locus from="110v">f. 110v</locus>
+            <title type="incipit">Virgini Mariae … Eva tristis</title>
+            <identifier type="dokumenten_id">Ass 695-110v-4</identifier>
+          </contentItem>
+          <contentItem n="23">
+            <locus from="111">f. 111</locus>
+            <title type="incipit">Gaude dei genetrix</title>
+            <identifier type="dokumenten_id">Ass 695-111-5I</identifier>
+          </contentItem>
+          <contentItem n="24">
+            <locus from="111">f. 111</locus>
+            <title type="incipit">Gaude dei genetrix</title>
+            <identifier type="dokumenten_id">Ass 695-111-5II</identifier>
+          </contentItem>
+          <contentItem n="25">
+            <locus from="112">f. 112</locus>
+            <title type="incipit">Splendor patris et figura</title>
+            <identifier type="dokumenten_id">Ass 695-112-3</identifier>
+          </contentItem>
+          <contentItem n="26">
+            <locus from="113">f. 113</locus>
+            <title type="incipit">In excelsis canitur</title>
+            <identifier type="dokumenten_id">Ass 695-113-8</identifier>
+          </contentItem>
+          <contentItem n="27">
+            <locus from="114">f. 114</locus>
+            <title type="incipit">Lux est orta</title>
+            <identifier type="dokumenten_id">Ass 695-114-9</identifier>
+          </contentItem>
+          <contentItem n="28">
+            <locus from="115">f. 115</locus>
+            <title type="incipit">In natale salvatoris</title>
+            <identifier type="dokumenten_id">Ass 695-115-6</identifier>
+          </contentItem>
+          <contentItem n="29">
+            <locus from="116">f. 116</locus>
+            <title type="incipit">Nato nobis salvatore</title>
+            <identifier type="dokumenten_id">Ass 695-116-3</identifier>
+          </contentItem>
+          <contentItem n="30">
+            <locus from="116v">f. 116v</locus>
+            <title type="incipit">Iubilemus salvatori quem</title>
+            <identifier type="dokumenten_id">Ass 695-116v-5</identifier>
+          </contentItem>
+          <contentItem n="31">
+            <locus from="117v">f. 117v</locus>
+            <title type="incipit">Heri mundus exsultavit</title>
+            <identifier type="dokumenten_id">Ass 695-117v-3</identifier>
+          </contentItem>
+          <contentItem n="32">
+            <locus from="119">f. 119</locus>
+            <title type="incipit">Gratulemur ad festivum</title>
+            <identifier type="dokumenten_id">Ass 695-119-2</identifier>
+          </contentItem>
+          <contentItem n="33">
+            <locus from="11v">f. 11v</locus>
+            <title type="incipit">O deus immense</title>
+            <identifier type="dokumenten_id">Ass 695-11v-7</identifier>
+          </contentItem>
+          <contentItem n="34">
+            <locus from="120">f. 120</locus>
+            <title type="incipit">Sponsa virum</title>
+            <identifier type="dokumenten_id">Ass 695-120-5</identifier>
+          </contentItem>
+          <contentItem n="35">
+            <locus from="121">f. 121</locus>
+            <title type="incipit">Genovefae sollemnitas</title>
+            <identifier type="dokumenten_id">Ass 695-121-4</identifier>
+          </contentItem>
+          <contentItem n="36">
+            <locus from="122">f. 122</locus>
+            <title type="incipit">Virgo mater salvatoris</title>
+            <identifier type="dokumenten_id">Ass 695-122-5</identifier>
+          </contentItem>
+          <contentItem n="37">
+            <locus from="123v">f. 123v</locus>
+            <title type="incipit">Animemur ad agonem</title>
+            <identifier type="dokumenten_id">Ass 695-123v-1</identifier>
+          </contentItem>
+          <contentItem n="38">
+            <locus from="124v">f. 124v</locus>
+            <title type="incipit">Ecce dies praeoptata</title>
+            <identifier type="dokumenten_id">Ass 695-124v-7</identifier>
+          </contentItem>
+          <contentItem n="39">
+            <locus from="126">f. 126</locus>
+            <title type="incipit">Corde voce</title>
+            <identifier type="dokumenten_id">Ass 695-126-8</identifier>
+          </contentItem>
+          <contentItem n="40">
+            <locus from="127">f. 127</locus>
+            <title type="incipit">Templum cordis</title>
+            <identifier type="dokumenten_id">Ass 695-127-9</identifier>
+          </contentItem>
+          <contentItem n="41">
+            <locus from="128v">f. 128v</locus>
+            <title type="incipit">Salve mater salvatoris vas electum</title>
+            <identifier type="dokumenten_id">Ass 695-128v-5</identifier>
+          </contentItem>
+          <contentItem n="42">
+            <locus from="12v">f. 12v</locus>
+            <title type="incipit">Summe deus qui cuncta</title>
+            <identifier type="dokumenten_id">Ass 695-12v-1</identifier>
+          </contentItem>
+          <contentItem n="43">
+            <locus from="13">f. 13</locus>
+            <title type="incipit">Pater cuncta</title>
+            <identifier type="dokumenten_id">Ass 695-13-1</identifier>
+          </contentItem>
+          <contentItem n="44">
+            <locus from="13">f. 13</locus>
+            <title type="incipit">O rex clemens</title>
+            <identifier type="dokumenten_id">Ass 695-13-9</identifier>
+          </contentItem>
+          <contentItem n="45">
+            <locus from="130">f. 130</locus>
+            <title type="incipit">Paranymphus salutat</title>
+            <identifier type="dokumenten_id">Ass 695-130-4</identifier>
+          </contentItem>
+          <contentItem n="46">
+            <locus from="130v">f. 130v</locus>
+            <title type="incipit">Zyma vetus</title>
+            <identifier type="dokumenten_id">Ass 695-130v-6</identifier>
+          </contentItem>
+          <contentItem n="47">
+            <locus from="132">f. 132</locus>
+            <title type="incipit">Salve dies dierum</title>
+            <identifier type="dokumenten_id">Ass 695-132-6</identifier>
+          </contentItem>
+          <contentItem n="48">
+            <locus from="133">f. 133</locus>
+            <title type="incipit">Ecce dies celebris</title>
+            <identifier type="dokumenten_id">Ass 695-133-5</identifier>
+          </contentItem>
+          <contentItem n="49">
+            <locus from="134">f. 134</locus>
+            <title type="incipit">Lux illuxit dominica</title>
+            <identifier type="dokumenten_id">Ass 695-134-4</identifier>
+          </contentItem>
+          <contentItem n="50">
+            <locus from="134v">f. 134v</locus>
+            <title type="incipit">Mundi renovatio nova</title>
+            <identifier type="dokumenten_id">Ass 695-134v-9</identifier>
+          </contentItem>
+          <contentItem n="51">
+            <locus from="135v">f. 135v</locus>
+            <title type="incipit">Lux iucunda</title>
+            <identifier type="dokumenten_id">Ass 695-135v-1</identifier>
+          </contentItem>
+          <contentItem n="52">
+            <locus from="136v">f. 136v</locus>
+            <title type="incipit">Simplex in essentia</title>
+            <identifier type="dokumenten_id">Ass 695-136v-6</identifier>
+          </contentItem>
+          <contentItem n="53">
+            <locus from="137v">f. 137v</locus>
+            <title type="incipit">Profitentes unitatem</title>
+            <identifier type="dokumenten_id">Ass 695-137v-5</identifier>
+          </contentItem>
+          <contentItem n="54">
+            <locus from="139">f. 139</locus>
+            <title type="incipit">Celebremus victoriam</title>
+            <identifier type="dokumenten_id">Ass 695-139-1</identifier>
+          </contentItem>
+          <contentItem n="55">
+            <locus from="139v">f. 139v</locus>
+            <title type="incipit">Ex radice caritatis</title>
+            <identifier type="dokumenten_id">Ass 695-139v-10</identifier>
+          </contentItem>
+          <contentItem n="56">
+            <locus from="14">f. 14</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Ass 695-14-1</identifier>
+          </contentItem>
+          <contentItem n="57">
+            <locus from="14">f. 14</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Ass 695-14-4</identifier>
+          </contentItem>
+          <contentItem n="58">
+            <locus from="14">f. 14</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Ass 695-14-7</identifier>
+          </contentItem>
+          <contentItem n="59">
+            <locus from="141">f. 141</locus>
+            <title type="incipit">Ad honorem tuum</title>
+            <identifier type="dokumenten_id">Ass 695-141-9</identifier>
+          </contentItem>
+          <contentItem n="60">
+            <locus from="142v">f. 142v</locus>
+            <title type="incipit">Gaude Roma</title>
+            <identifier type="dokumenten_id">Ass 695-142v-5</identifier>
+          </contentItem>
+          <contentItem n="61">
+            <locus from="144">f. 144</locus>
+            <title type="incipit">Roma Petro glorietur</title>
+            <identifier type="dokumenten_id">Ass 695-144-4</identifier>
+          </contentItem>
+          <contentItem n="62">
+            <locus from="145v">f. 145v</locus>
+            <title type="incipit">Ecce dies triumphalis gaude</title>
+            <identifier type="dokumenten_id">Ass 695-145v-6</identifier>
+          </contentItem>
+          <contentItem n="63">
+            <locus from="147v">f. 147v</locus>
+            <title type="incipit">Prunis datum</title>
+            <identifier type="dokumenten_id">Ass 695-147v-2</identifier>
+          </contentItem>
+          <contentItem n="64">
+            <locus from="149">f. 149</locus>
+            <title type="incipit">Ave virgo singularis mater</title>
+            <identifier type="dokumenten_id">Ass 695-149-7</identifier>
+          </contentItem>
+          <contentItem n="65">
+            <locus from="14v">f. 14v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Ass 695-14v-1</identifier>
+          </contentItem>
+          <contentItem n="66">
+            <locus from="14v">f. 14v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Ass 695-14v-10</identifier>
+          </contentItem>
+          <contentItem n="67">
+            <locus from="14v">f. 14v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Ass 695-14v-3</identifier>
+          </contentItem>
+          <contentItem n="68">
+            <locus from="14v">f. 14v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Ass 695-14v-5</identifier>
+          </contentItem>
+          <contentItem n="69">
+            <locus from="14v">f. 14v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Ass 695-14v-8</identifier>
+          </contentItem>
+          <contentItem n="70">
+            <locus from="15">f. 15</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Ass 695-15-2</identifier>
+          </contentItem>
+          <contentItem n="71">
+            <locus from="15">f. 15</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Ass 695-15-3</identifier>
+          </contentItem>
+          <contentItem n="72">
+            <locus from="15">f. 15</locus>
+            <title type="incipit">Deus pater auctor Mariae</title>
+            <identifier type="dokumenten_id">Ass 695-15-6</identifier>
+          </contentItem>
+          <contentItem n="73">
+            <locus from="150v">f. 150v</locus>
+            <title type="incipit">O Maria stella</title>
+            <identifier type="dokumenten_id">Ass 695-150v-6</identifier>
+          </contentItem>
+          <contentItem n="74">
+            <locus from="151v">f. 151v</locus>
+            <title type="incipit">Laudemus omnes</title>
+            <identifier type="dokumenten_id">Ass 695-151v-5</identifier>
+          </contentItem>
+          <contentItem n="75">
+            <locus from="152">f. 152</locus>
+            <title type="incipit">Supernae matris</title>
+            <identifier type="dokumenten_id">Ass 695-152-1</identifier>
+          </contentItem>
+          <contentItem n="76">
+            <locus from="152v">f. 152v</locus>
+            <title type="incipit">Gaude superna civitas</title>
+            <identifier type="dokumenten_id">Ass 695-152v-9</identifier>
+          </contentItem>
+          <contentItem n="77">
+            <locus from="154">f. 154</locus>
+            <title type="incipit">Exsultemus et laetemur et Andreae</title>
+            <identifier type="dokumenten_id">Ass 695-154-1</identifier>
+          </contentItem>
+          <contentItem n="78">
+            <locus from="155">f. 155</locus>
+            <title type="incipit">Cor angustum</title>
+            <identifier type="dokumenten_id">Ass 695-155-4</identifier>
+          </contentItem>
+          <contentItem n="79">
+            <locus from="156v">f. 156v</locus>
+            <title type="incipit">Stola regni</title>
+            <identifier type="dokumenten_id">Ass 695-156v-6</identifier>
+          </contentItem>
+          <contentItem n="80">
+            <locus from="158">f. 158</locus>
+            <title type="incipit">Caeli solem imitantes</title>
+            <identifier type="dokumenten_id">Ass 695-158-1</identifier>
+          </contentItem>
+          <contentItem n="81">
+            <locus from="158v">f. 158v</locus>
+            <title type="incipit">Rex Salomon</title>
+            <identifier type="dokumenten_id">Ass 695-158v-2</identifier>
+          </contentItem>
+          <contentItem n="82">
+            <locus from="159v">f. 159v</locus>
+            <title type="incipit">Quam dilecta</title>
+            <identifier type="dokumenten_id">Ass 695-159v-3</identifier>
+          </contentItem>
+          <contentItem n="83">
+            <locus from="15v">f. 15v</locus>
+            <title type="incipit">Summe rex sempiterne</title>
+            <identifier type="dokumenten_id">Ass 695-15v-4I</identifier>
+          </contentItem>
+          <contentItem n="84">
+            <locus from="15v">f. 15v</locus>
+            <title type="incipit">Summe rex sempiterne</title>
+            <identifier type="dokumenten_id">Ass 695-15v-4II</identifier>
+          </contentItem>
+          <contentItem n="85">
+            <locus from="15v">f. 15v</locus>
+            <title type="incipit">Summe rex sempiterne</title>
+            <identifier type="dokumenten_id">Ass 695-15v-4III</identifier>
+          </contentItem>
+          <contentItem n="86">
+            <locus from="160v">f. 160v</locus>
+            <title type="incipit">Iesse virgam</title>
+            <identifier type="dokumenten_id">Ass 695-160v-3</identifier>
+          </contentItem>
+          <contentItem n="87">
+            <locus from="163">f. 163</locus>
+            <title type="incipit">Ante torum</title>
+            <identifier type="dokumenten_id">Ass 695-163-1</identifier>
+          </contentItem>
+          <contentItem n="88">
+            <locus from="164v">f. 164v</locus>
+            <title type="incipit">Novum canticum</title>
+            <identifier type="dokumenten_id">Ass 695-164v-4</identifier>
+          </contentItem>
+          <contentItem n="89">
+            <locus from="165v">f. 165v</locus>
+            <title type="incipit">In sapientia disponens</title>
+            <identifier type="dokumenten_id">Ass 695-165v-8</identifier>
+          </contentItem>
+          <contentItem n="90">
+            <locus from="167v">f. 167v</locus>
+            <title type="incipit">A sublimi statu</title>
+            <identifier type="dokumenten_id">Ass 695-167v-2</identifier>
+          </contentItem>
+          <contentItem n="91">
+            <locus from="168v">f. 168v</locus>
+            <title type="incipit">Rosa novum</title>
+            <identifier type="dokumenten_id">Ass 695-168v-3</identifier>
+          </contentItem>
+          <contentItem n="92">
+            <locus from="169">f. 169</locus>
+            <title type="incipit">Fons praeclarissimus</title>
+            <identifier type="dokumenten_id">Ass 695-169-8</identifier>
+          </contentItem>
+          <contentItem n="93">
+            <locus from="17">f. 17</locus>
+            <title type="incipit">Spiritus et alme</title>
+            <identifier type="dokumenten_id">Ass 695-17-2</identifier>
+          </contentItem>
+          <contentItem n="94">
+            <locus from="170v">f. 170v</locus>
+            <title type="incipit">Potestate non natura</title>
+            <identifier type="dokumenten_id">Ass 695-170v-3</identifier>
+          </contentItem>
+          <contentItem n="95">
+            <locus from="171v">f. 171v</locus>
+            <title type="incipit">Plaude Cantuaria</title>
+            <identifier type="dokumenten_id">Ass 695-171v-7</identifier>
+          </contentItem>
+          <contentItem n="96">
+            <locus from="172v">f. 172v</locus>
+            <title type="incipit">Gratulantes celebremus</title>
+            <identifier type="dokumenten_id">Ass 695-172v-9</identifier>
+          </contentItem>
+          <contentItem n="97">
+            <locus from="174">f. 174</locus>
+            <title type="incipit">Gaude Sion et</title>
+            <identifier type="dokumenten_id">Ass 695-174-4</identifier>
+          </contentItem>
+          <contentItem n="98">
+            <locus from="175v">f. 175v</locus>
+            <title type="incipit">Palmes fructum</title>
+            <identifier type="dokumenten_id">Ass 695-175v-1</identifier>
+          </contentItem>
+          <contentItem n="99">
+            <locus from="176v">f. 176v</locus>
+            <title type="incipit">Psallant laetis mentibus</title>
+            <identifier type="dokumenten_id">Ass 695-176v-3</identifier>
+          </contentItem>
+          <contentItem n="100">
+            <locus from="177v">f. 177v</locus>
+            <title type="incipit">Martyris egregii triumphos</title>
+            <identifier type="dokumenten_id">Ass 695-177v-6</identifier>
+          </contentItem>
+          <contentItem n="101">
+            <locus from="178v">f. 178v</locus>
+            <title type="incipit">Triumphalis lux</title>
+            <identifier type="dokumenten_id">Ass 695-178v-6</identifier>
+          </contentItem>
+          <contentItem n="102">
+            <locus from="17v">f. 17v</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Ass 695-17v-5</identifier>
+          </contentItem>
+          <contentItem n="103">
+            <locus from="18">f. 18</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Ass 695-18-6</identifier>
+          </contentItem>
+          <contentItem n="104">
+            <locus from="180">f. 180</locus>
+            <title type="incipit">Lux advenit</title>
+            <identifier type="dokumenten_id">Ass 695-180-6</identifier>
+          </contentItem>
+          <contentItem n="105">
+            <locus from="181v">f. 181v</locus>
+            <title type="incipit">Sexta passus feria</title>
+            <identifier type="dokumenten_id">Ass 695-181v-3</identifier>
+          </contentItem>
+          <contentItem n="106">
+            <locus from="182v">f. 182v</locus>
+            <title type="incipit">Postquam hostem</title>
+            <identifier type="dokumenten_id">Ass 695-182v-1</identifier>
+          </contentItem>
+          <contentItem n="107">
+            <locus from="183v">f. 183v</locus>
+            <title type="incipit">Qui procedis</title>
+            <identifier type="dokumenten_id">Ass 695-183v-1</identifier>
+          </contentItem>
+          <contentItem n="108">
+            <locus from="185">f. 185</locus>
+            <title type="incipit">Spiritus paraclitus</title>
+            <identifier type="dokumenten_id">Ass 695-185-3</identifier>
+          </contentItem>
+          <contentItem n="109">
+            <locus from="186">f. 186</locus>
+            <title type="incipit">Veni virgo virginum</title>
+            <identifier type="dokumenten_id">Ass 695-186-1</identifier>
+          </contentItem>
+          <contentItem n="110">
+            <locus from="186">f. 186</locus>
+            <title type="incipit">Veni sancte spiritus et emitte</title>
+            <identifier type="dokumenten_id">Ass 695-186-2</identifier>
+          </contentItem>
+          <contentItem n="111">
+            <locus from="186v">f. 186v</locus>
+            <title type="incipit">Veni sancte spiritus nos perfunde</title>
+            <identifier type="dokumenten_id">Ass 695-186v-5</identifier>
+          </contentItem>
+          <contentItem n="112">
+            <locus from="186v">f. 186v</locus>
+            <title type="incipit">Ab arce siderea</title>
+            <identifier type="dokumenten_id">Ass 695-186v-6</identifier>
+          </contentItem>
+          <contentItem n="113">
+            <locus from="187v">f. 187v</locus>
+            <title type="incipit">Unum trinum adoremus</title>
+            <identifier type="dokumenten_id">Ass 695-187v-1</identifier>
+          </contentItem>
+          <contentItem n="114">
+            <locus from="188">f. 188</locus>
+            <title type="incipit">Quicumque vult salvus</title>
+            <identifier type="dokumenten_id">Ass 695-188-4</identifier>
+          </contentItem>
+          <contentItem n="115">
+            <locus from="189">f. 189</locus>
+            <title type="incipit">Veni sanctum pneuma</title>
+            <identifier type="dokumenten_id">Ass 695-189-3</identifier>
+          </contentItem>
+          <contentItem n="116">
+            <locus from="189v">f. 189v</locus>
+            <title type="incipit">Stans a longe publicanus flectit genu</title>
+            <identifier type="dokumenten_id">Ass 695-189v-7</identifier>
+          </contentItem>
+          <contentItem n="117">
+            <locus from="18v">f. 18v</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Ass 695-18v-7</identifier>
+          </contentItem>
+          <contentItem n="118">
+            <locus from="19">f. 19</locus>
+            <title type="incipit">Regnum ... O rex glorie</title>
+            <identifier type="dokumenten_id">Ass 695-19-8</identifier>
+          </contentItem>
+          <contentItem n="119">
+            <locus from="190">f. 190</locus>
+            <title type="incipit">Praecursoris et baptistae</title>
+            <identifier type="dokumenten_id">Ass 695-190-7</identifier>
+          </contentItem>
+          <contentItem n="120">
+            <locus from="192">f. 192</locus>
+            <title type="incipit">Inter natos</title>
+            <identifier type="dokumenten_id">Ass 695-192-4</identifier>
+          </contentItem>
+          <contentItem n="121">
+            <locus from="193v">f. 193v</locus>
+            <title type="incipit">Pangat chorus</title>
+            <identifier type="dokumenten_id">Ass 695-193v-2</identifier>
+          </contentItem>
+          <contentItem n="122">
+            <locus from="194v">f. 194v</locus>
+            <title type="incipit">Christi calix</title>
+            <identifier type="dokumenten_id">Ass 695-194v-9</identifier>
+          </contentItem>
+          <contentItem n="123">
+            <locus from="196">f. 196</locus>
+            <title type="incipit">Lux illuxit triumphalis</title>
+            <identifier type="dokumenten_id">Ass 695-196-7</identifier>
+          </contentItem>
+          <contentItem n="124">
+            <locus from="197">f. 197</locus>
+            <title type="incipit">O athleta gloriose</title>
+            <identifier type="dokumenten_id">Ass 695-197-9</identifier>
+          </contentItem>
+          <contentItem n="125">
+            <locus from="199">f. 199</locus>
+            <title type="incipit">Martyris eximii</title>
+            <identifier type="dokumenten_id">Ass 695-199-7</identifier>
+          </contentItem>
+          <contentItem n="126">
+            <locus from="2">f. 2</locus>
+            <title type="incipit">Factus homo sumpta</title>
+            <identifier type="dokumenten_id">Ass 695-2-1I</identifier>
+          </contentItem>
+          <contentItem n="127">
+            <locus from="2">f. 2</locus>
+            <title type="incipit">Factus homo sumpta</title>
+            <identifier type="dokumenten_id">Ass 695-2-1II</identifier>
+          </contentItem>
+          <contentItem n="128">
+            <locus from="20">f. 20</locus>
+            <title type="incipit">Cuius reboat</title>
+            <identifier type="dokumenten_id">Ass 695-20-3</identifier>
+          </contentItem>
+          <contentItem n="129">
+            <locus from="200">f. 200</locus>
+            <title type="incipit">Virgo gaude speciosa</title>
+            <identifier type="dokumenten_id">Ass 695-200-7</identifier>
+          </contentItem>
+          <contentItem n="130">
+            <locus from="201">f. 201</locus>
+            <title type="incipit">Ad honorem patris</title>
+            <identifier type="dokumenten_id">Ass 695-201-1</identifier>
+          </contentItem>
+          <contentItem n="131">
+            <locus from="201v">f. 201v</locus>
+            <title type="incipit">Per unius casum</title>
+            <identifier type="dokumenten_id">Ass 695-201v-8</identifier>
+          </contentItem>
+          <contentItem n="132">
+            <locus from="203">f. 203</locus>
+            <title type="incipit">Gaude Sion quae</title>
+            <identifier type="dokumenten_id">Ass 695-203-4</identifier>
+          </contentItem>
+          <contentItem n="133">
+            <locus from="204">f. 204</locus>
+            <title type="incipit">Rex Christe Martini</title>
+            <identifier type="dokumenten_id">Ass 695-204-5</identifier>
+          </contentItem>
+          <contentItem n="134">
+            <locus from="205v">f. 205v</locus>
+            <title type="incipit">Ecce magno sacerdoti</title>
+            <identifier type="dokumenten_id">Ass 695-205v-9</identifier>
+          </contentItem>
+          <contentItem n="135">
+            <locus from="207v">f. 207v</locus>
+            <title type="incipit">Vox sonora</title>
+            <identifier type="dokumenten_id">Ass 695-207v-1</identifier>
+          </contentItem>
+          <contentItem n="136">
+            <locus from="208v">f. 208v</locus>
+            <title type="incipit">Iucundare plebs fidelis nam praeclara</title>
+            <identifier type="dokumenten_id">Ass 695-208v-10</identifier>
+          </contentItem>
+          <contentItem n="137">
+            <locus from="210v">f. 210v</locus>
+            <title type="incipit">Triumphanti cruore</title>
+            <identifier type="dokumenten_id">Ass 695-210v-3</identifier>
+          </contentItem>
+          <contentItem n="138">
+            <locus from="211v">f. 211v</locus>
+            <title type="incipit">Corde puro</title>
+            <identifier type="dokumenten_id">Ass 695-211v-9</identifier>
+          </contentItem>
+          <contentItem n="139">
+            <locus from="213">f. 213</locus>
+            <title type="incipit">Ceciderunt in praeclaris</title>
+            <identifier type="dokumenten_id">Ass 695-213-5</identifier>
+          </contentItem>
+          <contentItem n="140">
+            <locus from="214v">f. 214v</locus>
+            <title type="incipit">In superna civitate</title>
+            <identifier type="dokumenten_id">Ass 695-214v-9</identifier>
+          </contentItem>
+          <contentItem n="141">
+            <locus from="215v">f. 215v</locus>
+            <title type="incipit">Promat pia vox</title>
+            <identifier type="dokumenten_id">Ass 695-215v-10</identifier>
+          </contentItem>
+          <contentItem n="142">
+            <locus from="217">f. 217</locus>
+            <title type="incipit">Congaudentes exsultemus exsultantes</title>
+            <identifier type="dokumenten_id">Ass 695-217-3</identifier>
+          </contentItem>
+          <contentItem n="143">
+            <locus from="218v">f. 218v</locus>
+            <title type="incipit">O alma trinitas deus</title>
+            <identifier type="dokumenten_id">Ass 695-218v-1</identifier>
+          </contentItem>
+          <contentItem n="144">
+            <locus from="219v">f. 219v</locus>
+            <title type="incipit">Plausu chorus laetabundo</title>
+            <identifier type="dokumenten_id">Ass 695-219v-5</identifier>
+          </contentItem>
+          <contentItem n="145">
+            <locus from="220v">f. 220v</locus>
+            <title type="incipit">Laus sit patri</title>
+            <identifier type="dokumenten_id">Ass 695-220v-8</identifier>
+          </contentItem>
+          <contentItem n="146">
+            <locus from="222">f. 222</locus>
+            <title type="incipit">Laetabundi iubilemus laeta mente</title>
+            <identifier type="dokumenten_id">Ass 695-222-6</identifier>
+          </contentItem>
+          <contentItem n="147">
+            <locus from="223v">f. 223v</locus>
+            <title type="incipit">Hierusalem et Sion</title>
+            <identifier type="dokumenten_id">Ass 695-223v-2</identifier>
+          </contentItem>
+          <contentItem n="148">
+            <locus from="224v">f. 224v</locus>
+            <title type="incipit">O felices et beati</title>
+            <identifier type="dokumenten_id">Ass 695-224v-9</identifier>
+          </contentItem>
+          <contentItem n="149">
+            <locus from="225v">f. 225v</locus>
+            <title type="incipit">Sexus omnis</title>
+            <identifier type="dokumenten_id">Ass 695-225v-2</identifier>
+          </contentItem>
+          <contentItem n="150">
+            <locus from="227">f. 227</locus>
+            <title type="incipit">Dies ista celebretur</title>
+            <identifier type="dokumenten_id">Ass 695-227-1</identifier>
+          </contentItem>
+          <contentItem n="151">
+            <locus from="228">f. 228</locus>
+            <title type="incipit">Mittit ad virginem</title>
+            <identifier type="dokumenten_id">Ass 695-228-2</identifier>
+          </contentItem>
+          <contentItem n="152">
+            <locus from="228v">f. 228v</locus>
+            <title type="incipit">Mater sancta</title>
+            <identifier type="dokumenten_id">Ass 695-228v-7</identifier>
+          </contentItem>
+          <contentItem n="153">
+            <locus from="230">f. 230</locus>
+            <title type="incipit">Summi regis micans</title>
+            <identifier type="dokumenten_id">Ass 695-230-10</identifier>
+          </contentItem>
+          <contentItem n="154">
+            <locus from="231">f. 231</locus>
+            <title type="incipit">Recolamus venerandam</title>
+            <identifier type="dokumenten_id">Ass 695-231-9</identifier>
+          </contentItem>
+          <contentItem n="155">
+            <locus from="232v">f. 232v</locus>
+            <title type="incipit">Pangat melos</title>
+            <identifier type="dokumenten_id">Ass 695-232v-6</identifier>
+          </contentItem>
+          <contentItem n="156">
+            <locus from="233v">f. 233v</locus>
+            <title type="incipit">Salve virgo vitae</title>
+            <identifier type="dokumenten_id">Ass 695-233v-1</identifier>
+          </contentItem>
+          <contentItem n="157">
+            <locus from="234">f. 234</locus>
+            <title type="incipit">Salve sancta verbi</title>
+            <identifier type="dokumenten_id">Ass 695-234-4</identifier>
+          </contentItem>
+          <contentItem n="158">
+            <locus from="234v">f. 234v</locus>
+            <title type="incipit">Salve mater salvatoris summi regis</title>
+            <identifier type="dokumenten_id">Ass 695-234v-10</identifier>
+          </contentItem>
+          <contentItem n="159">
+            <locus from="236">f. 236</locus>
+            <title type="incipit">Sicut pratum</title>
+            <identifier type="dokumenten_id">Ass 695-236-1I</identifier>
+          </contentItem>
+          <contentItem n="160">
+            <locus from="236">f. 236</locus>
+            <title type="incipit">Sicut pratum</title>
+            <identifier type="dokumenten_id">Ass 695-236-1II</identifier>
+          </contentItem>
+          <contentItem n="161">
+            <locus from="238v">f. 238v</locus>
+            <title type="incipit">Verbum bonum</title>
+            <identifier type="dokumenten_id">Ass 695-238v-6I</identifier>
+          </contentItem>
+          <contentItem n="162">
+            <locus from="238v">f. 238v</locus>
+            <title type="incipit">Verbum bonum</title>
+            <identifier type="dokumenten_id">Ass 695-238v-6II</identifier>
+          </contentItem>
+          <contentItem n="163">
+            <locus from="238v">f. 238v</locus>
+            <title type="incipit">Ave sidus lux</title>
+            <identifier type="dokumenten_id">Ass 695-238v-7I</identifier>
+          </contentItem>
+          <contentItem n="164">
+            <locus from="238v">f. 238v</locus>
+            <title type="incipit">Ave sidus lux</title>
+            <identifier type="dokumenten_id">Ass 695-238v-7II</identifier>
+          </contentItem>
+          <contentItem n="165">
+            <locus from="3">f. 3</locus>
+            <title type="incipit">Te Christe rex</title>
+            <identifier type="dokumenten_id">Ass 695-3-1</identifier>
+          </contentItem>
+          <contentItem n="166">
+            <locus from="3v">f. 3v</locus>
+            <title type="incipit">Pater creator</title>
+            <identifier type="dokumenten_id">Ass 695-3v-8</identifier>
+          </contentItem>
+          <contentItem n="167">
+            <locus from="44">f. 44</locus>
+            <title type="incipit">Sancte ingenite genitor</title>
+            <identifier type="dokumenten_id">Ass 695-44-1</identifier>
+          </contentItem>
+          <contentItem n="168">
+            <locus from="44v">f. 44v</locus>
+            <title type="incipit">Perpetuo numine</title>
+            <identifier type="dokumenten_id">Ass 695-44v-2</identifier>
+          </contentItem>
+          <contentItem n="169">
+            <locus from="44v">f. 44v</locus>
+            <title type="incipit">Sanctus … dominus deus</title>
+            <identifier type="dokumenten_id">Ass 695-44v-9</identifier>
+          </contentItem>
+          <contentItem n="170">
+            <locus from="45">f. 45</locus>
+            <title type="incipit">Summe pater deitatis</title>
+            <identifier type="dokumenten_id">Ass 695-45-10</identifier>
+          </contentItem>
+          <contentItem n="171">
+            <locus from="45">f. 45</locus>
+            <title type="incipit">Sanctus … dominus deus</title>
+            <identifier type="dokumenten_id">Ass 695-45-2</identifier>
+          </contentItem>
+          <contentItem n="172">
+            <locus from="45">f. 45</locus>
+            <title type="incipit">Sanctus … dominus deus</title>
+            <identifier type="dokumenten_id">Ass 695-45-6</identifier>
+          </contentItem>
+          <contentItem n="173">
+            <locus from="45v">f. 45v</locus>
+            <title type="incipit">Genitor omnium</title>
+            <identifier type="dokumenten_id">Ass 695-45v-10</identifier>
+          </contentItem>
+          <contentItem n="174">
+            <locus from="46">f. 46</locus>
+            <title type="incipit">Rex sine principio</title>
+            <identifier type="dokumenten_id">Ass 695-46-8</identifier>
+          </contentItem>
+          <contentItem n="175">
+            <locus from="46v">f. 46v</locus>
+            <title type="incipit">Principium sine principio deus</title>
+            <identifier type="dokumenten_id">Ass 695-46v-4</identifier>
+          </contentItem>
+          <contentItem n="176">
+            <locus from="47">f. 47</locus>
+            <title type="incipit">Fons vivus vitae</title>
+            <identifier type="dokumenten_id">Ass 695-47-4</identifier>
+          </contentItem>
+          <contentItem n="177">
+            <locus from="47v">f. 47v</locus>
+            <title type="incipit">Deus pater cuius</title>
+            <identifier type="dokumenten_id">Ass 695-47v-2</identifier>
+          </contentItem>
+          <contentItem n="178">
+            <locus from="47v">f. 47v</locus>
+            <title type="incipit">Sanctorum exultatio</title>
+            <identifier type="dokumenten_id">Ass 695-47v-9</identifier>
+          </contentItem>
+          <contentItem n="179">
+            <locus from="48">f. 48</locus>
+            <title type="incipit">Sanctus … dominus deus</title>
+            <identifier type="dokumenten_id">Ass 695-48-10</identifier>
+          </contentItem>
+          <contentItem n="180">
+            <locus from="48">f. 48</locus>
+            <title type="incipit">Sanctus … dominus deus</title>
+            <identifier type="dokumenten_id">Ass 695-48-5</identifier>
+          </contentItem>
+          <contentItem n="181">
+            <locus from="48v">f. 48v</locus>
+            <title type="incipit">Sanctus … dominus deus</title>
+            <identifier type="dokumenten_id">Ass 695-48v-4</identifier>
+          </contentItem>
+          <contentItem n="182">
+            <locus from="48v">f. 48v</locus>
+            <title type="incipit">Trinitas unitas</title>
+            <identifier type="dokumenten_id">Ass 695-48v-8</identifier>
+          </contentItem>
+          <contentItem n="183">
+            <locus from="49v">f. 49v</locus>
+            <title type="incipit">Sanctus … dominus deus</title>
+            <identifier type="dokumenten_id">Ass 695-49v-3</identifier>
+          </contentItem>
+          <contentItem n="184">
+            <locus from="4v">f. 4v</locus>
+            <title type="incipit">Theoricam practicamque</title>
+            <identifier type="dokumenten_id">Ass 695-4v-2</identifier>
+          </contentItem>
+          <contentItem n="185">
+            <locus from="5">f. 5</locus>
+            <title type="incipit">Kyrie sabaoth</title>
+            <identifier type="dokumenten_id">Ass 695-5-5</identifier>
+          </contentItem>
+          <contentItem n="186">
+            <locus from="50">f. 50</locus>
+            <title type="incipit">Vulnere mortis</title>
+            <identifier type="dokumenten_id">Ass 695-50-1</identifier>
+          </contentItem>
+          <contentItem n="187">
+            <locus from="50">f. 50</locus>
+            <title type="incipit">Fons indeficiens</title>
+            <identifier type="dokumenten_id">Ass 695-50-7</identifier>
+          </contentItem>
+          <contentItem n="188">
+            <locus from="50v">f. 50v</locus>
+            <title type="incipit">Rex aeternae gloriae</title>
+            <identifier type="dokumenten_id">Ass 695-50v-1</identifier>
+          </contentItem>
+          <contentItem n="189">
+            <locus from="50v">f. 50v</locus>
+            <title type="incipit">Deus deorum creator</title>
+            <identifier type="dokumenten_id">Ass 695-50v-7</identifier>
+          </contentItem>
+          <contentItem n="190">
+            <locus from="51">f. 51</locus>
+            <title type="incipit">Lux lucis</title>
+            <identifier type="dokumenten_id">Ass 695-51-1</identifier>
+          </contentItem>
+          <contentItem n="191">
+            <locus from="51">f. 51</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Ass 695-51-7</identifier>
+          </contentItem>
+          <contentItem n="192">
+            <locus from="51v">f. 51v</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Ass 695-51v-1</identifier>
+          </contentItem>
+          <contentItem n="193">
+            <locus from="51v">f. 51v</locus>
+            <title type="incipit">Quem Iohannes in deserto</title>
+            <identifier type="dokumenten_id">Ass 695-51v-5</identifier>
+          </contentItem>
+          <contentItem n="194">
+            <locus from="52">f. 52</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Ass 695-52-3</identifier>
+          </contentItem>
+          <contentItem n="195">
+            <locus from="52">f. 52</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Ass 695-52-5</identifier>
+          </contentItem>
+          <contentItem n="196">
+            <locus from="52">f. 52</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Ass 695-52-7</identifier>
+          </contentItem>
+          <contentItem n="197">
+            <locus from="52">f. 52</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Ass 695-52-9</identifier>
+          </contentItem>
+          <contentItem n="198">
+            <locus from="52v">f. 52v</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Ass 695-52v-1</identifier>
+          </contentItem>
+          <contentItem n="199">
+            <locus from="52v">f. 52v</locus>
+            <title type="incipit">Sanctus … dominus deus</title>
+            <identifier type="dokumenten_id">Ass 695-52v-2</identifier>
+          </contentItem>
+          <contentItem n="200">
+            <locus from="52v">f. 52v</locus>
+            <title type="incipit">Sanctus … dominus deus</title>
+            <identifier type="dokumenten_id">Ass 695-52v-6</identifier>
+          </contentItem>
+          <contentItem n="201">
+            <locus from="52v">f. 52v</locus>
+            <title type="incipit">Voci vita sit unita</title>
+            <identifier type="dokumenten_id">Ass 695-52v-9I</identifier>
+          </contentItem>
+          <contentItem n="202">
+            <locus from="52v">f. 52v</locus>
+            <title type="incipit">Voci vita sit unita</title>
+            <identifier type="dokumenten_id">Ass 695-52v-9II</identifier>
+          </contentItem>
+          <contentItem n="203">
+            <locus from="53v">f. 53v</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Ass 695-53v-4</identifier>
+          </contentItem>
+          <contentItem n="204">
+            <locus from="53v">f. 53v</locus>
+            <title type="incipit">Mortis dira</title>
+            <identifier type="dokumenten_id">Ass 695-53v-6</identifier>
+          </contentItem>
+          <contentItem n="205">
+            <locus from="56">f. 56</locus>
+            <title type="incipit">Salus aeterna indeficiens</title>
+            <identifier type="dokumenten_id">Ass 695-56-3</identifier>
+          </contentItem>
+          <contentItem n="206">
+            <locus from="56v">f. 56v</locus>
+            <title type="incipit">Regnantem sempiterna</title>
+            <identifier type="dokumenten_id">Ass 695-56v-3</identifier>
+          </contentItem>
+          <contentItem n="207">
+            <locus from="57">f. 57</locus>
+            <title type="incipit">Qui regis sceptra</title>
+            <identifier type="dokumenten_id">Ass 695-57-2</identifier>
+          </contentItem>
+          <contentItem n="208">
+            <locus from="57">f. 57</locus>
+            <title type="incipit">Iubilemus omnes una</title>
+            <identifier type="dokumenten_id">Ass 695-57-7</identifier>
+          </contentItem>
+          <contentItem n="209">
+            <locus from="57v">f. 57v</locus>
+            <title type="incipit">Salus aeterna indeficiens*</title>
+            <identifier type="dokumenten_id">Ass 695-57v-8</identifier>
+          </contentItem>
+          <contentItem n="210">
+            <locus from="57v">f. 57v</locus>
+            <title type="incipit">Natus ante saecula</title>
+            <identifier type="dokumenten_id">Ass 695-57v-9</identifier>
+          </contentItem>
+          <contentItem n="211">
+            <locus from="58v">f. 58v</locus>
+            <title type="incipit">Regnantem sempiterna*</title>
+            <identifier type="dokumenten_id">Ass 695-58v-6</identifier>
+          </contentItem>
+          <contentItem n="212">
+            <locus from="58v">f. 58v</locus>
+            <title type="incipit">Salve porta</title>
+            <identifier type="dokumenten_id">Ass 695-58v-7</identifier>
+          </contentItem>
+          <contentItem n="213">
+            <locus from="59v">f. 59v</locus>
+            <title type="incipit">Christi hodiernae ... caelica</title>
+            <identifier type="dokumenten_id">Ass 695-59v-1</identifier>
+          </contentItem>
+          <contentItem n="214">
+            <locus from="6">f. 6</locus>
+            <title type="incipit">Cunctipotens genitor</title>
+            <identifier type="dokumenten_id">Ass 695-6-1</identifier>
+          </contentItem>
+          <contentItem n="215">
+            <locus from="60v">f. 60v</locus>
+            <title type="incipit">Nato canunt omnia</title>
+            <identifier type="dokumenten_id">Ass 695-60v-2</identifier>
+          </contentItem>
+          <contentItem n="216">
+            <locus from="61">f. 61</locus>
+            <title type="incipit">Eia recolamus ... piis</title>
+            <identifier type="dokumenten_id">Ass 695-61-7</identifier>
+          </contentItem>
+          <contentItem n="217">
+            <locus from="62">f. 62</locus>
+            <title type="incipit">Laetabundus exsultet</title>
+            <identifier type="dokumenten_id">Ass 695-62-10</identifier>
+          </contentItem>
+          <contentItem n="218">
+            <locus from="63">f. 63</locus>
+            <title type="incipit">Caeleste organum</title>
+            <identifier type="dokumenten_id">Ass 695-63-3</identifier>
+          </contentItem>
+          <contentItem n="219">
+            <locus from="64">f. 64</locus>
+            <title type="incipit">Magnus deus in universa</title>
+            <identifier type="dokumenten_id">Ass 695-64-1</identifier>
+          </contentItem>
+          <contentItem n="220">
+            <locus from="64v">f. 64v</locus>
+            <title type="incipit">Organicis ... qui in suis</title>
+            <identifier type="dokumenten_id">Ass 695-64v-9</identifier>
+          </contentItem>
+          <contentItem n="221">
+            <locus from="65v">f. 65v</locus>
+            <title type="incipit">Nostram musica</title>
+            <identifier type="dokumenten_id">Ass 695-65v-3</identifier>
+          </contentItem>
+          <contentItem n="222">
+            <locus from="66">f. 66</locus>
+            <title type="incipit">Celsa pueri</title>
+            <identifier type="dokumenten_id">Ass 695-66-9</identifier>
+          </contentItem>
+          <contentItem n="223">
+            <locus from="67v">f. 67v</locus>
+            <title type="incipit">Epiphaniam domino</title>
+            <identifier type="dokumenten_id">Ass 695-67v-4</identifier>
+          </contentItem>
+          <contentItem n="224">
+            <locus from="68v">f. 68v</locus>
+            <title type="incipit">Festa Christi</title>
+            <identifier type="dokumenten_id">Ass 695-68v-6</identifier>
+          </contentItem>
+          <contentItem n="225">
+            <locus from="69v">f. 69v</locus>
+            <title type="incipit">Hac clara die</title>
+            <identifier type="dokumenten_id">Ass 695-69v-6</identifier>
+          </contentItem>
+          <contentItem n="226">
+            <locus from="6v">f. 6v</locus>
+            <title type="incipit">Orbis factor</title>
+            <identifier type="dokumenten_id">Ass 695-6v-2</identifier>
+          </contentItem>
+          <contentItem n="227">
+            <locus from="7">f. 7</locus>
+            <title type="incipit">Kyrie deus sempiterne</title>
+            <identifier type="dokumenten_id">Ass 695-7-2</identifier>
+          </contentItem>
+          <contentItem n="228">
+            <locus from="70">f. 70</locus>
+            <title type="incipit">Ave Maria gratia plena ... benedicta … gratiam</title>
+            <identifier type="dokumenten_id">Ass 695-70-10</identifier>
+          </contentItem>
+          <contentItem n="229">
+            <locus from="71">f. 71</locus>
+            <title type="incipit">Fulgens praeclara</title>
+            <identifier type="dokumenten_id">Ass 695-71-8</identifier>
+          </contentItem>
+          <contentItem n="230">
+            <locus from="72v">f. 72v</locus>
+            <title type="incipit">Pangite celsa voce</title>
+            <identifier type="dokumenten_id">Ass 695-72v-12</identifier>
+          </contentItem>
+          <contentItem n="231">
+            <locus from="73v">f. 73v</locus>
+            <title type="incipit">Laudes salvatori</title>
+            <identifier type="dokumenten_id">Ass 695-73v-9</identifier>
+          </contentItem>
+          <contentItem n="232">
+            <locus from="75v">f. 75v</locus>
+            <title type="incipit">Alme mundi Iesu</title>
+            <identifier type="dokumenten_id">Ass 695-75v-3</identifier>
+          </contentItem>
+          <contentItem n="233">
+            <locus from="76">f. 76</locus>
+            <title type="incipit">Victimae paschali laudes</title>
+            <identifier type="dokumenten_id">Ass 695-76-8</identifier>
+          </contentItem>
+          <contentItem n="234">
+            <locus from="76v">f. 76v</locus>
+            <title type="incipit">Laudes crucis</title>
+            <identifier type="dokumenten_id">Ass 695-76v-8</identifier>
+          </contentItem>
+          <contentItem n="235">
+            <locus from="78v">f. 78v</locus>
+            <title type="incipit">Rex omnipotens</title>
+            <identifier type="dokumenten_id">Ass 695-78v-3</identifier>
+          </contentItem>
+          <contentItem n="236">
+            <locus from="79v">f. 79v</locus>
+            <title type="incipit">Fulgens praeclara*</title>
+            <identifier type="dokumenten_id">Ass 695-79v-7</identifier>
+          </contentItem>
+          <contentItem n="237">
+            <locus from="79v">f. 79v</locus>
+            <title type="incipit">Sancti spiritus … Quae corda</title>
+            <identifier type="dokumenten_id">Ass 695-79v-8</identifier>
+          </contentItem>
+          <contentItem n="238">
+            <locus from="7v">f. 7v</locus>
+            <title type="incipit">Summe deus qui cuncta</title>
+            <identifier type="dokumenten_id">Ass 695-7v-2</identifier>
+          </contentItem>
+          <contentItem n="239">
+            <locus from="8">f. 8</locus>
+            <title type="incipit">Clemens rector</title>
+            <identifier type="dokumenten_id">Ass 695-8-3</identifier>
+          </contentItem>
+          <contentItem n="240">
+            <locus from="81">f. 81</locus>
+            <title type="incipit">Alma chorus domini</title>
+            <identifier type="dokumenten_id">Ass 695-81-2</identifier>
+          </contentItem>
+          <contentItem n="241">
+            <locus from="81v">f. 81v</locus>
+            <title type="incipit">Benedicta semper sancta</title>
+            <identifier type="dokumenten_id">Ass 695-81v-2</identifier>
+          </contentItem>
+          <contentItem n="242">
+            <locus from="82v">f. 82v</locus>
+            <title type="incipit">Laudes crucis</title>
+            <identifier type="dokumenten_id">Ass 695-82v-4</identifier>
+          </contentItem>
+          <contentItem n="243">
+            <locus from="84v">f. 84v</locus>
+            <title type="incipit">Salve crux sancta arbor</title>
+            <identifier type="dokumenten_id">Ass 695-84v-1</identifier>
+          </contentItem>
+          <contentItem n="244">
+            <locus from="84v">f. 84v</locus>
+            <title type="incipit">Laude iucunda</title>
+            <identifier type="dokumenten_id">Ass 695-84v-9</identifier>
+          </contentItem>
+          <contentItem n="245">
+            <locus from="85">f. 85</locus>
+            <title type="incipit">Sacra Paule</title>
+            <identifier type="dokumenten_id">Ass 695-85-10</identifier>
+          </contentItem>
+          <contentItem n="246">
+            <locus from="86">f. 86</locus>
+            <title type="incipit">Laudum carmina</title>
+            <identifier type="dokumenten_id">Ass 695-86-1</identifier>
+          </contentItem>
+          <contentItem n="247">
+            <locus from="86v">f. 86v</locus>
+            <title type="incipit">Mane prima sabbati</title>
+            <identifier type="dokumenten_id">Ass 695-86v-7</identifier>
+          </contentItem>
+          <contentItem n="248">
+            <locus from="87v">f. 87v</locus>
+            <title type="incipit">Laus tibi Christe qui es</title>
+            <identifier type="dokumenten_id">Ass 695-87v-8</identifier>
+          </contentItem>
+          <contentItem n="249">
+            <locus from="89">f. 89</locus>
+            <title type="incipit">Stola iucunditatis</title>
+            <identifier type="dokumenten_id">Ass 695-89-6</identifier>
+          </contentItem>
+          <contentItem n="250">
+            <locus from="9">f. 9</locus>
+            <title type="incipit">Kyrie fons bonitatis</title>
+            <identifier type="dokumenten_id">Ass 695-9-2</identifier>
+          </contentItem>
+          <contentItem n="251">
+            <locus from="90">f. 90</locus>
+            <title type="incipit">Gaude eia unica</title>
+            <identifier type="dokumenten_id">Ass 695-90-6</identifier>
+          </contentItem>
+          <contentItem n="252">
+            <locus from="91">f. 91</locus>
+            <title type="incipit">Aurea virga primae</title>
+            <identifier type="dokumenten_id">Ass 695-91-7</identifier>
+          </contentItem>
+          <contentItem n="253">
+            <locus from="92v">f. 92v</locus>
+            <title type="incipit">Alle caeleste necnon</title>
+            <identifier type="dokumenten_id">Ass 695-92v-6</identifier>
+          </contentItem>
+          <contentItem n="254">
+            <locus from="94">f. 94</locus>
+            <title type="incipit">Ad celebres rex</title>
+            <identifier type="dokumenten_id">Ass 695-94-5</identifier>
+          </contentItem>
+          <contentItem n="255">
+            <locus from="95">f. 95</locus>
+            <title type="incipit">Christo inclita</title>
+            <identifier type="dokumenten_id">Ass 695-95-10</identifier>
+          </contentItem>
+          <contentItem n="256">
+            <locus from="96v">f. 96v</locus>
+            <title type="incipit">Congaudentes exsultemus vocali</title>
+            <identifier type="dokumenten_id">Ass 695-96v-2</identifier>
+          </contentItem>
+          <contentItem n="257">
+            <locus from="97v">f. 97v</locus>
+            <title type="incipit">Dulcis odor</title>
+            <identifier type="dokumenten_id">Ass 695-97v-8</identifier>
+          </contentItem>
+          <contentItem n="258">
+            <locus from="98v">f. 98v</locus>
+            <title type="incipit">Psallat ecclesia mater illibata</title>
+            <identifier type="dokumenten_id">Ass 695-98v-5</identifier>
+          </contentItem>
+          <contentItem n="259">
+            <locus from="99">f. 99</locus>
+            <title type="incipit">Reginae nunc</title>
+            <identifier type="dokumenten_id">Ass 695-99-6</identifier>
+          </contentItem>
+          <contentItem n="260">
+            <locus from="99v">f. 99v</locus>
+            <title type="incipit">Fraterna gratanter</title>
+            <identifier type="dokumenten_id">Ass 695-99v-10</identifier>
+          </contentItem>
+          <contentItem n="261">
+            <locus from="9v">f. 9v</locus>
+            <title type="incipit">Rex virginum amator</title>
+            <identifier type="dokumenten_id">Ass 695-9v-10</identifier>
+          </contentItem>
+        </contents>
+        <notesStmt>
+          <annot type="description">
+            <ref target="Ass_695.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <classification>
+          <termList>
+            <term type="quellentyp">Tropar, Prosar</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">Ms. 695</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">Assisi</geogName>
+                <corpName>Fondo Antico presso la Biblioteca del Sacro Convento</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

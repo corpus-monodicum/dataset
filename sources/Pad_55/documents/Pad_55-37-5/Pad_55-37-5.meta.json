@@ -1,0 +1,41 @@
+{
+  "id": "1c8e6063-df0a-4309-8b2e-09072ab3e6ab",
+  "quelle_id": "Pad 55",
+  "dokumenten_id": "Pad 55-37-5",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Lectio",
+  "festtag": "Annuntiatio Mariae",
+  "feier": "",
+  "textinitium": "Et vocabis nomen",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "5",
+  "foliostart": "37",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "37",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Pad 55-36v-13S",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Annunciation",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

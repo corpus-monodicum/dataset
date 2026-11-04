@@ -1,0 +1,41 @@
+{
+  "id": "73abfa56-92e5-40d8-9149-442d6e3989a7",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-41v-4",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Vincentius",
+  "feier": "Messe",
+  "textinitium": "Tripudians martyr",
+  "bibliographischerverweis": "Laetabitur intr 3 A 4 B 5 C (CT X)",
+  "druckausgabe": "II-1",
+  "zeilenstart": "4",
+  "foliostart": "41v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "Pro 12 41v-8-",
+    "Endseite": "41v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Laetabitur intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

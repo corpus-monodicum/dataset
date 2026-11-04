@@ -1,0 +1,25 @@
+{
+  "id": "Mel 109",
+  "quellensigle": "Mel 109",
+  "herkunftsregion": "Quellen deutscher Herkunft",
+  "herkunftsort": "Regensburg",
+  "herkunftsinstitution": "Sankt Emmeram",
+  "ordenstradition": "",
+  "quellentyp": "Graduale, Sequentiar",
+  "bibliotheksort": "Melk",
+  "bibliothek": "Benediktinerstift",
+  "bibliothekssignatur": "Cod. 109 (1056)",
+  "kommentar": "",
+  "datierung": "14. Jh (um 1310)",
+  "status": "",
+  "jahrhundert": "14.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Mel 109",
+  "cantus_century": "14.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Mel_109.description.md"
+  }
+}

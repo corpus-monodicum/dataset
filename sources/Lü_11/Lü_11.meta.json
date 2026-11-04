@@ -1,0 +1,25 @@
+{
+  "id": "Lü 11",
+  "quellensigle": "Lü 11",
+  "herkunftsregion": "Quellen deutscher Herkunft",
+  "herkunftsort": "Lübeck",
+  "herkunftsinstitution": "",
+  "ordenstradition": "",
+  "quellentyp": "Graduale mit Ordinariumsgesängen und Sequenzen",
+  "bibliotheksort": "Lübeck",
+  "bibliothek": "Stadtbibliothek",
+  "bibliothekssignatur": "Ms. theol. lat 2° 11",
+  "kommentar": "",
+  "datierung": "15. Jh (vor 1415)",
+  "status": "",
+  "jahrhundert": "14., 15.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Lü 11",
+  "cantus_century": "14., 15.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Lü_11.description.md"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "b25f411d-d2a4-4354-8bf7-27a3af6c19f6",
+  "quelle_id": "Ei 366",
+  "dokumenten_id": "Ei 366-50-6a",
+  "gattung1": "Sequenz",
+  "gattung2": "Textlos",
+  "festtag": "Virgines",
+  "feier": "Messe",
+  "textinitium": "Alleluia",
+  "bibliographischerverweis": "AH 53, 246",
+  "druckausgabe": "CM III",
+  "zeilenstart": "6",
+  "foliostart": "50",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "50a",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "16",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Filia matris",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "Filia matris",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "e4460499-f4bc-4a84-bc70-d1775ddf2ff7",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-181v-b-4",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Transfiguratio domini",
+  "feier": "Messe",
+  "textinitium": "Profitentes unitatem*",
+  "bibliographischerverweis": "AH 54, 161",
+  "druckausgabe": "",
+  "zeilenstart": "4",
+  "foliostart": "181v-b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "181v-b",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

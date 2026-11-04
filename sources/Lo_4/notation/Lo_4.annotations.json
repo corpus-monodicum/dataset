@@ -1,0 +1,696 @@
+{
+  "type": "cm-manuscript-export",
+  "schemaVersion": 2,
+  "exportedAt": "2026-11-03T07:57:45.566Z",
+  "exportedManuscripts": [
+    "Lo 4"
+  ],
+  "data": {
+    "personalTables": [
+      {
+        "id": "t_651f84df-b0f9-4634-98e1-cb39f1eae0aa",
+        "name": "Lo 4",
+        "source": "Lo 4",
+        "notes": "10c mi-Zeichen.\n20b nach Tonwiederholung innerhalb derselben Silbe.",
+        "patterns": [],
+        "rows": [
+          {
+            "pattern": "*",
+            "customId": "10",
+            "notes": ""
+          },
+          {
+            "pattern": "*e",
+            "customId": "11",
+            "notes": ""
+          },
+          {
+            "pattern": "*[ed]",
+            "customId": "12",
+            "notes": ""
+          },
+          {
+            "pattern": "[*d]",
+            "customId": "20",
+            "notes": ""
+          },
+          {
+            "pattern": "[*du]",
+            "customId": "21",
+            "notes": ""
+          },
+          {
+            "pattern": "[*duu]",
+            "customId": "22",
+            "notes": ""
+          },
+          {
+            "pattern": "[*dd]",
+            "customId": "23",
+            "notes": ""
+          },
+          {
+            "pattern": "*dd",
+            "customId": "30",
+            "notes": ""
+          },
+          {
+            "pattern": "*ddu",
+            "customId": "31",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u]",
+            "customId": "40",
+            "notes": ""
+          },
+          {
+            "pattern": "[*ud]",
+            "customId": "41",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u]dd",
+            "customId": "42",
+            "notes": ""
+          },
+          {
+            "pattern": "[*uu]",
+            "customId": "43",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u]u",
+            "customId": "44",
+            "notes": ""
+          },
+          {
+            "pattern": "*eO",
+            "customId": "71",
+            "notes": ""
+          },
+          {
+            "pattern": "*eOd",
+            "customId": "72",
+            "notes": ""
+          },
+          {
+            "pattern": "[*ueO]",
+            "customId": "73",
+            "notes": ""
+          },
+          {
+            "pattern": "*ueO",
+            "customId": "74",
+            "notes": ""
+          },
+          {
+            "pattern": "[*dL]",
+            "customId": "10+/20-",
+            "notes": ""
+          },
+          {
+            "pattern": "[*uL]",
+            "customId": "10+/40-",
+            "notes": ""
+          },
+          {
+            "pattern": "*[edL]",
+            "customId": "11+/12-",
+            "notes": ""
+          },
+          {
+            "pattern": "[*ddL]",
+            "customId": "20+",
+            "notes": ""
+          },
+          {
+            "pattern": "[*duL]",
+            "customId": "20+/21-",
+            "notes": ""
+          },
+          {
+            "pattern": "[*udL]",
+            "customId": "40+/41-",
+            "notes": ""
+          }
+        ],
+        "isPublished": true
+      }
+    ],
+    "regions": {
+      "Lo 4_f.47": [
+        {
+          "id": "r_6be006a8-5167-48fb-9216-34be8fdc2ae1",
+          "name": "Line 4",
+          "points": "6.07,45.98 62.81,45.98 62.81,56.71 6.07,56.71",
+          "canvas": {
+            "index": 93,
+            "label": "047r"
+          }
+        }
+      ],
+      "Lo 4_f.36v": [
+        {
+          "id": "r_2026d356-aec2-44b7-b7a9-0c05aaeceb56",
+          "name": "Line 7",
+          "points": "14.16,76.87 68.06,76.87 68.06,88.44 14.16,88.44",
+          "canvas": {
+            "index": 72,
+            "label": "036v"
+          }
+        }
+      ],
+      "Lo 4_193r": [
+        {
+          "id": "r_a04fc688-d8b3-40f7-b070-761c4fb3abdc",
+          "name": "Line 7",
+          "points": "21.80,78.20 78.39,78.20 78.39,90.03 21.80,90.03",
+          "canvas": {
+            "index": 387,
+            "label": "193r"
+          }
+        }
+      ],
+      "Lo 4_f.41v": [
+        {
+          "id": "r_71d52fac-3c09-46a6-8477-a685f4aec171",
+          "name": "Line 3",
+          "points": "19.16,30.06 72.87,30.06 72.87,41.42 19.16,41.42",
+          "canvas": {
+            "index": 82,
+            "label": "041v"
+          }
+        }
+      ],
+      "Lo 4_193v": [
+        {
+          "id": "r_4d92a3f6-1c43-4039-9f89-e2b122e52631",
+          "name": "Line 6",
+          "points": "23.51,64.44 80.60,64.44 80.60,75.56 23.51,75.56",
+          "canvas": {
+            "index": 388,
+            "label": "193v"
+          }
+        }
+      ],
+      "Lo 4_f.28v": [
+        {
+          "id": "r_9c609293-9687-481b-af76-41b65d534339",
+          "name": "Line 7",
+          "points": "27.02,80.47 83.65,80.47 83.65,91.71 27.02,91.71",
+          "canvas": {
+            "index": 56,
+            "label": "028v"
+          }
+        }
+      ],
+      "Lo 4_2v": [
+        {
+          "id": "r_8cdabe12-67de-46c8-bf99-f6279c7165f6",
+          "name": "Line 6",
+          "points": "22.95,69.52 80.73,69.52 80.73,81.40 22.95,81.40",
+          "canvas": {
+            "index": 4,
+            "label": "002v"
+          }
+        }
+      ],
+      "Lo 4_16r": [
+        {
+          "id": "r_8d381be2-3e9a-44c3-873a-01d7e3526068",
+          "name": "Line 4",
+          "points": "14.07,44.29 71.66,44.29 71.66,54.43 14.07,54.43",
+          "canvas": {
+            "index": 31,
+            "label": "016r"
+          }
+        }
+      ],
+      "Lo 4_f.21": [
+        {
+          "id": "r_d0a95ba8-2f8c-42b3-bc3a-c06b6c382242",
+          "name": "Line 1",
+          "points": "15.66,17.65 75.13,17.65 75.13,29.42 15.66,29.42",
+          "canvas": {
+            "index": 41,
+            "label": "021r"
+          }
+        }
+      ],
+      "Lo 4_f.15v": [
+        {
+          "id": "r_6a7f0eff-8c35-4d4b-8c77-72dcc000da7e",
+          "name": "Line 5",
+          "points": "20.37,53.01 75.87,53.01 75.87,65.26 20.37,65.26",
+          "canvas": {
+            "index": 30,
+            "label": "015v"
+          }
+        }
+      ],
+      "Lo 4_f.29": [
+        {
+          "id": "r_301ea804-393b-4c3b-ba49-967ddd9902d0",
+          "name": "Line 2",
+          "points": "20.77,27.06 76.37,27.06 76.37,38.53 20.77,38.53",
+          "canvas": {
+            "index": 57,
+            "label": "029r"
+          }
+        },
+        {
+          "id": "r_f30a9f7d-3f26-4dbe-ab73-963a4350b87a",
+          "name": "Line 6",
+          "points": "22.65,68.50 77.53,68.50 77.53,80.26 22.65,80.26",
+          "canvas": {
+            "index": 57,
+            "label": "029r"
+          }
+        }
+      ],
+      "Lo 4_197r": [],
+      "Lo 4_f.194": [
+        {
+          "id": "r_37b597fa-9880-44fe-a087-d9b188b4de11",
+          "name": "Line 4",
+          "points": "20.44,44.58 75.96,44.58 75.96,55.42 20.44,55.42",
+          "canvas": {
+            "index": 389,
+            "label": "194r"
+          }
+        }
+      ]
+    },
+    "regionItems": {
+      "r_6be006a8-5167-48fb-9216-34be8fdc2ae1": [
+        {
+          "id": "i_940a193f-ccc0-4808-b3a8-41ac9bc8a3fe",
+          "pattern": "[*duu]",
+          "points": "59.25,46.51 62.38,46.51 62.38,49.55 59.25,49.55",
+          "linkData": {
+            "sysId": "Lo 4-46-6|f.47|4|ȩ|D4-C4-D4-E4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_3c8430fb-6519-41a2-87bc-add550610104",
+          "pattern": "*",
+          "points": "45.06,48.74 46.85,48.74 46.85,51.56 45.06,51.56",
+          "linkData": {
+            "sysId": "Lo 4-46-6|f.47|4|se-|C4"
+          },
+          "variant": "a"
+        },
+        {
+          "id": "i_5ece74bb-f391-4525-80ca-1ffc61960b93",
+          "pattern": "*",
+          "points": "16.78,49.40 19.10,49.40 19.10,51.04 16.78,51.04",
+          "linkData": {
+            "sysId": "Lo 4-46-6|f.47|4|ui-|C4"
+          },
+          "variant": "b"
+        },
+        {
+          "id": "i_e1baaddf-e695-4406-a931-5bebc0fe6808",
+          "pattern": "*",
+          "points": "37.30,46.96 39.35,46.96 39.35,48.81 37.30,48.81",
+          "linkData": {
+            "sysId": "Lo 4-46-6|f.47|4|fons|E4"
+          },
+          "variant": "c"
+        },
+        {
+          "id": "i_308e4f72-b859-40c8-a283-49a629a97fab",
+          "pattern": "*[ed]",
+          "points": "8.84,51.11 12.58,51.11 12.58,53.41 8.84,53.41",
+          "linkData": {
+            "sysId": "Lo 4-46-6|f.47|4|Qui|A3-A3-G3"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_8b4f4501-fe14-4421-b29b-c0dc4168e213",
+          "pattern": "[*d]",
+          "points": "30.70,48.22 32.75,48.22 32.75,50.59 30.70,50.59",
+          "linkData": {
+            "sysId": "Lo 4-46-6|f.47|4|ta|D4-C4"
+          },
+          "variant": "b"
+        },
+        {
+          "id": "i_c956143d-5093-496e-b475-0129373c3ec8",
+          "pattern": "[*u]",
+          "points": "51.04,46.59 54.17,46.59 54.17,52.15 51.04,52.15",
+          "linkData": {
+            "sysId": "Lo 4-46-6|f.47|4|cor-|A3-E4"
+          },
+          "variant": ""
+        }
+      ],
+      "r_2026d356-aec2-44b7-b7a9-0c05aaeceb56": [
+        {
+          "id": "i_70be005b-4802-4e47-8c4e-00f4b664d3a9",
+          "pattern": "*eOd",
+          "points": "63.58,79.91 66.88,79.91 66.88,82.59 63.58,82.59",
+          "linkData": {
+            "sysId": "Lo 4-35-5|f.36v|7|glo-|A4-A4-G4"
+          },
+          "variant": ""
+        }
+      ],
+      "r_a04fc688-d8b3-40f7-b070-761c4fb3abdc": [
+        {
+          "id": "i_4503a12f-c932-45ad-93b9-725ee464d64d",
+          "pattern": "[*uu]",
+          "points": "25.63,80.95 28.39,80.95 28.39,83.61 25.63,83.61",
+          "linkData": {
+            "sysId": "Lo 4-193-3|193r|7|sa-|C5-D5-E5"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_f1a598be-abc0-459e-96da-73a681c618e3",
+          "pattern": "[*dd]",
+          "points": "34.53,80.21 37.29,80.21 37.29,83.24 34.53,83.24",
+          "linkData": {
+            "sysId": "Lo 4-193-3|193r|7|ui-|F5-E5-D5"
+          },
+          "variant": ""
+        }
+      ],
+      "r_71d52fac-3c09-46a6-8477-a685f4aec171": [
+        {
+          "id": "i_f870b173-656e-4236-a8b3-3e1dededdfd8",
+          "pattern": "[*ueO]",
+          "points": "23.64,33.72 26.09,33.72 26.09,36.74 23.64,36.74",
+          "linkData": {
+            "sysId": "Lo 4-38v-7II|f.41v|3||C4-E4-E4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_b7ce26b1-7753-4951-9ed4-9453455a2bc9",
+          "pattern": "*dd",
+          "points": "48.81,31.69 52.61,31.69 52.61,36.53 48.81,36.53",
+          "linkData": {
+            "sysId": "Lo 4-38v-7II|f.41v|3|san-|G4-F4-D4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_3ac063a3-bf72-4100-b463-5f6db7974e0e",
+          "pattern": "[*u]dd",
+          "points": "63.25,31.20 67.81,31.20 67.81,34.28 63.25,34.28",
+          "linkData": {
+            "sysId": "Lo 4-38v-7II|f.41v|3|spi-|G4-A4-G4-F4"
+          },
+          "variant": ""
+        }
+      ],
+      "r_4d92a3f6-1c43-4039-9f89-e2b122e52631": [
+        {
+          "id": "i_522ec8de-d842-443f-8af0-6d5b74264072",
+          "pattern": "[*duL]",
+          "points": "75.58,69.15 78.01,69.15 78.01,71.17 75.58,71.17",
+          "linkData": {
+            "sysId": "Lo 4-193v-6|193v|6|ter|F4-E4-F4"
+          },
+          "variant": ""
+        }
+      ],
+      "r_9c609293-9687-481b-af76-41b65d534339": [
+        {
+          "id": "i_d1c39229-31ba-46e4-875b-98c9ef5138b9",
+          "pattern": "[*ddL]",
+          "points": "39.67,82.85 42.78,82.85 42.78,86.63 39.67,86.63",
+          "linkData": {
+            "sysId": "Lo 4-27-7|f.28v|7|uel-|B4-A4-G4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_a1163982-6315-4286-b15f-a92cbdd50f13",
+          "pattern": "[*udL]",
+          "points": "52.67,82.85 54.99,82.85 54.99,85.29 52.67,85.29",
+          "linkData": {
+            "sysId": "Lo 4-27-7|f.28v|7|sel-|A4-B4-A4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_342855f3-ba82-43d8-b604-38beecc88ffb",
+          "pattern": "[*ud]",
+          "points": "29.87,82.56 32.72,82.56 32.72,86.26 29.87,86.26",
+          "linkData": {
+            "sysId": "Lo 4-27-7|f.28v|7|se-|G4-B4-G4"
+          },
+          "variant": ""
+        }
+      ],
+      "r_8cdabe12-67de-46c8-bf99-f6279c7165f6": [
+        {
+          "id": "i_e61b2236-a816-438c-9493-eee80dcabb26",
+          "pattern": "*[edL]",
+          "points": "64.66,74.06 67.93,74.06 67.93,76.78 64.66,76.78",
+          "linkData": {
+            "sysId": "Lo 4-2v-6|2v|6|ter-|F4-F4-E4"
+          },
+          "variant": "b"
+        },
+        {
+          "id": "i_cea857d5-4692-472a-8798-a4f85373527e",
+          "pattern": "*eO",
+          "points": "52.30,72.10 55.66,72.10 55.66,73.99 52.30,73.99",
+          "linkData": {
+            "sysId": "Lo 4-2v-6|2v|6|re-|A4-A4"
+          },
+          "variant": "b"
+        }
+      ],
+      "r_8d381be2-3e9a-44c3-873a-01d7e3526068": [
+        {
+          "id": "i_9eec6113-c296-435c-ad4c-a299a7472632",
+          "pattern": "[*dL]",
+          "points": "53.20,46.56 55.55,46.56 55.55,49.35 53.20,49.35",
+          "linkData": {
+            "sysId": "Lo 4-16-4|16r|4|ter-|G4-F4"
+          },
+          "variant": "b"
+        },
+        {
+          "id": "i_b0ae5b81-486e-4ef4-be23-d7b543ef241f",
+          "pattern": "[*uL]",
+          "points": "63.43,49.57 65.60,49.57 65.60,51.83 63.43,51.83",
+          "linkData": {
+            "sysId": "Lo 4-16-4|16r|4|ley-|C4-D4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_d2bcd211-69f5-4b1b-bba6-d2770a4d77ca",
+          "pattern": "*eO",
+          "points": "37.98,45.88 41.42,45.88 41.42,48.22 37.98,48.22",
+          "linkData": {
+            "sysId": "Lo 4-16-4|16r|4|fa-|A4-A4"
+          },
+          "variant": "a"
+        },
+        {
+          "id": "i_dddc661e-fda1-49a3-86bb-35aa35da124f",
+          "pattern": "[*udL]",
+          "points": "29.83,44.98 32.73,44.98 32.73,47.31 29.83,47.31",
+          "linkData": {
+            "sysId": "Lo 4-16-4|16r|4|Or-|A4-B4-A4"
+          },
+          "variant": ""
+        }
+      ],
+      "r_d0a95ba8-2f8c-42b3-bc3a-c06b6c382242": [
+        {
+          "id": "i_cc7b3208-011c-47c3-8a5b-9e52d921d11d",
+          "pattern": "*ueO",
+          "points": "22.30,21.01 26.32,21.01 26.32,23.80 22.30,23.80",
+          "linkData": {
+            "sysId": "Lo 4-20v-6|f.21|1|ste-|F4-A4-A4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_7bf508d8-65ff-48fc-bf20-54f8746f9831",
+          "pattern": "*[edL]",
+          "points": "40.26,21.08 43.34,21.08 43.34,23.49 40.26,23.49",
+          "linkData": {
+            "sysId": "Lo 4-20v-6|f.21|1|ley-|A4-A4-G4"
+          },
+          "variant": "a"
+        }
+      ],
+      "r_6a7f0eff-8c35-4d4b-8c77-72dcc000da7e": [
+        {
+          "id": "i_b20d5709-b175-4c1d-98d2-66c36b215f03",
+          "pattern": "[*du]",
+          "points": "35.12,56.87 38.09,56.87 38.09,60.20 35.12,60.20",
+          "linkData": {
+            "sysId": "Lo 4-14v-2|f.15v|5|e|F4-D4-E4"
+          },
+          "variant": "a"
+        },
+        {
+          "id": "i_c67e0081-96a0-4ede-a53a-c2442bebf133",
+          "pattern": "[*du]",
+          "points": "31.54,58.83 34.51,58.83 34.51,61.22 31.54,61.22",
+          "linkData": {
+            "sysId": "Lo 4-14v-2|f.15v|5|e|D4-C4-D4"
+          },
+          "variant": "b"
+        },
+        {
+          "id": "i_cba8560a-e2e9-488d-8e0b-d2396fe50b2f",
+          "pattern": "[*d]",
+          "points": "40.27,56.36 42.10,56.36 42.10,59.48 40.27,59.48",
+          "linkData": {
+            "sysId": "Lo 4-14v-2|f.15v|5|e|G4-E4"
+          },
+          "variant": "a"
+        },
+        {
+          "id": "i_de803057-9654-46b9-aa48-3b1f0d156f59",
+          "pattern": "[*d]",
+          "points": "26.22,57.52 29.36,57.52 29.36,59.70 26.22,59.70",
+          "linkData": {
+            "sysId": "Lo 4-14v-2|f.15v|5|ri-|E4-D4"
+          },
+          "variant": "b"
+        },
+        {
+          "id": "i_278f4a4a-b240-4d6b-96af-81ae9416a2a8",
+          "pattern": "[*u]u",
+          "points": "71.43,55.13 75.36,55.13 75.36,61.58 71.43,61.58",
+          "linkData": {
+            "sysId": "Lo 4-14v-2|f.15v|5|Ky-|D4-A4-B4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_30cee8c6-d2c9-45b2-b277-81ad2add9d80",
+          "pattern": "[*u]dd",
+          "points": "46.38,57.52 51.53,57.52 51.53,61.51 46.38,61.51",
+          "linkData": {
+            "sysId": "Lo 4-14v-2|f.15v|5|e|E4-F4-D4-C4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_31d26b7b-fbd8-4ed7-96ea-c14fd5bb4eff",
+          "pattern": "[*dL]",
+          "points": "57.99,57.74 60.17,57.74 60.17,61.51 57.99,61.51",
+          "linkData": {
+            "sysId": "Lo 4-14v-2|f.15v|5|ley-|F4-D4"
+          },
+          "variant": "b"
+        }
+      ],
+      "r_301ea804-393b-4c3b-ba49-967ddd9902d0": [
+        {
+          "id": "i_e4a3dd56-b184-4ca0-8e91-b4939653ca44",
+          "pattern": "*ddu",
+          "points": "33.89,28.45 39.39,28.45 39.39,32.01 33.89,32.01",
+          "linkData": {
+            "sysId": "Lo 4-27-7|f.29|2|quos|B4-A4-G4-B4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_e0d80ab9-dd45-4ffc-a915-2d1c7d8b06c3",
+          "pattern": "[*u]",
+          "points": "52.95,29.54 55.48,29.54 55.48,31.94 52.95,31.94",
+          "linkData": {
+            "sysId": "Lo 4-27-7|f.29|2|a|G4-A4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_d77cefad-f9d9-423d-8e4d-70e020def7b8",
+          "pattern": "[*ud]",
+          "points": "24.27,29.18 27.94,29.18 27.94,32.45 24.27,32.45",
+          "linkData": {
+            "sysId": "Lo 4-27-7|f.29|2|tu-|G4-B4-A4"
+          },
+          "variant": ""
+        }
+      ],
+      "r_f30a9f7d-3f26-4dbe-ab73-963a4350b87a": [
+        {
+          "id": "i_3fd75bda-d261-42b5-b88c-ed4100bacb31",
+          "pattern": "*e",
+          "points": "28.69,70.88 31.54,70.88 31.54,73.03 28.69,73.03",
+          "linkData": {
+            "sysId": "Lo 4-27-7|f.29|6|plens|B4-B4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_0c117d36-41d1-43ab-97d2-b8eff7f12391",
+          "pattern": "[*ud]",
+          "points": "50.79,69.37 53.38,69.37 53.38,71.74 50.79,71.74",
+          "linkData": {
+            "sysId": "Lo 4-27-7|f.29|6|per|B4-C5-B4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_6148bf84-034e-405f-84f9-46dac043a3f3",
+          "pattern": "[*du]",
+          "points": "42.85,70.31 45.87,70.31 45.87,74.32 42.85,74.32",
+          "linkData": {
+            "sysId": "Lo 4-27-7|f.29|6|per|G4-F4-B4"
+          },
+          "variant": "b"
+        }
+      ],
+      "r_37b597fa-9880-44fe-a087-d9b188b4de11": [
+        {
+          "id": "i_4beb20ef-2f63-41d5-9add-9c67964f298b",
+          "pattern": "[*u]u",
+          "points": "63.40,47.13 66.72,47.13 66.72,50.33 63.40,50.33",
+          "linkData": {
+            "sysId": "Lo 4-193v-6|f.194|4|ad-|F4-G4-A4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_703ff6b2-a825-4724-b156-d4257ce9f1ea",
+          "pattern": "[*dL]",
+          "points": "53.36,45.39 56.41,45.39 56.41,48.08 53.36,48.08",
+          "linkData": {
+            "sysId": "Lo 4-193v-6|f.194|4|ran-|C5-B4"
+          },
+          "variant": "a"
+        },
+        {
+          "id": "i_a801fb82-a442-41a4-899b-10ca85b401d4",
+          "pattern": "[*dL]",
+          "points": "41.31,45.54 43.67,45.54 43.67,47.86 41.31,47.86",
+          "linkData": {
+            "sysId": "Lo 4-193v-6|f.194|4|ac|C5-B4"
+          },
+          "variant": "b"
+        },
+        {
+          "id": "i_79bd1f01-f207-4ace-ac23-3e35af0d23ee",
+          "pattern": "*",
+          "points": "35.20,49.67 37.20,49.67 37.20,51.05 35.20,51.05",
+          "linkData": {
+            "sysId": "Lo 4-193v-6|f.194|4|lit|E4"
+          },
+          "variant": "c"
+        }
+      ]
+    },
+    "manualLines": {},
+    "iiifLinks": {
+      "Lo 4": "https://iiif.diamm.net/manifests/GB-Lbl-Royal-2B-IV/manifest.json"
+    }
+  }
+}

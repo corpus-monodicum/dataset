@@ -1,0 +1,30 @@
+{
+  "source": "Pa_903",
+  "images": [
+    {
+      "file": "patterns/patterns.svg",
+      "kind": "patterns",
+      "media_type": "image/svg+xml",
+      "sha256": "fc267192acb40780897fe7c30157938107278c9ffd87ab35197c814d262437ee",
+      "bytes": 42627,
+      "shows": "Pa 903: Muster &amp; Entsprechungen",
+      "embeds_raster_image": false,
+      "source": {
+        "siglum": "Pa 903",
+        "library": "Bibliothèque nationale de France",
+        "place": "Paris",
+        "shelfmark": "Lat. 903",
+        "iiif_manifests": [
+          "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10506538t/manifest.json"
+        ],
+        "online_catalogue": []
+      },
+      "rights": {
+        "status": "not checked",
+        "library_terms_url": null,
+        "statement": null,
+        "note": "The images are crops of manuscript images of the library named under `source`; the rights of the library are not settled by the licence of this dataset (see docs/LICENCE-DECISION.md)."
+      }
+    }
+  ]
+}

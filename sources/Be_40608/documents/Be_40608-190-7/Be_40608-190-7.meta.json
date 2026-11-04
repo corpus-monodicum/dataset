@@ -1,0 +1,41 @@
+{
+  "id": "c578b2b1-44e4-4b4e-84cc-353ab8d7cbed",
+  "quelle_id": "Be 40608",
+  "dokumenten_id": "Be 40608-190-7",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Omnes sancti",
+  "feier": "Messe",
+  "textinitium": "Sollemnitatem venerandam",
+  "bibliographischerverweis": "Gaudeamus intr 1 A 2 B 3 C 142 D 5 E F G 143 (CT X)",
+  "druckausgabe": "",
+  "zeilenstart": "7",
+  "foliostart": "190",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Gaudeamus",
+    "Endseite": "190v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Gaudeamus intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

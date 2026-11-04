@@ -1,0 +1,41 @@
+{
+  "id": "6317b9db-f74b-4a97-83e7-d8d4d0b6b9ff",
+  "quelle_id": "Parm 12",
+  "dokumenten_id": "Parm 12-131v-4",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Omnes sancti",
+  "feier": "Messe",
+  "textinitium": "Hodie mundo festivus ... omnium sanctorum",
+  "bibliographischerverweis": "Gaudeamus intr 33 34 (CT X)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "4",
+  "foliostart": "131v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Gaudeamus",
+    "Endseite": "131v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Gaudeamus intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

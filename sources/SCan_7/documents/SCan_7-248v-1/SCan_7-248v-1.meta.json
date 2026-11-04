@@ -1,0 +1,41 @@
+{
+  "id": "557524db-355b-46de-9022-5ab160cf0773",
+  "quelle_id": "SCan 7",
+  "dokumenten_id": "SCan 7-248v-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Ascensio domini",
+  "feier": "Messe",
+  "textinitium": "Summi triumphum",
+  "bibliographischerverweis": "AH 53, 67",
+  "druckausgabe": "",
+  "zeilenstart": "1",
+  "foliostart": "248v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Gionata Brusa",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "249v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Captiva",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

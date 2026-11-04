@@ -1,0 +1,41 @@
+{
+  "id": "6ec2d5c6-e12f-4e28-9ba4-3c5a98201467",
+  "quelle_id": "Or 201",
+  "dokumenten_id": "Or 201-231-8",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Conversio Pauli",
+  "feier": "Matutin",
+  "textinitium": "Quid sic faris",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "8",
+  "foliostart": "231",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "231",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Or 201-230-14S",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Conversion of Paul",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

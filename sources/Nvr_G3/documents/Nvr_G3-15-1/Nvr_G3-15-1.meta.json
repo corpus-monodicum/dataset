@@ -1,0 +1,41 @@
+{
+  "id": "e8805a7e-04ee-4ecd-b3e7-c757af661c0f",
+  "quelle_id": "Nvr G3",
+  "dokumenten_id": "Nvr G3-15-1",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Nativitas domini",
+  "feier": "3. Messe",
+  "textinitium": "Puer natus est nobis",
+  "bibliographischerverweis": "AMS 11",
+  "druckausgabe": "II-4",
+  "zeilenstart": "1",
+  "foliostart": "15",
+  "kommentar": "Lakune: nur das Ende überliefert (f. 15)",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "15",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

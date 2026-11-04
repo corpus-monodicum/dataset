@@ -1,0 +1,41 @@
+{
+  "id": "f52c66ae-be8e-4b71-b408-a79e8fd4995e",
+  "quelle_id": "Ei 366",
+  "dokumenten_id": "Ei 366-24-11a",
+  "gattung1": "Sequenz",
+  "gattung2": "Textlos",
+  "festtag": "Dominica IV post Pascha",
+  "feier": "Messe",
+  "textinitium": "Alleluia",
+  "bibliographischerverweis": "AH 53, 59",
+  "druckausgabe": "CM III",
+  "zeilenstart": "11",
+  "foliostart": "24",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "24a",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "16",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Qui timent",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "Qui timent",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

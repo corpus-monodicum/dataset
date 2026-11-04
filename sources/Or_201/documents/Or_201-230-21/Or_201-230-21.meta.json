@@ -1,0 +1,41 @@
+{
+  "id": "be0a2c38-caf2-4dbc-8650-857169de66fb",
+  "quelle_id": "Or 201",
+  "dokumenten_id": "Or 201-230-21",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Conversio Pauli",
+  "feier": "Matutin",
+  "textinitium": "Christicolas multos",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "21",
+  "foliostart": "230",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "230",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Or 201-230-14S",
+    "Endzeile": "27",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Conversion of Paul",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

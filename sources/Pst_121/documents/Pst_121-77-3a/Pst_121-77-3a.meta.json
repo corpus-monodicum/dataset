@@ -1,0 +1,41 @@
+{
+  "id": "727b6062-11d5-4236-8d2b-44066b0d75f5",
+  "quelle_id": "Pst 121",
+  "dokumenten_id": "Pst 121-77-3a",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Confessores",
+  "feier": "Messe",
+  "textinitium": "Hodiernus sacratior*",
+  "bibliographischerverweis": "AH 7, 192",
+  "druckausgabe": "",
+  "zeilenstart": "3",
+  "foliostart": "77",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "77",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Iustus ut palma maior",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

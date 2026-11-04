@@ -1,0 +1,41 @@
+{
+  "id": "fd31d9b1-4d3a-4fc6-a9f4-f77dcac1ca52",
+  "quelle_id": "Pa 903",
+  "dokumenten_id": "Pa 903-160v-11",
+  "gattung1": "Tropus",
+  "gattung2": "Offertorium-Tropus",
+  "festtag": "Martinus",
+  "feier": "Messe",
+  "textinitium": "Celse deus",
+  "bibliographischerverweis": "Posuisti off 6 A 5 B (CT X)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "11",
+  "foliostart": "160v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "Posuisti)",
+    "Endseite": "161",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Posuisti off",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

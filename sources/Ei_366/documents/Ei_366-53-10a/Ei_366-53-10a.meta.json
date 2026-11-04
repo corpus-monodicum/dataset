@@ -1,0 +1,41 @@
+{
+  "id": "ee808fd0-772c-4e09-b303-a69a0d6fa718",
+  "quelle_id": "Ei 366",
+  "dokumenten_id": "Ei 366-53-10a",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "",
+  "feier": "Matutin",
+  "textinitium": "O regem caeli*",
+  "bibliographischerverweis": "CAO 4077",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "10",
+  "foliostart": "53",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "53",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "Ei 366-53-1-aS",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "Beginn fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Magi play",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

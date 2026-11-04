@@ -1,0 +1,41 @@
+{
+  "id": "1ec829d9-6c71-4e88-80b3-9afad1661795",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-174v-5a",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominica post ascensionem",
+  "feier": "Messe",
+  "textinitium": "Hac clara die*",
+  "bibliographischerverweis": "AH 53, 98",
+  "druckausgabe": "CM III",
+  "zeilenstart": "5",
+  "foliostart": "174v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "174v",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Post partum",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

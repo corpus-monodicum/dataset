@@ -1,0 +1,41 @@
+{
+  "id": "c5ee1c89-75d2-42da-a34e-1c0bdf618ed5",
+  "quelle_id": "Pa 1338",
+  "dokumenten_id": "Pa 1338-67-2",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Martinus",
+  "feier": "",
+  "textinitium": "Perspicua rutilat",
+  "bibliographischerverweis": "AH 7, 175",
+  "druckausgabe": "",
+  "zeilenstart": "2",
+  "foliostart": "67",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "67v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Metensis minor",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

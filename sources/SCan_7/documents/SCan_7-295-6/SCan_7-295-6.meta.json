@@ -1,0 +1,41 @@
+{
+  "id": "01aa1fe7-a725-429b-95a2-1364a2431e11",
+  "quelle_id": "SCan 7",
+  "dokumenten_id": "SCan 7-295-6",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Margareta",
+  "feier": "Messe",
+  "textinitium": "Gratuletur orbis totus",
+  "bibliographischerverweis": "AH 55, 232",
+  "druckausgabe": "",
+  "zeilenstart": "6",
+  "foliostart": "295",
+  "kommentar": "Festangabe ergänzt",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Gionata Brusa",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "296",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "-",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

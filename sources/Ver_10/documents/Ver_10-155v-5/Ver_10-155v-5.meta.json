@@ -1,0 +1,41 @@
+{
+  "id": "0bd64128-daeb-495b-a112-992418b6fb82",
+  "quelle_id": "Ver 10",
+  "dokumenten_id": "Ver 10-155v-5",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Stephanus",
+  "feier": "Messe",
+  "textinitium": "Cui astat",
+  "bibliographischerverweis": "Steph intr 33 A 28 A 42 B 43 C 44 D (CT I)",
+  "druckausgabe": "II-1",
+  "zeilenstart": "5",
+  "foliostart": "155v",
+  "kommentar": "26.12. IK: Aufzeichnung durch Ende \"Hodie cantandus\", f. 156 oben, 1-2, unterbrochen",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "(Etenim)",
+    "Endseite": "156",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "Aufzeichnung unterbrochen",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Steph intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

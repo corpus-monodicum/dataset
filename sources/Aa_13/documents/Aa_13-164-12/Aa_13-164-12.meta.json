@@ -1,0 +1,41 @@
+{
+  "id": "e52736b3-66ef-4908-a718-564cd5f8b59d",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-164-12",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Laurentius",
+  "feier": "Messe",
+  "textinitium": "Laurenti David",
+  "bibliographischerverweis": "AH 53, 173",
+  "druckausgabe": "CM III",
+  "zeilenstart": "12",
+  "foliostart": "164",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "164",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "20",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Romana",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "A",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

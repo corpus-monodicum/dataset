@@ -1,0 +1,41 @@
+{
+  "id": "08fd58e4-2235-4566-966c-4a24f1aa5676",
+  "quelle_id": "Pa 778",
+  "dokumenten_id": "Pa 778-63-6",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Octava nativitatis",
+  "feier": "Messe",
+  "textinitium": "Caelica resonant",
+  "bibliographischerverweis": "AH 53, 19",
+  "druckausgabe": "",
+  "zeilenstart": "6",
+  "foliostart": "63",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "64",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Mater",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

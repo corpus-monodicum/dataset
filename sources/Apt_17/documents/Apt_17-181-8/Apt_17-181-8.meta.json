@@ -1,0 +1,41 @@
+{
+  "id": "4b3d6683-8ce1-4ba1-b505-41b8c81bcb2f",
+  "quelle_id": "Apt 17",
+  "dokumenten_id": "Apt 17-181-8",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Inventio crucis",
+  "feier": "Messe",
+  "textinitium": "Vexilla regis",
+  "bibliographischerverweis": "AH 7, 91",
+  "druckausgabe": "",
+  "zeilenstart": "8",
+  "foliostart": "181",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "184",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

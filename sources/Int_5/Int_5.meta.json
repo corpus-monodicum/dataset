@@ -1,0 +1,25 @@
+{
+  "id": "Int 5",
+  "quellensigle": "Int 5",
+  "herkunftsregion": "Quellen italienischer Herkunft",
+  "herkunftsort": "Novara (Region)",
+  "herkunftsinstitution": "",
+  "ordenstradition": "",
+  "quellentyp": "Tropar, Sequentiar, Prozessionar",
+  "bibliotheksort": "Intra",
+  "bibliothek": "Archivio Parrocchiale di San Vittore",
+  "bibliothekssignatur": "5 (14)",
+  "kommentar": "",
+  "datierung": "12. Jh",
+  "status": "",
+  "jahrhundert": "12.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Int 5",
+  "cantus_century": "12.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Int_5.description.md"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ecef4a26-f990-4c80-bf61-a26014b7a159",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-49v-7",
+  "gattung1": "Sanctus",
+  "gattung2": "tropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Patris sapientia",
+  "bibliographischerverweis": "CT VII, 102: 1a 1b 2a 2b 3a 3b 4a 4b 5a 5b 6",
+  "druckausgabe": "",
+  "zeilenstart": "7",
+  "foliostart": "49v",
+  "kommentar": "Nachtrag",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "49v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "14",
+    "Melodiennummer_Katalog": "Thannabaur 210",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509504",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

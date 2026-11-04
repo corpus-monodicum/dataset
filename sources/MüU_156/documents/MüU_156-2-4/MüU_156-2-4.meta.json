@@ -1,0 +1,41 @@
+{
+  "id": "ca511fda-7e83-45f0-9d7e-649cfbb77f1e",
+  "quelle_id": "MüU 156",
+  "dokumenten_id": "MüU 156-2-4",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Dominica I adventus",
+  "feier": "Messe",
+  "textinitium": "Gregorius praesul",
+  "bibliographischerverweis": "Adv I intr 5 (CT I)",
+  "druckausgabe": "II-2",
+  "zeilenstart": "4",
+  "foliostart": "2",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "MüU 156-2-9",
+    "Endseite": "2",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Adv I intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3967ec79-c52d-4830-87e1-b4961059f415",
+  "quelle_id": "Lo 2615",
+  "dokumenten_id": "Lo 2615-99v-7a",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Octava nativitatis",
+  "feier": "Matutin",
+  "textinitium": "Rex in aeternum",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "7",
+  "foliostart": "99v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "99v",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "Lo 2615-95-1S",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Play of Daniel",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

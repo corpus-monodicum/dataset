@@ -1,0 +1,138 @@
+{
+  "type": "cm-manuscript-export",
+  "schemaVersion": 2,
+  "exportedAt": "2026-11-02T18:13:45.443Z",
+  "exportedManuscripts": [
+    "Ka 5"
+  ],
+  "data": {
+    "personalTables": [
+      {
+        "id": "1788887148611",
+        "name": "Ka 5",
+        "source": "Ka 5",
+        "notes": "",
+        "patterns": [],
+        "rows": [
+          {
+            "pattern": "*",
+            "customId": "10",
+            "notes": ""
+          },
+          {
+            "pattern": "*[ed]",
+            "customId": "11",
+            "notes": ""
+          },
+          {
+            "pattern": "*[edu]",
+            "customId": "12",
+            "notes": ""
+          },
+          {
+            "pattern": "*e[ed]",
+            "customId": "13",
+            "notes": ""
+          },
+          {
+            "pattern": "*[eu]",
+            "customId": "14",
+            "notes": ""
+          },
+          {
+            "pattern": "[*d]",
+            "customId": "20",
+            "notes": ""
+          },
+          {
+            "pattern": "[*du]",
+            "customId": "21",
+            "notes": ""
+          },
+          {
+            "pattern": "*dd",
+            "customId": "30",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u]",
+            "customId": "40",
+            "notes": ""
+          },
+          {
+            "pattern": "[*ud]",
+            "customId": "41",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u]dd",
+            "customId": "42",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u]ddu",
+            "customId": "43",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u]e",
+            "customId": "44",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u]u",
+            "customId": "45",
+            "notes": ""
+          },
+          {
+            "pattern": "*uu",
+            "customId": "50",
+            "notes": ""
+          },
+          {
+            "pattern": "*u[ud]",
+            "customId": "51",
+            "notes": ""
+          },
+          {
+            "pattern": "*SeS",
+            "customId": "61",
+            "notes": ""
+          },
+          {
+            "pattern": "*SeSeS",
+            "customId": "61",
+            "notes": ""
+          },
+          {
+            "pattern": "*uuSeS",
+            "customId": "61",
+            "notes": ""
+          },
+          {
+            "pattern": "[*deO]",
+            "customId": "71",
+            "notes": ""
+          },
+          {
+            "pattern": "[*udeO]",
+            "customId": "71",
+            "notes": ""
+          },
+          {
+            "pattern": "[*dL]",
+            "customId": "10+/20-",
+            "notes": ""
+          }
+        ],
+        "isPublished": true
+      }
+    ],
+    "regions": {},
+    "regionItems": {},
+    "manualLines": {},
+    "iiifLinks": {
+      "Ka 5": "https://orka.bibliothek.uni-kassel.de/viewer/api/v1/records/1385040938929/manifest/"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5a5568b9-97e3-4907-b6f8-e43fb23c40e1",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-130v-6",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Infra octavam Paschae",
+  "feier": "",
+  "textinitium": "Laus deo nostro",
+  "bibliographischerverweis": "AH 53, 44",
+  "druckausgabe": "",
+  "zeilenstart": "6",
+  "foliostart": "130v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "131",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Organa (A)",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "61985213-cfe1-44ce-9a75-7cfd5638a3c2",
+  "quelle_id": "La 263",
+  "dokumenten_id": "La 263-106v-1",
+  "gattung1": "Tropus",
+  "gattung2": "Communio-Tropus",
+  "festtag": "Iohannes Evangelista",
+  "feier": "Messe",
+  "textinitium": "Corda fratrum",
+  "bibliographischerverweis": "Ioh ev com 5 A (CT I)",
+  "druckausgabe": "II-1",
+  "zeilenstart": "1",
+  "foliostart": "106v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "(Exiit sermo)",
+    "Endseite": "106v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "106",
+    "FestUndGattung": "Ioh ev com",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

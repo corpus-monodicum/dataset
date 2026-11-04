@@ -1,0 +1,41 @@
+{
+  "id": "c2dc82df-b626-4f6f-af4f-87f82aa6e38f",
+  "quelle_id": "Or 201",
+  "dokumenten_id": "Or 201-229-10b",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Feria III post Pascha",
+  "feier": "Vesper",
+  "textinitium": "Nisi videro ... manum",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "10",
+  "foliostart": "229",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "229",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "Or 201-225-35S",
+    "Endzeile": "16",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Journey to Emmaus",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

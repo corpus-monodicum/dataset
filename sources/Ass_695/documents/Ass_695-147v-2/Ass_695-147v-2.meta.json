@@ -1,0 +1,41 @@
+{
+  "id": "5184dbf2-d265-42e4-818e-7d8f269b7b95",
+  "quelle_id": "Ass 695",
+  "dokumenten_id": "Ass 695-147v-2",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Laurentius",
+  "feier": "Messe",
+  "textinitium": "Prunis datum",
+  "bibliographischerverweis": "AH 55, 217",
+  "druckausgabe": "CM III",
+  "zeilenstart": "2",
+  "foliostart": "147v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "149",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "Beginn fehlt; Abschnitt im Inneren fehlt; Ende fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

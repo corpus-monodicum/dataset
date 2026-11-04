@@ -1,0 +1,41 @@
+{
+  "id": "4b324149-c713-4adc-8c93-b7fa098dd560",
+  "quelle_id": "Civ 102",
+  "dokumenten_id": "Civ 102-25v-10a",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "Dominica in palmis",
+  "feier": "Prozession",
+  "textinitium": "Pueri Hebraeorum tollentes",
+  "bibliographischerverweis": "CAO 4415",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "10",
+  "foliostart": "25v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "25v",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "Civ 102-23-1S",
+    "Endzeile": "15",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Entry into Jerusalem",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

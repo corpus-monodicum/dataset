@@ -1,0 +1,41 @@
+{
+  "id": "f2cd23fc-3348-438a-8f2e-0dacf2d66a4c",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-76v-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textlos",
+  "festtag": "Dominica I adventus",
+  "feier": "Messe",
+  "textinitium": "Alleluia",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "1",
+  "foliostart": "76v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "76v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Ostende minor",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "Precamur",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

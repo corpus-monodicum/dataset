@@ -1,0 +1,25 @@
+{
+  "id": "Be 664",
+  "quellensigle": "Be 664",
+  "herkunftsregion": "Quellen deutscher Herkunft",
+  "herkunftsort": "Stuben (Mosel)",
+  "herkunftsinstitution": "Augustinerinnenstift",
+  "ordenstradition": "",
+  "quellentyp": "Graduale, Kyriale, Sequentiar",
+  "bibliotheksort": "Berlin",
+  "bibliothek": "Staatsbibliothek PKB",
+  "bibliothekssignatur": "Ms. lat. 4° 664",
+  "kommentar": "",
+  "datierung": "12. Jh, 2. Hälfte",
+  "status": "",
+  "jahrhundert": "12.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Be 664",
+  "cantus_century": "12.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Be_664.description.md"
+  }
+}

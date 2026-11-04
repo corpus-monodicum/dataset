@@ -1,0 +1,41 @@
+{
+  "id": "63f76f92-3efd-4827-ae13-fa8a0a0c18d1",
+  "quelle_id": "Pa 14819",
+  "dokumenten_id": "Pa 14819-124v-4",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Augustinus",
+  "feier": "Messe",
+  "textinitium": "Interni festi",
+  "bibliographischerverweis": "AH 55, 74",
+  "druckausgabe": "CM III",
+  "zeilenstart": "4",
+  "foliostart": "124v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "126",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

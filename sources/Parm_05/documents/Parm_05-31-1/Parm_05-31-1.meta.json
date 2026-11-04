@@ -1,0 +1,41 @@
+{
+  "id": "40d756a2-db82-4070-b504-c7ded586a567",
+  "quelle_id": "Parm 05",
+  "dokumenten_id": "Parm 05-31-1",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Iohannes Baptista",
+  "feier": "Messe",
+  "textinitium": "De ventre",
+  "bibliographischerverweis": "AMS 119",
+  "druckausgabe": "II-4",
+  "zeilenstart": "1",
+  "foliostart": "31",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "32",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

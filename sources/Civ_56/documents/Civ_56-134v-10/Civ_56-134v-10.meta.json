@@ -1,0 +1,41 @@
+{
+  "id": "ad9ceb4a-c3dc-41fa-b81c-60c95eca1bb8",
+  "quelle_id": "Civ 56",
+  "dokumenten_id": "Civ 56-134v-10",
+  "gattung1": "Tropus",
+  "gattung2": "Communio-Tropus",
+  "festtag": "Pascha",
+  "feier": "Messe",
+  "textinitium": "Adducite vitulum",
+  "bibliographischerverweis": "Resurr com 6 (CT III)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "10",
+  "foliostart": "134v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Pascha",
+    "Endseite": "135",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Resurr com",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

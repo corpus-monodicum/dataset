@@ -1,0 +1,41 @@
+{
+  "id": "0a0a454c-6ba0-40c1-8c89-1bd37b4ef182",
+  "quelle_id": "Pa 909",
+  "dokumenten_id": "Pa 909-46v-5",
+  "gattung1": "Tropus",
+  "gattung2": "Communio-Tropus",
+  "festtag": "Martialis",
+  "feier": "Messe",
+  "textinitium": "Agnus ait",
+  "bibliographischerverweis": "Nolite gaudere com 1 A 2 B C (CT X)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "5",
+  "foliostart": "46v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "Nolite gaudere",
+    "Endseite": "46v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Nolite gaudere com",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "89e7da56-d118-4f75-8570-c88c1823a1c5",
+  "quelle_id": "Pst 121",
+  "dokumenten_id": "Pst 121-75-8",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Apostoli",
+  "feier": "Messe",
+  "textinitium": "Egregius maneat*",
+  "bibliographischerverweis": "Mihi autem intr 64 (CT X)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "8",
+  "foliostart": "75",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Mihi autem",
+    "Endseite": "75",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Mihi autem intr",
+    "Zusatz_zu_Textinitium": "Nur Incipit ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

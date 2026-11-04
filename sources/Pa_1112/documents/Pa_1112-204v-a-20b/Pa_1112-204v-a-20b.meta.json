@@ -1,0 +1,41 @@
+{
+  "id": "2e7d1fe0-8374-4be6-a52f-b6769655eaa7",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-204v-a-20b",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Eligius",
+  "feier": "Messe",
+  "textinitium": "Christo inclita*",
+  "bibliographischerverweis": "AH 7, 118; AH 53, 115",
+  "druckausgabe": "",
+  "zeilenstart": "20",
+  "foliostart": "204v-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "204v-a",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "20",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

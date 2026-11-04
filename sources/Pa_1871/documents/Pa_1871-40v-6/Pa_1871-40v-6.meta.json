@@ -1,0 +1,41 @@
+{
+  "id": "60b6c6dc-fe0a-4d45-851b-b2a51df3daa1",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-40v-6",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Sancta crux",
+  "feier": "Messe",
+  "textinitium": "Perspicuae",
+  "bibliographischerverweis": "Nos autem intr 4 A 5 B 6 C (CT X App.)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "6",
+  "foliostart": "40v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "(Nos autem gloriari)",
+    "Endseite": "40v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Nos autem intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

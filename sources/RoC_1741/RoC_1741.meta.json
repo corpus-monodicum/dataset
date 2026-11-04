@@ -1,0 +1,25 @@
+{
+  "id": "RoC 1741",
+  "quellensigle": "RoC 1741",
+  "herkunftsregion": "Quellen italienischer Herkunft",
+  "herkunftsort": "Nonantola",
+  "herkunftsinstitution": "Abtei S. Silvestro",
+  "ordenstradition": "",
+  "quellentyp": "Tropar",
+  "bibliotheksort": "Rom",
+  "bibliothek": "Biblioteca Casanatense",
+  "bibliothekssignatur": "1741",
+  "kommentar": "",
+  "datierung": "11. Jh Ende",
+  "status": "",
+  "jahrhundert": "11.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "RoC 1741",
+  "cantus_century": "11.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "RoC_1741.description.md"
+  }
+}

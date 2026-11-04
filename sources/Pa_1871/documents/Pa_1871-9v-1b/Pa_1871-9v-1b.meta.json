@@ -1,0 +1,41 @@
+{
+  "id": "8cff5dbc-75e9-49ab-965b-a73750795d75",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-9v-1b",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Epiphania",
+  "feier": "Messe",
+  "textinitium": "Hodie regi magno",
+  "bibliographischerverweis": "Epiph intr 88 A 79 A 89 B 81 D 82 E F 63 A 64 C 65 D G 76 A 95 C 96 D H [mel II D] 72 A 74 C 75 D 73 A (CT I)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "1",
+  "foliostart": "9v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "(Ecce advenit)",
+    "Endseite": "10",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Epiph intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "02bbbeaf-33bd-4879-9c5d-a7b49dc70086",
+  "quelle_id": "Pad 16",
+  "dokumenten_id": "Pad 16-257v-10",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Nativitas Mariae",
+  "feier": "Messe",
+  "textinitium": "A solis ortu",
+  "bibliographischerverweis": "Gaud 78 A 79 B 80 C 81 D (CT IX)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "10",
+  "foliostart": "257v",
+  "kommentar": "olim 153v",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Gaudeamus",
+    "Endseite": "258",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

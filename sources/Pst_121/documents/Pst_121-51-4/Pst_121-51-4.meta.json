@@ -1,0 +1,41 @@
+{
+  "id": "d7bbb09d-cde8-40ff-a1e1-65a3244c7cec",
+  "quelle_id": "Pst 121",
+  "dokumenten_id": "Pst 121-51-4",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominica XII post Pentecosten",
+  "feier": "Messe",
+  "textinitium": "Stans a longe publicanus lavit se",
+  "bibliographischerverweis": "AH 53, 93",
+  "druckausgabe": "",
+  "zeilenstart": "4",
+  "foliostart": "51",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "51v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Metensis minor",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

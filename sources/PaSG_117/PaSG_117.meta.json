@@ -1,0 +1,25 @@
+{
+  "id": "PaSG 117",
+  "quellensigle": "PaSG 117",
+  "herkunftsregion": "Quellen französischer Herkunft",
+  "herkunftsort": "Beauvais",
+  "herkunftsinstitution": "Kathedrale Saint-Pierre",
+  "ordenstradition": "",
+  "quellentyp": "",
+  "bibliotheksort": "Paris",
+  "bibliothek": "Bibliothèque Sainte-Geneviève",
+  "bibliothekssignatur": "117",
+  "kommentar": "",
+  "datierung": "13. Jh Ende",
+  "status": "",
+  "jahrhundert": "13.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "PaSG 117",
+  "cantus_century": "13.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "PaSG_117.description.md"
+  }
+}

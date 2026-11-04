@@ -1,0 +1,41 @@
+{
+  "id": "e5119104-43d3-4d69-aba4-20fa4638af8d",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-148v-1a",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Feria III post Pascha",
+  "feier": "Messe",
+  "textinitium": "Ecce vicit radix*",
+  "bibliographischerverweis": "AH 53, 39",
+  "druckausgabe": "CM III",
+  "zeilenstart": "1",
+  "foliostart": "148v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "148v",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Concordia",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

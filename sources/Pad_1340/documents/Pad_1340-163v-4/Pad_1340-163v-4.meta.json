@@ -1,0 +1,41 @@
+{
+  "id": "33bad0d7-c358-432d-aa16-86442163026e",
+  "quelle_id": "Pad 1340",
+  "dokumenten_id": "Pad 1340-163v-4",
+  "gattung1": "Requiescant",
+  "gattung2": "untropiert",
+  "festtag": "Defuncti",
+  "feier": "Messe",
+  "textinitium": "Requiescant",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "4",
+  "foliostart": "163v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "163v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "Eifrig/Pfisterer deest",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "Requiescant",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

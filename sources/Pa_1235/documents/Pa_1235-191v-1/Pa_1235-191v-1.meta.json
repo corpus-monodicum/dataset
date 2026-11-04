@@ -1,0 +1,41 @@
+{
+  "id": "7da262ea-8c83-41fe-891e-a3f54107226d",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-191v-1",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Iohannes Evangelista",
+  "feier": "Messe",
+  "textinitium": "Ecce iam Iohannis",
+  "bibliographischerverweis": "Ioh ev intr 24 A 27 B 42 C 28 D E 43 A F 30 A 31 B 32 D (CT I)",
+  "druckausgabe": "II-1",
+  "zeilenstart": "1",
+  "foliostart": "191v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "Pa 1235-19v-13-",
+    "Endseite": "191v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Ioh ev intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

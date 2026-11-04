@@ -1,0 +1,41 @@
+{
+  "id": "1b01f360-e08e-4d00-a94a-9188859bc629",
+  "quelle_id": "Ben 34",
+  "dokumenten_id": "Ben 34-238-2",
+  "gattung1": "Gloria",
+  "gattung2": "tropiert",
+  "festtag": "Omnes sancti",
+  "feier": "Messe",
+  "textinitium": "Laus tua deus",
+  "bibliographischerverweis": "CT XII, 38: 1 2 3 4 5 6 7 8 R R51 19",
+  "druckausgabe": "",
+  "zeilenstart": "2",
+  "foliostart": "238",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "239",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "Bosse 39",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509502",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

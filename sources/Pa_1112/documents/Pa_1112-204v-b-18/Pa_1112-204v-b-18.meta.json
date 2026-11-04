@@ -1,0 +1,41 @@
+{
+  "id": "34366c81-ea1c-4085-9da4-54163470f29f",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-204v-b-18",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Inventio reliquiarum",
+  "feier": "Messe",
+  "textinitium": "Laetabundus exsultet*",
+  "bibliographischerverweis": "AH 54, 2",
+  "druckausgabe": "",
+  "zeilenstart": "18",
+  "foliostart": "204v-b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "204v-b",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "18",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

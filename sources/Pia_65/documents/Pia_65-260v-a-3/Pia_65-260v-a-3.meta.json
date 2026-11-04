@@ -1,0 +1,41 @@
+{
+  "id": "70f12a07-6948-4e43-8624-52ad11c36f3d",
+  "quelle_id": "Pia 65",
+  "dokumenten_id": "Pia 65-260v-a-3",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Aegidius",
+  "feier": "Messe",
+  "textinitium": "Hodie rutilat",
+  "bibliographischerverweis": "Os iusti intr 102 A (CT X)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "3",
+  "foliostart": "260v-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Os iusti",
+    "Endseite": "260v-a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Os iusti intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

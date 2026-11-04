@@ -1,0 +1,41 @@
+{
+  "id": "185a25a8-bfbf-419d-8499-6086059043c9",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-143v-2",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "",
+  "feier": "",
+  "textinitium": "Alle nostra",
+  "bibliographischerverweis": "AH 9, 326",
+  "druckausgabe": "",
+  "zeilenstart": "2",
+  "foliostart": "143v",
+  "kommentar": "Nachtrag auf Rasur",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "144",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "In omnem terram",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Teilweise ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

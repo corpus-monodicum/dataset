@@ -1,0 +1,41 @@
+{
+  "id": "9cfdb300-bd4b-47dc-ba6a-14b472c28424",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-165-15",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Nativitas Mariae",
+  "feier": "Messe",
+  "textinitium": "Stirpe Maria",
+  "bibliographischerverweis": "AH 53, 95",
+  "druckausgabe": "CM III",
+  "zeilenstart": "15",
+  "foliostart": "165",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "165v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Adducentur",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "A",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

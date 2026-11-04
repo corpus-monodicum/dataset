@@ -1,0 +1,41 @@
+{
+  "id": "f139b7f4-5be6-4067-aa3d-a698efacc4f6",
+  "quelle_id": "Ut 417",
+  "dokumenten_id": "Ut 417-23v-4",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Infra octavam assumptionis",
+  "feier": "Messe",
+  "textinitium": "Ortum Christi",
+  "bibliographischerverweis": "AH deest",
+  "druckausgabe": "",
+  "zeilenstart": "4",
+  "foliostart": "23v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "24",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

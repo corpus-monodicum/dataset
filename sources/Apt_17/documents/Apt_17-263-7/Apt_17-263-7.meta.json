@@ -1,0 +1,41 @@
+{
+  "id": "7b6f26b5-d459-45b2-8fb8-21f1184fce46",
+  "quelle_id": "Apt 17",
+  "dokumenten_id": "Apt 17-263-7",
+  "gattung1": "Tropus",
+  "gattung2": "Offertorium-Tropus",
+  "festtag": "Assumptio Mariae",
+  "feier": "Messe",
+  "textinitium": "Exsultemus omnes gaudio",
+  "bibliographischerverweis": "Offer 1 A 2 B 3 C (CT IX)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "7",
+  "foliostart": "263",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "(Offerentur)",
+    "Endseite": "264",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

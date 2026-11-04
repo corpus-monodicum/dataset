@@ -1,0 +1,41 @@
+{
+  "id": "405cc1eb-534f-4fd7-9b3b-2863c5044855",
+  "quelle_id": "Halb 45",
+  "dokumenten_id": "Halb 45-27-1",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Pentecoste",
+  "feier": "Messe",
+  "textinitium": "Psallite candidati",
+  "bibliographischerverweis": "Pent intr 26 A 20 B 21 C 22 D E (CT III)",
+  "druckausgabe": "II-2",
+  "zeilenstart": "1",
+  "foliostart": "27",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "(Spiritus domini)",
+    "Endseite": "27",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Pent intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

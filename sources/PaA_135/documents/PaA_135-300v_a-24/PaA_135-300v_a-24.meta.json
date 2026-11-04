@@ -1,0 +1,41 @@
+{
+  "id": "eef3f556-78af-4e6e-a8f3-6d464b450f8e",
+  "quelle_id": "PaA 135",
+  "dokumenten_id": "PaA 135-300v a-24",
+  "gattung1": "Kyrie",
+  "gattung2": "tropiert",
+  "festtag": "Corpus Christi",
+  "feier": "Messe",
+  "textinitium": "Kyrie pater aeterne",
+  "bibliographischerverweis": "AH 47, 70",
+  "druckausgabe": "",
+  "zeilenstart": "24",
+  "foliostart": "300v a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "301a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "Melnicki 48",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509501",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

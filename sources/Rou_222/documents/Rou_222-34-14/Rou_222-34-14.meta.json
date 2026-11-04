@@ -1,0 +1,41 @@
+{
+  "id": "57cf4395-f545-4932-b5e6-329a35464bb9",
+  "quelle_id": "Rou 222",
+  "dokumenten_id": "Rou 222-34-14",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Responsorium",
+  "festtag": "Feria VI in Parasceve",
+  "feier": "Depositio crucis",
+  "textinitium": "Sepulto domino*",
+  "bibliographischerverweis": "CAO 7640",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "14",
+  "foliostart": "34",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "34",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Rou 222-30v-23S",
+    "Endzeile": "14",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Good Friday / Deposition of the cross",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

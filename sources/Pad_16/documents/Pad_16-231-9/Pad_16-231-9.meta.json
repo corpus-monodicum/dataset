@@ -1,0 +1,41 @@
+{
+  "id": "7079cbd0-839a-41cf-8277-e4e315e0a92f",
+  "quelle_id": "Pad 16",
+  "dokumenten_id": "Pad 16-231-9",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Purificatio Mariae",
+  "feier": "Messe",
+  "textinitium": "Plebs subiecta",
+  "bibliographischerverweis": "Susc 30 A 31 B 32 C (CT IX)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "9",
+  "foliostart": "231",
+  "kommentar": "olim 227",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Suscepimus",
+    "Endseite": "231v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

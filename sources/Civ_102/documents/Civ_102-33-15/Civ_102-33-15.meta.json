@@ -1,0 +1,41 @@
+{
+  "id": "c921a1af-3d8f-480d-aaf2-634c8369e88d",
+  "quelle_id": "Civ 102",
+  "dokumenten_id": "Civ 102-33-15",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Feria VI in Parasceve",
+  "feier": "Officium adorande crucis",
+  "textinitium": "Quia eduxi te",
+  "bibliographischerverweis": "CAO 8452",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "15",
+  "foliostart": "33",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "33",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Civ 102-32v-10S",
+    "Endzeile": "21",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Good Friday / Adoration of the Cross",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

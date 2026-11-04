@@ -1,0 +1,41 @@
+{
+  "id": "9e9222a9-cd98-4022-a85e-68c5034094a4",
+  "quelle_id": "Pad 16",
+  "dokumenten_id": "Pad 16-255-9",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Assumptio Mariae",
+  "feier": "Messe",
+  "textinitium": "Hodie assumpta est",
+  "bibliographischerverweis": "Gaud 74 A 75 B 76 C 77 D (CT IX)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "9",
+  "foliostart": "255",
+  "kommentar": "olim 251",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Gaudeamus",
+    "Endseite": "255v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

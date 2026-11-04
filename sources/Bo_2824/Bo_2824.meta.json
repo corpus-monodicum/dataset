@@ -1,0 +1,25 @@
+{
+  "id": "Bo 2824",
+  "quellensigle": "Bo 2824",
+  "herkunftsregion": "Quellen italienischer Herkunft",
+  "herkunftsort": "Nonantola",
+  "herkunftsinstitution": "San Silvestro",
+  "ordenstradition": "",
+  "quellentyp": "Tropar, Prosar",
+  "bibliotheksort": "Bologna",
+  "bibliothek": "Biblioteca Universitaria",
+  "bibliothekssignatur": "Ms. 2824",
+  "kommentar": "",
+  "datierung": "11. Jh 2. Hälfte",
+  "status": "",
+  "jahrhundert": "11.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Bo 2824",
+  "cantus_century": "11.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Bo_2824.description.md"
+  }
+}

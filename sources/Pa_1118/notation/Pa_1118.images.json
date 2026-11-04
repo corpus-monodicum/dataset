@@ -1,0 +1,30 @@
+{
+  "source": "Pa_1118",
+  "images": [
+    {
+      "file": "patterns/patterns.svg",
+      "kind": "patterns",
+      "media_type": "image/svg+xml",
+      "sha256": "040074057e96e8b0dacd9c5f96bbbb28894109617d56176643ffac38cae7c09d",
+      "bytes": 44554,
+      "shows": "Pa 1118: Muster &amp; Entsprechungen",
+      "embeds_raster_image": false,
+      "source": {
+        "siglum": "Pa 1118",
+        "library": "Bibliothèque nationale de France",
+        "place": "Paris",
+        "shelfmark": "Lat. 1118",
+        "iiif_manifests": [
+          "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432314k/manifest.json"
+        ],
+        "online_catalogue": []
+      },
+      "rights": {
+        "status": "not checked",
+        "library_terms_url": null,
+        "statement": null,
+        "note": "The images are crops of manuscript images of the library named under `source`; the rights of the library are not settled by the licence of this dataset (see docs/LICENCE-DECISION.md)."
+      }
+    }
+  ]
+}

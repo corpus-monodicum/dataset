@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>NY 905: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Isabel Kraft</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Hanna Zühlke</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Gunilla Iversen</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Ritva Maria Jacobsson</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="NY_905">
+          <msIdentifier>
+            <settlement>New York</settlement>
+            <repository>The Morgan Library &amp; Museum</repository>
+            <idno type="shelfmark">M. 905 ("Gänsebuch")</idno>
+            <altIdentifier type="siglum">
+              <idno>NY 905</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>NY 905</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <term type="quellentyp">Graduale mit Tropen und Sequenzen, Kyriale mit Tropen (zwei Bände)</term>
+            </summary>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus>f. I, 21</locus>
+              <title type="incipit">Hodie cantandus est</title>
+              <idno type="dokumenten_id">NY 905-I, 21-6</idno>
+            </msItem>
+            <msItem n="2">
+              <locus>f. I, 22</locus>
+              <title type="incipit">Puer natus est nobis</title>
+              <idno type="dokumenten_id">NY 905-I, 22-1</idno>
+            </msItem>
+            <msItem n="3">
+              <locus>f. I, 25</locus>
+              <title type="incipit">Domine Iesu Christe</title>
+              <idno type="dokumenten_id">NY 905-I, 25-6</idno>
+            </msItem>
+            <msItem n="4">
+              <locus>f. I, 26v</locus>
+              <title type="incipit">Etenim sederunt</title>
+              <idno type="dokumenten_id">NY 905-I, 26v-3</idno>
+            </msItem>
+            <msItem n="5">
+              <locus>f. I, 29v</locus>
+              <title type="incipit">Quoniam dominus</title>
+              <idno type="dokumenten_id">NY 905-I, 29v-6</idno>
+            </msItem>
+            <msItem n="6">
+              <locus>f. I, 31</locus>
+              <title type="incipit">In medio ecclesiae</title>
+              <idno type="dokumenten_id">NY 905-I, 31-2</idno>
+            </msItem>
+            <msItem n="7">
+              <locus>f. I, 33v</locus>
+              <title type="incipit">Hodie pro domino</title>
+              <idno type="dokumenten_id">NY 905-I, 33v-4</idno>
+            </msItem>
+            <msItem n="8">
+              <locus>f. I, 33v</locus>
+              <title type="incipit">Ex ore infantium</title>
+              <idno type="dokumenten_id">NY 905-I, 33v-8</idno>
+            </msItem>
+            <msItem n="9">
+              <locus>f. I, 38</locus>
+              <title type="incipit">Forma speciosissimus</title>
+              <idno type="dokumenten_id">NY 905-I, 38-13</idno>
+            </msItem>
+            <msItem n="10">
+              <locus>f. I, 38v</locus>
+              <title type="incipit">Ecce advenit</title>
+              <idno type="dokumenten_id">NY 905-I, 38v-3</idno>
+            </msItem>
+            <msItem n="11">
+              <locus>f. II, 103</locus>
+              <title type="incipit">Nativitatem venerandam</title>
+              <idno type="dokumenten_id">NY 905-II, 103-4</idno>
+            </msItem>
+            <msItem n="12">
+              <locus>f. II, 42</locus>
+              <title type="incipit">De ventre</title>
+              <idno type="dokumenten_id">NY 905-II, 42-10</idno>
+            </msItem>
+            <msItem n="13">
+              <locus>f. II, 42</locus>
+              <title type="incipit">Angelo praenuntiante</title>
+              <idno type="dokumenten_id">NY 905-II, 42-5</idno>
+            </msItem>
+            <msItem n="14">
+              <locus>f. II, 91</locus>
+              <title type="incipit">Gaudeamus omnes ... Mariae ... assumptione</title>
+              <idno type="dokumenten_id">NY 905-II, 91-1</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Nürnberg</settlement>
+                <region>Quellen deutscher Herkunft</region>
+                <orgName>Sankt Lorenz</orgName>
+              </origPlace>
+              <origDate>16. Jh (1507 Band I, 1510 Band II)</origDate>
+            </origin>
+          </history>
+          <additional>
+            <adminInfo>
+              <note type="description">
+                <ref target="NY_905.description.md">Source description</ref>
+              </note>
+            </adminInfo>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

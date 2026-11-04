@@ -1,0 +1,41 @@
+{
+  "id": "860f916c-2be9-4fc2-9ffe-cf86f18422bb",
+  "quelle_id": "Ben 34",
+  "dokumenten_id": "Ben 34-24-5",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Iohannes Evangelista",
+  "feier": "Messe",
+  "textinitium": "Gratia celsa dei",
+  "bibliographischerverweis": "Ioh ev intr 21 A 22 B 23 C (CT I)",
+  "druckausgabe": "",
+  "zeilenstart": "5",
+  "foliostart": "24",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "(In medio)",
+    "Endseite": "24",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Ioh ev intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

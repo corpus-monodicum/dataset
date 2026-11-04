@@ -1,0 +1,41 @@
+{
+  "id": "e6e31257-6982-4cff-889f-8030dd7eb5ea",
+  "quelle_id": "Pa 1118",
+  "dokumenten_id": "Pa 1118-249-2",
+  "gattung1": "Sequenz",
+  "gattung2": "Teiltextiert",
+  "festtag": "",
+  "feier": "",
+  "textinitium": "Spiritus almus invisere",
+  "bibliographischerverweis": "AH 49, 518",
+  "druckausgabe": "",
+  "zeilenstart": "2",
+  "foliostart": "249",
+  "kommentar": "Nachtrag",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "249",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Ad te summe",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

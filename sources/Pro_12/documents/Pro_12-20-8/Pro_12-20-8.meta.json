@@ -1,0 +1,41 @@
+{
+  "id": "4037ec9a-b3c8-4cd5-a105-e7e5be844909",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-20-8",
+  "gattung1": "Antiphon",
+  "gattung2": "Offertorium",
+  "festtag": "Stephanus",
+  "feier": "Messe",
+  "textinitium": "Elegerunt apostoli",
+  "bibliographischerverweis": "AMS 148bis",
+  "druckausgabe": "II-1",
+  "zeilenstart": "8",
+  "foliostart": "20",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "20v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

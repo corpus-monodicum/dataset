@@ -1,0 +1,25 @@
+{
+  "id": "Civ 56",
+  "quellensigle": "Civ 56",
+  "herkunftsregion": "Quellen italienischer Herkunft",
+  "herkunftsort": "Cividale del Friuli",
+  "herkunftsinstitution": "Kathedrale Santa Maria Assunta",
+  "ordenstradition": "",
+  "quellentyp": "Graduale, Tropar, Sequentiar",
+  "bibliotheksort": "Cividale",
+  "bibliothek": "Museo Archeologico Nazionale",
+  "bibliothekssignatur": "Ms. LVI",
+  "kommentar": "",
+  "datierung": "14. Jh – 15. Jh",
+  "status": "",
+  "jahrhundert": "14., 15.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Civ 56",
+  "cantus_century": "14., 15.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Civ_56.description.md"
+  }
+}

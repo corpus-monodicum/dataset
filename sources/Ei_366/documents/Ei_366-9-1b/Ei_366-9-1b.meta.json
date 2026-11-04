@@ -1,0 +1,41 @@
+{
+  "id": "4b07ed3f-174e-4278-a18a-7414ae67f7e9",
+  "quelle_id": "Ei 366",
+  "dokumenten_id": "Ei 366-9-1b",
+  "gattung1": "Sequenz",
+  "gattung2": "Textlos",
+  "festtag": "Maria Magdalena",
+  "feier": "Messe",
+  "textinitium": "Alleluia",
+  "bibliographischerverweis": "AH 54, 143",
+  "druckausgabe": "CM III",
+  "zeilenstart": "1",
+  "foliostart": "9",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "10a",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

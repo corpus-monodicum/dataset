@@ -1,0 +1,41 @@
+{
+  "id": "80d523ef-eb95-405e-aa9b-762c6146e667",
+  "quelle_id": "MüU 156",
+  "dokumenten_id": "MüU 156-167v-7",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Octava Epiphaniae",
+  "feier": "Messe",
+  "textinitium": "Laetabundus exsultet",
+  "bibliographischerverweis": "AH 54, 2",
+  "druckausgabe": "",
+  "zeilenstart": "7",
+  "foliostart": "167v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Gionata Brusa",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "168",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "-",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

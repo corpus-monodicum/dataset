@@ -1,0 +1,41 @@
+{
+  "id": "e1961b48-f360-4a8e-9343-fc913d6f5a12",
+  "quelle_id": "Ass 695",
+  "dokumenten_id": "Ass 695-95-10",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Sancti",
+  "feier": "Messe",
+  "textinitium": "Christo inclita",
+  "bibliographischerverweis": "AH 7, 118; AH 53, 115",
+  "druckausgabe": "CM III",
+  "zeilenstart": "10",
+  "foliostart": "95",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "96v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Eia turma",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

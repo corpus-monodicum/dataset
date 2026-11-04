@@ -1,0 +1,41 @@
+{
+  "id": "3fd6a676-7c34-4073-ad7a-e724b1204987",
+  "quelle_id": "Mel 109",
+  "dokumenten_id": "Mel 109-157-1II",
+  "gattung1": "Gloria",
+  "gattung2": "tropiert",
+  "festtag": "Beata Maria virgo",
+  "feier": "Messe",
+  "textinitium": "Spiritus et alme",
+  "bibliographischerverweis": "CT XII, 94: 1 2 3 4 5 6",
+  "druckausgabe": "",
+  "zeilenstart": "1",
+  "foliostart": "157",
+  "kommentar": "Nach Korrektur",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "157",
+    "Startposition": "II",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "Bosse 23",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509502",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

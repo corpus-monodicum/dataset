@@ -1,0 +1,41 @@
+{
+  "id": "1bd5312f-261f-45c9-8873-b665ab70641a",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-289v-b-2a",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Arnulfus",
+  "feier": "Messe",
+  "textinitium": "Hic sanctus*",
+  "bibliographischerverweis": "AH 55, 37 (ab 21)",
+  "druckausgabe": "CM III",
+  "zeilenstart": "2",
+  "foliostart": "289v-b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "289v-b",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

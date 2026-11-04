@@ -1,0 +1,41 @@
+{
+  "id": "a1fb0190-ff70-4f3c-8371-3dc595d60d8d",
+  "quelle_id": "MüU 156",
+  "dokumenten_id": "MüU 156-253-14",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Omnes sancti",
+  "feier": "Messe",
+  "textinitium": "Sollemnitatem venerandam",
+  "bibliographischerverweis": "Gaudeamus intr 1 A (CT X)",
+  "druckausgabe": "II-2",
+  "zeilenstart": "14",
+  "foliostart": "253",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "MüU 156-24v-11",
+    "Endseite": "253",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "16",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Gaudeamus intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

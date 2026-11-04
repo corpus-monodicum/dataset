@@ -1,0 +1,41 @@
+{
+  "id": "167db9fc-bdda-4489-a5c8-daf3a9e33dec",
+  "quelle_id": "Tri 2254",
+  "dokumenten_id": "Tri 2254-334-7",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Nicolaus",
+  "feier": "Messe",
+  "textinitium": "Gratiarum actio",
+  "bibliographischerverweis": "AH deest",
+  "druckausgabe": "",
+  "zeilenstart": "7",
+  "foliostart": "334",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "337",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Symphonia",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

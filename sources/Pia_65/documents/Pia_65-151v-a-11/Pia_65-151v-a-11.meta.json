@@ -1,0 +1,41 @@
+{
+  "id": "cbd149a6-e37a-4469-970d-bf14d8960211",
+  "quelle_id": "Pia 65",
+  "dokumenten_id": "Pia 65-151v-a-11",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Dominica I adventus",
+  "feier": "Messe",
+  "textinitium": "Ad te levavi",
+  "bibliographischerverweis": "AMS 1",
+  "druckausgabe": "II-4",
+  "zeilenstart": "11",
+  "foliostart": "151v-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "151v-b",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

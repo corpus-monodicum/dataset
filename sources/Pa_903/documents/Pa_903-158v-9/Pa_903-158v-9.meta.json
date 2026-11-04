@@ -1,0 +1,41 @@
+{
+  "id": "62bec298-69d4-440c-826f-78a0d47d73b1",
+  "quelle_id": "Pa 903",
+  "dokumenten_id": "Pa 903-158v-9",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Assumptio Mariae",
+  "feier": "Messe",
+  "textinitium": "Fulget nempe dies",
+  "bibliographischerverweis": "Gaud 49a A 50 B 51 C 103 D 52b E 27 F G [mel I F] 28 H [mel I D] 100 A (CT IX)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "9",
+  "foliostart": "158v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "Gaudeamus)",
+    "Endseite": "159",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

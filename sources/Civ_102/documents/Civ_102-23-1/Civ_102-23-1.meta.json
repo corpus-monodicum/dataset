@@ -1,0 +1,41 @@
+{
+  "id": "f4a97022-c773-446f-bfbf-66b5f4557d0f",
+  "quelle_id": "Civ 102",
+  "dokumenten_id": "Civ 102-23-1",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Responsorium",
+  "festtag": "Dominica in palmis",
+  "feier": "Prozession",
+  "textinitium": "Fratres mei",
+  "bibliographischerverweis": "CAO 6747",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "1",
+  "foliostart": "23",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "23",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Civ 102-23-1S",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Entry into Jerusalem",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

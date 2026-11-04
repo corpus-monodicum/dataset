@@ -1,0 +1,25 @@
+{
+  "id": "La 263",
+  "quellensigle": "La 263",
+  "herkunftsregion": "Quellen französischer Herkunft",
+  "herkunftsort": "Laon",
+  "herkunftsinstitution": "Kathedrale Notre-Dame",
+  "ordenstradition": "",
+  "quellentyp": "Sequentiar-Tropar-Prozessionar, Festoffizien, Liturgische Spiele, Hymnar",
+  "bibliotheksort": "Laon",
+  "bibliothek": "Bibliothèque municipale",
+  "bibliothekssignatur": "Ms. 263",
+  "kommentar": "",
+  "datierung": "12. Jh Ende",
+  "status": "",
+  "jahrhundert": "12.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "La 263",
+  "cantus_century": "12.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "La_263.description.md"
+  }
+}

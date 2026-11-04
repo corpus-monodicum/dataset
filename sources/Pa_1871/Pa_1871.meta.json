@@ -1,0 +1,25 @@
+{
+  "id": "Pa 1871",
+  "quellensigle": "Pa 1871",
+  "herkunftsregion": "Quellen aquitanischer Herkunft",
+  "herkunftsort": "Moissac",
+  "herkunftsinstitution": "Abtei Saint-Pierre",
+  "ordenstradition": "",
+  "quellentyp": "Tropar, Sequentiar, Prosar, Prosular",
+  "bibliotheksort": "Paris",
+  "bibliothek": "Bibliothèque nationale de France",
+  "bibliothekssignatur": "Nouv. acq. lat. 1871",
+  "kommentar": "",
+  "datierung": "11. Jh 2. Hälfte",
+  "status": "",
+  "jahrhundert": "11.",
+  "manifest": "",
+  "foliooffset": "pageNr+9",
+  "publish": "all",
+  "cantus_siglum": "Pa 1871",
+  "cantus_century": "11.",
+  "dataset_external_files": {
+    "beschreibung": "Pa_1871.description.md",
+    "notationsdokumentation": "notation/Pa_1871.notation.md"
+  }
+}

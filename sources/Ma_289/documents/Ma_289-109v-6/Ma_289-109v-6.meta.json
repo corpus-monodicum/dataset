@@ -1,0 +1,41 @@
+{
+  "id": "c3cee363-a1ab-4a6b-9e5b-d1de38ed5010",
+  "quelle_id": "Ma 289",
+  "dokumenten_id": "Ma 289-109v-6",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Sequenz",
+  "festtag": "Epiphania",
+  "feier": "Matutin",
+  "textinitium": "Quam Balaam",
+  "bibliographischerverweis": "vgl. AH 54, 4 (Quem non praevalent, Strophen 6-7)",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "6",
+  "foliostart": "109v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "109v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Ma 289-107-1S",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "Beginn fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Magi play",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

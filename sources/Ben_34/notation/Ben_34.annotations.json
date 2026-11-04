@@ -1,0 +1,1110 @@
+{
+  "type": "cm-manuscript-export",
+  "schemaVersion": 2,
+  "exportedAt": "2026-10-21T12:21:01.968Z",
+  "exportedManuscripts": [
+    "Ben 34"
+  ],
+  "data": {
+    "personalTables": [
+      {
+        "id": "1779272497999",
+        "name": "Ben 34",
+        "source": "Ben 34",
+        "patterns": [],
+        "rows": [
+          {
+            "pattern": "*",
+            "customId": "10",
+            "notes": ""
+          },
+          {
+            "pattern": "*e",
+            "customId": "11",
+            "notes": ""
+          },
+          {
+            "pattern": "*ee",
+            "customId": "12",
+            "notes": ""
+          },
+          {
+            "pattern": "*[ed]",
+            "customId": "13",
+            "notes": ""
+          },
+          {
+            "pattern": "[*d]",
+            "customId": "20",
+            "notes": ""
+          },
+          {
+            "pattern": "[*du]",
+            "customId": "21",
+            "notes": ""
+          },
+          {
+            "pattern": "[*dud]",
+            "customId": "22",
+            "notes": ""
+          },
+          {
+            "pattern": "[*duu]",
+            "customId": "23",
+            "notes": ""
+          },
+          {
+            "pattern": "*dd",
+            "customId": "30",
+            "notes": ""
+          },
+          {
+            "pattern": "*d[du]",
+            "customId": "31",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u]",
+            "customId": "40",
+            "notes": ""
+          },
+          {
+            "pattern": "[*ud]",
+            "customId": "41",
+            "notes": ""
+          },
+          {
+            "pattern": "[*ude]",
+            "customId": "42",
+            "notes": ""
+          },
+          {
+            "pattern": "[*udu]",
+            "customId": "43",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u]dd",
+            "customId": "44",
+            "notes": ""
+          },
+          {
+            "pattern": "[*uu]",
+            "customId": "45",
+            "notes": ""
+          },
+          {
+            "pattern": "[*uud]",
+            "customId": "46",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u]u",
+            "customId": "47",
+            "notes": ""
+          },
+          {
+            "pattern": "*O",
+            "customId": "70",
+            "notes": ""
+          },
+          {
+            "pattern": "[*Od]",
+            "customId": "71",
+            "notes": ""
+          },
+          {
+            "pattern": "[*eO]",
+            "customId": "72",
+            "notes": ""
+          },
+          {
+            "pattern": "[*eOd]",
+            "customId": "73",
+            "notes": ""
+          },
+          {
+            "pattern": "*eO",
+            "customId": "74",
+            "notes": ""
+          },
+          {
+            "pattern": "[*deO]",
+            "customId": "75",
+            "notes": ""
+          },
+          {
+            "pattern": "*Odd",
+            "customId": "76",
+            "notes": ""
+          },
+          {
+            "pattern": "[*deOd]",
+            "customId": "77",
+            "notes": ""
+          },
+          {
+            "pattern": "[*Ou]",
+            "customId": "78",
+            "notes": ""
+          },
+          {
+            "pattern": "[*eL]",
+            "customId": "10+",
+            "notes": ""
+          },
+          {
+            "pattern": "[*dL]",
+            "customId": "10+/20-",
+            "notes": ""
+          },
+          {
+            "pattern": "[*uL]",
+            "customId": "10+/40-",
+            "notes": ""
+          },
+          {
+            "pattern": "*[edL]",
+            "customId": "11+/13-",
+            "notes": ""
+          },
+          {
+            "pattern": "[*ddL]",
+            "customId": "20+",
+            "notes": ""
+          },
+          {
+            "pattern": "[*ueL]",
+            "customId": "40+",
+            "notes": ""
+          },
+          {
+            "pattern": "[*udL]",
+            "customId": "40+/41-",
+            "notes": ""
+          },
+          {
+            "pattern": "[*uuL]",
+            "customId": "40+/45-",
+            "notes": ""
+          },
+          {
+            "pattern": "[*OeL]",
+            "customId": "70+",
+            "notes": ""
+          },
+          {
+            "pattern": "[*OdL]",
+            "customId": "70+/71-",
+            "notes": ""
+          }
+        ],
+        "notes": "Das erste Zeichen einer Gruppe gibt in vielen Fällen die melodische Richtung gegenüber dem vorangehenden Ton an.\n10: 10a nach vorangehendem tieferen Ton, 10b nach vorangehendem höheren Ton, 10c nach vorangehendem gleichen oder tieferen Ton, 10d nach vorangehendem tieferen Ton, 10e richtungsunabhängig für leichte Töne.\n11: 11a nach vorangehendem tieferen Ton, 11b nach vorangehendem gleichen oder höheren Ton.\n13: 13a nach vorangehendem tieferen Ton, 13b nach vorangehendem tieferen Ton.\n20: 20a nach vorangehendem tieferen Ton, 20b nach vorangehendem gleichen oder höheren Ton.\n21: 21a nach vorangehendem tieferen Ton, 21b nach vorangehendem gleichen oder höheren Ton.\n22: 22a nach vorangehendem tieferen Ton, 22b nach vorangehendem gleichen oder höheren Ton.\n23: 23a nach vorangehendem tieferen Ton, 23b nach vorangehendem gleichen oder höheren Ton.\n30: 30a nach vorangehendem tieferen Ton, 30b nach vorangehendem höheren Ton (das erste Zeichenelement sieht aus wie ein Oriscus, die Verwendung in genau dieser Position spricht aber gegen eine Auffassung als Oriscus).\n31: 31a nach vorangehendem tieferen Ton, 31b nach vorangehendem höheren Ton (wie 30b).\n40: 40a ohne Einschränkungen, 40b genaue Bedeutung unbekannt, steht meist vor folgendem höheren Ton.\n70: 70a meist in typischen Oriscus-Positionen (nach gleichem und vor tieferem Ton), 70b nur im Aufstieg (nach tieferem, vor höherem Ton), die Position scheint dem mittleren Element des sanktgaller Salicus zu entsprechen.\n75: 75a nach vorangehendem tieferen Ton, 75b nach vorangehendem gleichen oder höheren Ton.\n77: 77a nach vorangehendem tieferen Ton, 77b nach vorangehendem gleichen oder höheren Ton.\n10+: 10+a nach tieferen, vor gleichem oder tieferem Ton, 10+b in den übrigen Positionen; die Differenzierung zwischen schwächeren und stärkeren Liqueszenzen ist in der Nummerierung nicht berücksichtigt.\n10+/20-: wie 10+.\n40+: wie 40.",
+        "isPublished": true
+      }
+    ],
+    "regions": {
+      "Ben 34_133": [
+        {
+          "id": "r_1779273999351",
+          "name": "Line 4",
+          "points": "59.56,35.42 80.72,35.42 80.72,44.79 59.56,44.79"
+        },
+        {
+          "id": "r_1779278290786",
+          "name": "Line 1",
+          "points": "53.14,10.23 80.20,10.23 80.20,19.96 53.14,19.96"
+        }
+      ],
+      "Ben 34_198r": [
+        {
+          "id": "r_1779274370635",
+          "name": "Line 1",
+          "points": "58.91,74.30 79.46,74.30 79.46,82.42 58.91,82.42"
+        }
+      ],
+      "Ben 34_16v": [
+        {
+          "id": "r_1779274592171",
+          "name": "Line 3",
+          "points": "16.83,78.05 46.14,78.05 46.14,87.61 16.83,87.61"
+        },
+        {
+          "id": "r_1779283179984",
+          "name": "Line 1",
+          "points": "16.87,61.71 47.00,61.71 47.00,70.23 16.87,70.23"
+        }
+      ],
+      "Ben 34_172v": [
+        {
+          "id": "r_1779274959585",
+          "name": "Line 1",
+          "points": "25.27,44.87 48.46,44.87 48.46,53.50 25.27,53.50"
+        }
+      ],
+      "Ben 34_186v": [
+        {
+          "id": "r_1779275031713",
+          "name": "Line 3",
+          "points": "15.35,24.73 45.82,24.73 45.82,33.48 15.35,33.48"
+        }
+      ],
+      "Ben 34_40v": [
+        {
+          "id": "r_1779275283743",
+          "name": "Line 1",
+          "points": "16.01,10.03 42.79,10.03 42.79,19.39 16.01,19.39"
+        }
+      ],
+      "Ben 34_35v": [
+        {
+          "id": "r_1779275624631",
+          "name": "Line 3",
+          "points": "14.05,32.26 44.25,32.26 44.25,41.25 14.05,41.25"
+        },
+        {
+          "id": "r_1779278844292",
+          "name": "Line 2",
+          "points": "13.69,23.50 45.07,23.50 45.07,29.52 13.69,29.52"
+        }
+      ],
+      "Ben 34_20v": [
+        {
+          "id": "r_1779276085645",
+          "name": "Line 1",
+          "points": "20.28,27.59 46.21,27.59 46.21,35.33 20.28,35.33"
+        }
+      ],
+      "Ben 34_122v": [
+        {
+          "id": "r_1779276302874",
+          "name": "Line 5",
+          "points": "19.18,52.42 48.19,52.42 48.19,59.81 19.18,59.81"
+        },
+        {
+          "id": "r_1779284571585",
+          "name": "Line 3",
+          "points": "19.11,26.95 48.75,26.95 48.75,35.55 19.11,35.55"
+        }
+      ],
+      "Ben 34_198v": [
+        {
+          "id": "r_1779276790534",
+          "name": "Line 2",
+          "points": "20.19,18.74 48.41,18.74 48.41,27.49 20.19,27.49"
+        }
+      ],
+      "Ben 34_129r": [
+        {
+          "id": "r_1779277044077",
+          "name": "Line 3",
+          "points": "53.05,38.04 82.42,38.04 82.42,46.30 53.05,46.30"
+        }
+      ],
+      "Ben 34_212v": [
+        {
+          "id": "r_1779277950710",
+          "name": "Line 1",
+          "points": "26.57,84.77 49.03,84.77 49.03,93.45 26.57,93.45"
+        }
+      ],
+      "Ben 34_32v": [
+        {
+          "id": "r_1779278585103",
+          "name": "Line 2",
+          "points": "17.00,19.74 46.64,19.74 46.64,27.27 17.00,27.27"
+        },
+        {
+          "id": "r_1779284926204",
+          "name": "Line 5",
+          "points": "51.94,44.97 82.41,44.97 82.41,52.31 51.94,52.31"
+        }
+      ],
+      "Ben 34_130v": [
+        {
+          "id": "r_1779279060922",
+          "name": "Line 2",
+          "points": "17.06,20.72 47.73,20.72 47.73,28.00 17.06,28.00"
+        }
+      ],
+      "Ben 34_17": [
+        {
+          "id": "r_1779282911851",
+          "name": "Line 7",
+          "points": "51.92,60.57 82.03,60.57 82.03,68.91 51.92,68.91"
+        }
+      ],
+      "Ben 34_238": [
+        {
+          "id": "r_1779283688816",
+          "name": "Line 6",
+          "points": "50.17,58.59 78.98,58.59 78.98,67.24 50.17,67.24"
+        }
+      ],
+      "Ben 34_17v": [
+        {
+          "id": "r_1779284079799",
+          "name": "Line 2",
+          "points": "15.42,17.08 46.41,17.08 46.41,26.68 15.42,26.68"
+        }
+      ],
+      "Ben 34_55v": [
+        {
+          "id": "r_1779284198230",
+          "name": "Line 1",
+          "points": "15.66,9.79 46.03,9.79 46.03,17.45 15.66,17.45"
+        }
+      ],
+      "Ben 34_33": [
+        {
+          "id": "r_1779285253876",
+          "name": "Line 5",
+          "points": "51.97,45.10 82.12,45.10 82.12,52.14 51.97,52.14"
+        }
+      ],
+      "Ben 34_6v": [
+        {
+          "id": "r_1779285715147",
+          "name": "Line 1",
+          "points": "24.58,33.28 46.45,33.28 46.45,43.95 24.58,43.95"
+        }
+      ],
+      "Ben 34_40r": [
+        {
+          "id": "r_1779286621509",
+          "name": "Line 1",
+          "points": "50.86,66.73 79.41,66.73 79.41,76.66 50.86,76.66"
+        }
+      ],
+      "Ben 34_17r": [
+        {
+          "id": "r_bb966a0d-0e64-490f-a9c9-a9829489c8f2",
+          "name": "Line 1",
+          "points": "50.97,9.98 81.22,9.98 81.22,18.18 50.97,18.18",
+          "canvas": {
+            "index": 33,
+            "label": "017v-017r"
+          }
+        }
+      ]
+    },
+    "regionItems": {
+      "r_1779273999351": [
+        {
+          "id": 1779274024910,
+          "pattern": "*[edL]",
+          "points": "74.73,36.49 76.12,36.49 76.12,39.37 74.73,39.37",
+          "linkData": {},
+          "variant": ""
+        },
+        {
+          "id": 1779274062446,
+          "pattern": "[*ud]",
+          "points": "64.24,38.46 65.35,38.46 65.35,42.27 64.24,42.27",
+          "linkData": {},
+          "variant": ""
+        },
+        {
+          "id": 1779274073030,
+          "pattern": "[*ud]",
+          "points": "66.46,37.74 67.50,37.74 67.50,40.27 66.46,40.27",
+          "linkData": {},
+          "variant": ""
+        },
+        {
+          "id": 1779274084054,
+          "pattern": "*ee",
+          "points": "70.45,36.76 71.82,36.76 71.82,37.66 70.45,37.66",
+          "linkData": {},
+          "variant": ""
+        },
+        {
+          "id": 1779274104021,
+          "pattern": "*e",
+          "points": "76.34,36.60 77.19,36.60 77.19,38.43 76.34,38.43",
+          "linkData": {},
+          "variant": "a"
+        }
+      ],
+      "r_1779278290786": [
+        {
+          "id": 1779278306394,
+          "pattern": "[*duu]",
+          "points": "62.11,13.84 63.48,13.84 63.48,16.70 62.11,16.70",
+          "linkData": {},
+          "variant": "a"
+        },
+        {
+          "id": 1779278322593,
+          "pattern": "*dd",
+          "points": "60.27,14.53 61.32,14.53 61.32,17.56 60.27,17.56",
+          "linkData": {},
+          "variant": "b"
+        }
+      ],
+      "r_1779274370635": [
+        {
+          "id": 1779274389635,
+          "pattern": "[*udL]",
+          "points": "67.27,75.53 68.27,75.53 68.27,77.54 67.27,77.54",
+          "linkData": {},
+          "variant": ""
+        },
+        {
+          "id": 1779274416587,
+          "pattern": "[*dL]",
+          "points": "76.33,75.92 77.25,75.92 77.25,77.44 76.33,77.44",
+          "linkData": {},
+          "variant": "b"
+        },
+        {
+          "id": 1779274430234,
+          "pattern": "[*uL]",
+          "points": "62.90,78.74 63.86,78.74 63.86,80.47 62.90,80.47",
+          "linkData": {},
+          "variant": ""
+        }
+      ],
+      "r_1779274592171": [
+        {
+          "id": 1779274605890,
+          "pattern": "[*ddL]",
+          "points": "24.10,80.01 25.16,80.01 25.16,82.85 24.10,82.85",
+          "linkData": {},
+          "variant": ""
+        },
+        {
+          "id": 1779274751449,
+          "pattern": "*",
+          "points": "25.39,80.23 25.90,80.23 25.90,81.97 25.39,81.97",
+          "linkData": {},
+          "variant": "a"
+        },
+        {
+          "id": 1779274763073,
+          "pattern": "*",
+          "points": "19.92,84.29 20.46,84.29 20.46,85.49 19.92,85.49",
+          "linkData": {},
+          "variant": "b"
+        },
+        {
+          "id": 1779274781681,
+          "pattern": "*",
+          "points": "32.13,78.74 32.86,78.74 32.86,79.74 32.13,79.74",
+          "linkData": {},
+          "variant": "c"
+        },
+        {
+          "id": 1779274791929,
+          "pattern": "*",
+          "points": "37.51,81.72 38.50,81.72 38.50,83.59 37.51,83.59",
+          "linkData": {},
+          "variant": "d"
+        },
+        {
+          "id": 1779275823665,
+          "pattern": "*dd",
+          "points": "39.94,79.64 41.03,79.64 41.03,83.66 39.94,83.66",
+          "linkData": {},
+          "variant": "b"
+        }
+      ],
+      "r_1779283179984": [
+        {
+          "id": 1779283191657,
+          "pattern": "[*uL]",
+          "points": "33.37,62.02 36.12,62.02 36.12,66.08 33.37,66.08",
+          "linkData": {},
+          "variant": ""
+        },
+        {
+          "id": 1779283198136,
+          "pattern": "[*uL]",
+          "points": "19.70,65.47 20.94,65.47 20.94,67.40 19.70,67.40",
+          "linkData": {},
+          "variant": ""
+        },
+        {
+          "id": 1779283210688,
+          "pattern": "[*u]dd",
+          "points": "28.70,63.23 29.76,63.23 29.76,68.05 28.70,68.05",
+          "linkData": {},
+          "variant": "a"
+        },
+        {
+          "id": 1779283230400,
+          "pattern": "[*deO]",
+          "points": "27.45,62.25 28.57,62.25 28.57,64.03 27.45,64.03",
+          "linkData": {},
+          "variant": "b"
+        },
+        {
+          "id": 1779283262031,
+          "pattern": "[*uud]",
+          "points": "42.50,62.47 44.16,62.47 44.16,66.11 42.50,66.11",
+          "linkData": {},
+          "variant": ""
+        }
+      ],
+      "r_1779275031713": [
+        {
+          "id": 1779275067633,
+          "pattern": "[*deOd]",
+          "points": "17.11,26.96 18.55,26.96 18.55,29.99 17.11,29.99",
+          "linkData": {},
+          "variant": "b"
+        },
+        {
+          "id": 1779275097297,
+          "pattern": "[*d]",
+          "points": "32.24,26.19 33.16,26.19 33.16,29.07 32.24,29.07",
+          "linkData": {},
+          "variant": "a"
+        },
+        {
+          "id": 1779275122951,
+          "pattern": "[*d]",
+          "points": "35.68,27.31 36.60,27.31 36.60,29.22 35.68,29.22",
+          "linkData": {},
+          "variant": "b"
+        },
+        {
+          "id": 1779275147439,
+          "pattern": "[*u]",
+          "points": "34.66,27.19 35.29,27.19 35.29,31.14 34.66,31.14",
+          "linkData": {},
+          "variant": "a"
+        },
+        {
+          "id": 1779275160008,
+          "pattern": "[*u]",
+          "points": "18.84,28.26 20.18,28.26 20.18,30.07 18.84,30.07",
+          "linkData": {},
+          "variant": "b"
+        },
+        {
+          "id": 1779275178655,
+          "pattern": "*e",
+          "points": "28.96,26.04 29.88,26.04 29.88,28.19 28.96,28.19",
+          "linkData": {},
+          "variant": "a"
+        }
+      ],
+      "r_1779275283743": [
+        {
+          "id": 1779275297983,
+          "pattern": "[*duu]",
+          "points": "25.19,12.70 26.79,12.70 26.79,15.65 25.19,15.65",
+          "linkData": {},
+          "variant": "b"
+        },
+        {
+          "id": 1779275346087,
+          "pattern": "[*dud]",
+          "points": "38.34,11.20 39.86,11.20 39.86,13.06 38.34,13.06",
+          "linkData": {},
+          "variant": "a"
+        },
+        {
+          "id": 1779275361983,
+          "pattern": "[*ud]",
+          "points": "40.64,11.95 41.86,11.95 41.86,13.98 40.64,13.98",
+          "linkData": {},
+          "variant": ""
+        },
+        {
+          "id": 1779275419343,
+          "pattern": "[*uud]",
+          "points": "28.94,14.45 30.56,14.45 30.56,17.55 28.94,17.55",
+          "linkData": {},
+          "variant": ""
+        },
+        {
+          "id": 1779275523462,
+          "pattern": "[*uuL]",
+          "points": "33.32,10.64 35.61,10.64 35.61,15.39 33.32,15.39",
+          "linkData": {},
+          "variant": ""
+        }
+      ],
+      "r_1779275624631": [
+        {
+          "id": 1779275639158,
+          "pattern": "*Odd",
+          "points": "25.26,35.19 26.24,35.19 26.24,38.46 25.26,38.46",
+          "linkData": {},
+          "variant": ""
+        },
+        {
+          "id": 1779275653302,
+          "pattern": "*d[du]",
+          "points": "19.90,33.98 21.43,33.98 21.43,37.32 19.90,37.32",
+          "linkData": {},
+          "variant": "b"
+        },
+        {
+          "id": 1779275670998,
+          "pattern": "[*uu]",
+          "points": "42.15,32.84 43.32,32.84 43.32,35.61 42.15,35.61",
+          "linkData": {},
+          "variant": ""
+        }
+      ],
+      "r_1779278844292": [
+        {
+          "id": 1779278860331,
+          "pattern": "[*Od]",
+          "points": "28.57,25.56 29.55,25.56 29.55,28.36 28.57,28.36",
+          "linkData": {},
+          "variant": ""
+        },
+        {
+          "id": 1779278875315,
+          "pattern": "[*du]",
+          "points": "30.22,26.35 31.71,26.35 31.71,29.47 30.22,29.47",
+          "linkData": {},
+          "variant": "a"
+        },
+        {
+          "id": 1779278889037,
+          "pattern": "[*du]",
+          "points": "41.87,25.44 42.89,25.44 42.89,28.17 41.87,28.17",
+          "linkData": {},
+          "variant": "b"
+        },
+        {
+          "id": 1779278958307,
+          "pattern": "[*eL]",
+          "points": "34.92,27.22 35.98,27.22 35.98,28.76 34.92,28.76",
+          "linkData": {},
+          "variant": "b"
+        },
+        {
+          "id": 1779278962307,
+          "pattern": "[*eL]",
+          "points": "39.49,25.95 40.43,25.95 40.43,27.46 39.49,27.46",
+          "linkData": {},
+          "variant": "b"
+        },
+        {
+          "id": 1779278973475,
+          "pattern": "*Odd",
+          "points": "18.17,24.41 19.36,24.41 19.36,28.68 18.17,28.68",
+          "linkData": {},
+          "variant": ""
+        },
+        {
+          "id": 1779278991379,
+          "pattern": "[*OeL]",
+          "points": "22.60,24.26 23.74,24.26 23.74,25.32 22.60,25.32",
+          "linkData": {},
+          "variant": ""
+        }
+      ],
+      "r_1779276085645": [
+        {
+          "id": 1779276146187,
+          "pattern": "[*eL]",
+          "points": "22.53,32.78 23.38,32.78 23.38,34.32 22.53,34.32",
+          "linkData": {},
+          "variant": "b"
+        },
+        {
+          "id": 1779276171388,
+          "pattern": "*dd",
+          "points": "33.21,30.70 34.16,30.70 34.16,33.63 33.21,33.63",
+          "linkData": {},
+          "variant": "b"
+        },
+        {
+          "id": 1779276184027,
+          "pattern": "*dd",
+          "points": "41.44,27.66 42.67,27.66 42.67,30.47 41.44,30.47",
+          "linkData": {},
+          "variant": "a"
+        }
+      ],
+      "r_1779276302874": [
+        {
+          "id": 1779276317050,
+          "pattern": "*d[du]",
+          "points": "39.86,53.30 41.61,53.30 41.61,57.32 39.86,57.32",
+          "linkData": {},
+          "variant": "a"
+        },
+        {
+          "id": 1779276466417,
+          "pattern": "[*eL]",
+          "points": "45.85,53.41 46.73,53.41 46.73,55.49 45.85,55.49",
+          "linkData": {},
+          "variant": "a"
+        },
+        {
+          "id": 1779276476561,
+          "pattern": "[*eL]",
+          "points": "44.73,54.32 45.38,54.32 45.38,55.57 44.73,55.57",
+          "linkData": {},
+          "variant": "b"
+        },
+        {
+          "id": 1779276509144,
+          "pattern": "*[ed]",
+          "points": "26.50,55.24 27.75,55.24 27.75,56.99 26.50,56.99",
+          "linkData": {},
+          "variant": "b"
+        }
+      ],
+      "r_1779284571585": [
+        {
+          "id": 1779284595313,
+          "pattern": "[*ueL]",
+          "points": "36.39,28.00 37.48,28.00 37.48,32.81 36.39,32.81",
+          "linkData": {},
+          "variant": "a"
+        },
+        {
+          "id": 1779284699510,
+          "pattern": "[*dL]",
+          "points": "23.04,30.50 23.98,30.50 23.98,32.55 23.04,32.55",
+          "linkData": {},
+          "variant": "a"
+        },
+        {
+          "id": 1779284707174,
+          "pattern": "[*eL]",
+          "points": "28.63,28.93 29.60,28.93 29.60,31.06 28.63,31.06",
+          "linkData": {},
+          "variant": "a"
+        }
+      ],
+      "r_1779276790534": [
+        {
+          "id": 1779276804847,
+          "pattern": "[*du]",
+          "points": "29.59,20.31 30.76,20.31 30.76,23.18 29.59,23.18",
+          "linkData": {},
+          "variant": "a"
+        },
+        {
+          "id": 1779276819855,
+          "pattern": "[*du]",
+          "points": "27.67,22.30 28.94,22.30 28.94,24.25 27.67,24.25",
+          "linkData": {},
+          "variant": "b"
+        },
+        {
+          "id": 1779276839214,
+          "pattern": "[*deOd]",
+          "points": "39.92,19.03 41.54,19.03 41.54,22.97 39.92,22.97",
+          "linkData": {},
+          "variant": "a"
+        }
+      ],
+      "r_1779277044077": [
+        {
+          "id": 1779277063406,
+          "pattern": "[*dud]",
+          "points": "59.07,39.30 60.43,39.30 60.43,41.89 59.07,41.89",
+          "linkData": {},
+          "variant": "b"
+        },
+        {
+          "id": 1779277154052,
+          "pattern": "*",
+          "points": "70.24,41.19 71.05,41.19 71.05,43.11 70.24,43.11",
+          "linkData": {},
+          "variant": "e"
+        },
+        {
+          "id": 1779277168964,
+          "pattern": "*",
+          "points": "71.79,39.12 72.54,39.12 72.54,41.30 71.79,41.30",
+          "linkData": {},
+          "variant": "a"
+        },
+        {
+          "id": 1779277206381,
+          "pattern": "*",
+          "points": "69.11,42.11 69.97,42.11 69.97,42.85 69.11,42.85",
+          "linkData": {},
+          "variant": "c"
+        },
+        {
+          "id": 1779277268676,
+          "pattern": "*",
+          "points": "60.28,42.15 60.99,42.15 60.99,43.11 60.28,43.11",
+          "linkData": {},
+          "variant": "b"
+        }
+      ],
+      "r_1779277950710": [
+        {
+          "id": 1779277964718,
+          "pattern": "[*udu]",
+          "points": "29.74,86.53 31.27,86.53 31.27,90.31 29.74,90.31",
+          "linkData": {},
+          "variant": ""
+        },
+        {
+          "id": 1779277977189,
+          "pattern": "[*dud]",
+          "points": "42.58,85.99 43.97,85.99 43.97,89.81 42.58,89.81",
+          "linkData": {},
+          "variant": "b"
+        },
+        {
+          "id": 1779277995525,
+          "pattern": "*ee",
+          "points": "37.84,86.16 39.37,86.16 39.37,87.23 37.84,87.23",
+          "linkData": {},
+          "variant": ""
+        }
+      ],
+      "r_1779278585103": [
+        {
+          "id": 1779278598694,
+          "pattern": "*O",
+          "points": "21.62,22.32 22.41,22.32 22.41,23.07 21.62,23.07",
+          "linkData": {},
+          "variant": "a"
+        },
+        {
+          "id": 1779278616974,
+          "pattern": "[*OeL]",
+          "points": "23.61,23.33 24.68,23.33 24.68,24.33 23.61,24.33",
+          "linkData": {},
+          "variant": ""
+        },
+        {
+          "id": 1779278637630,
+          "pattern": "[*eO]",
+          "points": "42.21,23.07 43.54,23.07 43.54,24.00 42.21,24.00",
+          "linkData": {},
+          "variant": ""
+        }
+      ],
+      "r_1779284926204": [],
+      "r_1779279060922": [
+        {
+          "id": 1779279164737,
+          "pattern": "[*eOd]",
+          "points": "20.02,23.23 20.94,23.23 20.94,25.13 20.02,25.13",
+          "linkData": {},
+          "variant": ""
+        },
+        {
+          "id": 1779279183129,
+          "pattern": "*O",
+          "points": "22.42,22.12 23.29,22.12 23.29,22.96 22.42,22.96",
+          "linkData": {},
+          "variant": "b"
+        }
+      ],
+      "r_1779282911851": [
+        {
+          "id": 1779282928547,
+          "pattern": "[*OdL]",
+          "points": "77.22,61.79 78.72,61.79 78.72,65.39 77.22,65.39",
+          "linkData": {},
+          "variant": ""
+        },
+        {
+          "id": 1779282949214,
+          "pattern": "[*eL]",
+          "points": "64.28,62.13 65.22,62.13 65.22,64.10 64.28,64.10",
+          "linkData": {},
+          "variant": "a"
+        }
+      ],
+      "r_1779283688816": [
+        {
+          "id": 1779283716392,
+          "pattern": "[*Ou]",
+          "points": "59.32,61.60 60.02,61.60 60.02,63.78 59.32,63.78",
+          "linkData": {},
+          "variant": ""
+        },
+        {
+          "id": 1779283746503,
+          "pattern": "[*du]",
+          "points": "72.05,59.97 73.19,59.97 73.19,62.40 72.05,62.40",
+          "linkData": {},
+          "variant": "b"
+        }
+      ],
+      "r_1779284079799": [
+        {
+          "id": 1779284100302,
+          "pattern": "[*ueL]",
+          "points": "33.03,19.58 34.58,19.58 34.58,21.61 33.03,21.61",
+          "linkData": {},
+          "variant": "b"
+        },
+        {
+          "id": 1779284116278,
+          "pattern": "*O",
+          "points": "43.46,20.01 44.37,20.01 44.37,21.45 43.46,21.45",
+          "linkData": {},
+          "variant": "b"
+        },
+        {
+          "id": 1779284136806,
+          "pattern": "[*u]dd",
+          "points": "21.66,18.22 23.00,18.22 23.00,21.30 21.66,21.30",
+          "linkData": {},
+          "variant": "b"
+        }
+      ],
+      "r_1779284198230": [
+        {
+          "id": 1779284214214,
+          "pattern": "[*ueL]",
+          "points": "40.81,10.10 41.88,10.10 41.88,14.88 40.81,14.88",
+          "linkData": {},
+          "variant": "a"
+        },
+        {
+          "id": 1779284225343,
+          "pattern": "[*ddL]",
+          "points": "26.56,9.95 27.95,9.95 27.95,12.89 26.56,12.89",
+          "linkData": {},
+          "variant": ""
+        },
+        {
+          "id": 1779284247301,
+          "pattern": "[*deO]",
+          "points": "35.87,12.01 37.28,12.01 37.28,13.85 35.87,13.85",
+          "linkData": {},
+          "variant": "a"
+        },
+        {
+          "id": 1779284264429,
+          "pattern": "[*ud]",
+          "points": "28.13,10.06 29.23,10.06 29.23,14.80 28.13,14.80",
+          "linkData": {},
+          "variant": ""
+        }
+      ],
+      "r_1779285253876": [
+        {
+          "id": 1779285265900,
+          "pattern": "*eO",
+          "points": "69.31,48.90 70.45,48.90 70.45,50.61 69.31,50.61",
+          "linkData": {},
+          "variant": ""
+        },
+        {
+          "id": 1779285283619,
+          "pattern": "[*u]",
+          "points": "76.11,45.75 76.94,45.75 76.94,47.50 76.11,47.50",
+          "linkData": {},
+          "variant": "a"
+        },
+        {
+          "id": 1779285292811,
+          "pattern": "[*u]",
+          "points": "73.93,49.09 75.17,49.09 75.17,50.53 73.93,50.53",
+          "linkData": {},
+          "variant": "b"
+        },
+        {
+          "id": 1779285308131,
+          "pattern": "*O",
+          "points": "57.06,49.01 57.84,49.01 57.84,49.89 57.06,49.89",
+          "linkData": {},
+          "variant": "a"
+        }
+      ],
+      "r_1779285715147": [
+        {
+          "id": 1779285733187,
+          "pattern": "*[ed]",
+          "points": "38.72,34.58 39.83,34.58 39.83,37.44 38.72,37.44",
+          "linkData": {},
+          "variant": "a"
+        },
+        {
+          "id": 1779285768610,
+          "pattern": "*[ed]",
+          "points": "28.76,35.24 29.96,35.24 29.96,37.47 28.76,37.47",
+          "linkData": {},
+          "variant": "b"
+        },
+        {
+          "id": 1779285884994,
+          "pattern": "[*u]u",
+          "points": "26.48,36.06 27.16,36.06 27.16,42.01 26.48,42.01",
+          "linkData": {},
+          "variant": ""
+        }
+      ],
+      "r_1779286621509": [
+        {
+          "id": 1779286634133,
+          "pattern": "*e",
+          "points": "75.02,70.47 76.08,70.47 76.08,71.84 75.02,71.84",
+          "linkData": {},
+          "variant": "b"
+        },
+        {
+          "id": 1779286875633,
+          "pattern": "[*ude]",
+          "points": "76.45,69.72 77.82,69.72 77.82,71.94 76.45,71.94",
+          "linkData": {},
+          "variant": ""
+        }
+      ],
+      "r_bb966a0d-0e64-490f-a9c9-a9829489c8f2": [
+        {
+          "id": "i_b17c51fb-5304-4fa0-b0a1-754f8fb8c0a7",
+          "pattern": "*",
+          "points": "74.72,11.13 75.35,11.13 75.35,12.95 74.72,12.95",
+          "linkData": {
+            "sysId": "Ben 34-17-1|17r|1|Gra-|B4"
+          },
+          "variant": "a"
+        },
+        {
+          "id": "i_9bc6c231-71b2-45f6-b6e7-6dc7ead785ce",
+          "pattern": "[*d]",
+          "points": "75.89,12.24 76.83,12.24 76.83,15.13 75.89,15.13",
+          "linkData": {
+            "sysId": "Ben 34-17-1|17r|1|ti-|A4-F4"
+          },
+          "variant": "b"
+        },
+        {
+          "id": "i_7c5d6e32-e9fc-45ab-be87-b04c76f934c9",
+          "pattern": "*",
+          "points": "69.23,11.29 70.07,11.29 70.07,12.00 69.23,12.00",
+          "linkData": {
+            "sysId": "Ben 34-17-1|17r|1|mus|B4"
+          },
+          "variant": "b"
+        },
+        {
+          "id": "i_fdad0923-c6a2-43e9-97da-84d4bc00c746",
+          "pattern": "*",
+          "points": "66.50,12.60 67.18,12.60 67.18,13.35 66.50,13.35",
+          "linkData": {
+            "sysId": "Ben 34-17-1|17r|1|ri-|A4"
+          },
+          "variant": "c"
+        },
+        {
+          "id": "i_f340c3da-93fc-46b8-a92b-1c137f4cf638",
+          "pattern": "*",
+          "points": "65.58,13.66 66.20,13.66 66.20,14.38 65.58,14.38",
+          "linkData": {
+            "sysId": "Ben 34-17-1|17r|1|Glo-|G4"
+          },
+          "variant": "c"
+        }
+      ]
+    },
+    "manualLines": {},
+    "iiifLinks": {
+      "Ben 34": "https://iiif.diamm.net/manifests/I-BV-34/manifest.json"
+    }
+  }
+}

@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sol 596: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Edition (Spiele)</resp>
+          <persName>Elaine Stratton Hild</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="Sol_596">
+          <msIdentifier>
+            <settlement>Solesmes</settlement>
+            <repository>Abbaye Saint-Pierre</repository>
+            <idno type="shelfmark">Atelier de Pal. mus. No. 596</idno>
+            <altIdentifier type="siglum">
+              <idno>Sol 596</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>Sol 596</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <term type="quellentyp">Prozessionar mit liturgischen Spielen</term>
+            </summary>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="109">f. 109</locus>
+              <title type="incipit">Salve festa dies</title>
+              <idno type="dokumenten_id">Sol 596-109-3</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="109v">f. 109v</locus>
+              <title type="incipit">Sedit angelus</title>
+              <idno type="dokumenten_id">Sol 596-109v-11</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="110">f. 110</locus>
+              <title type="incipit">Veni sancte spiritus</title>
+              <idno type="dokumenten_id">Sol 596-110-12</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="110">f. 110</locus>
+              <title type="incipit">Surrexit dominus de sepulchro*</title>
+              <idno type="dokumenten_id">Sol 596-110-5</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="110">f. 110</locus>
+              <title type="incipit">Ascendit deus*</title>
+              <idno type="dokumenten_id">Sol 596-110-6a</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="110">f. 110</locus>
+              <title type="incipit">Emitte spiritum*</title>
+              <idno type="dokumenten_id">Sol 596-110-6b</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="110">f. 110</locus>
+              <title type="incipit">Deus qui nos resurrectionis</title>
+              <idno type="dokumenten_id">Sol 596-110-7</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="110v">f. 110v</locus>
+              <title type="incipit">Loquebantur variis*</title>
+              <idno type="dokumenten_id">Sol 596-110v-10</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="110v">f. 110v</locus>
+              <title type="incipit">Deus qui hodierna</title>
+              <idno type="dokumenten_id">Sol 596-110v-11</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="110v">f. 110v</locus>
+              <title type="incipit">Credo in unum deum</title>
+              <idno type="dokumenten_id">Sol 596-110v-15</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="110v">f. 110v</locus>
+              <title type="incipit">Veni creator spiritus*</title>
+              <idno type="dokumenten_id">Sol 596-110v-2</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="110v">f. 110v</locus>
+              <title type="incipit">Accipite spiritum sanctum</title>
+              <idno type="dokumenten_id">Sol 596-110v-5</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="112v">f. 112v</locus>
+              <title type="incipit">Ite in orbem</title>
+              <idno type="dokumenten_id">Sol 596-112v-4</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="113">f. 113</locus>
+              <title type="incipit">Surrexit dominus de sepulchro*</title>
+              <idno type="dokumenten_id">Sol 596-113-1a</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="113">f. 113</locus>
+              <title type="incipit">Dicite in nationibus*</title>
+              <idno type="dokumenten_id">Sol 596-113-1b</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="113">f. 113</locus>
+              <title type="incipit">Deus qui pro nobis</title>
+              <idno type="dokumenten_id">Sol 596-113-1c</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="113">f. 113</locus>
+              <title type="incipit">Ego sum alpha</title>
+              <idno type="dokumenten_id">Sol 596-113-2</idno>
+            </msItem>
+            <msItem n="18">
+              <locus from="113">f. 113</locus>
+              <idno type="dokumenten_id">Sol 596-113-3</idno>
+            </msItem>
+            <msItem n="19">
+              <locus from="113">f. 113</locus>
+              <title type="incipit">Auge in nobis</title>
+              <idno type="dokumenten_id">Sol 596-113-4</idno>
+            </msItem>
+            <msItem n="20">
+              <locus from="27">f. 27</locus>
+              <title type="incipit">Mediator dei et hominum*</title>
+              <idno type="dokumenten_id">Sol 596-27-11</idno>
+            </msItem>
+            <msItem n="21">
+              <locus from="27">f. 27</locus>
+              <title type="incipit">Fratres hoc enim</title>
+              <idno type="dokumenten_id">Sol 596-27-14</idno>
+            </msItem>
+            <msItem n="22">
+              <locus from="27">f. 27</locus>
+              <title type="incipit">Diligebat dominus*</title>
+              <idno type="dokumenten_id">Sol 596-27-9</idno>
+            </msItem>
+            <msItem n="23">
+              <locus from="27v">f. 27v</locus>
+              <title type="incipit">Pueri Hebraeorum tollentes</title>
+              <idno type="dokumenten_id">Sol 596-27v-13</idno>
+            </msItem>
+            <msItem n="24">
+              <locus from="27v">f. 27v</locus>
+              <title type="incipit">In nomine enim</title>
+              <idno type="dokumenten_id">Sol 596-27v-2</idno>
+            </msItem>
+            <msItem n="25">
+              <locus from="28">f. 28</locus>
+              <title type="incipit">Pueri Hebraeorum vestimenta</title>
+              <idno type="dokumenten_id">Sol 596-28-2</idno>
+            </msItem>
+            <msItem n="26">
+              <locus from="28">f. 28</locus>
+              <title type="incipit">Cum appropinquaret</title>
+              <idno type="dokumenten_id">Sol 596-28-6</idno>
+            </msItem>
+            <msItem n="27">
+              <locus from="29">f. 29</locus>
+              <title type="incipit">Ante sex dies</title>
+              <idno type="dokumenten_id">Sol 596-29-4</idno>
+            </msItem>
+            <msItem n="28">
+              <locus from="29v">f. 29v</locus>
+              <title type="incipit">Prima autem azymorum</title>
+              <idno type="dokumenten_id">Sol 596-29v-4</idno>
+            </msItem>
+            <msItem n="29">
+              <locus from="30">f. 30</locus>
+              <title type="incipit">Occurrunt turbae</title>
+              <idno type="dokumenten_id">Sol 596-30-7</idno>
+            </msItem>
+            <msItem n="30">
+              <locus from="30v">f. 30v</locus>
+              <title type="incipit">En rex venit</title>
+              <idno type="dokumenten_id">Sol 596-30v-4</idno>
+            </msItem>
+            <msItem n="31">
+              <locus from="31v">f. 31v</locus>
+              <title type="incipit">Hosanna filio David</title>
+              <idno type="dokumenten_id">Sol 596-31v-10</idno>
+            </msItem>
+            <msItem n="32">
+              <locus from="31v">f. 31v</locus>
+              <title type="incipit">Ave rex noster fili David</title>
+              <idno type="dokumenten_id">Sol 596-31v-17</idno>
+            </msItem>
+            <msItem n="33">
+              <locus from="31v">f. 31v</locus>
+              <title type="incipit">Dignus es domine</title>
+              <idno type="dokumenten_id">Sol 596-31v-8</idno>
+            </msItem>
+            <msItem n="34">
+              <locus from="32">f. 32</locus>
+              <title type="incipit">Coeperunt omnes turbae</title>
+              <idno type="dokumenten_id">Sol 596-32-8</idno>
+            </msItem>
+            <msItem n="35">
+              <locus from="32v">f. 32v</locus>
+              <title type="incipit">Omnes collaudant nomen</title>
+              <idno type="dokumenten_id">Sol 596-32v-5</idno>
+            </msItem>
+            <msItem n="36">
+              <locus from="32v">f. 32v</locus>
+              <title type="incipit">Cum angelis et pueris</title>
+              <idno type="dokumenten_id">Sol 596-32v-8</idno>
+            </msItem>
+            <msItem n="37">
+              <locus from="33">f. 33</locus>
+              <title type="incipit">Cum audisset turba</title>
+              <idno type="dokumenten_id">Sol 596-33-1</idno>
+            </msItem>
+            <msItem n="38">
+              <locus from="33">f. 33</locus>
+              <title type="incipit">Gloria laus et honor</title>
+              <idno type="dokumenten_id">Sol 596-33-13</idno>
+            </msItem>
+            <msItem n="39">
+              <locus from="34">f. 34</locus>
+              <title type="incipit">Ingrediente domino</title>
+              <idno type="dokumenten_id">Sol 596-34-10</idno>
+            </msItem>
+            <msItem n="40">
+              <locus from="34v">f. 34v</locus>
+              <title type="incipit">Collegerunt pontifices</title>
+              <idno type="dokumenten_id">Sol 596-34v-8</idno>
+            </msItem>
+            <msItem n="41">
+              <locus from="35v">f. 35v</locus>
+              <title type="incipit">Principes sacerdotum</title>
+              <idno type="dokumenten_id">Sol 596-35v-3</idno>
+            </msItem>
+            <msItem n="42">
+              <locus from="35v">f. 35v</locus>
+              <title type="incipit">Multa turba Iudaeorum</title>
+              <idno type="dokumenten_id">Sol 596-35v-6</idno>
+            </msItem>
+            <msItem n="43">
+              <locus from="36">f. 36</locus>
+              <title type="incipit">Venite filii Evae</title>
+              <idno type="dokumenten_id">Sol 596-36-4</idno>
+            </msItem>
+            <msItem n="44">
+              <locus from="36v">f. 36v</locus>
+              <title type="incipit">Ave rex noster tu solus</title>
+              <idno type="dokumenten_id">Sol 596-36v-2</idno>
+            </msItem>
+            <msItem n="45">
+              <locus from="49">f. 49</locus>
+              <title type="incipit">Cum rex gloriae</title>
+              <idno type="dokumenten_id">Sol 596-49-4</idno>
+            </msItem>
+            <msItem n="46">
+              <locus from="49v">f. 49v</locus>
+              <title type="incipit">Dum fabricator mundi</title>
+              <idno type="dokumenten_id">Sol 596-49v-6</idno>
+            </msItem>
+            <msItem n="47">
+              <locus from="54v">f. 54v</locus>
+              <title type="incipit">Haec est sancta dies</title>
+              <idno type="dokumenten_id">Sol 596-54v-1</idno>
+            </msItem>
+            <msItem n="48">
+              <locus from="54v">f. 54v</locus>
+              <title type="incipit">Congregavit nos Christus</title>
+              <idno type="dokumenten_id">Sol 596-54v-5</idno>
+            </msItem>
+            <msItem n="49">
+              <locus from="55">f. 55</locus>
+              <title type="incipit">Domum istam protege</title>
+              <idno type="dokumenten_id">Sol 596-55-1</idno>
+            </msItem>
+            <msItem n="50">
+              <locus from="57v">f. 57v</locus>
+              <title type="incipit">Elevamini portae aeternales</title>
+              <idno type="dokumenten_id">Sol 596-57v-5</idno>
+            </msItem>
+            <msItem n="51">
+              <locus from="57v">f. 57v</locus>
+              <title type="incipit">Domine abstraxisti</title>
+              <idno type="dokumenten_id">Sol 596-57v-6</idno>
+            </msItem>
+            <msItem n="52">
+              <locus from="57v">f. 57v</locus>
+              <title type="incipit">Exaltabo te</title>
+              <idno type="dokumenten_id">Sol 596-57v-7</idno>
+            </msItem>
+            <msItem n="53">
+              <locus from="57v">f. 57v</locus>
+              <title type="incipit">Iesu bone tibi</title>
+              <idno type="dokumenten_id">Sol 596-57v-9</idno>
+            </msItem>
+            <msItem n="54">
+              <locus from="58">f. 58</locus>
+              <title type="incipit">Morte tua ius mortis</title>
+              <idno type="dokumenten_id">Sol 596-58-1</idno>
+            </msItem>
+            <msItem n="55">
+              <locus from="58v">f. 58v</locus>
+              <title type="incipit">Christus resurgens</title>
+              <idno type="dokumenten_id">Sol 596-58v-2</idno>
+            </msItem>
+            <msItem n="56">
+              <locus from="59">f. 59</locus>
+              <title type="incipit">Heu nobis internas mentes</title>
+              <idno type="dokumenten_id">Sol 596-59-19</idno>
+            </msItem>
+            <msItem n="57">
+              <locus from="60v">f. 60v</locus>
+              <title type="incipit">Quid est hoc</title>
+              <idno type="dokumenten_id">Sol 596-60v-4</idno>
+            </msItem>
+            <msItem n="58">
+              <locus from="61">f. 61</locus>
+              <title type="incipit">O vos Christicolae</title>
+              <idno type="dokumenten_id">Sol 596-61-3</idno>
+            </msItem>
+            <msItem n="59">
+              <locus from="61v">f. 61v</locus>
+              <title type="incipit">Vultum tristem</title>
+              <idno type="dokumenten_id">Sol 596-61v-11</idno>
+            </msItem>
+            <msItem n="60">
+              <locus from="61v">f. 61v</locus>
+              <title type="incipit">Alleluia resurrexit dominus</title>
+              <idno type="dokumenten_id">Sol 596-61v-18</idno>
+            </msItem>
+            <msItem n="61">
+              <locus from="61v">f. 61v</locus>
+              <title type="incipit">Hodie resurrexit leo fortis</title>
+              <idno type="dokumenten_id">Sol 596-61v-19</idno>
+            </msItem>
+            <msItem n="62">
+              <locus from="61v">f. 61v</locus>
+              <title type="incipit">Venite et videte</title>
+              <idno type="dokumenten_id">Sol 596-61v-3</idno>
+            </msItem>
+            <msItem n="63">
+              <locus from="62">f. 62</locus>
+              <title type="incipit">Adsunt feminae</title>
+              <idno type="dokumenten_id">Sol 596-62-6</idno>
+            </msItem>
+            <msItem n="64">
+              <locus from="64">f. 64</locus>
+              <title type="incipit">Dic nobis Maria</title>
+              <idno type="dokumenten_id">Sol 596-64-3</idno>
+            </msItem>
+            <msItem n="65">
+              <locus from="64v">f. 64v</locus>
+              <title type="incipit">Te deum laudamus*</title>
+              <idno type="dokumenten_id">Sol 596-64v-6</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Wilton</settlement>
+                <region>Quellen englischer Herkunft</region>
+                <orgName>Benediktinerinnenabtei St Edith</orgName>
+              </origPlace>
+              <origDate>13. Jh Ende. Kopie um 1860)</origDate>
+            </origin>
+          </history>
+          <additional>
+            <adminInfo>
+              <note type="description">
+                <ref target="Sol_596.description.md">Source description</ref>
+              </note>
+            </adminInfo>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

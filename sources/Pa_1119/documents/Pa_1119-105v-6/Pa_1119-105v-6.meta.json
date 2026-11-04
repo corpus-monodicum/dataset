@@ -1,0 +1,41 @@
+{
+  "id": "d8af848f-ccda-40cb-815f-c6c172e90d7c",
+  "quelle_id": "Pa 1119",
+  "dokumenten_id": "Pa 1119-105v-6",
+  "gattung1": "Gloria",
+  "gattung2": "tropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Laus tibi domine",
+  "bibliographischerverweis": "CT XII, 36: 1 2 16 17 27 28 29 30 21 31 32 33 5 13 14 22 23 24 34 R11",
+  "druckausgabe": "",
+  "zeilenstart": "6",
+  "foliostart": "105v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "107",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "Bosse 39",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509502",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

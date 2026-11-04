@@ -1,0 +1,41 @@
+{
+  "id": "50853427-13c6-4aef-a7eb-3077735d241d",
+  "quelle_id": "Ben 34",
+  "dokumenten_id": "Ben 34-35v-2",
+  "gattung1": "Agnus",
+  "gattung2": "tropiert",
+  "festtag": "Epiphania",
+  "feier": "Messe",
+  "textinitium": "Rex regum gaudium",
+  "bibliographischerverweis": "CT IV, 63: B C A; CT IV, 50a: A Ia C",
+  "druckausgabe": "",
+  "zeilenstart": "2",
+  "foliostart": "35v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "35v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "Schildbach 236",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509505",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

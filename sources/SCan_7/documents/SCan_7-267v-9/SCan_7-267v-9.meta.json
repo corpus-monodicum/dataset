@@ -1,0 +1,41 @@
+{
+  "id": "ff4fcf92-7bc6-4dd8-905b-770fc15e17f0",
+  "quelle_id": "SCan 7",
+  "dokumenten_id": "SCan 7-267v-9",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Martinus",
+  "feier": "Messe",
+  "textinitium": "Sacerdotem Christi",
+  "bibliographischerverweis": "AH 53, 181",
+  "druckausgabe": "",
+  "zeilenstart": "9",
+  "foliostart": "267v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Gionata Brusa",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "268",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Beatus vir qui timet maior",
+    "Überlieferungszustand": "Abschnitt im Inneren fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

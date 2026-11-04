@@ -1,0 +1,41 @@
+{
+  "id": "7c05a8b0-053e-47ce-bc53-a92e440a6cbd",
+  "quelle_id": "Pa 14452",
+  "dokumenten_id": "Pa 14452-224-11",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Nomen Iesu",
+  "feier": "Messe",
+  "textinitium": "Dulcis Iesus Nazarenus",
+  "bibliographischerverweis": "AH 54, 113",
+  "druckausgabe": "CM III",
+  "zeilenstart": "11",
+  "foliostart": "224",
+  "kommentar": "Nachtrag_6",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "225v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Laetabitur",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "Nachtrag_5",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

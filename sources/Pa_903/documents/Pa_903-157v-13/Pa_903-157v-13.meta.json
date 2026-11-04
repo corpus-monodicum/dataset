@@ -1,0 +1,41 @@
+{
+  "id": "70e20b71-a4c8-4f44-b626-6ea4ef22ab0e",
+  "quelle_id": "Pa 903",
+  "dokumenten_id": "Pa 903-157v-13",
+  "gattung1": "Tropus",
+  "gattung2": "Offertorium-Tropus",
+  "festtag": "Petrus et Paulus",
+  "feier": "Messe",
+  "textinitium": "O pastor egregie nostrorum vincula",
+  "bibliographischerverweis": "Tu es Petrus off 1 A (CT X)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "13",
+  "foliostart": "157v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "Tu es Petrus)",
+    "Endseite": "157v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "14",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Tu es Petrus off",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

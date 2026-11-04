@@ -1,0 +1,41 @@
+{
+  "id": "a66ca9f6-c571-4886-97a1-5742f4c410c1",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-197v-a-19b",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dies III post Dionysium",
+  "feier": "Messe",
+  "textinitium": "Supernae matris*",
+  "bibliographischerverweis": "AH 55, 37",
+  "druckausgabe": "",
+  "zeilenstart": "19",
+  "foliostart": "197v-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "197v-a",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "19",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

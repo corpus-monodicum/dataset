@@ -1,0 +1,41 @@
+{
+  "id": "fd31e4aa-d06d-402f-9ebb-7b7c07247898",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-27v-1",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Vincula Petri",
+  "feier": "Messe",
+  "textinitium": "Petro ad ostium",
+  "bibliographischerverweis": "Nunc scio vere intr 73 A 54 A 55 B 56 C D 13 70 A 71 B 72 C (CT X)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "1",
+  "foliostart": "27v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "(Nunc scio)",
+    "Endseite": "28",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Nunc scio vere intr",
+    "Zusatz_zu_Textinitium": "Teilweise ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

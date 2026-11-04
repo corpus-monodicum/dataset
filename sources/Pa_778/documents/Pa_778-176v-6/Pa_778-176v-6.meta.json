@@ -1,0 +1,41 @@
+{
+  "id": "e2091d31-f4aa-4992-a3df-abb5b5e17837",
+  "quelle_id": "Pa 778",
+  "dokumenten_id": "Pa 778-176v-6",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Assumptio Mariae",
+  "feier": "Messe",
+  "textinitium": "Aurea virga primae",
+  "bibliographischerverweis": "AH 7, 107; AH 53, 106a",
+  "druckausgabe": "",
+  "zeilenstart": "6",
+  "foliostart": "176v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "178",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Hodie Maria virgo",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

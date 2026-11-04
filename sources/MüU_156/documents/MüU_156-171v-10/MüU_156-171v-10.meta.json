@@ -1,0 +1,41 @@
+{
+  "id": "45b75c5b-3ad8-4b97-adb5-78489e5b73d7",
+  "quelle_id": "MüU 156",
+  "dokumenten_id": "MüU 156-171v-10",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Infra octavam Paschae",
+  "feier": "Messe",
+  "textinitium": "Pangamus creatoris",
+  "bibliographischerverweis": "AH 53, 46",
+  "druckausgabe": "",
+  "zeilenstart": "10",
+  "foliostart": "171v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Gionata Brusa",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "172",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "14",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Mater",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

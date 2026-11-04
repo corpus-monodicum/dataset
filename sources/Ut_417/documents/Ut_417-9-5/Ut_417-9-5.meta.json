@@ -1,0 +1,41 @@
+{
+  "id": "d1b60dd9-a26d-4342-9a00-1a28e8c1d101",
+  "quelle_id": "Ut 417",
+  "dokumenten_id": "Ut 417-9-5",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Feria III post Pascha",
+  "feier": "Messe",
+  "textinitium": "Christe domine laetifica",
+  "bibliographischerverweis": "AH 53, 48",
+  "druckausgabe": "",
+  "zeilenstart": "5",
+  "foliostart": "9",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "9",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Obtulerunt",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

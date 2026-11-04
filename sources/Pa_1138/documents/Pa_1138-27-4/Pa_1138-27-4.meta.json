@@ -1,0 +1,41 @@
+{
+  "id": "d7f90914-7536-4f23-9b40-c173c79b7d2b",
+  "quelle_id": "Pa 1138",
+  "dokumenten_id": "Pa 1138-27-4",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Martialis",
+  "feier": "",
+  "textinitium": "Alle sublime",
+  "bibliographischerverweis": "AH 7, 162",
+  "druckausgabe": "",
+  "zeilenstart": "4",
+  "foliostart": "27",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "28",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Alle sublime",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

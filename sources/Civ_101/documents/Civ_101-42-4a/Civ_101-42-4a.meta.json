@@ -1,0 +1,41 @@
+{
+  "id": "bfc180a7-8ee5-4b59-9d9e-046004596bf7",
+  "quelle_id": "Civ 101",
+  "dokumenten_id": "Civ 101-42-4a",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Versikel",
+  "festtag": "Feria IV post Pascha / Feria V post Pascha / Feria VI post Pascha",
+  "feier": "Prozession / Vesper",
+  "textinitium": "",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "4",
+  "foliostart": "42",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "42",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "Civ 101-41v-14S",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "Easter play / Osterspiel",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "c7235df4-6b26-4298-9984-5130d7408d39",
+  "quelle_id": "Mza 11",
+  "dokumenten_id": "Mza 11-112-8",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Iohannes Baptista",
+  "feier": "Messe",
+  "textinitium": "De ventre",
+  "bibliographischerverweis": "AMS 119",
+  "druckausgabe": "II-4",
+  "zeilenstart": "8",
+  "foliostart": "112",
+  "kommentar": "Beispiel für Zeilenzählung",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "112",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

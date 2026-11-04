@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Bar 888: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Ordinariumsgesänge)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="Bar_888">
+        <identifier type="siglum">Bar 888</identifier>
+        <identifier type="cantus">Bar 888</identifier>
+        <titleStmt>
+          <title>Bar 888</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">unbekannt</geogName>
+          <geogName role="origin-region">Quellen aus Ordenstraditionen</geogName>
+          <date>12. Jh – 13. Jh</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="128">f. 128</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Bar 888-128-3</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="128">f. 128</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Bar 888-128-5</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="128">f. 128</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Bar 888-128-8</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="128v">f. 128v</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Bar 888-128v-2</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="129">f. 129</locus>
+            <title type="incipit">Credo in unum deum</title>
+            <identifier type="dokumenten_id">Bar 888-129-6</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="130v">f. 130v</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Bar 888-130v-8</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="131v">f. 131v</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Bar 888-131v-2</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="131v">f. 131v</locus>
+            <title type="incipit">Ite missa est</title>
+            <identifier type="dokumenten_id">Bar 888-131v-5a</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="131v">f. 131v</locus>
+            <title type="incipit">Benedicamus domino</title>
+            <identifier type="dokumenten_id">Bar 888-131v-5b</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="131v">f. 131v</locus>
+            <title type="incipit">Ite missa est</title>
+            <identifier type="dokumenten_id">Bar 888-131v-7</identifier>
+          </contentItem>
+        </contents>
+        <biblList type="catalogue-online">
+          <bibl>Bibliotheksort auch hier Biblioteca de Catalunya? JHS 12.06.21</bibl>
+        </biblList>
+        <notesStmt>
+          <annot type="description">
+            <ref target="Bar_888.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <classification>
+          <termList>
+            <term type="quellentyp">Antiphonar, Kyriale</term>
+            <term type="ordenstradition">Karthäuser</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">M 888</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">Barcelona</geogName>
+                <corpName>Biblioteca Central</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

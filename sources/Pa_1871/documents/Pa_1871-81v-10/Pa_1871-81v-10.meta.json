@@ -1,0 +1,41 @@
+{
+  "id": "c33ebc3a-08c7-43d3-9554-8da3f7e50631",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-81v-10",
+  "gattung1": "Sequenz",
+  "gattung2": "Teiltextiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Carmina laudum suscipe",
+  "bibliographischerverweis": "AH 49, 528",
+  "druckausgabe": "",
+  "zeilenstart": "10",
+  "foliostart": "81v",
+  "kommentar": "Rubrik \"In pascha domini\" offenkundig falsch, richtig wäre \"Pontius\"",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "82",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Fulgens praeclara",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

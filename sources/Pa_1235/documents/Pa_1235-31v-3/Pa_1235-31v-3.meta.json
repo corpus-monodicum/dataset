@@ -1,0 +1,41 @@
+{
+  "id": "0bfca1a4-b35d-4670-a3cc-512b58b7c9e8",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-31v-3",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Fabianus et Sebastianus",
+  "feier": "Messe",
+  "textinitium": "Intret in conspectu",
+  "bibliographischerverweis": "AMS 24",
+  "druckausgabe": "II-1",
+  "zeilenstart": "3",
+  "foliostart": "31v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "31v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

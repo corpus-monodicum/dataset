@@ -1,0 +1,41 @@
+{
+  "id": "74eb3d2b-b2c7-4b45-a3e4-7c224b17de19",
+  "quelle_id": "Ut 417",
+  "dokumenten_id": "Ut 417-45v-10",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Pascha",
+  "feier": "Messe",
+  "textinitium": "Postquam factus",
+  "bibliographischerverweis": "Resurr intr 20 A 25 B 26 C 27 D (CT III)",
+  "druckausgabe": "II-2",
+  "zeilenstart": "10",
+  "foliostart": "45v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "46",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Resurr intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

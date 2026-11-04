@@ -1,0 +1,41 @@
+{
+  "id": "4b7b6144-8f8b-43d3-8620-6e285d82b82a",
+  "quelle_id": "Pa 778",
+  "dokumenten_id": "Pa 778-125-2",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Martialis",
+  "feier": "Messe",
+  "textinitium": "Alle sublime",
+  "bibliographischerverweis": "AH 7, 162",
+  "druckausgabe": "",
+  "zeilenstart": "2",
+  "foliostart": "125",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "125v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Alle sublime",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

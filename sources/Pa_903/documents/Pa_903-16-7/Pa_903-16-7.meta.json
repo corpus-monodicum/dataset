@@ -1,0 +1,41 @@
+{
+  "id": "6f8d56d3-5ec6-4f1b-be15-285d93d02d97",
+  "quelle_id": "Pa 903",
+  "dokumenten_id": "Pa 903-16-7",
+  "gattung1": "Antiphon",
+  "gattung2": "Offertorium",
+  "festtag": "Epiphania",
+  "feier": "Messe",
+  "textinitium": "Reges Tharsis",
+  "bibliographischerverweis": "AMS 18",
+  "druckausgabe": "II-3",
+  "zeilenstart": "7",
+  "foliostart": "16",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "16v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

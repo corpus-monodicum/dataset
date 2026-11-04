@@ -1,0 +1,41 @@
+{
+  "id": "7ebbb221-8592-46b4-aca4-bb46d57f54dd",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-131v-10",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Infra octavam Paschae",
+  "feier": "",
+  "textinitium": "Ecce vicit radix",
+  "bibliographischerverweis": "AH 53, 39",
+  "druckausgabe": "",
+  "zeilenstart": "10",
+  "foliostart": "131v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "132",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Concordia",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

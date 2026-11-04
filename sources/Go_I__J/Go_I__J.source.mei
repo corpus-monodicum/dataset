@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Go I (J): manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Gunilla Iversen</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Ritva Maria Jacobsson</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="Go_I__J">
+        <identifier type="siglum">Go I (J)</identifier>
+        <identifier type="cantus">Go I (J)</identifier>
+        <titleStmt>
+          <title>Go I (J)</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Aquileia</geogName>
+          <geogName role="origin-region">Quellen italienischer Herkunft</geogName>
+          <date>14. Jh</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="210v">f. 210v</locus>
+            <title type="incipit">Hodie resurrexit dominus</title>
+            <identifier type="dokumenten_id">Go I (J)-210v-7</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="212">f. 212</locus>
+            <title type="incipit">Hodie redemptor</title>
+            <identifier type="dokumenten_id">Go I (J)-212-6</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="213">f. 213</locus>
+            <title type="incipit">Hodie spiritus sanctus procedens</title>
+            <identifier type="dokumenten_id">Go I (J)-213-2</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="213v">f. 213v</locus>
+            <title type="incipit">Angelo praenuntiante</title>
+            <identifier type="dokumenten_id">Go I (J)-213v-5</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="214v">f. 214v</locus>
+            <title type="incipit">Beatissimus Petrus</title>
+            <identifier type="dokumenten_id">Go I (J)-214v-5</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="215v">f. 215v</locus>
+            <title type="incipit">Hodie assumpta est</title>
+            <identifier type="dokumenten_id">Go I (J)-215v-2</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="3">f. 3</locus>
+            <title type="incipit">Hodie cantandus est</title>
+            <identifier type="dokumenten_id">Go I (J)-3-1</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="3v">f. 3v</locus>
+            <title type="incipit">Domine Iesu Christe</title>
+            <identifier type="dokumenten_id">Go I (J)-3v-6</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="5">f. 5</locus>
+            <title type="incipit">Dilectus iste</title>
+            <identifier type="dokumenten_id">Go I (J)-5-1</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="5">f. 5</locus>
+            <title type="incipit">Hodie pro domino</title>
+            <identifier type="dokumenten_id">Go I (J)-5-4</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus from="5v">f. 5v</locus>
+            <title type="incipit">Hodie clarissimam</title>
+            <identifier type="dokumenten_id">Go I (J)-5v-2</identifier>
+          </contentItem>
+        </contents>
+        <notesStmt>
+          <annot type="description">
+            <ref target="Go_I__J.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <classification>
+          <termList>
+            <term type="quellentyp">Tropar, Sequentiar</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">Ms. I (J)</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">Gorizia</geogName>
+                <corpName>Biblioteca del Seminario Centrale</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

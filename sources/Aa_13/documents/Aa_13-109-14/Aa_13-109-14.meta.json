@@ -1,0 +1,41 @@
+{
+  "id": "2d81d902-a866-4116-9955-42e507858719",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-109-14",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Pentecoste",
+  "feier": "Messe",
+  "textinitium": "Par patri",
+  "bibliographischerverweis": "Pent intr 74 A 75 B 76 C 77 D E A F 42 A (CT III)",
+  "druckausgabe": "II-2",
+  "zeilenstart": "14",
+  "foliostart": "109",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "Aa 13-65-1",
+    "Endseite": "109v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Pent intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

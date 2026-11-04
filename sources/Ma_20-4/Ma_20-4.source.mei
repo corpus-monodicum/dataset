@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Ma 20-4: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Spiele)</resp>
+          <persName>Elaine Stratton Hild</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Hanna Zühlke</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="Ma_20-4">
+        <identifier type="siglum">Ma 20-4</identifier>
+        <identifier type="cantus">Ma 20-4</identifier>
+        <titleStmt>
+          <title>Ma 20-4</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Palermo</geogName>
+          <geogName role="origin-region">Quellen normanno-sizilischer Herkunft</geogName>
+          <corpName role="origin-institution">Kathedrale</corpName>
+          <date>12. Jh Mitte</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="102v">f. 102v</locus>
+            <title type="incipit">Quis revolvet nobis lapidem ... ecce lapis</title>
+            <identifier type="dokumenten_id">Ma 20-4-102v-13</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="102v">f. 102v</locus>
+            <title type="incipit">Nolite timere vos dicite</title>
+            <identifier type="dokumenten_id">Ma 20-4-102v-15a</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="102v">f. 102v</locus>
+            <title type="incipit">Quem quaeritis in sepulchro</title>
+            <identifier type="dokumenten_id">Ma 20-4-102v-15b</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="102v">f. 102v</locus>
+            <title type="incipit">Venite et videte ... ecce</title>
+            <identifier type="dokumenten_id">Ma 20-4-102v-18</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="102v">f. 102v</locus>
+            <title type="incipit">Heu misere cur</title>
+            <identifier type="dokumenten_id">Ma 20-4-102v-4</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="103">f. 103</locus>
+            <title type="incipit">Eamus nuntiare</title>
+            <identifier type="dokumenten_id">Ma 20-4-103-1</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="103">f. 103</locus>
+            <title type="incipit">Surrexit vere sicut</title>
+            <identifier type="dokumenten_id">Ma 20-4-103-2</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="103">f. 103</locus>
+            <title type="incipit">Deo gratias alleluia</title>
+            <identifier type="dokumenten_id">Ma 20-4-103-4</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="103">f. 103</locus>
+            <title type="incipit">Te deum laudamus*</title>
+            <identifier type="dokumenten_id">Ma 20-4-103-5</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="105v">f. 105v</locus>
+            <title type="incipit">Qui sunt hi sermones*</title>
+            <identifier type="dokumenten_id">Ma 20-4-105v-10a</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus from="105v">f. 105v</locus>
+            <title type="incipit">Alleluia*</title>
+            <identifier type="dokumenten_id">Ma 20-4-105v-10b</identifier>
+          </contentItem>
+          <contentItem n="12">
+            <locus from="105v">f. 105v</locus>
+            <title type="incipit">Iesu nostra redemptio*</title>
+            <identifier type="dokumenten_id">Ma 20-4-105v-12a</identifier>
+          </contentItem>
+          <contentItem n="13">
+            <locus from="105v">f. 105v</locus>
+            <title type="incipit">Tertia dies est</title>
+            <identifier type="dokumenten_id">Ma 20-4-105v-12b</identifier>
+          </contentItem>
+          <contentItem n="14">
+            <locus from="105v">f. 105v</locus>
+            <title type="incipit">Qui sunt hi sermones</title>
+            <identifier type="dokumenten_id">Ma 20-4-105v-13</identifier>
+          </contentItem>
+          <contentItem n="15">
+            <locus from="105v">f. 105v</locus>
+            <title type="incipit">Ego sodes</title>
+            <identifier type="dokumenten_id">Ma 20-4-105v-3</identifier>
+          </contentItem>
+          <contentItem n="16">
+            <locus from="105v">f. 105v</locus>
+            <title type="incipit">Haec dies*</title>
+            <identifier type="dokumenten_id">Ma 20-4-105v-9</identifier>
+          </contentItem>
+          <contentItem n="17">
+            <locus from="106">f. 106</locus>
+            <title type="incipit">Mane nobiscum</title>
+            <identifier type="dokumenten_id">Ma 20-4-106-10</identifier>
+          </contentItem>
+          <contentItem n="18">
+            <locus from="106">f. 106</locus>
+            <title type="incipit">Mihi longum iter</title>
+            <identifier type="dokumenten_id">Ma 20-4-106-16</identifier>
+          </contentItem>
+          <contentItem n="19">
+            <locus from="106">f. 106</locus>
+            <title type="incipit">Sol vergens</title>
+            <identifier type="dokumenten_id">Ma 20-4-106-17</identifier>
+          </contentItem>
+          <contentItem n="20">
+            <locus from="106">f. 106</locus>
+            <title type="incipit">Et intravit cum</title>
+            <identifier type="dokumenten_id">Ma 20-4-106-19</identifier>
+          </contentItem>
+          <contentItem n="21">
+            <locus from="106">f. 106</locus>
+            <title type="incipit">O stulti et tardi</title>
+            <identifier type="dokumenten_id">Ma 20-4-106-5</identifier>
+          </contentItem>
+          <contentItem n="22">
+            <locus from="106">f. 106</locus>
+            <title type="incipit">Nonne sic oportuit</title>
+            <identifier type="dokumenten_id">Ma 20-4-106-6</identifier>
+          </contentItem>
+          <contentItem n="23">
+            <locus from="106">f. 106</locus>
+            <title type="incipit">Cum autem appropinquaret</title>
+            <identifier type="dokumenten_id">Ma 20-4-106-7</identifier>
+          </contentItem>
+          <contentItem n="24">
+            <locus from="106v">f. 106v</locus>
+            <title type="incipit">Pax vobis ego sum nolite ... videte</title>
+            <identifier type="dokumenten_id">Ma 20-4-106v-15</identifier>
+          </contentItem>
+          <contentItem n="25">
+            <locus from="106v">f. 106v</locus>
+            <title type="incipit">Mulier quid ploras</title>
+            <identifier type="dokumenten_id">Ma 20-4-106v-22</identifier>
+          </contentItem>
+          <contentItem n="26">
+            <locus from="106v">f. 106v</locus>
+            <title type="incipit">Quia tulerunt dominum</title>
+            <identifier type="dokumenten_id">Ma 20-4-106v-24</identifier>
+          </contentItem>
+          <contentItem n="27">
+            <locus from="106v">f. 106v</locus>
+            <title type="incipit">Mulier quid ploras quem quaeris</title>
+            <identifier type="dokumenten_id">Ma 20-4-106v-28</identifier>
+          </contentItem>
+          <contentItem n="28">
+            <locus from="106v">f. 106v</locus>
+            <title type="incipit">Nonne cor nostrum</title>
+            <identifier type="dokumenten_id">Ma 20-4-106v-9</identifier>
+          </contentItem>
+          <contentItem n="29">
+            <locus from="107">f. 107</locus>
+            <title type="incipit">Victimae paschali laudes</title>
+            <identifier type="dokumenten_id">Ma 20-4-107-12</identifier>
+          </contentItem>
+          <contentItem n="30">
+            <locus from="107">f. 107</locus>
+            <title type="incipit">Surrexit dominus sicut</title>
+            <identifier type="dokumenten_id">Ma 20-4-107-17</identifier>
+          </contentItem>
+          <contentItem n="31">
+            <locus from="107">f. 107</locus>
+            <title type="incipit">Dic nobis Maria</title>
+            <identifier type="dokumenten_id">Ma 20-4-107-21</identifier>
+          </contentItem>
+          <contentItem n="32">
+            <locus from="107">f. 107</locus>
+            <title type="incipit">Domine si tu</title>
+            <identifier type="dokumenten_id">Ma 20-4-107-3</identifier>
+          </contentItem>
+          <contentItem n="33">
+            <locus from="107">f. 107</locus>
+            <title type="incipit">Maria</title>
+            <identifier type="dokumenten_id">Ma 20-4-107-6a</identifier>
+          </contentItem>
+          <contentItem n="34">
+            <locus from="107">f. 107</locus>
+            <title type="incipit">Rabboni</title>
+            <identifier type="dokumenten_id">Ma 20-4-107-6b</identifier>
+          </contentItem>
+          <contentItem n="35">
+            <locus from="107">f. 107</locus>
+            <title type="incipit">Noli me tangere</title>
+            <identifier type="dokumenten_id">Ma 20-4-107-7</identifier>
+          </contentItem>
+          <contentItem n="36">
+            <locus from="107v">f. 107v</locus>
+            <title type="incipit">Data est mihi</title>
+            <identifier type="dokumenten_id">Ma 20-4-107v-14</identifier>
+          </contentItem>
+          <contentItem n="37">
+            <locus from="107v">f. 107v</locus>
+            <title type="incipit">Pax vobis o Thoma</title>
+            <identifier type="dokumenten_id">Ma 20-4-107v-17</identifier>
+          </contentItem>
+          <contentItem n="38">
+            <locus from="107v">f. 107v</locus>
+            <title type="incipit">Misi digitum</title>
+            <identifier type="dokumenten_id">Ma 20-4-107v-22</identifier>
+          </contentItem>
+          <contentItem n="39">
+            <locus from="107v">f. 107v</locus>
+            <title type="incipit">Vidimus dominum</title>
+            <identifier type="dokumenten_id">Ma 20-4-107v-9a</identifier>
+          </contentItem>
+          <contentItem n="40">
+            <locus from="107v">f. 107v</locus>
+            <title type="incipit">Nisi videro ... digitum</title>
+            <identifier type="dokumenten_id">Ma 20-4-107v-9b</identifier>
+          </contentItem>
+          <contentItem n="41">
+            <locus from="108">f. 108</locus>
+            <title type="incipit">Christus resurgens*</title>
+            <identifier type="dokumenten_id">Ma 20-4-108-12a</identifier>
+          </contentItem>
+          <contentItem n="42">
+            <locus from="108">f. 108</locus>
+            <title type="incipit">Sedit angelus*</title>
+            <identifier type="dokumenten_id">Ma 20-4-108-12b</identifier>
+          </contentItem>
+          <contentItem n="43">
+            <locus from="108">f. 108</locus>
+            <title type="incipit">Venit Maria Magdalena</title>
+            <identifier type="dokumenten_id">Ma 20-4-108-13</identifier>
+          </contentItem>
+          <contentItem n="44">
+            <locus from="108">f. 108</locus>
+            <title type="incipit">Dominus meus</title>
+            <identifier type="dokumenten_id">Ma 20-4-108-2</identifier>
+          </contentItem>
+          <contentItem n="45">
+            <locus from="108">f. 108</locus>
+            <title type="incipit">Quia vidisti me</title>
+            <identifier type="dokumenten_id">Ma 20-4-108-5</identifier>
+          </contentItem>
+          <contentItem n="46">
+            <locus from="108">f. 108</locus>
+            <title type="incipit">Surrexit dominus de sepulchro ... alleluia</title>
+            <identifier type="dokumenten_id">Ma 20-4-108-8</identifier>
+          </contentItem>
+          <contentItem n="47">
+            <locus from="108v">f. 108v</locus>
+            <title type="incipit">Maria venit ad monumentum</title>
+            <identifier type="dokumenten_id">Ma 20-4-108v-1</identifier>
+          </contentItem>
+          <contentItem n="48">
+            <locus from="108v">f. 108v</locus>
+            <title type="incipit">Sedit angelus</title>
+            <identifier type="dokumenten_id">Ma 20-4-108v-8</identifier>
+          </contentItem>
+          <contentItem n="49">
+            <locus from="109">f. 109</locus>
+            <title type="incipit">Christus resurgens</title>
+            <identifier type="dokumenten_id">Ma 20-4-109-2</identifier>
+          </contentItem>
+          <contentItem n="50">
+            <locus from="109">f. 109</locus>
+            <title type="incipit">Ego sum alpha et</title>
+            <identifier type="dokumenten_id">Ma 20-4-109-9</identifier>
+          </contentItem>
+        </contents>
+        <notesStmt>
+          <annot type="description">
+            <ref target="Ma_20-4.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <classification>
+          <termList>
+            <term type="quellentyp">Graduale</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">Vitrina a 20-4</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">Madrid</geogName>
+                <corpName>Biblioteca Nacional</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

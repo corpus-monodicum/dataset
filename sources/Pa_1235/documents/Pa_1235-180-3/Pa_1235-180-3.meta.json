@@ -1,0 +1,41 @@
+{
+  "id": "be64e641-b3e4-4a33-8b1e-c706dce81470",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-180-3",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Lucia",
+  "feier": "Messe",
+  "textinitium": "Praefulgida dicito",
+  "bibliographischerverweis": "AH 44, 212",
+  "druckausgabe": "CM III",
+  "zeilenstart": "3",
+  "foliostart": "180",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "180",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "(Creator poli)",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

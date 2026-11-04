@@ -1,0 +1,41 @@
+{
+  "id": "6b9ed7ac-2c2a-4a9f-b655-e3bd0ac259e1",
+  "quelle_id": "Civ 102",
+  "dokumenten_id": "Civ 102-28v-8",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Hymnus",
+  "festtag": "Dominica in palmis",
+  "feier": "Prozession",
+  "textinitium": "Gloria laus et honor",
+  "bibliographischerverweis": "AH 50, 117",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "8",
+  "foliostart": "28v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "29",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Civ 102-23-1S",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Entry into Jerusalem",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

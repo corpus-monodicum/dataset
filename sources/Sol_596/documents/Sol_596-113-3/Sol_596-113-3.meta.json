@@ -1,0 +1,41 @@
+{
+  "id": "10dd2a15-42e2-47dd-a6bd-abad78fb1d07",
+  "quelle_id": "Sol 596",
+  "dokumenten_id": "Sol 596-113-3",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Oratio",
+  "festtag": "Pentecoste",
+  "feier": "Prozession",
+  "textinitium": "",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "3",
+  "foliostart": "113",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "113",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Sol 596-109-3S",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Pentecost",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

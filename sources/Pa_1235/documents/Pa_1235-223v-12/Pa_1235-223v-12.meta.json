@@ -1,0 +1,41 @@
+{
+  "id": "c70002a7-2bc0-490c-baf7-8a03810ff26d",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-223v-12",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Cyricus",
+  "feier": "Messe",
+  "textinitium": "Festivum socii",
+  "bibliographischerverweis": "Gaudeamus intr 67 A 68 B 69 D 26 E F A G 15 A 16 D 17 E F 40 A 41 B 42 D 43 E (CT X)",
+  "druckausgabe": "II-1",
+  "zeilenstart": "12",
+  "foliostart": "223v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "Pa 1235-36-6-",
+    "Endseite": "224",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Gaudeamus intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

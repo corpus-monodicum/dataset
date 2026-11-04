@@ -1,0 +1,436 @@
+{
+  "type": "cm-manuscript-export",
+  "schemaVersion": 2,
+  "exportedAt": "2026-11-03T14:43:21.823Z",
+  "exportedManuscripts": [
+    "Mza 11"
+  ],
+  "data": {
+    "personalTables": [
+      {
+        "id": "t_f9bc4bed-f2bd-4d1f-b4ca-4485ddc8e7be",
+        "name": "Mza 11",
+        "source": "Mza 11",
+        "notes": "",
+        "patterns": [],
+        "rows": [
+          {
+            "pattern": "*",
+            "customId": "10",
+            "notes": ""
+          },
+          {
+            "pattern": "*e",
+            "customId": "11",
+            "notes": ""
+          },
+          {
+            "pattern": "*[ed]",
+            "customId": "12",
+            "notes": ""
+          },
+          {
+            "pattern": "[*d]",
+            "customId": "20",
+            "notes": ""
+          },
+          {
+            "pattern": "[*du]",
+            "customId": "21",
+            "notes": ""
+          },
+          {
+            "pattern": "*dd",
+            "customId": "30",
+            "notes": ""
+          },
+          {
+            "pattern": "*d[du]",
+            "customId": "31",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u]",
+            "customId": "40",
+            "notes": ""
+          },
+          {
+            "pattern": "[*ud]",
+            "customId": "41",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u]dd",
+            "customId": "42",
+            "notes": ""
+          },
+          {
+            "pattern": "*[uu]",
+            "customId": "51",
+            "notes": ""
+          },
+          {
+            "pattern": "*u[uu]",
+            "customId": "52",
+            "notes": ""
+          },
+          {
+            "pattern": "[*dL]",
+            "customId": "10+/20-",
+            "notes": ""
+          },
+          {
+            "pattern": "[*uL]",
+            "customId": "10+/40-",
+            "notes": ""
+          },
+          {
+            "pattern": "*[edL]",
+            "customId": "11+",
+            "notes": ""
+          },
+          {
+            "pattern": "[*uddL]",
+            "customId": "41+",
+            "notes": ""
+          },
+          {
+            "pattern": "*[uudL]",
+            "customId": "51+",
+            "notes": ""
+          }
+        ],
+        "isPublished": true
+      }
+    ],
+    "regions": {
+      "Mza 11_114v": [
+        {
+          "id": "r_1acf2359-4690-46f6-a66b-5ad41585d24d",
+          "name": "Line 6",
+          "points": "42.49,38.77 93.62,38.77 93.62,46.19 42.49,46.19",
+          "canvas": {
+            "index": 229,
+            "label": "114v"
+          }
+        }
+      ],
+      "Mza 11_112r": [
+        {
+          "id": "r_0401a511-d26a-48c9-9d0a-5ced4f5362ed",
+          "name": "Line 7",
+          "points": "16.28,41.43 77.17,41.43 77.17,49.05 16.28,49.05",
+          "canvas": {
+            "index": 224,
+            "label": "112r"
+          }
+        },
+        {
+          "id": "r_b5738da2-9528-4b8a-b819-fb4ce4346759",
+          "name": "Line 10",
+          "points": "16.13,62.96 77.71,62.96 77.71,70.08 16.13,70.08",
+          "canvas": {
+            "index": 224,
+            "label": "112r"
+          }
+        }
+      ],
+      "Mza 11_71v": [
+        {
+          "id": "r_28bc510a-d817-4119-a358-6a36493ed70e",
+          "name": "Line 10",
+          "points": "27.53,69.28 90.66,69.28 90.66,75.95 27.53,75.95",
+          "canvas": {
+            "index": 143,
+            "label": "071v"
+          }
+        },
+        {
+          "id": "r_91752a79-925b-471c-86f8-cc1a001f0aab",
+          "name": "Line 7",
+          "points": "27.20,46.27 90.49,46.27 90.49,53.86 27.20,53.86",
+          "canvas": {
+            "index": 143,
+            "label": "071v"
+          }
+        }
+      ],
+      "Mza 11_86v": [
+        {
+          "id": "r_cdd9cf4f-d446-4af5-aa9a-e5fd0e9cc89e",
+          "name": "Line 2",
+          "points": "28.58,18.95 88.26,18.95 88.26,26.10 28.58,26.10",
+          "canvas": {
+            "index": 173,
+            "label": "086v"
+          }
+        }
+      ],
+      "Mza 11_61r": [
+        {
+          "id": "r_28e5960f-11bb-4e49-9215-b22c987e65f4",
+          "name": "Line 3",
+          "points": "12.57,23.35 76.96,23.35 76.96,30.92 12.57,30.92",
+          "canvas": {
+            "index": 122,
+            "label": "061r"
+          }
+        }
+      ]
+    },
+    "regionItems": {
+      "r_1acf2359-4690-46f6-a66b-5ad41585d24d": [
+        {
+          "id": "i_c767ec71-a117-4c8d-82fb-1119b90bf163",
+          "pattern": "[*uddL]",
+          "points": "68.11,39.58 70.78,39.58 70.78,42.12 68.11,42.12",
+          "linkData": {
+            "sysId": "Mza 11-114v-5|114v|6|it|A4-B4-A4-G4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_4503dbd4-fafb-4167-b898-b9d4f538a373",
+          "pattern": "[*du]",
+          "points": "54.29,40.99 56.18,40.99 56.18,42.99 54.29,42.99",
+          "linkData": {
+            "sysId": "Mza 11-114v-5|114v|6|su-|G4-E4-F4"
+          },
+          "variant": "b"
+        },
+        {
+          "id": "i_12a33fc2-34e1-4f52-8c08-96f20b5ae31e",
+          "pattern": "*u[uu]",
+          "points": "63.99,39.98 65.97,39.98 65.97,43.19 63.99,43.19",
+          "linkData": {
+            "sysId": "Mza 11-114v-5|114v|6|ri-|E4-F4-G4-A4"
+          },
+          "variant": ""
+        }
+      ],
+      "r_0401a511-d26a-48c9-9d0a-5ced4f5362ed": [
+        {
+          "id": "i_8c3b85ef-5dc6-46b6-a61d-0c5a55d38c9c",
+          "pattern": "*[uudL]",
+          "points": "68.73,43.43 70.75,43.43 70.75,45.98 68.73,45.98",
+          "linkData": {
+            "sysId": "Mza 11-112-6|112r|7|uit|D4-E4-F4-D4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_d824d2c2-7436-4e65-86ba-6a2d9938d407",
+          "pattern": "*[uu]",
+          "points": "51.23,42.48 53.14,42.48 53.14,44.79 51.23,44.79",
+          "linkData": {
+            "sysId": "Mza 11-112-6|112r|7|ab|E4-F4-G4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_cd1986af-7581-4f2e-8c6a-753d90966b4d",
+          "pattern": "[*u]",
+          "points": "61.10,44.15 63.32,44.15 63.32,46.46 61.10,46.46",
+          "linkData": {
+            "sysId": "Mza 11-112-6|112r|7|uo-|C4-E4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_c5288030-898f-449b-a859-b8c45706bd57",
+          "pattern": "[*u]",
+          "points": "43.70,43.75 46.03,43.75 46.03,45.34 43.70,45.34",
+          "linkData": {
+            "sysId": "Mza 11-112-6|112r|7|do-|D4-E4"
+          },
+          "variant": ""
+        }
+      ],
+      "r_b5738da2-9528-4b8a-b819-fb4ce4346759": [
+        {
+          "id": "i_7b574469-98db-43f0-ac43-d26c79380867",
+          "pattern": "[*u]dd",
+          "points": "57.37,65.01 59.75,65.01 59.75,67.25 57.37,67.25",
+          "linkData": {
+            "sysId": "Mza 11-112-8|112r|10|cu-|D4-E4-D4-C4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_30eecd5d-d760-4a80-8244-05defd46e8da",
+          "pattern": "*[ed]",
+          "points": "47.99,64.09 51.12,64.09 51.12,66.54 47.99,66.54",
+          "linkData": {
+            "sysId": "Mza 11-112-8|112r|10|di-|F4-F4-D4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_19ec4d9b-a609-495e-a981-dd0ce4d7599a",
+          "pattern": "[*du]",
+          "points": "22.26,63.52 24.63,63.52 24.63,65.36 22.26,65.36",
+          "linkData": {
+            "sysId": "Mza 11-112-8|112r|10|su-|G4-F4-G4"
+          },
+          "variant": "a"
+        }
+      ],
+      "r_28bc510a-d817-4119-a358-6a36493ed70e": [
+        {
+          "id": "i_edff57f9-6c67-4070-9c42-6de432a194b8",
+          "pattern": "*d[du]",
+          "points": "67.97,71.19 70.51,71.19 70.51,73.58 67.97,73.58",
+          "linkData": {
+            "sysId": "Mza 11-71v-8|71v|10|lui-|A4-G4-F4-G4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_62da1c0a-e46f-4c24-ab4f-d04342caafba",
+          "pattern": "*e",
+          "points": "55.78,70.12 58.43,70.12 58.43,72.02 55.78,72.02",
+          "linkData": {
+            "sysId": "Mza 11-71v-8|71v|10|uo-|C5-C5"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_4b25668d-277b-4699-be9a-b3add7eb4aed",
+          "pattern": "[*uL]",
+          "points": "84.92,70.94 86.83,70.94 86.83,72.76 84.92,72.76",
+          "linkData": {
+            "sysId": "Mza 11-71v-8|71v|10|al-|G4-B4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_15447176-34bd-4149-84dd-906b1d36c702",
+          "pattern": "[*dL]",
+          "points": "62.67,71.11 64.36,71.11 64.36,73.25 62.67,73.25",
+          "linkData": {
+            "sysId": "Mza 11-71v-8|71v|10|al-|A4-F4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_20bf9f78-8ea8-4324-8748-03a2367e1797",
+          "pattern": "[*d]",
+          "points": "42.63,69.54 44.86,69.54 44.86,71.52 42.63,71.52",
+          "linkData": {
+            "sysId": "Mza 11-71v-8|71v|10|ti-|D5-C5"
+          },
+          "variant": "a"
+        },
+        {
+          "id": "i_91bcac0d-4e10-4609-82bc-71a14d64220d",
+          "pattern": "[*d]",
+          "points": "70.72,71.93 73.05,71.93 73.05,73.67 70.72,73.67",
+          "linkData": {
+            "sysId": "Mza 11-71v-8|71v|10|a|G4-F4"
+          },
+          "variant": "b"
+        }
+      ],
+      "r_91752a79-925b-471c-86f8-cc1a001f0aab": [
+        {
+          "id": "i_9c3f954c-e3ee-4b68-b912-cb869ba323e8",
+          "pattern": "*dd",
+          "points": "32.35,47.44 34.80,47.44 34.80,50.75 32.35,50.75",
+          "linkData": {
+            "sysId": "Mza 11-71v-6|71v|7|cto-|F4-E4-D4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_f9458931-282f-4f14-b787-744334e02823",
+          "pattern": "[*dL]",
+          "points": "38.30,49.10 40.11,49.10 40.11,51.08 38.30,51.08",
+          "linkData": {
+            "sysId": "Mza 11-71v-6|71v|7|in-|D4-B3"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_9be49961-e3c4-4cfe-863b-a3d99cdf64b2",
+          "pattern": "[*uL]",
+          "points": "84.53,49.18 86.44,49.18 86.44,51.08 84.53,51.08",
+          "linkData": {
+            "sysId": "Mza 11-71v-6|71v|7|ei-|C4-E4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_2a722e20-c15f-47b0-b1e5-34723e50f57b",
+          "pattern": "[*ud]",
+          "points": "58.28,47.86 60.94,47.86 60.94,49.76 58.28,49.76",
+          "linkData": {
+            "sysId": "Mza 11-71v-6|71v|7|ne-|E4-F4-E4"
+          },
+          "variant": ""
+        }
+      ],
+      "r_cdd9cf4f-d446-4af5-aa9a-e5fd0e9cc89e": [
+        {
+          "id": "i_061281a3-38c5-42d0-9a67-f7043d7252a0",
+          "pattern": "*[edL]",
+          "points": "47.97,20.91 51.17,20.91 51.17,22.94 47.97,22.94",
+          "linkData": {
+            "sysId": "Mza 11-85v-8|86v|2|Hunc|D5-D5-C5"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_9cfb30c2-5d0c-45e2-8051-dd49b8d17bb7",
+          "pattern": "*",
+          "points": "38.05,20.29 40.15,20.29 40.15,21.77 38.05,21.77",
+          "linkData": {
+            "sysId": "Mza 11-85v-8|86v|2|pe-|E5"
+          },
+          "variant": "a"
+        },
+        {
+          "id": "i_1944a9d1-818d-4120-aa51-b7ca1f2e5743",
+          "pattern": "*",
+          "points": "53.58,20.91 55.68,20.91 55.68,22.24 53.58,22.24",
+          "linkData": {
+            "sysId": "Mza 11-85v-8|86v|2|co-|D5"
+          },
+          "variant": "b"
+        }
+      ],
+      "r_28e5960f-11bb-4e49-9215-b22c987e65f4": [
+        {
+          "id": "i_c9040f04-9a93-455c-8a92-2e572455ca80",
+          "pattern": "*e",
+          "points": "24.18,25.20 27.18,25.20 27.18,27.01 24.18,27.01",
+          "linkData": {
+            "sysId": "Mza 11-61-1|61r|3|al-|F4-F4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_31227e1f-19ee-4726-ac88-92f09dc0654e",
+          "pattern": "[*ud]",
+          "points": "29.30,24.62 32.10,24.62 32.10,26.79 29.30,26.79",
+          "linkData": {
+            "sysId": "Mza 11-61-1|61r|3|lui-|E4-G4-F4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_bfc031c8-6340-4d9b-a237-9bec4d5f2b8d",
+          "pattern": "[*u]dd",
+          "points": "16.27,25.20 19.36,25.20 19.36,27.44 16.27,27.44",
+          "linkData": {
+            "sysId": "Mza 11-61-1|61r|3|tu-|F4-G4-F4-E4"
+          },
+          "variant": ""
+        }
+      ]
+    },
+    "manualLines": {},
+    "iiifLinks": {
+      "Mza 11": "https://iiif.diamm.net/manifests/I-MZ-Ms-k-11/manifest.json"
+    }
+  }
+}

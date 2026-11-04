@@ -1,0 +1,41 @@
+{
+  "id": "c4ff4d13-515d-4fc2-9386-54a1c3b3a7de",
+  "quelle_id": "Pa 778",
+  "dokumenten_id": "Pa 778-114v-5",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Iohannes Baptista",
+  "feier": "Messe",
+  "textinitium": "Praecursor Christi",
+  "bibliographischerverweis": "AH 7, 142; AH 53, 165",
+  "druckausgabe": "",
+  "zeilenstart": "5",
+  "foliostart": "114v",
+  "kommentar": "Beginn radiert, aber nicht überschrieben.",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "115v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Iustus ut palma minor",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

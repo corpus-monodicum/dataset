@@ -1,0 +1,25 @@
+{
+  "id": "PaA 135",
+  "quellensigle": "PaA 135",
+  "herkunftsregion": "Quellen englischer Herkunft",
+  "herkunftsort": "England (möglicherweise London oder Canterbury)",
+  "herkunftsinstitution": "",
+  "ordenstradition": "",
+  "quellentyp": "Missale",
+  "bibliotheksort": "Paris",
+  "bibliothek": "Bibliothèque de l’ Arsenal",
+  "bibliothekssignatur": "Ms. 135",
+  "kommentar": "",
+  "datierung": "13. Jh Ende – 14. Jh Anfang",
+  "status": "",
+  "jahrhundert": "13., 14.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "PaA 135",
+  "cantus_century": "13., 14.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "PaA_135.description.md"
+  }
+}

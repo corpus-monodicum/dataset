@@ -1,0 +1,41 @@
+{
+  "id": "aea19e17-56da-42e3-9237-a3635126617a",
+  "quelle_id": "Mod 7",
+  "dokumenten_id": "Mod 7-105v-8",
+  "gattung1": "Gloria",
+  "gattung2": "tropiert",
+  "festtag": "Pascha",
+  "feier": "Messe",
+  "textinitium": "Pastor bone",
+  "bibliographischerverweis": "CT XII, 13: Id Ia 1 12 3 4 6 7 21 8 14 15+16 17",
+  "druckausgabe": "",
+  "zeilenstart": "8",
+  "foliostart": "105v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "107",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "Bosse 39",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509502",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

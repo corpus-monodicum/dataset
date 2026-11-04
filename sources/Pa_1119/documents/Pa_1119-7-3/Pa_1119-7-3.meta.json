@@ -1,0 +1,41 @@
+{
+  "id": "9ae447ac-a42a-44ff-9960-d10ed5cc656c",
+  "quelle_id": "Pa 1119",
+  "dokumenten_id": "Pa 1119-7-3",
+  "gattung1": "Agnus",
+  "gattung2": "tropiert",
+  "festtag": "Nativitas domini",
+  "feier": "3. Messe",
+  "textinitium": "Redemptor mundi",
+  "bibliographischerverweis": "CT IV, 63: If 1 A 2 B 3",
+  "druckausgabe": "",
+  "zeilenstart": "3",
+  "foliostart": "7",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "7",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "Schildbach 226",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509505",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

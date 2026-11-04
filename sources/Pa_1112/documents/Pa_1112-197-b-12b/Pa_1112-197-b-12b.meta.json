@@ -1,0 +1,41 @@
+{
+  "id": "a8d614e6-9201-45c8-b1b3-59fde8c01604",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-197-b-12b",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dionysius",
+  "feier": "Messe",
+  "textinitium": "Gaude prole Graecia*",
+  "bibliographischerverweis": "AH 55, 113",
+  "druckausgabe": "",
+  "zeilenstart": "12",
+  "foliostart": "197-b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "197b",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

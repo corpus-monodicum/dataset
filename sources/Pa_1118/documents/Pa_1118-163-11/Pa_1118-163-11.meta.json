@@ -1,0 +1,41 @@
+{
+  "id": "bfbd1b22-8b2a-4b2e-9746-2e67d0817327",
+  "quelle_id": "Pa 1118",
+  "dokumenten_id": "Pa 1118-163-11",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Octava nativitatis",
+  "feier": "",
+  "textinitium": "Haec dies quam excelsus",
+  "bibliographischerverweis": "AH 7, 17",
+  "druckausgabe": "",
+  "zeilenstart": "11",
+  "foliostart": "163",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "163v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Duo tres",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

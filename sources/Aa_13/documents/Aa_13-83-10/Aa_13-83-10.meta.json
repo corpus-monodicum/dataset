@@ -1,0 +1,41 @@
+{
+  "id": "8a689802-6875-4e68-aa5d-45f537d35974",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-83-10",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Octava Agnetis",
+  "feier": "Messe",
+  "textinitium": "Vultum tuum",
+  "bibliographischerverweis": "",
+  "druckausgabe": "II-2",
+  "zeilenstart": "10",
+  "foliostart": "83",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "83",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "13",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

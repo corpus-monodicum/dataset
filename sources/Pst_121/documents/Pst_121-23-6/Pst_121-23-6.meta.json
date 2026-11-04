@@ -1,0 +1,41 @@
+{
+  "id": "2076da5f-dca8-4716-b64d-35663cc00702",
+  "quelle_id": "Pst 121",
+  "dokumenten_id": "Pst 121-23-6",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Stephanus",
+  "feier": "Messe",
+  "textinitium": "Hodie inclitus",
+  "bibliographischerverweis": "Steph intr 34 A 25 B 26 C 27 D 89 A (CT I)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "6",
+  "foliostart": "23",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Etenim",
+    "Endseite": "23v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Steph intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

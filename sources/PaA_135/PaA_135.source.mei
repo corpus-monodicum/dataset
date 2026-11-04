@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>PaA 135: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Ordinariumsgesänge)</resp>
+          <persName>Jasmin Hartmann-Strauß</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Jasmin Hartmann-Strauß</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Ordinariumsgesänge)</resp>
+          <persName>David Hiley</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="PaA_135">
+        <identifier type="siglum">PaA 135</identifier>
+        <identifier type="cantus">PaA 135</identifier>
+        <titleStmt>
+          <title>PaA 135</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">England (möglicherweise London oder Canterbury)</geogName>
+          <geogName role="origin-region">Quellen englischer Herkunft</geogName>
+          <date>13. Jh Ende – 14. Jh Anfang</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus>f. 111v b</locus>
+            <title type="incipit">Kyrie eleyson*</title>
+            <identifier type="dokumenten_id">PaA 135-111v b-36a</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus>f. 111v b</locus>
+            <title type="incipit">Gloria in excelsis*</title>
+            <identifier type="dokumenten_id">PaA 135-111v b-36b</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus>f. 145v a</locus>
+            <title type="incipit">Credo in unum deum</title>
+            <identifier type="dokumenten_id">PaA 135-145v a-1</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus>f. 149v b</locus>
+            <title type="incipit">Sanctus … dominus deus*</title>
+            <identifier type="dokumenten_id">PaA 135-149v b-10</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="151b">f. 151b</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">PaA 135-151b-3</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="152a">f. 152a</locus>
+            <title type="incipit">Ite missa est</title>
+            <identifier type="dokumenten_id">PaA 135-152a-22</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="152a">f. 152a</locus>
+            <title type="incipit">Benedicamus domino</title>
+            <identifier type="dokumenten_id">PaA 135-152a-23</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="152a">f. 152a</locus>
+            <title type="incipit">Benedicamus domino</title>
+            <identifier type="dokumenten_id">PaA 135-152a-23</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="152a">f. 152a</locus>
+            <title type="incipit">Requiescant</title>
+            <identifier type="dokumenten_id">PaA 135-152a-24</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus>f. 153v a</locus>
+            <title type="incipit">Gloria in excelsis*</title>
+            <identifier type="dokumenten_id">PaA 135-153v a-1</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus from="16b">f. 16b</locus>
+            <title type="incipit">Gloria in excelsis*</title>
+            <identifier type="dokumenten_id">PaA 135-16b-1</identifier>
+          </contentItem>
+          <contentItem n="12">
+            <locus from="16b">f. 16b</locus>
+            <title type="incipit">Gloria in excelsis*</title>
+            <identifier type="dokumenten_id">PaA 135-16b-2</identifier>
+          </contentItem>
+          <contentItem n="13">
+            <locus>f. 224v a</locus>
+            <title type="incipit">Sanctus … dominus deus*</title>
+            <identifier type="dokumenten_id">PaA 135-224v a-23</identifier>
+          </contentItem>
+          <contentItem n="14">
+            <locus>f. 224v a</locus>
+            <title type="incipit">Credo in unum deum*</title>
+            <identifier type="dokumenten_id">PaA 135-224v a-8a</identifier>
+          </contentItem>
+          <contentItem n="15">
+            <locus from="228a">f. 228a</locus>
+            <title type="incipit">Pater creator</title>
+            <identifier type="dokumenten_id">PaA 135-228a-1</identifier>
+          </contentItem>
+          <contentItem n="16">
+            <locus from="228b">f. 228b</locus>
+            <title type="incipit">Cunctipotens genitor</title>
+            <identifier type="dokumenten_id">PaA 135-228b-3</identifier>
+          </contentItem>
+          <contentItem n="17">
+            <locus>f. 228v a</locus>
+            <title type="incipit">Lux et origo</title>
+            <identifier type="dokumenten_id">PaA 135-228v a-6</identifier>
+          </contentItem>
+          <contentItem n="18">
+            <locus>f. 228v b</locus>
+            <title type="incipit">Conditor kyrie omnium</title>
+            <identifier type="dokumenten_id">PaA 135-228v b-6</identifier>
+          </contentItem>
+          <contentItem n="19">
+            <locus from="229a">f. 229a</locus>
+            <title type="incipit">Orbis factor</title>
+            <identifier type="dokumenten_id">PaA 135-229a-9</identifier>
+          </contentItem>
+          <contentItem n="20">
+            <locus from="229b">f. 229b</locus>
+            <title type="incipit">Kyrie fons bonitatis</title>
+            <identifier type="dokumenten_id">PaA 135-229b-7</identifier>
+          </contentItem>
+          <contentItem n="21">
+            <locus>f. 229v b</locus>
+            <title type="incipit">Kyrie rex genitor</title>
+            <identifier type="dokumenten_id">PaA 135-229v b-3</identifier>
+          </contentItem>
+          <contentItem n="22">
+            <locus from="230a">f. 230a</locus>
+            <title type="incipit">Summe deus pater</title>
+            <identifier type="dokumenten_id">PaA 135-230a-5</identifier>
+          </contentItem>
+          <contentItem n="23">
+            <locus from="230b">f. 230b</locus>
+            <title type="incipit">Rex virginum amator</title>
+            <identifier type="dokumenten_id">PaA 135-230b-14</identifier>
+          </contentItem>
+          <contentItem n="24">
+            <locus>f. 230v b</locus>
+            <title type="incipit">Kyrie virginitatis amator</title>
+            <identifier type="dokumenten_id">PaA 135-230v b-3</identifier>
+          </contentItem>
+          <contentItem n="25">
+            <locus from="231a">f. 231a</locus>
+            <title type="incipit">Kyrie rex virginis</title>
+            <identifier type="dokumenten_id">PaA 135-231a-11</identifier>
+          </contentItem>
+          <contentItem n="26">
+            <locus from="231b">f. 231b</locus>
+            <title type="incipit">Lux et gloria regis</title>
+            <identifier type="dokumenten_id">PaA 135-231b-12</identifier>
+          </contentItem>
+          <contentItem n="27">
+            <locus>f. 231v a</locus>
+            <title type="incipit">Kyrie machinae conditor</title>
+            <identifier type="dokumenten_id">PaA 135-231v a-10</identifier>
+          </contentItem>
+          <contentItem n="28">
+            <locus>f. 231v b</locus>
+            <title type="incipit">Mariae laus et amor</title>
+            <identifier type="dokumenten_id">PaA 135-231v b-10</identifier>
+          </contentItem>
+          <contentItem n="29">
+            <locus from="232a">f. 232a</locus>
+            <title type="incipit">Pater pie factor Mariae</title>
+            <identifier type="dokumenten_id">PaA 135-232a-7</identifier>
+          </contentItem>
+          <contentItem n="30">
+            <locus from="232b">f. 232b</locus>
+            <title type="incipit">O rex clemens</title>
+            <identifier type="dokumenten_id">PaA 135-232b-6</identifier>
+          </contentItem>
+          <contentItem n="31">
+            <locus>f. 232v a</locus>
+            <title type="incipit">Kyrie rex saeclorum</title>
+            <identifier type="dokumenten_id">PaA 135-232v a-4</identifier>
+          </contentItem>
+          <contentItem n="32">
+            <locus from="233a">f. 233a</locus>
+            <title type="incipit">Kyrie rex splendens</title>
+            <identifier type="dokumenten_id">PaA 135-233a-3</identifier>
+          </contentItem>
+          <contentItem n="33">
+            <locus>f. 233v a</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">PaA 135-233v a-11</identifier>
+          </contentItem>
+          <contentItem n="34">
+            <locus>f. 233v a</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">PaA 135-233v a-6</identifier>
+          </contentItem>
+          <contentItem n="35">
+            <locus>f. 233v b</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">PaA 135-233v b-10</identifier>
+          </contentItem>
+          <contentItem n="36">
+            <locus>f. 233v b</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">PaA 135-233v b-13</identifier>
+          </contentItem>
+          <contentItem n="37">
+            <locus>f. 233v b</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">PaA 135-233v b-3</identifier>
+          </contentItem>
+          <contentItem n="38">
+            <locus>f. 233v b</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">PaA 135-233v b-9</identifier>
+          </contentItem>
+          <contentItem n="39">
+            <locus from="234a">f. 234a</locus>
+            <title type="incipit">Regnum ... O rex glorie</title>
+            <identifier type="dokumenten_id">PaA 135-234a-1</identifier>
+          </contentItem>
+          <contentItem n="40">
+            <locus from="234b">f. 234b</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">PaA 135-234b-10</identifier>
+          </contentItem>
+          <contentItem n="41">
+            <locus>f. 234v a</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">PaA 135-234v a-12</identifier>
+          </contentItem>
+          <contentItem n="42">
+            <locus from="235a">f. 235a</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">PaA 135-235a-1</identifier>
+          </contentItem>
+          <contentItem n="43">
+            <locus from="235b">f. 235b</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">PaA 135-235b-2</identifier>
+          </contentItem>
+          <contentItem n="44">
+            <locus>f. 235v a</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">PaA 135-235v a-1</identifier>
+          </contentItem>
+          <contentItem n="45">
+            <locus>f. 235v a</locus>
+            <title type="incipit">Spiritus et alme</title>
+            <identifier type="dokumenten_id">PaA 135-235v a-14</identifier>
+          </contentItem>
+          <contentItem n="46">
+            <locus>f. 283v a</locus>
+            <title type="incipit">Voce dulcisona</title>
+            <identifier type="dokumenten_id">PaA 135-283v a-3</identifier>
+          </contentItem>
+          <contentItem n="47">
+            <locus>f. 283v b</locus>
+            <title type="incipit">Laudes deo ore pio</title>
+            <identifier type="dokumenten_id">PaA 135-283v b-13</identifier>
+          </contentItem>
+          <contentItem n="48">
+            <locus>f. 283v b</locus>
+            <title type="incipit">Quem pium benedicit</title>
+            <identifier type="dokumenten_id">PaA 135-283v b-4</identifier>
+          </contentItem>
+          <contentItem n="49">
+            <locus from="284a">f. 284a</locus>
+            <title type="incipit">Clangat hodie</title>
+            <identifier type="dokumenten_id">PaA 135-284a-10</identifier>
+          </contentItem>
+          <contentItem n="50">
+            <locus from="284b">f. 284b</locus>
+            <title type="incipit">Sanctorum exultatio</title>
+            <identifier type="dokumenten_id">PaA 135-284b-14</identifier>
+          </contentItem>
+          <contentItem n="51">
+            <locus>f. 284v a</locus>
+            <title type="incipit">Christo regi regum</title>
+            <identifier type="dokumenten_id">PaA 135-284v a-8</identifier>
+          </contentItem>
+          <contentItem n="52">
+            <locus>f. 284v b</locus>
+            <title type="incipit">Voci vita sit unita</title>
+            <identifier type="dokumenten_id">PaA 135-284v b-7</identifier>
+          </contentItem>
+          <contentItem n="53">
+            <locus from="285a">f. 285a</locus>
+            <title type="incipit">Sancte ingenite genitor</title>
+            <identifier type="dokumenten_id">PaA 135-285a-7</identifier>
+          </contentItem>
+          <contentItem n="54">
+            <locus from="285b">f. 285b</locus>
+            <title type="incipit">Laude canora fulgescit</title>
+            <identifier type="dokumenten_id">PaA 135-285b-5</identifier>
+          </contentItem>
+          <contentItem n="55">
+            <locus>f. 285v a</locus>
+            <title type="incipit">Maria mater egregia</title>
+            <identifier type="dokumenten_id">PaA 135-285v a-5</identifier>
+          </contentItem>
+          <contentItem n="56">
+            <locus>f. 285v a</locus>
+            <title type="incipit">Gaude virgo mater dei</title>
+            <identifier type="dokumenten_id">PaA 135-285v a-9</identifier>
+          </contentItem>
+          <contentItem n="57">
+            <locus>f. 285v b</locus>
+            <title type="incipit">Splendor patris tuae matris</title>
+            <identifier type="dokumenten_id">PaA 135-285v b-6</identifier>
+          </contentItem>
+          <contentItem n="58">
+            <locus from="286a">f. 286a</locus>
+            <title type="incipit">Mariam concrepet</title>
+            <identifier type="dokumenten_id">PaA 135-286a-5</identifier>
+          </contentItem>
+          <contentItem n="59">
+            <locus from="286b">f. 286b</locus>
+            <title type="incipit">Sanctus … dominus deus</title>
+            <identifier type="dokumenten_id">PaA 135-286b-12</identifier>
+          </contentItem>
+          <contentItem n="60">
+            <locus from="286b">f. 286b</locus>
+            <title type="incipit">Salve mater salvatoris mater</title>
+            <identifier type="dokumenten_id">PaA 135-286b-2</identifier>
+          </contentItem>
+          <contentItem n="61">
+            <locus>f. 286v a</locus>
+            <title type="incipit">Sanctus … dominus deus</title>
+            <identifier type="dokumenten_id">PaA 135-286v a-13</identifier>
+          </contentItem>
+          <contentItem n="62">
+            <locus>f. 286v a</locus>
+            <title type="incipit">Sanctus … dominus deus</title>
+            <identifier type="dokumenten_id">PaA 135-286v a-3</identifier>
+          </contentItem>
+          <contentItem n="63">
+            <locus>f. 286v a</locus>
+            <title type="incipit">Sanctus … dominus deus</title>
+            <identifier type="dokumenten_id">PaA 135-286v a-8</identifier>
+          </contentItem>
+          <contentItem n="64">
+            <locus>f. 286v b</locus>
+            <title type="incipit">Consolator peccatoris</title>
+            <identifier type="dokumenten_id">PaA 135-286v b-12</identifier>
+          </contentItem>
+          <contentItem n="65">
+            <locus>f. 286v b</locus>
+            <title type="incipit">Sanctus … dominus deus</title>
+            <identifier type="dokumenten_id">PaA 135-286v b-4</identifier>
+          </contentItem>
+          <contentItem n="66">
+            <locus>f. 286v b</locus>
+            <title type="incipit">Sanctus … dominus deus</title>
+            <identifier type="dokumenten_id">PaA 135-286v b-8</identifier>
+          </contentItem>
+          <contentItem n="67">
+            <locus from="287a">f. 287a</locus>
+            <title type="incipit">Fons indeficiens</title>
+            <identifier type="dokumenten_id">PaA 135-287a-12</identifier>
+          </contentItem>
+          <contentItem n="68">
+            <locus from="287b">f. 287b</locus>
+            <title type="incipit">Deus deorum creator</title>
+            <identifier type="dokumenten_id">PaA 135-287b-11</identifier>
+          </contentItem>
+          <contentItem n="69">
+            <locus from="287b">f. 287b</locus>
+            <title type="incipit">Lux lucis</title>
+            <identifier type="dokumenten_id">PaA 135-287b-4</identifier>
+          </contentItem>
+          <contentItem n="70">
+            <locus>f. 287v a</locus>
+            <title type="incipit">Qui deus es verus</title>
+            <identifier type="dokumenten_id">PaA 135-287v a-11</identifier>
+          </contentItem>
+          <contentItem n="71">
+            <locus>f. 287v a</locus>
+            <title type="incipit">Mortis dira</title>
+            <identifier type="dokumenten_id">PaA 135-287v a-4</identifier>
+          </contentItem>
+          <contentItem n="72">
+            <locus>f. 287v b</locus>
+            <title type="incipit">Qui pius ac mitis</title>
+            <identifier type="dokumenten_id">PaA 135-287v b-11</identifier>
+          </contentItem>
+          <contentItem n="73">
+            <locus>f. 287v b</locus>
+            <title type="incipit">Omnipotens pater</title>
+            <identifier type="dokumenten_id">PaA 135-287v b-4</identifier>
+          </contentItem>
+          <contentItem n="74">
+            <locus from="288a">f. 288a</locus>
+            <title type="incipit">Splendor Christe ... et perpes</title>
+            <identifier type="dokumenten_id">PaA 135-288a-13</identifier>
+          </contentItem>
+          <contentItem n="75">
+            <locus from="288a">f. 288a</locus>
+            <title type="incipit">Rex aeternae gloriae</title>
+            <identifier type="dokumenten_id">PaA 135-288a-2</identifier>
+          </contentItem>
+          <contentItem n="76">
+            <locus from="288a">f. 288a</locus>
+            <title type="incipit">Laus matris splendorque</title>
+            <identifier type="dokumenten_id">PaA 135-288a-8</identifier>
+          </contentItem>
+          <contentItem n="77">
+            <locus from="288b">f. 288b</locus>
+            <title type="incipit">Qui de carne puellari</title>
+            <identifier type="dokumenten_id">PaA 135-288b-11</identifier>
+          </contentItem>
+          <contentItem n="78">
+            <locus from="288b">f. 288b</locus>
+            <title type="incipit">Gloriosa spes reorum</title>
+            <identifier type="dokumenten_id">PaA 135-288b-3</identifier>
+          </contentItem>
+          <contentItem n="79">
+            <locus>f. 288v a</locus>
+            <title type="incipit">Factus homo sumpta</title>
+            <identifier type="dokumenten_id">PaA 135-288v a-13</identifier>
+          </contentItem>
+          <contentItem n="80">
+            <locus>f. 288v a</locus>
+            <title type="incipit">Eructavit cor meum</title>
+            <identifier type="dokumenten_id">PaA 135-288v a-3</identifier>
+          </contentItem>
+          <contentItem n="81">
+            <locus>f. 288v a</locus>
+            <title type="incipit">Flos de flore</title>
+            <identifier type="dokumenten_id">PaA 135-288v a-9</identifier>
+          </contentItem>
+          <contentItem n="82">
+            <locus>f. 288v b</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">PaA 135-288v b-4</identifier>
+          </contentItem>
+          <contentItem n="83">
+            <locus>f. 288v b</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">PaA 135-288v b-9</identifier>
+          </contentItem>
+          <contentItem n="84">
+            <locus>f. 300v a</locus>
+            <title type="incipit">Kyrie pater aeterne</title>
+            <identifier type="dokumenten_id">PaA 135-300v a-24</identifier>
+          </contentItem>
+          <contentItem n="85">
+            <locus from="301a">f. 301a</locus>
+            <title type="incipit">Gloria in excelsis*</title>
+            <identifier type="dokumenten_id">PaA 135-301a-9</identifier>
+          </contentItem>
+          <contentItem n="86">
+            <locus from="305b">f. 305b</locus>
+            <title type="incipit">Credo in unum deum*</title>
+            <identifier type="dokumenten_id">PaA 135-305b-33</identifier>
+          </contentItem>
+          <contentItem n="87">
+            <locus>f. 7v a</locus>
+            <title type="incipit">Gloria in excelsis*</title>
+            <identifier type="dokumenten_id">PaA 135-7v a-39</identifier>
+          </contentItem>
+          <contentItem n="88">
+            <locus>f. 7v a</locus>
+            <title type="incipit">Ite missa est*</title>
+            <identifier type="dokumenten_id">PaA 135-7v a-40</identifier>
+          </contentItem>
+          <contentItem n="89">
+            <locus from="84a">f. 84a</locus>
+            <title type="incipit">Gloria in excelsis*</title>
+            <identifier type="dokumenten_id">PaA 135-84a-2b</identifier>
+          </contentItem>
+          <contentItem n="90">
+            <locus from="84a">f. 84a</locus>
+            <title type="incipit">Agnus dei*</title>
+            <identifier type="dokumenten_id">PaA 135-84a-5</identifier>
+          </contentItem>
+          <contentItem n="91">
+            <locus from="84a">f. 84a</locus>
+            <title type="incipit">Ite missa est*</title>
+            <identifier type="dokumenten_id">PaA 135-84a-7</identifier>
+          </contentItem>
+          <contentItem n="92">
+            <locus from="8b">f. 8b</locus>
+            <title type="incipit">Credo in unum deum*</title>
+            <identifier type="dokumenten_id">PaA 135-8b-27</identifier>
+          </contentItem>
+          <contentItem n="93">
+            <locus from="8b">f. 8b</locus>
+            <title type="incipit">Credo in unum deum*</title>
+            <identifier type="dokumenten_id">PaA 135-8b-29</identifier>
+          </contentItem>
+          <contentItem n="94">
+            <locus from="8b">f. 8b</locus>
+            <title type="incipit">Credo in unum deum*</title>
+            <identifier type="dokumenten_id">PaA 135-8b-34</identifier>
+          </contentItem>
+          <contentItem n="95">
+            <locus>f. 94v b</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">PaA 135-94v b-14</identifier>
+          </contentItem>
+          <contentItem n="96">
+            <locus from="95a">f. 95a</locus>
+            <title type="incipit">Gloria in excelsis*</title>
+            <identifier type="dokumenten_id">PaA 135-95a-4</identifier>
+          </contentItem>
+          <contentItem n="97">
+            <locus>f. 95v a</locus>
+            <title type="incipit">Ite missa est</title>
+            <identifier type="dokumenten_id">PaA 135-95v a-18</identifier>
+          </contentItem>
+          <contentItem n="98">
+            <locus>f. 95v b</locus>
+            <title type="incipit">Kyrie eleyson*</title>
+            <identifier type="dokumenten_id">PaA 135-95v b-5</identifier>
+          </contentItem>
+          <contentItem n="99">
+            <locus>f. 95v b</locus>
+            <title type="incipit">Gloria in excelsis*</title>
+            <identifier type="dokumenten_id">PaA 135-95v b-6</identifier>
+          </contentItem>
+        </contents>
+        <notesStmt>
+          <annot type="description">
+            <ref target="PaA_135.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <classification>
+          <termList>
+            <term type="quellentyp">Missale</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">Ms. 135</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">Paris</geogName>
+                <corpName>Bibliothèque de l’ Arsenal</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+        <relationList>
+          <relation rel="hasReproduction" target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b550057271/manifest.json" label="IIIF manifest" />
+        </relationList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

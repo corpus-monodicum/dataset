@@ -1,0 +1,41 @@
+{
+  "id": "44e8d22e-e5bf-4ace-b6cf-0e2f6b178022",
+  "quelle_id": "Pa 14452",
+  "dokumenten_id": "Pa 14452-227-9",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Monica",
+  "feier": "Messe",
+  "textinitium": "Augustini magni patris",
+  "bibliographischerverweis": "AH 9, 308",
+  "druckausgabe": "CM III",
+  "zeilenstart": "9",
+  "foliostart": "227",
+  "kommentar": "Nachtrag_6",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "228v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "Nachtrag_6",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

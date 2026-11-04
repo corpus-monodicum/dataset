@@ -1,0 +1,41 @@
+{
+  "id": "da76230f-f70a-4a71-9377-308589153435",
+  "quelle_id": "Pa 14452",
+  "dokumenten_id": "Pa 14452-196-12",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Matthaeus",
+  "feier": "Messe",
+  "textinitium": "Iucundare plebs fidelis cuius",
+  "bibliographischerverweis": "AH 55, 7",
+  "druckausgabe": "CM III",
+  "zeilenstart": "12",
+  "foliostart": "196",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "197v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

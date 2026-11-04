@@ -1,0 +1,41 @@
+{
+  "id": "b7ec3d2a-4ee4-4894-a806-6338ec2c3dc4",
+  "quelle_id": "Pia 65",
+  "dokumenten_id": "Pia 65-245b-16",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Michael",
+  "feier": "Messe",
+  "textinitium": "Principis aetherei",
+  "bibliographischerverweis": "Benedicite intr 28 A 29 B 17 C D A E A (CT X)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "16",
+  "foliostart": "245b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Benedicite",
+    "Endseite": "245v-a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Benedicite intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

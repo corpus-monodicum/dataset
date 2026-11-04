@@ -1,0 +1,25 @@
+{
+  "id": "Mod 7",
+  "quellensigle": "Mod 7",
+  "herkunftsregion": "Quellen italienischer Herkunft",
+  "herkunftsort": "Forlimpopoli",
+  "herkunftsinstitution": "",
+  "ordenstradition": "",
+  "quellentyp": "Graduale mit Tropen und Sequenzen, Kyriale",
+  "bibliotheksort": "Modena",
+  "bibliothek": "Biblioteca Capitolare",
+  "bibliothekssignatur": "O.I.7",
+  "kommentar": "",
+  "datierung": "11. Jh – 12. Jh",
+  "status": "",
+  "jahrhundert": "11., 12.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Mod 7",
+  "cantus_century": "11., 12.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Mod_7.description.md"
+  }
+}

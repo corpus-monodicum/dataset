@@ -1,0 +1,41 @@
+{
+  "id": "37e622ba-c27b-40c4-8277-36605f4b77cd",
+  "quelle_id": "Or 201",
+  "dokumenten_id": "Or 201-203-9",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Nicolaus",
+  "feier": "Laudes",
+  "textinitium": "Pro qua causa",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "9",
+  "foliostart": "203",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "203",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Or 201-196-16S",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Nicholas play: Son of Getron",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

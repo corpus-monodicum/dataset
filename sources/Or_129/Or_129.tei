@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Or 129: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Edition (Spiele)</resp>
+          <persName>Elaine Stratton Hild</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="Or_129">
+          <msIdentifier>
+            <settlement>Orléans</settlement>
+            <repository>Bibliothèque municipale</repository>
+            <idno type="shelfmark">Ms. 129</idno>
+            <altIdentifier type="siglum">
+              <idno>Or 129</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>Or 129</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="149">f. 149</locus>
+              <title type="incipit">Christus vincit</title>
+              <idno type="dokumenten_id">Or 129-149-1</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="150v">f. 150v</locus>
+              <title type="incipit">Fulgens praeclara</title>
+              <idno type="dokumenten_id">Or 129-150v-1</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="152">f. 152</locus>
+              <title type="incipit">Ego sum alpha et</title>
+              <idno type="dokumenten_id">Or 129-152-5</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="152v">f. 152v</locus>
+              <title type="incipit">Venite populi ad sacrum</title>
+              <idno type="dokumenten_id">Or 129-152v-4</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="153">f. 153</locus>
+              <title type="incipit">Hunc diem</title>
+              <idno type="dokumenten_id">Or 129-153-3</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="153v">f. 153v</locus>
+              <title type="incipit">Ite missa est*</title>
+              <idno type="dokumenten_id">Or 129-153v-15</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="217">f. 217</locus>
+              <title type="incipit">Vidi aquam</title>
+              <idno type="dokumenten_id">Or 129-217-6</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="217v">f. 217v</locus>
+              <title type="incipit">Sedit angelus</title>
+              <idno type="dokumenten_id">Or 129-217v-1</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="217v">f. 217v</locus>
+              <title type="incipit">Christus resurgens</title>
+              <idno type="dokumenten_id">Or 129-217v-8</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="36-b">f. 36-b</locus>
+              <title type="incipit">Quem quaeritis in sepulchro</title>
+              <idno type="dokumenten_id">Or 129-36-b-14</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="36-b">f. 36-b</locus>
+              <title type="incipit">Alleluia resurrexit dominus</title>
+              <idno type="dokumenten_id">Or 129-36-b-20</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="36-b">f. 36-b</locus>
+              <title type="incipit">Deo gratias</title>
+              <idno type="dokumenten_id">Or 129-36-b-21</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="36-b">f. 36-b</locus>
+              <title type="incipit">Ego sum alpha et*</title>
+              <idno type="dokumenten_id">Or 129-36-b-26</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="36v-a">f. 36v-a</locus>
+              <title type="incipit">Venite populi ad sacrum*</title>
+              <idno type="dokumenten_id">Or 129-36v-a-4</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="46-a">f. 46-a</locus>
+              <title type="incipit">Ite in orbem*</title>
+              <idno type="dokumenten_id">Or 129-46-a-11</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="46-a">f. 46-a</locus>
+              <title type="incipit">Cum pervenisset</title>
+              <idno type="dokumenten_id">Or 129-46-a-13</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="46-a">f. 46-a</locus>
+              <idno type="dokumenten_id">Or 129-46-a-14b</idno>
+            </msItem>
+            <msItem n="18">
+              <locus from="46-a">f. 46-a</locus>
+              <idno type="dokumenten_id">Or 129-46-a-15</idno>
+            </msItem>
+            <msItem n="19">
+              <locus from="46-a">f. 46-a</locus>
+              <title type="incipit">Haec sunt verba*</title>
+              <idno type="dokumenten_id">Or 129-46-a-19</idno>
+            </msItem>
+            <msItem n="20">
+              <locus from="46-a">f. 46-a</locus>
+              <title type="incipit">O rex gloriae*</title>
+              <idno type="dokumenten_id">Or 129-46-a-23</idno>
+            </msItem>
+            <msItem n="21">
+              <locus from="46-a">f. 46-a</locus>
+              <title type="incipit">Vidi aquam*</title>
+              <idno type="dokumenten_id">Or 129-46-a-26</idno>
+            </msItem>
+            <msItem n="22">
+              <locus from="46-b">f. 46-b</locus>
+              <title type="incipit">Christus resurgens*</title>
+              <idno type="dokumenten_id">Or 129-46-b-13</idno>
+            </msItem>
+            <msItem n="23">
+              <locus from="46-b">f. 46-b</locus>
+              <title type="incipit">Quem cernitis*</title>
+              <idno type="dokumenten_id">Or 129-46-b-17</idno>
+            </msItem>
+            <msItem n="24">
+              <locus from="46-b">f. 46-b</locus>
+              <title type="incipit">Sedit angelus*</title>
+              <idno type="dokumenten_id">Or 129-46-b-6</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Fleury</settlement>
+                <region>Quellen französischer Herkunft</region>
+              </origPlace>
+              <origDate>13. Jh</origDate>
+            </origin>
+          </history>
+          <additional>
+            <adminInfo>
+              <note type="description">
+                <ref target="Or_129.description.md">Source description</ref>
+              </note>
+            </adminInfo>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

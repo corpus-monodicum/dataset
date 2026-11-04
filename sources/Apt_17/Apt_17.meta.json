@@ -1,0 +1,25 @@
+{
+  "id": "Apt 17",
+  "quellensigle": "Apt 17",
+  "herkunftsregion": "Quellen aquitanischer Herkunft",
+  "herkunftsort": "Apt",
+  "herkunftsinstitution": "",
+  "ordenstradition": "",
+  "quellentyp": "Tropar, Prosar",
+  "bibliotheksort": "Apt",
+  "bibliothek": "Archive Basilique de Sainte Anne",
+  "bibliothekssignatur": "Ms. 17",
+  "kommentar": "",
+  "datierung": "11. Jh Mitte",
+  "status": "",
+  "jahrhundert": "11.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "F-APT 17",
+  "cantus_century": "11.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Apt_17.description.md"
+  }
+}

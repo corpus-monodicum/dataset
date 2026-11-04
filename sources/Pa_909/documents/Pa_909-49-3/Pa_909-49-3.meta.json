@@ -1,0 +1,41 @@
+{
+  "id": "ccf1c2b0-becf-4c3f-80b2-0755de60f031",
+  "quelle_id": "Pa 909",
+  "dokumenten_id": "Pa 909-49-3",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Nativitas Mariae",
+  "feier": "Messe",
+  "textinitium": "Caelitus instructi",
+  "bibliographischerverweis": "Gaud 97 A 109 D 110 F H 104 A 56c D 49b A 50 B 51 C 105 D 106 E 107 F 108 G 67 A 68 B 69 C 70 F 93 A (CT IX)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "3",
+  "foliostart": "49",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "Gaudeamus",
+    "Endseite": "49v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

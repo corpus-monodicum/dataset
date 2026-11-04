@@ -1,0 +1,41 @@
+{
+  "id": "1df2081d-01a5-43c7-aa81-204279c5cf94",
+  "quelle_id": "Ass 695",
+  "dokumenten_id": "Ass 695-128v-5",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Annuntiatio Mariae",
+  "feier": "Messe",
+  "textinitium": "Salve mater salvatoris vas electum",
+  "bibliographischerverweis": "AH 54, 245",
+  "druckausgabe": "CM III",
+  "zeilenstart": "5",
+  "foliostart": "128v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "130",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "Beginn fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

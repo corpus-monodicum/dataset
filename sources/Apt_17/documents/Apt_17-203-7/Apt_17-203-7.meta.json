@@ -1,0 +1,41 @@
+{
+  "id": "eb6e9f1e-66e1-4298-bfb0-97c7ee60d841",
+  "quelle_id": "Apt 17",
+  "dokumenten_id": "Apt 17-203-7",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Ascensio domini",
+  "feier": "Messe",
+  "textinitium": "Rex omnipotens",
+  "bibliographischerverweis": "AH 53, 66",
+  "druckausgabe": "",
+  "zeilenstart": "7",
+  "foliostart": "203",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "207",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Occidentana",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

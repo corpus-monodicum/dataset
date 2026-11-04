@@ -1,0 +1,41 @@
+{
+  "id": "f4156e0b-5b87-47c5-9d39-f3ae2e8c3b3f",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-158v-19",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Pascha",
+  "feier": "Messe",
+  "textinitium": "Laudes salvatori",
+  "bibliographischerverweis": "AH 53, 36",
+  "druckausgabe": "CM III",
+  "zeilenstart": "19",
+  "foliostart": "158v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "159",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "20",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Frigdola",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "A",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

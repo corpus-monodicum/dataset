@@ -1,0 +1,41 @@
+{
+  "id": "cb58bae8-88cd-4bf8-9291-51ed469d3ea0",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-24-8",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Innocentes",
+  "feier": "Messe",
+  "textinitium": "Filii carissimi",
+  "bibliographischerverweis": "Innoc intr 23 A 24 B 25 C D 29 A 30 C (CT I)",
+  "druckausgabe": "II-1",
+  "zeilenstart": "8",
+  "foliostart": "24",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "Pro 12 24-4-",
+    "Endseite": "24",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Innoc intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

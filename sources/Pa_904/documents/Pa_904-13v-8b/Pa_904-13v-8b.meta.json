@@ -1,0 +1,41 @@
+{
+  "id": "2d18aa0f-9c9a-4a2c-b6d7-04ad5f47076d",
+  "quelle_id": "Pa 904",
+  "dokumenten_id": "Pa 904-13v-8b",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Lectio",
+  "festtag": "Nativitas domini",
+  "feier": "Messe",
+  "textinitium": "Exiit edictum a Caesare*",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "8",
+  "foliostart": "13v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "13v",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "Pa 904-12v-22S",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Christmas play",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

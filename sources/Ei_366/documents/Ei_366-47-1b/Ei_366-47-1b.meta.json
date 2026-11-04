@@ -1,0 +1,41 @@
+{
+  "id": "7fb1b404-4fec-4dfd-b620-b6b0c696fda5",
+  "quelle_id": "Ei 366",
+  "dokumenten_id": "Ei 366-47-1b",
+  "gattung1": "Sequenz",
+  "gattung2": "Textlos",
+  "festtag": "Nicolaus",
+  "feier": "Messe",
+  "textinitium": "Alleluia",
+  "bibliographischerverweis": "AH 54, 66",
+  "druckausgabe": "CM III",
+  "zeilenstart": "1",
+  "foliostart": "47",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "47b",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "Beginn fehlt; Abschnitt im Inneren fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "Nachtrag 2",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

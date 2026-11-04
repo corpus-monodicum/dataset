@@ -1,0 +1,41 @@
+{
+  "id": "0cae017b-121f-4aa4-ad91-a2c5c6854d73",
+  "quelle_id": "Ut 417",
+  "dokumenten_id": "Ut 417-50v-13",
+  "gattung1": "Gloria",
+  "gattung2": "tropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Spiritus et alme",
+  "bibliographischerverweis": "CT XII, 94: 1 2 3 4 5 6",
+  "druckausgabe": "",
+  "zeilenstart": "13",
+  "foliostart": "50v",
+  "kommentar": "Nachtrag am unteren Rand",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "51",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "14",
+    "Melodiennummer_Katalog": "Bosse 23",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509502",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

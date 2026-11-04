@@ -1,0 +1,25 @@
+{
+  "id": "Vat 3797",
+  "quellensigle": "Vat 3797",
+  "herkunftsregion": "Quellen italienischer Herkunft",
+  "herkunftsort": "Faenza",
+  "herkunftsinstitution": "Einsiedelei Fonte Avellana",
+  "ordenstradition": "",
+  "quellentyp": "",
+  "bibliotheksort": "Roma",
+  "bibliothek": "Biblioteca Apostolica Vaticana",
+  "bibliothekssignatur": "Vat. lat. 3797",
+  "kommentar": "",
+  "datierung": "",
+  "status": "",
+  "jahrhundert": "11.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Vat 3797",
+  "cantus_century": "11.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Vat_3797.description.md"
+  }
+}

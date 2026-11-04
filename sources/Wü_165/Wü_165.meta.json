@@ -1,0 +1,25 @@
+{
+  "id": "Wü 165",
+  "quellensigle": "Wü 165",
+  "herkunftsregion": "Quellen deutscher Herkunft",
+  "herkunftsort": "Würzburg",
+  "herkunftsinstitution": "Stift Haug",
+  "ordenstradition": "",
+  "quellentyp": "Graduale mit Tropen, Kyriale mit Tropen, Sequentiar",
+  "bibliotheksort": "Würzburg",
+  "bibliothek": "Universitätsbibliothek",
+  "bibliothekssignatur": "M. p. th. f. 165",
+  "kommentar": "",
+  "datierung": "14. Jh 2. Hälfte",
+  "status": "",
+  "jahrhundert": "14.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Wü 165",
+  "cantus_century": "14.",
+  "dataset_external_files": {
+    "beschreibung": "Wü_165.description.md",
+    "notationsdokumentation": "notation/Wü_165.notation.md"
+  }
+}

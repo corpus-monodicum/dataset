@@ -1,0 +1,41 @@
+{
+  "id": "affeeef7-d15e-4e67-9993-6b20d84aa01d",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-227v-6a",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominica XVIII post Pentecosten",
+  "feier": "Messe",
+  "textinitium": "Alte vox psallat*",
+  "bibliographischerverweis": "AH 7, 94",
+  "druckausgabe": "CM III",
+  "zeilenstart": "6",
+  "foliostart": "227v",
+  "kommentar": "Korrigiert aus: Dominica XXI post pentecosten",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "227v",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Dulce lignum",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

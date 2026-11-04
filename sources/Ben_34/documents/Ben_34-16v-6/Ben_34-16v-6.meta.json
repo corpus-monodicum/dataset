@@ -1,0 +1,41 @@
+{
+  "id": "dbb78494-ef98-4243-ac76-905e96284e30",
+  "quelle_id": "Ben 34",
+  "dokumenten_id": "Ben 34-16v-6",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Nativitas domini",
+  "feier": "3. Messe",
+  "textinitium": "Ecce adest",
+  "bibliographischerverweis": "Nat III intr 33 A 31 B 32 C 76 D 51 E (CT I)",
+  "druckausgabe": "",
+  "zeilenstart": "6",
+  "foliostart": "16v",
+  "kommentar": "folgt Lücke, daher möglicherweise unvollständig überliefert",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "(Puer natus)",
+    "Endseite": "16v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Nat III intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

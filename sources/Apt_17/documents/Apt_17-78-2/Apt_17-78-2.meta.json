@@ -1,0 +1,41 @@
+{
+  "id": "b5f2c2e8-19c4-422d-9eb6-21167fc1ac88",
+  "quelle_id": "Apt 17",
+  "dokumenten_id": "Apt 17-78-2",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Innocentes",
+  "feier": "Messe",
+  "textinitium": "Hodie parvulorum",
+  "bibliographischerverweis": "Innoc intr 1 A 2 B 3 C 4 D 31 A 32 D E 29 A 30 D 23 A 24 C 25 D 27 A 28 D 53 A 34 C 35 D 58 F 59 G A (CT I)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "2",
+  "foliostart": "78",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "(Ex ore)",
+    "Endseite": "81",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Innoc intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "a0e98b18-d296-41bc-85b6-e2d932e67b82",
+  "quelle_id": "Pa 1138",
+  "dokumenten_id": "Pa 1138-121v-3",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Andreas",
+  "feier": "Messe",
+  "textinitium": "Haec est festivitas",
+  "bibliographischerverweis": "AH 7, 124",
+  "druckausgabe": "",
+  "zeilenstart": "3",
+  "foliostart": "121v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "122v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "(Almiflua caelorum)",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

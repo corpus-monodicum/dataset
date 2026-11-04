@@ -1,0 +1,41 @@
+{
+  "id": "3040c7fd-a7d4-4506-b408-9d524dd94e14",
+  "quelle_id": "Pa 904",
+  "dokumenten_id": "Pa 904-91-7",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Feria VI in Parasceve",
+  "feier": "Officium adorande crucis",
+  "textinitium": "Agios o theos*",
+  "bibliographischerverweis": "CAO 8450",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "7",
+  "foliostart": "91",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "91",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Pa 904-90v-10S",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Good Friday / Adoration of the Cross",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

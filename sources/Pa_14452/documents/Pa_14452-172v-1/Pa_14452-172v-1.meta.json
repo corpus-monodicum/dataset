@@ -1,0 +1,41 @@
+{
+  "id": "d4697ff1-7382-402d-9d39-87b59e20f2b2",
+  "quelle_id": "Pa 14452",
+  "dokumenten_id": "Pa 14452-172v-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Sabbatum post Pentecosten",
+  "feier": "Messe",
+  "textinitium": "Alma chorus domini",
+  "bibliographischerverweis": "AH 53, 87",
+  "druckausgabe": "CM III",
+  "zeilenstart": "1",
+  "foliostart": "172v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "172v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Tuba (A)",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

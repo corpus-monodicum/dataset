@@ -1,0 +1,41 @@
+{
+  "id": "c5ddce33-5c27-4701-9263-66c5a3939cac",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-30v-3",
+  "gattung1": "Antiphon",
+  "gattung2": "Offertorium",
+  "festtag": "Epiphania",
+  "feier": "Messe",
+  "textinitium": "Reges Tharsis",
+  "bibliographischerverweis": "AMS 18",
+  "druckausgabe": "II-1",
+  "zeilenstart": "3",
+  "foliostart": "30v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "30v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

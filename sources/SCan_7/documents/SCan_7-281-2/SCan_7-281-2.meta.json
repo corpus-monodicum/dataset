@@ -1,0 +1,41 @@
+{
+  "id": "34753113-987c-47e6-9a80-005cbd13ff4a",
+  "quelle_id": "SCan 7",
+  "dokumenten_id": "SCan 7-281-2",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Apostoli",
+  "feier": "Messe",
+  "textinitium": "Clare sanctorum",
+  "bibliographischerverweis": "AH 53, 228",
+  "druckausgabe": "",
+  "zeilenstart": "2",
+  "foliostart": "281",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Gionata Brusa",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "281v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Aurea",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

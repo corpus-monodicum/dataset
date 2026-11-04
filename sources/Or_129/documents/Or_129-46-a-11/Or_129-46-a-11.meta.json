@@ -1,0 +1,41 @@
+{
+  "id": "5d63a9da-7f2f-4b1c-8cfd-4cda5a2cbb90",
+  "quelle_id": "Or 129",
+  "dokumenten_id": "Or 129-46-a-11",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Responsorium",
+  "festtag": "Ascensio domini",
+  "feier": "",
+  "textinitium": "Ite in orbem*",
+  "bibliographischerverweis": "CAO 7028",
+  "druckausgabe": "",
+  "zeilenstart": "11",
+  "foliostart": "46-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "46",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Or 129-46-a-11S",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Ascension play",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

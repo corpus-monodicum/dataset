@@ -1,0 +1,41 @@
+{
+  "id": "5f13e85e-dd45-4b20-b870-cc1f5e4c036c",
+  "quelle_id": "Mod 7",
+  "dokumenten_id": "Mod 7-19v-7",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Iohannes Evangelista",
+  "feier": "Messe",
+  "textinitium": "Gratia celsa dei",
+  "bibliographischerverweis": "Ioh ev intr 21 A 22 B 23 C 76 D 77 E 78 A (CT I)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "7",
+  "foliostart": "19v",
+  "kommentar": "Elemente 22, 23 und 76 radiert",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "In medio",
+    "Endseite": "20",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "Abschnitt im Inneren fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Ioh ev intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "bbddab3b-d365-40b5-bfbe-f0c0b5875f4c",
+  "quelle_id": "Ut 417",
+  "dokumenten_id": "Ut 417-5v-13",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Agnes",
+  "feier": "Messe",
+  "textinitium": "Virginis venerandae",
+  "bibliographischerverweis": "AH 53, 246",
+  "druckausgabe": "",
+  "zeilenstart": "13",
+  "foliostart": "5v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "6",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Filia matris",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

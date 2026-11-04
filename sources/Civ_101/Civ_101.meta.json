@@ -1,0 +1,25 @@
+{
+  "id": "Civ 101",
+  "quellensigle": "Civ 101",
+  "herkunftsregion": "Quellen italienischer Herkunft",
+  "herkunftsort": "Cividale del Friuli",
+  "herkunftsinstitution": "Kathedrale Santa Maria Assunta",
+  "ordenstradition": "",
+  "quellentyp": "Prozessionar, liturgische Spiele",
+  "bibliotheksort": "Cividale",
+  "bibliothek": "Museo Archeologico Nazionale",
+  "bibliothekssignatur": "Ms. CI",
+  "kommentar": "",
+  "datierung": "15. Jh",
+  "status": "",
+  "jahrhundert": "14., 15.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Civ 101",
+  "cantus_century": "14., 15.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Civ_101.description.md"
+  }
+}

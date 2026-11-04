@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Pia 65: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Michael Klaper</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Gunilla Iversen</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Ritva Maria Jacobsson</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="Pia_65">
+        <identifier type="siglum">Pia 65</identifier>
+        <identifier type="cantus">Pia 65</identifier>
+        <titleStmt>
+          <title>Pia 65</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Piacenza</geogName>
+          <geogName role="origin-region">Quellen italienischer Herkunft</geogName>
+          <corpName role="origin-institution">Kathedrale</corpName>
+          <date>12. Jh Ende</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="151v-a">f. 151v-a</locus>
+            <title type="incipit">Ad te levavi</title>
+            <identifier type="dokumenten_id">Pia 65-151v-a-11</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="151v-a">f. 151v-a</locus>
+            <title type="incipit">Gregorius praesul</title>
+            <identifier type="dokumenten_id">Pia 65-151v-a-5</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="154v-b">f. 154v-b</locus>
+            <title type="incipit">Lux fulgebit</title>
+            <identifier type="dokumenten_id">Pia 65-154v-b-7</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="198b">f. 198b</locus>
+            <title type="incipit">Benedicite dominum</title>
+            <identifier type="dokumenten_id">Pia 65-198b-6</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="199b">f. 199b</locus>
+            <title type="incipit">In medio ecclesiae</title>
+            <identifier type="dokumenten_id">Pia 65-199b-5</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="201a">f. 201a</locus>
+            <title type="incipit">Nunc scio vere</title>
+            <identifier type="dokumenten_id">Pia 65-201a-4</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="202v-a">f. 202v-a</locus>
+            <title type="incipit">Mihi autem</title>
+            <identifier type="dokumenten_id">Pia 65-202v-a-12</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="203v-a">f. 203v-a</locus>
+            <title type="incipit">Etenim sederunt</title>
+            <identifier type="dokumenten_id">Pia 65-203v-a-5</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="204a">f. 204a</locus>
+            <title type="incipit">Ex ore infantium</title>
+            <identifier type="dokumenten_id">Pia 65-204a-14</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="205a">f. 205a</locus>
+            <title type="incipit">Laetabitur iustus</title>
+            <identifier type="dokumenten_id">Pia 65-205a-8</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus from="208a">f. 208a</locus>
+            <title type="incipit">Clamaverunt</title>
+            <identifier type="dokumenten_id">Pia 65-208a-1</identifier>
+          </contentItem>
+          <contentItem n="12">
+            <locus from="209v-a">f. 209v-a</locus>
+            <title type="incipit">De ventre</title>
+            <identifier type="dokumenten_id">Pia 65-209v-a-20</identifier>
+          </contentItem>
+          <contentItem n="13">
+            <locus from="212v-a">f. 212v-a</locus>
+            <title type="incipit">Confessio</title>
+            <identifier type="dokumenten_id">Pia 65-212v-a-19</identifier>
+          </contentItem>
+          <contentItem n="14">
+            <locus from="215b">f. 215b</locus>
+            <title type="incipit">Os iusti</title>
+            <identifier type="dokumenten_id">Pia 65-215b-12</identifier>
+          </contentItem>
+          <contentItem n="15">
+            <locus from="215v-a">f. 215v-a</locus>
+            <title type="incipit">Statuit ei dominus</title>
+            <identifier type="dokumenten_id">Pia 65-215v-a-8</identifier>
+          </contentItem>
+          <contentItem n="16">
+            <locus from="217v-b">f. 217v-b</locus>
+            <title type="incipit">Me exspectaverunt</title>
+            <identifier type="dokumenten_id">Pia 65-217v-b-16</identifier>
+          </contentItem>
+          <contentItem n="17">
+            <locus from="218v-b">f. 218v-b</locus>
+            <title type="incipit">Suscepimus</title>
+            <identifier type="dokumenten_id">Pia 65-218v-b-15</identifier>
+          </contentItem>
+          <contentItem n="18">
+            <locus from="222b">f. 222b</locus>
+            <title type="incipit">Dilexisti</title>
+            <identifier type="dokumenten_id">Pia 65-222b-6</identifier>
+          </contentItem>
+          <contentItem n="19">
+            <locus from="228v-b">f. 228v-b</locus>
+            <title type="incipit">Quem quaeritis in praesepe</title>
+            <identifier type="dokumenten_id">Pia 65-228v-b-1</identifier>
+          </contentItem>
+          <contentItem n="20">
+            <locus from="229b">f. 229b</locus>
+            <title type="incipit">Iam fulget</title>
+            <identifier type="dokumenten_id">Pia 65-229b-17</identifier>
+          </contentItem>
+          <contentItem n="21">
+            <locus from="229v-a">f. 229v-a</locus>
+            <title type="incipit">Ecce adest</title>
+            <identifier type="dokumenten_id">Pia 65-229v-a-5</identifier>
+          </contentItem>
+          <contentItem n="22">
+            <locus from="230v-a">f. 230v-a</locus>
+            <title type="incipit">Tui sunt caeli ... orbem</title>
+            <identifier type="dokumenten_id">Pia 65-230v-a-14</identifier>
+          </contentItem>
+          <contentItem n="23">
+            <locus from="231a">f. 231a</locus>
+            <title type="incipit">Viderunt omnes ... eia laus</title>
+            <identifier type="dokumenten_id">Pia 65-231a-18</identifier>
+          </contentItem>
+          <contentItem n="24">
+            <locus from="231b">f. 231b</locus>
+            <title type="incipit">Salus martyrum</title>
+            <identifier type="dokumenten_id">Pia 65-231b-4</identifier>
+          </contentItem>
+          <contentItem n="25">
+            <locus from="231v-a">f. 231v-a</locus>
+            <title type="incipit">Ille qui dixit</title>
+            <identifier type="dokumenten_id">Pia 65-231v-a-17</identifier>
+          </contentItem>
+          <contentItem n="26">
+            <locus from="232a">f. 232a</locus>
+            <title type="incipit">Dicite nunc</title>
+            <identifier type="dokumenten_id">Pia 65-232a-6</identifier>
+          </contentItem>
+          <contentItem n="27">
+            <locus from="232b">f. 232b</locus>
+            <title type="incipit">Quem nasci</title>
+            <identifier type="dokumenten_id">Pia 65-232b-14</identifier>
+          </contentItem>
+          <contentItem n="28">
+            <locus from="233a">f. 233a</locus>
+            <title type="incipit">Ecclesiae sponsus</title>
+            <identifier type="dokumenten_id">Pia 65-233a-2</identifier>
+          </contentItem>
+          <contentItem n="29">
+            <locus from="233v-b">f. 233v-b</locus>
+            <title type="incipit">Maria offerens</title>
+            <identifier type="dokumenten_id">Pia 65-233v-b-13</identifier>
+          </contentItem>
+          <contentItem n="30">
+            <locus from="234v-b">f. 234v-b</locus>
+            <title type="incipit">Quem quaeritis in sepulchro</title>
+            <identifier type="dokumenten_id">Pia 65-234v-b-1</identifier>
+          </contentItem>
+          <contentItem n="31">
+            <locus from="235v-a">f. 235v-a</locus>
+            <title type="incipit">Ab increpatione</title>
+            <identifier type="dokumenten_id">Pia 65-235v-a-6</identifier>
+          </contentItem>
+          <contentItem n="32">
+            <locus from="236a">f. 236a</locus>
+            <title type="incipit">Pascha nostrum ... iubilate</title>
+            <identifier type="dokumenten_id">Pia 65-236a-1</identifier>
+          </contentItem>
+          <contentItem n="33">
+            <locus from="238v-a">f. 238v-a</locus>
+            <title type="incipit">Hodie redemptor</title>
+            <identifier type="dokumenten_id">Pia 65-238v-a-1</identifier>
+          </contentItem>
+          <contentItem n="34">
+            <locus from="239b">f. 239b</locus>
+            <title type="incipit">Spiritus almus a throno</title>
+            <identifier type="dokumenten_id">Pia 65-239b-10</identifier>
+          </contentItem>
+          <contentItem n="35">
+            <locus from="240b">f. 240b</locus>
+            <title type="incipit">Celsa concrepet</title>
+            <identifier type="dokumenten_id">Pia 65-240b-3</identifier>
+          </contentItem>
+          <contentItem n="36">
+            <locus from="240v-a">f. 240v-a</locus>
+            <title type="incipit">Audite insulae</title>
+            <identifier type="dokumenten_id">Pia 65-240v-a-18</identifier>
+          </contentItem>
+          <contentItem n="37">
+            <locus from="241a">f. 241a</locus>
+            <title type="incipit">Beatissimus Petrus</title>
+            <identifier type="dokumenten_id">Pia 65-241a-10</identifier>
+          </contentItem>
+          <contentItem n="38">
+            <locus from="241v-a">f. 241v-a</locus>
+            <title type="incipit">Hodie Christo</title>
+            <identifier type="dokumenten_id">Pia 65-241v-a-8</identifier>
+          </contentItem>
+          <contentItem n="39">
+            <locus from="242b">f. 242b</locus>
+            <title type="incipit">Haec est dies celebris</title>
+            <identifier type="dokumenten_id">Pia 65-242b-9</identifier>
+          </contentItem>
+          <contentItem n="40">
+            <locus from="242v-b">f. 242v-b</locus>
+            <title type="incipit">Qui tibi dedit</title>
+            <identifier type="dokumenten_id">Pia 65-242v-b-10</identifier>
+          </contentItem>
+          <contentItem n="41">
+            <locus from="243b">f. 243b</locus>
+            <title type="incipit">Hodie virgo Maria</title>
+            <identifier type="dokumenten_id">Pia 65-243b-8</identifier>
+          </contentItem>
+          <contentItem n="42">
+            <locus from="244b">f. 244b</locus>
+            <title type="incipit">Hodie mundo festivus ... nativitatis Mariae</title>
+            <identifier type="dokumenten_id">Pia 65-244b-6</identifier>
+          </contentItem>
+          <contentItem n="43">
+            <locus from="244v-b">f. 244v-b</locus>
+            <title type="incipit">Gaudeamus omnes de corde</title>
+            <identifier type="dokumenten_id">Pia 65-244v-b-6</identifier>
+          </contentItem>
+          <contentItem n="44">
+            <locus from="245b">f. 245b</locus>
+            <title type="incipit">Principis aetherei</title>
+            <identifier type="dokumenten_id">Pia 65-245b-16</identifier>
+          </contentItem>
+          <contentItem n="45">
+            <locus from="246a">f. 246a</locus>
+            <title type="incipit">Hodie est fratres</title>
+            <identifier type="dokumenten_id">Pia 65-246a-2</identifier>
+          </contentItem>
+          <contentItem n="46">
+            <locus from="246v-a">f. 246v-a</locus>
+            <title type="incipit">Martinus meritis</title>
+            <identifier type="dokumenten_id">Pia 65-246v-a-6</identifier>
+          </contentItem>
+          <contentItem n="47">
+            <locus from="247b">f. 247b</locus>
+            <title type="incipit">Divini fuerat</title>
+            <identifier type="dokumenten_id">Pia 65-247b-12</identifier>
+          </contentItem>
+          <contentItem n="48">
+            <locus from="247v-b">f. 247v-b</locus>
+            <title type="incipit">Festis nunc</title>
+            <identifier type="dokumenten_id">Pia 65-247v-b-17</identifier>
+          </contentItem>
+          <contentItem n="49">
+            <locus from="250b">f. 250b</locus>
+            <title type="incipit">Hodie fratres haec aula</title>
+            <identifier type="dokumenten_id">Pia 65-250b-7</identifier>
+          </contentItem>
+          <contentItem n="50">
+            <locus from="250v-b">f. 250v-b</locus>
+            <title type="incipit">Celebremus ovanter</title>
+            <identifier type="dokumenten_id">Pia 65-250v-b-13</identifier>
+          </contentItem>
+          <contentItem n="51">
+            <locus from="260a">f. 260a</locus>
+            <title type="incipit">Christinae festis</title>
+            <identifier type="dokumenten_id">Pia 65-260a-17</identifier>
+          </contentItem>
+          <contentItem n="52">
+            <locus from="260v-a">f. 260v-a</locus>
+            <title type="incipit">Hodie rutilat</title>
+            <identifier type="dokumenten_id">Pia 65-260v-a-3</identifier>
+          </contentItem>
+        </contents>
+        <notesStmt>
+          <annot type="description">
+            <ref target="Pia_65.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <classification>
+          <termList>
+            <term type="quellentyp">Tonar, Hymnar, Graduale, Kyriale, Tropar, Antiphonar</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">65</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">Piacenza</geogName>
+                <corpName>Biblioteca Capitolare</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

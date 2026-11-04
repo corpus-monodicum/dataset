@@ -1,0 +1,41 @@
+{
+  "id": "c8726f08-341b-423a-9014-3e572d6bfb69",
+  "quelle_id": "Or 201",
+  "dokumenten_id": "Or 201-233-24a",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Sequenz",
+  "festtag": "Lazarus",
+  "feier": "Matutin",
+  "textinitium": "In sapientia disponens*",
+  "bibliographischerverweis": "AH 54, 116",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "24",
+  "foliostart": "233",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "233",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "Or 201-233-24-aS",
+    "Endzeile": "24",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Raising of Lazarus",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

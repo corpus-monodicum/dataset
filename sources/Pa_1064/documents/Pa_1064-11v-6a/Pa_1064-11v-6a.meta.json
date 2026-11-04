@@ -1,0 +1,41 @@
+{
+  "id": "e0f76c36-6e3c-49d4-8b16-16acd5b8329e",
+  "quelle_id": "Pa 1064",
+  "dokumenten_id": "Pa 1064-11v-6a",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Versikel",
+  "festtag": "Feria II post Pascha",
+  "feier": "Vesper",
+  "textinitium": "Gavisi sunt discipuli*",
+  "bibliographischerverweis": "CAO 8080",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "6",
+  "foliostart": "11v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "11v",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "Pa 1064-8-2S",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Journey to Emmaus",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

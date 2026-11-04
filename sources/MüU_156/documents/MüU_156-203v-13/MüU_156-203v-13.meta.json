@@ -1,0 +1,41 @@
+{
+  "id": "bc7ada19-076c-4885-b39d-dec2b998b5f4",
+  "quelle_id": "MüU 156",
+  "dokumenten_id": "MüU 156-203v-13",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Elisabeth",
+  "feier": "Messe",
+  "textinitium": "Gaude Sion quod egressus",
+  "bibliographischerverweis": "AH 55, 120",
+  "druckausgabe": "",
+  "zeilenstart": "13",
+  "foliostart": "203v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Gionata Brusa",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "204v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "-",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0da8e3f7-4ee8-4809-98fa-84a14b91f0a5",
+  "quelle_id": "Ass 695",
+  "dokumenten_id": "Ass 695-141-9",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Iohannes Baptista",
+  "feier": "Messe",
+  "textinitium": "Ad honorem tuum",
+  "bibliographischerverweis": "AH 55, 178",
+  "druckausgabe": "CM III",
+  "zeilenstart": "9",
+  "foliostart": "141",
+  "kommentar": "\"Isti duo versa qui secuntur non dicuntur nisi in decollacione | Capitali iustus pena\"",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "142v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

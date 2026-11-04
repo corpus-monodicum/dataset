@@ -1,0 +1,41 @@
+{
+  "id": "45f95d67-a06d-48ac-aaff-348ecc8b9a1b",
+  "quelle_id": "Or 201",
+  "dokumenten_id": "Or 201-231-19",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Conversio Pauli",
+  "feier": "Matutin",
+  "textinitium": "De hoc Saulo",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "19",
+  "foliostart": "231",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "232",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Or 201-230-14S",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Conversion of Paul",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

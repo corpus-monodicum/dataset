@@ -1,0 +1,41 @@
+{
+  "id": "7ead2289-351a-461b-9842-0371b6f63b4a",
+  "quelle_id": "Or 201",
+  "dokumenten_id": "Or 201-216-20",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Innocentes",
+  "feier": "Matutin",
+  "textinitium": "Salve agnus dei",
+  "bibliographischerverweis": "vgl. CAO 2523",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "20",
+  "foliostart": "216",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "216",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Or 201-215-7-aS",
+    "Endzeile": "25",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Play of the Innocents",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

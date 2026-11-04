@@ -1,0 +1,41 @@
+{
+  "id": "0136da76-58f9-4e5d-af3a-093937e78dca",
+  "quelle_id": "Or 201",
+  "dokumenten_id": "Or 201-215-26a",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Responsorium",
+  "festtag": "Innocentes",
+  "feier": "Matutin",
+  "textinitium": "Aegypte noli flere*",
+  "bibliographischerverweis": "CAO 6056",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "26",
+  "foliostart": "215",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "215",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "Or 201-215-7-aS",
+    "Endzeile": "26",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Play of the Innocents",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

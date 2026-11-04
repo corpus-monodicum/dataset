@@ -1,0 +1,41 @@
+{
+  "id": "6d795a13-f5bd-4764-bacb-79f869d9b723",
+  "quelle_id": "Pa 909",
+  "dokumenten_id": "Pa 909-28-4",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Octava Paschae",
+  "feier": "Messe",
+  "textinitium": "Ecce omnes",
+  "bibliographischerverweis": "Oct pasch intr 8 A 9 B 10 C 11 D E 12 A 13 B 14 C (CT III)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "4",
+  "foliostart": "28",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "Quasi modo",
+    "Endseite": "28v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Oct pasch intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "b70d58ec-0856-4d13-bbc1-18fc003c8ee9",
+  "quelle_id": "Ben 34",
+  "dokumenten_id": "Ben 34-197v-14",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Iohannes Baptista",
+  "feier": "Messe",
+  "textinitium": "Quem prophetae cecinerunt",
+  "bibliographischerverweis": "De ventre intr 22 A 23 B 24 C 84 D 89 E 85 A 86 B 87 C 88 D (CT X)",
+  "druckausgabe": "",
+  "zeilenstart": "14",
+  "foliostart": "197v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "(De ventre)",
+    "Endseite": "198",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "De ventre intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "source": "Pa_1107",
+  "images": [
+    {
+      "file": "patterns/patterns.svg",
+      "kind": "patterns",
+      "media_type": "image/svg+xml",
+      "sha256": "bc3558f1826fb8df0c0582072c093990e423294df7cd6ac4c223eb9532c79b04",
+      "bytes": 25247,
+      "shows": "Pa 1107: Muster &amp; Entsprechungen",
+      "embeds_raster_image": false,
+      "source": {
+        "siglum": "Pa 1107",
+        "library": "Bibliothèque nationale de France",
+        "place": "Paris",
+        "shelfmark": "lat. 1107",
+        "iiif_manifests": [
+          "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10033022b/manifest.json"
+        ],
+        "online_catalogue": []
+      },
+      "rights": {
+        "status": "not checked",
+        "library_terms_url": null,
+        "statement": null,
+        "note": "The images are crops of manuscript images of the library named under `source`; the rights of the library are not settled by the licence of this dataset (see docs/LICENCE-DECISION.md)."
+      }
+    }
+  ]
+}

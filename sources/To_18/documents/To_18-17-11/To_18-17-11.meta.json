@@ -1,0 +1,41 @@
+{
+  "id": "4c517d95-a28e-4369-912b-aa275f7edfdd",
+  "quelle_id": "To 18",
+  "dokumenten_id": "To 18-17-11",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Stephanus",
+  "feier": "Messe",
+  "textinitium": "Qui primus meruit",
+  "bibliographischerverweis": "Steph intr 38 A 39 B 40 C 41 D (CT I)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "11",
+  "foliostart": "17",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "To 18-17v-3-",
+    "Endseite": "17v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Steph intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

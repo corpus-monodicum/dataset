@@ -1,0 +1,41 @@
+{
+  "id": "b86d905f-04d2-4f75-bc7f-bf2b19abb7f4",
+  "quelle_id": "Ben 34",
+  "dokumenten_id": "Ben 34-203v-9",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Petrus et Paulus",
+  "feier": "Messe",
+  "textinitium": "Angelus abscessit",
+  "bibliographischerverweis": "Nunc scio vere intr 97 A 98 B 99 C 100 A 101 B 102 C (CT X)",
+  "druckausgabe": "",
+  "zeilenstart": "9",
+  "foliostart": "203v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "(Nunc scio)",
+    "Endseite": "204",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Nunc scio vere intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

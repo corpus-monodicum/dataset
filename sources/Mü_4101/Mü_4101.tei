@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mü 4101: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Jasmin Hartmann-Strauß</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Ordinariumsgesänge)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="Mü_4101">
+          <msIdentifier>
+            <settlement>München</settlement>
+            <repository>Bayerische Staatsbibliothek</repository>
+            <idno type="shelfmark">Clm 4101</idno>
+            <altIdentifier type="siglum">
+              <idno>Mü 4101</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>Mü 4101</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <term type="quellentyp">Graduale, Kyriale, Sequentiar (, Direktorium)</term>
+            </summary>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="170">f. 170</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Mü 4101-170-1</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="170">f. 170</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Mü 4101-170-4</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="170">f. 170</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Mü 4101-170-7</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="170v">f. 170v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Mü 4101-170v-1</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="170v">f. 170v</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Mü 4101-170v-6</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="171v">f. 171v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Mü 4101-171v-1</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="171v">f. 171v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Mü 4101-171v-4</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="171v">f. 171v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Mü 4101-171v-6</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="171v">f. 171v</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Mü 4101-171v-7</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="172v">f. 172v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Mü 4101-172v-2</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="172v">f. 172v</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Mü 4101-172v-3</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="173">f. 173</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Mü 4101-173-6</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="173">f. 173</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Mü 4101-173-8</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="174">f. 174</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Mü 4101-174-1</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="174">f. 174</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Mü 4101-174-3</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="174v">f. 174v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Mü 4101-174v-5</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="174v">f. 174v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Mü 4101-174v-7</idno>
+            </msItem>
+            <msItem n="18">
+              <locus from="174v">f. 174v</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Mü 4101-174v-8</idno>
+            </msItem>
+            <msItem n="19">
+              <locus from="175v">f. 175v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Mü 4101-175v-1</idno>
+            </msItem>
+            <msItem n="20">
+              <locus from="175v">f. 175v</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Mü 4101-175v-2</idno>
+            </msItem>
+            <msItem n="21">
+              <locus from="176">f. 176</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Mü 4101-176-4</idno>
+            </msItem>
+            <msItem n="22">
+              <locus from="176">f. 176</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Mü 4101-176-6</idno>
+            </msItem>
+            <msItem n="23">
+              <locus from="176v">f. 176v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Mü 4101-176v-8</idno>
+            </msItem>
+            <msItem n="24">
+              <locus from="177">f. 177</locus>
+              <title type="incipit">Spiritus et alme</title>
+              <idno type="dokumenten_id">Mü 4101-177-3</idno>
+            </msItem>
+            <msItem n="25">
+              <locus from="177v">f. 177v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Mü 4101-177v-9</idno>
+            </msItem>
+            <msItem n="26">
+              <locus from="178">f. 178</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Mü 4101-178-2</idno>
+            </msItem>
+            <msItem n="27">
+              <locus from="178v">f. 178v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Mü 4101-178v-4</idno>
+            </msItem>
+            <msItem n="28">
+              <locus from="178v">f. 178v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Mü 4101-178v-5</idno>
+            </msItem>
+            <msItem n="29">
+              <locus from="178v">f. 178v</locus>
+              <title type="incipit">Credo in unum deum</title>
+              <idno type="dokumenten_id">Mü 4101-178v-7</idno>
+            </msItem>
+            <msItem n="30">
+              <locus from="180">f. 180</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Mü 4101-180-1</idno>
+            </msItem>
+            <msItem n="31">
+              <locus from="180">f. 180</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Mü 4101-180-5</idno>
+            </msItem>
+            <msItem n="32">
+              <locus from="180v">f. 180v</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Mü 4101-180v-1</idno>
+            </msItem>
+            <msItem n="33">
+              <locus from="180v">f. 180v</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Mü 4101-180v-5</idno>
+            </msItem>
+            <msItem n="34">
+              <locus from="180v">f. 180v</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Mü 4101-180v-9</idno>
+            </msItem>
+            <msItem n="35">
+              <locus from="181">f. 181</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Mü 4101-181-4</idno>
+            </msItem>
+            <msItem n="36">
+              <locus from="181">f. 181</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Mü 4101-181-8</idno>
+            </msItem>
+            <msItem n="37">
+              <locus from="181v">f. 181v</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Mü 4101-181v-3</idno>
+            </msItem>
+            <msItem n="38">
+              <locus from="181v">f. 181v</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Mü 4101-181v-7</idno>
+            </msItem>
+            <msItem n="39">
+              <locus from="182">f. 182</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Mü 4101-182-2</idno>
+            </msItem>
+            <msItem n="40">
+              <locus from="182">f. 182</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Mü 4101-182-5</idno>
+            </msItem>
+            <msItem n="41">
+              <locus from="182">f. 182</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Mü 4101-182-9</idno>
+            </msItem>
+            <msItem n="42">
+              <locus from="182v">f. 182v</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Mü 4101-182v-3</idno>
+            </msItem>
+            <msItem n="43">
+              <locus from="183">f. 183</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Mü 4101-183-1</idno>
+            </msItem>
+            <msItem n="44">
+              <locus from="183">f. 183</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Mü 4101-183-3</idno>
+            </msItem>
+            <msItem n="45">
+              <locus from="183">f. 183</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Mü 4101-183-5</idno>
+            </msItem>
+            <msItem n="46">
+              <locus from="183">f. 183</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Mü 4101-183-7</idno>
+            </msItem>
+            <msItem n="47">
+              <locus from="183">f. 183</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Mü 4101-183-9</idno>
+            </msItem>
+            <msItem n="48">
+              <locus from="183v">f. 183v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Mü 4101-183v-2</idno>
+            </msItem>
+            <msItem n="49">
+              <locus from="183v">f. 183v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Mü 4101-183v-4</idno>
+            </msItem>
+            <msItem n="50">
+              <locus from="183v">f. 183v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Mü 4101-183v-7</idno>
+            </msItem>
+            <msItem n="51">
+              <locus from="184">f. 184</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Mü 4101-184-1</idno>
+            </msItem>
+            <msItem n="52">
+              <locus from="184">f. 184</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Mü 4101-184-4</idno>
+            </msItem>
+            <msItem n="53">
+              <locus from="184">f. 184</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Mü 4101-184-6</idno>
+            </msItem>
+            <msItem n="54">
+              <locus from="184">f. 184</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Mü 4101-184-8</idno>
+            </msItem>
+            <msItem n="55">
+              <locus from="184v">f. 184v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Mü 4101-184v-1</idno>
+            </msItem>
+            <msItem n="56">
+              <locus from="184v">f. 184v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Mü 4101-184v-3</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Augsburg</settlement>
+                <region>Quellen deutscher Herkunft</region>
+                <orgName>Augustiner-Chorherrenstift Heilig-Kreuz</orgName>
+              </origPlace>
+              <origDate>15. Jh Ende (1497)</origDate>
+            </origin>
+          </history>
+          <additional>
+            <adminInfo>
+              <note type="description">
+                <ref target="Mü_4101.description.md">Source description</ref>
+              </note>
+            </adminInfo>
+            <surrogates>
+              <bibl>
+                <ref type="iiif-manifest" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00126185/manifest" />
+              </bibl>
+            </surrogates>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

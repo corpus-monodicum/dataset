@@ -1,0 +1,41 @@
+{
+  "id": "eb992951-aca9-447c-874d-d3c26cc0104e",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-191-2",
+  "gattung1": "Tropus",
+  "gattung2": "Offertorium-Tropus",
+  "festtag": "Stephanus",
+  "feier": "Messe",
+  "textinitium": "Munere namque tuo Stephanum",
+  "bibliographischerverweis": "Steph off 22 A 23 B (CT I)",
+  "druckausgabe": "II-1",
+  "zeilenstart": "2",
+  "foliostart": "191",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "Pa 1235-19v-1-",
+    "Endseite": "191",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Steph off",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "f98a2b8b-c285-4918-bc60-079be2fb7045",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-37-7",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Andreas",
+  "feier": "Messe",
+  "textinitium": "Alma dies ... Andreae",
+  "bibliographischerverweis": "Mihi autem intr 40 A 41 A 42 B 43 C 39 D 44 A 45 C 48 E 46 A 47 B (CT X)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "7",
+  "foliostart": "37",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "(Mihi autem)",
+    "Endseite": "37v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "13",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Mihi autem intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

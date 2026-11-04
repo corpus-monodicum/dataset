@@ -1,0 +1,25 @@
+{
+  "id": "Ben 37",
+  "quellensigle": "Ben 37",
+  "herkunftsregion": "Quellen italienischer Herkunft",
+  "herkunftsort": "Benevent",
+  "herkunftsinstitution": "Santa Sofia für San Pietro intra muros",
+  "ordenstradition": "",
+  "quellentyp": "Prozessionale, Hymnar, Kapitelbuch",
+  "bibliotheksort": "Benevent",
+  "bibliothek": "Biblioteca Capitolare",
+  "bibliothekssignatur": "37",
+  "kommentar": "",
+  "datierung": "13. Jh",
+  "status": "",
+  "jahrhundert": "13.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Ben 37",
+  "cantus_century": "13.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Ben_37.description.md"
+  }
+}

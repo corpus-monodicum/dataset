@@ -1,0 +1,41 @@
+{
+  "id": "7e8dbb0e-977d-4272-8133-4ddcb6781fad",
+  "quelle_id": "SCan 7",
+  "dokumenten_id": "SCan 7-245-8",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Octava Paschae",
+  "feier": "Messe",
+  "textinitium": "Victimae paschali laudes",
+  "bibliographischerverweis": "AH 54, 7",
+  "druckausgabe": "",
+  "zeilenstart": "8",
+  "foliostart": "245",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Gionata Brusa",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "245v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "-",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

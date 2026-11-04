@@ -1,0 +1,41 @@
+{
+  "id": "cf7b6241-be57-4fa1-8ee0-8fd1fe86dbbc",
+  "quelle_id": "Pa 778",
+  "dokumenten_id": "Pa 778-162v-8",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Andreas",
+  "feier": "Messe",
+  "textinitium": "Nostra promat caterva",
+  "bibliographischerverweis": "AH 53, 123",
+  "druckausgabe": "",
+  "zeilenstart": "8",
+  "foliostart": "162v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "163v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Multifarie",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

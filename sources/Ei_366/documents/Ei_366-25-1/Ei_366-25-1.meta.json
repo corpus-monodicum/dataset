@@ -1,0 +1,41 @@
+{
+  "id": "564ff13a-a56c-4459-80dd-bfe07109cc36",
+  "quelle_id": "Ei 366",
+  "dokumenten_id": "Ei 366-25-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominica V post Pascha",
+  "feier": "Messe",
+  "textinitium": "Laeta mente canamus",
+  "bibliographischerverweis": "AH 53, 60",
+  "druckausgabe": "CM III",
+  "zeilenstart": "1",
+  "foliostart": "25",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "25",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Exsultate deo (A)",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "Exsultate deo (A)",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

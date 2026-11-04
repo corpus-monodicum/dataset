@@ -1,0 +1,41 @@
+{
+  "id": "96d6f08c-e15b-4be5-8f69-b2890dc5e587",
+  "quelle_id": "Ut 417",
+  "dokumenten_id": "Ut 417-6-6",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Conversio Pauli",
+  "feier": "Messe",
+  "textinitium": "Dixit dominus ex Basan",
+  "bibliographischerverweis": "AH 50, 269",
+  "druckausgabe": "",
+  "zeilenstart": "6",
+  "foliostart": "6",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "6v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

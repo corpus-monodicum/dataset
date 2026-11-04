@@ -1,0 +1,41 @@
+{
+  "id": "dcc90fa4-fb07-4b1c-8d93-e9d5a7d19683",
+  "quelle_id": "Apt 17",
+  "dokumenten_id": "Apt 17-235-2",
+  "gattung1": "Tropus",
+  "gattung2": "Communio-Tropus",
+  "festtag": "Iohannes Baptista",
+  "feier": "Messe",
+  "textinitium": "Praevius hic ... en Zacharia",
+  "bibliographischerverweis": "Tu puer com 5^3 A",
+  "druckausgabe": "II-3",
+  "zeilenstart": "2",
+  "foliostart": "235",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "(Tu puer)",
+    "Endseite": "235",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Tu puer com",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

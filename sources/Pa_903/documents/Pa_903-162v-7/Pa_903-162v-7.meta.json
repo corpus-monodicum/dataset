@@ -1,0 +1,41 @@
+{
+  "id": "6261ba8b-64d9-49cb-b026-9b4b47100474",
+  "quelle_id": "Pa 903",
+  "dokumenten_id": "Pa 903-162v-7",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Dedicatio ecclesiae",
+  "feier": "Messe",
+  "textinitium": "Celebremus ovanter",
+  "bibliographischerverweis": "Ded intr 42 A 43 B 44 C 45 D 93 E [mel II A] 54 A 58 B 59 C 60 D F [mel II B var1] 47 A 48 B 49 C (CT VIII)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "7",
+  "foliostart": "162v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "Terribilis)",
+    "Endseite": "163",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Ded intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

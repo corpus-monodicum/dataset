@@ -1,0 +1,41 @@
+{
+  "id": "725148dc-1406-4e98-9291-aac7537c6b79",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-240-7",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Martinus",
+  "feier": "Messe",
+  "textinitium": "Martinus meritis",
+  "bibliographischerverweis": "Statuit intr 46 A 47 B 48 C 49 D 25 A 26 B 27 C 28 D 6 E 7 F 8 A 16 B 4 C 17 D (CT X)",
+  "druckausgabe": "II-1",
+  "zeilenstart": "7",
+  "foliostart": "240",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "Pa 1235-29-1-",
+    "Endseite": "240v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Statuit intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

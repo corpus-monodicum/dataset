@@ -1,0 +1,41 @@
+{
+  "id": "ba4cc301-3bd2-4791-b1df-f2b72586a250",
+  "quelle_id": "RoV 52",
+  "dokumenten_id": "RoV 52-160-12",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominicae dies",
+  "feier": "Messe",
+  "textinitium": "Stans a longe publicanus lavit se",
+  "bibliographischerverweis": "AH 53, 93",
+  "druckausgabe": "",
+  "zeilenstart": "12",
+  "foliostart": "160",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "160v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Metensis minor",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

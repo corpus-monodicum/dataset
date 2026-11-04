@@ -1,0 +1,41 @@
+{
+  "id": "9face4aa-9ea0-4cef-a7b7-b8d2f974ee55",
+  "quelle_id": "Pa 903",
+  "dokumenten_id": "Pa 903-149-6",
+  "gattung1": "Tropus",
+  "gattung2": "Communio-Tropus",
+  "festtag": "Stephanus",
+  "feier": "Messe",
+  "textinitium": "Intuitus caelum",
+  "bibliographischerverweis": "Steph com 6 A 7 B (CT I)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "6",
+  "foliostart": "149",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "Video caelos apertos)",
+    "Endseite": "149",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Steph com",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

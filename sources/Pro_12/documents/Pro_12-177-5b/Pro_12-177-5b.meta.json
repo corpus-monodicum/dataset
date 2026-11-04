@@ -1,0 +1,41 @@
+{
+  "id": "243a5ee4-93df-4dd6-91e7-f9b8af3a4d72",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-177-5b",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Feria II post Pentecosten",
+  "feier": "Messe",
+  "textinitium": "Iubilemus omnes una*",
+  "bibliographischerverweis": "AH 53, 4",
+  "druckausgabe": "CM III",
+  "zeilenstart": "5",
+  "foliostart": "177",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "177",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Adducentur",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

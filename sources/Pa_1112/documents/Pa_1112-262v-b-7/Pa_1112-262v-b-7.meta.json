@@ -1,0 +1,41 @@
+{
+  "id": "f8761cde-077b-4ebd-8d90-7dee74548aca",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-262v-b-7",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Infra octavam nativitatis",
+  "feier": "Messe",
+  "textinitium": "Ante torum",
+  "bibliographischerverweis": "AH 54, 97",
+  "druckausgabe": "CM III",
+  "zeilenstart": "7",
+  "foliostart": "262v-b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "263v-a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

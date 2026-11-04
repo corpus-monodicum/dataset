@@ -1,0 +1,41 @@
+{
+  "id": "d57d3c2e-7ce0-42b4-a964-afc5ca355895",
+  "quelle_id": "Ma 289",
+  "dokumenten_id": "Ma 289-136v-11",
+  "gattung1": "Lied",
+  "gattung2": "Benedicamus",
+  "festtag": "Innocentes",
+  "feier": "",
+  "textinitium": "Dei sapientia manet",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "11",
+  "foliostart": "136v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Konstantin Voigt",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "137v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "31dc9a97-8269-47c2-9250-d5e880242bab",
+  "quelle_id": "Or 201",
+  "dokumenten_id": "Or 201-219-26",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Sequenz",
+  "festtag": "Innocentes",
+  "feier": "Matutin",
+  "textinitium": "O Christe quantum",
+  "bibliographischerverweis": "AH 53, 29 (Festa Christi, Strophe 9)",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "26",
+  "foliostart": "219",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "219",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Or 201-215-7-aS",
+    "Endzeile": "27",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Play of the Innocents",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

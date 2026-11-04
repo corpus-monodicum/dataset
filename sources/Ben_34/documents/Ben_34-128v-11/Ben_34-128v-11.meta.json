@@ -1,0 +1,41 @@
+{
+  "id": "c6faf572-7068-44c6-98e7-10c10979261a",
+  "quelle_id": "Ben 34",
+  "dokumenten_id": "Ben 34-128v-11",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Feria II post Pascha",
+  "feier": "Messe",
+  "textinitium": "Hostibus amotis",
+  "bibliographischerverweis": "Fer II intr 39 A 40 B 41 C (CT III)",
+  "druckausgabe": "",
+  "zeilenstart": "11",
+  "foliostart": "128v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "(Introduxit)",
+    "Endseite": "129",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Fer II intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

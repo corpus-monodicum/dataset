@@ -1,0 +1,41 @@
+{
+  "id": "7f2ce6be-a88d-4c24-a583-80addb373598",
+  "quelle_id": "Pia 65",
+  "dokumenten_id": "Pia 65-231a-18",
+  "gattung1": "Tropus",
+  "gattung2": "Communio-Tropus",
+  "festtag": "Nativitas domini",
+  "feier": "3. Messe",
+  "textinitium": "Viderunt omnes ... eia laus",
+  "bibliographischerverweis": "Nat III com 2 A (CT I)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "18",
+  "foliostart": "231a",
+  "kommentar": "Primär komplett, folgt direkt im selben Item",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Viderunt omnes",
+    "Endseite": "231b",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Nat III com",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

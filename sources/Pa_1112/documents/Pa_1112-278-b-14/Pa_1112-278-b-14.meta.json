@@ -1,0 +1,41 @@
+{
+  "id": "a3844bdb-e2a1-48b1-b50c-f465bc1ec9d3",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-278-b-14",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Agnes",
+  "feier": "Messe",
+  "textinitium": "Animemur ad agonem",
+  "bibliographischerverweis": "AH 55, 50",
+  "druckausgabe": "CM III",
+  "zeilenstart": "14",
+  "foliostart": "278-b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "279b",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

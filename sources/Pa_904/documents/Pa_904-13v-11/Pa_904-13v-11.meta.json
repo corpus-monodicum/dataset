@@ -1,0 +1,41 @@
+{
+  "id": "3110486d-fd4b-4c48-887f-5959d9e166fa",
+  "quelle_id": "Pa 904",
+  "dokumenten_id": "Pa 904-13v-11",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Communio",
+  "festtag": "Nativitas domini",
+  "feier": "Messe",
+  "textinitium": "In splendoribus sanctorum",
+  "bibliographischerverweis": "AMS 9",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "11",
+  "foliostart": "13v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "13v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Pa 904-12v-22S",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Christmas play",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

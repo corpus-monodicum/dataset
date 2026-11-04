@@ -1,0 +1,41 @@
+{
+  "id": "2460cacf-0f23-4566-92d2-3e428f3f8244",
+  "quelle_id": "SCan 7",
+  "dokumenten_id": "SCan 7-262-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Decollatio Iohannis Baptistae",
+  "feier": "Messe",
+  "textinitium": "Psallite regi nostro",
+  "bibliographischerverweis": "AH 50, 270",
+  "druckausgabe": "",
+  "zeilenstart": "1",
+  "foliostart": "262",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Gionata Brusa",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "262",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "-",
+    "Überlieferungszustand": "Beginn fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

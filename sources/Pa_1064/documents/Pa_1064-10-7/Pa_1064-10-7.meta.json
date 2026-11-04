@@ -1,0 +1,41 @@
+{
+  "id": "4365a02b-eca1-4968-9f21-81c25878aaee",
+  "quelle_id": "Pa 1064",
+  "dokumenten_id": "Pa 1064-10-7",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Feria II post Pascha",
+  "feier": "Vesper",
+  "textinitium": "Heu miseri heu miseri",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "7",
+  "foliostart": "10",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "10",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Pa 1064-8-2S",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Journey to Emmaus",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "a13b673d-9964-4e9e-9519-66d8fa494694",
+  "quelle_id": "Ei 366",
+  "dokumenten_id": "Ei 366-45-5",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Nicolaus",
+  "feier": "Messe",
+  "textinitium": "Perpes laus et honor",
+  "bibliographischerverweis": "AH 53, 198",
+  "druckausgabe": "CM III",
+  "zeilenstart": "5",
+  "foliostart": "45",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "45",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "16",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Laetatus sum",
+    "Überlieferungszustand": "Nicht transkribierbar",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

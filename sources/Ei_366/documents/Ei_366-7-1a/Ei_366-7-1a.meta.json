@@ -1,0 +1,41 @@
+{
+  "id": "c2801b02-50a7-4d9e-bcd5-ebeb6e641397",
+  "quelle_id": "Ei 366",
+  "dokumenten_id": "Ei 366-7-1a",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Philippus et Iacobus",
+  "feier": "Messe",
+  "textinitium": "Laetabundis hac die",
+  "bibliographischerverweis": "AH 54, 73",
+  "druckausgabe": "CM III",
+  "zeilenstart": "1",
+  "foliostart": "7",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "7a",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "Beginn fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

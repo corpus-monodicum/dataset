@@ -1,0 +1,2088 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Pa 1871: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>David Catalunya</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Ordinariumsgesänge)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Sequenzen)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Hanna Zühlke</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Gunilla Iversen</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Ritva Maria Jacobsson</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="Pa_1871">
+        <identifier type="siglum">Pa 1871</identifier>
+        <identifier type="cantus">Pa 1871</identifier>
+        <titleStmt>
+          <title>Pa 1871</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Moissac</geogName>
+          <geogName role="origin-region">Quellen aquitanischer Herkunft</geogName>
+          <corpName role="origin-institution">Abtei Saint-Pierre</corpName>
+          <date>11. Jh 2. Hälfte</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="1">f. 1</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Pa 1871-1-4</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="1">f. 1</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-1-8</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="10">f. 10</locus>
+            <title type="incipit">Regi Christo</title>
+            <identifier type="dokumenten_id">Pa 1871-10-13</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="100">f. 100</locus>
+            <title type="incipit">Caelica resonant</title>
+            <identifier type="dokumenten_id">Pa 1871-100-2</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="100v">f. 100v</locus>
+            <title type="incipit">Laudemus Christum in excelsis</title>
+            <identifier type="dokumenten_id">Pa 1871-100v-5</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="101">f. 101</locus>
+            <title type="incipit">Hodie puer natus</title>
+            <identifier type="dokumenten_id">Pa 1871-101-8</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="101v">f. 101v</locus>
+            <title type="incipit">Haec dies est sancta</title>
+            <identifier type="dokumenten_id">Pa 1871-101v-11</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="102">f. 102</locus>
+            <title type="incipit">Christi sacra</title>
+            <identifier type="dokumenten_id">Pa 1871-102-11</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="102v">f. 102v</locus>
+            <title type="incipit">Praecentorum</title>
+            <identifier type="dokumenten_id">Pa 1871-102v-11</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="103v">f. 103v</locus>
+            <title type="incipit">Celsa polorum</title>
+            <identifier type="dokumenten_id">Pa 1871-103v-7</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus from="104v">f. 104v</locus>
+            <title type="incipit">Nunc dies inclita</title>
+            <identifier type="dokumenten_id">Pa 1871-104v-3</identifier>
+          </contentItem>
+          <contentItem n="12">
+            <locus from="105">f. 105</locus>
+            <title type="incipit">Gloriosa dies ... processit</title>
+            <identifier type="dokumenten_id">Pa 1871-105-3</identifier>
+          </contentItem>
+          <contentItem n="13">
+            <locus from="105v">f. 105v</locus>
+            <title type="incipit">Caelica caterva</title>
+            <identifier type="dokumenten_id">Pa 1871-105v-3</identifier>
+          </contentItem>
+          <contentItem n="14">
+            <locus from="106">f. 106</locus>
+            <title type="incipit">Sollemnitas cunctis</title>
+            <identifier type="dokumenten_id">Pa 1871-106-6</identifier>
+          </contentItem>
+          <contentItem n="15">
+            <locus from="106v">f. 106v</locus>
+            <title type="incipit">Haec est sancta sollemnitas cunctis</title>
+            <identifier type="dokumenten_id">Pa 1871-106v-4</identifier>
+          </contentItem>
+          <contentItem n="16">
+            <locus from="107">f. 107</locus>
+            <title type="incipit">Organicis ... cuius opera</title>
+            <identifier type="dokumenten_id">Pa 1871-107-4</identifier>
+          </contentItem>
+          <contentItem n="17">
+            <locus from="107v">f. 107v</locus>
+            <title type="incipit">Caelos et arva</title>
+            <identifier type="dokumenten_id">Pa 1871-107v-13</identifier>
+          </contentItem>
+          <contentItem n="18">
+            <locus from="107v">f. 107v</locus>
+            <title type="incipit">Organicis ... qui in suis</title>
+            <identifier type="dokumenten_id">Pa 1871-107v-2</identifier>
+          </contentItem>
+          <contentItem n="19">
+            <locus from="108v">f. 108v</locus>
+            <title type="incipit">Altissime deus</title>
+            <identifier type="dokumenten_id">Pa 1871-108v-2</identifier>
+          </contentItem>
+          <contentItem n="20">
+            <locus from="109">f. 109</locus>
+            <title type="incipit">Qui regis una</title>
+            <identifier type="dokumenten_id">Pa 1871-109-4</identifier>
+          </contentItem>
+          <contentItem n="21">
+            <locus from="109v">f. 109v</locus>
+            <title type="incipit">Rex magne deus</title>
+            <identifier type="dokumenten_id">Pa 1871-109v-5</identifier>
+          </contentItem>
+          <contentItem n="22">
+            <locus from="10v">f. 10v</locus>
+            <title type="incipit">Stella praevia</title>
+            <identifier type="dokumenten_id">Pa 1871-10v-1</identifier>
+          </contentItem>
+          <contentItem n="23">
+            <locus from="10v">f. 10v</locus>
+            <title type="incipit">Adest alma virgo Maria</title>
+            <identifier type="dokumenten_id">Pa 1871-10v-3</identifier>
+          </contentItem>
+          <contentItem n="24">
+            <locus from="110">f. 110</locus>
+            <title type="incipit">Iam dies instat</title>
+            <identifier type="dokumenten_id">Pa 1871-110-7</identifier>
+          </contentItem>
+          <contentItem n="25">
+            <locus from="110v">f. 110v</locus>
+            <title type="incipit">Epiphaniam domino</title>
+            <identifier type="dokumenten_id">Pa 1871-110v-10</identifier>
+          </contentItem>
+          <contentItem n="26">
+            <locus from="111">f. 111</locus>
+            <title type="incipit">Nostri promat chori</title>
+            <identifier type="dokumenten_id">Pa 1871-111-13</identifier>
+          </contentItem>
+          <contentItem n="27">
+            <locus from="112">f. 112</locus>
+            <title type="incipit">Egregia plebs</title>
+            <identifier type="dokumenten_id">Pa 1871-112-1</identifier>
+          </contentItem>
+          <contentItem n="28">
+            <locus from="112v">f. 112v</locus>
+            <title type="incipit">Hac clara die</title>
+            <identifier type="dokumenten_id">Pa 1871-112v-8</identifier>
+          </contentItem>
+          <contentItem n="29">
+            <locus from="113">f. 113</locus>
+            <title type="incipit">Claris vocibus inclita</title>
+            <identifier type="dokumenten_id">Pa 1871-113-5</identifier>
+          </contentItem>
+          <contentItem n="30">
+            <locus from="113v">f. 113v</locus>
+            <title type="incipit">Virgo Israel</title>
+            <identifier type="dokumenten_id">Pa 1871-113v-7</identifier>
+          </contentItem>
+          <contentItem n="31">
+            <locus from="114">f. 114</locus>
+            <title type="incipit">Praecelsa intonent</title>
+            <identifier type="dokumenten_id">Pa 1871-114-11</identifier>
+          </contentItem>
+          <contentItem n="32">
+            <locus from="115">f. 115</locus>
+            <title type="incipit">Rutilat per orbem</title>
+            <identifier type="dokumenten_id">Pa 1871-115-12</identifier>
+          </contentItem>
+          <contentItem n="33">
+            <locus from="115">f. 115</locus>
+            <title type="incipit">Hoc pium recitat</title>
+            <identifier type="dokumenten_id">Pa 1871-115-3</identifier>
+          </contentItem>
+          <contentItem n="34">
+            <locus from="115">f. 115</locus>
+            <title type="incipit">Iubilate deo omnis</title>
+            <identifier type="dokumenten_id">Pa 1871-115-7</identifier>
+          </contentItem>
+          <contentItem n="35">
+            <locus from="116">f. 116</locus>
+            <title type="incipit">Fulgens praeclara</title>
+            <identifier type="dokumenten_id">Pa 1871-116-11</identifier>
+          </contentItem>
+          <contentItem n="36">
+            <locus from="117">f. 117</locus>
+            <title type="incipit">Gaudent ecce</title>
+            <identifier type="dokumenten_id">Pa 1871-117-11</identifier>
+          </contentItem>
+          <contentItem n="37">
+            <locus from="118">f. 118</locus>
+            <title type="incipit">Adest pia ac salutifera</title>
+            <identifier type="dokumenten_id">Pa 1871-118-8</identifier>
+          </contentItem>
+          <contentItem n="38">
+            <locus from="118v">f. 118v</locus>
+            <title type="incipit">Adest enim festa</title>
+            <identifier type="dokumenten_id">Pa 1871-118v-1</identifier>
+          </contentItem>
+          <contentItem n="39">
+            <locus from="118v">f. 118v</locus>
+            <title type="incipit">Caelica terrenaque</title>
+            <identifier type="dokumenten_id">Pa 1871-118v-8</identifier>
+          </contentItem>
+          <contentItem n="40">
+            <locus from="119">f. 119</locus>
+            <title type="incipit">Clara gaudia</title>
+            <identifier type="dokumenten_id">Pa 1871-119-8</identifier>
+          </contentItem>
+          <contentItem n="41">
+            <locus from="119v">f. 119v</locus>
+            <title type="incipit">Clara resonant</title>
+            <identifier type="dokumenten_id">Pa 1871-119v-8</identifier>
+          </contentItem>
+          <contentItem n="42">
+            <locus from="11v">f. 11v</locus>
+            <title type="incipit">Aurea Davitico</title>
+            <identifier type="dokumenten_id">Pa 1871-11v-1</identifier>
+          </contentItem>
+          <contentItem n="43">
+            <locus from="11v">f. 11v</locus>
+            <title type="incipit">Felix qui meruit</title>
+            <identifier type="dokumenten_id">Pa 1871-11v-4</identifier>
+          </contentItem>
+          <contentItem n="44">
+            <locus from="11v">f. 11v</locus>
+            <title type="incipit">Quem cives polorum</title>
+            <identifier type="dokumenten_id">Pa 1871-11v-6</identifier>
+          </contentItem>
+          <contentItem n="45">
+            <locus from="120v">f. 120v</locus>
+            <title type="incipit">Nunc exsultet</title>
+            <identifier type="dokumenten_id">Pa 1871-120v-7</identifier>
+          </contentItem>
+          <contentItem n="46">
+            <locus from="121v">f. 121v</locus>
+            <title type="incipit">Quoniam vita</title>
+            <identifier type="dokumenten_id">Pa 1871-121v-6</identifier>
+          </contentItem>
+          <contentItem n="47">
+            <locus from="122">f. 122</locus>
+            <title type="incipit">Vexilla regis</title>
+            <identifier type="dokumenten_id">Pa 1871-122-8</identifier>
+          </contentItem>
+          <contentItem n="48">
+            <locus from="122v">f. 122v</locus>
+            <title type="incipit">Agnus dei Christus</title>
+            <identifier type="dokumenten_id">Pa 1871-122v-11</identifier>
+          </contentItem>
+          <contentItem n="49">
+            <locus from="123bis">f. 123bis</locus>
+            <title type="incipit">Mane prima sabbati</title>
+            <identifier type="dokumenten_id">Pa 1871-123bis-1</identifier>
+          </contentItem>
+          <contentItem n="50">
+            <locus from="123bisv">f. 123bisv</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-123bisv-1</identifier>
+          </contentItem>
+          <contentItem n="51">
+            <locus from="123v">f. 123v</locus>
+            <title type="incipit">Festus adest nobis</title>
+            <identifier type="dokumenten_id">Pa 1871-123v-1</identifier>
+          </contentItem>
+          <contentItem n="52">
+            <locus from="123v">f. 123v</locus>
+            <title type="incipit">Festiva adest nobis</title>
+            <identifier type="dokumenten_id">Pa 1871-123v-10</identifier>
+          </contentItem>
+          <contentItem n="53">
+            <locus from="124">f. 124</locus>
+            <title type="incipit">Prome casta</title>
+            <identifier type="dokumenten_id">Pa 1871-124-4</identifier>
+          </contentItem>
+          <contentItem n="54">
+            <locus from="124v">f. 124v</locus>
+            <title type="incipit">Canat omnis turba</title>
+            <identifier type="dokumenten_id">Pa 1871-124v-1</identifier>
+          </contentItem>
+          <contentItem n="55">
+            <locus from="125v">f. 125v</locus>
+            <title type="incipit">Gaudeat tellus</title>
+            <identifier type="dokumenten_id">Pa 1871-125v-1</identifier>
+          </contentItem>
+          <contentItem n="56">
+            <locus from="126">f. 126</locus>
+            <title type="incipit">Omnigena contio</title>
+            <identifier type="dokumenten_id">Pa 1871-126-13</identifier>
+          </contentItem>
+          <contentItem n="57">
+            <locus from="127">f. 127</locus>
+            <title type="incipit">Haec dies quam excelsus</title>
+            <identifier type="dokumenten_id">Pa 1871-127-1</identifier>
+          </contentItem>
+          <contentItem n="58">
+            <locus from="127v">f. 127v</locus>
+            <title type="incipit">Haec est vera redemptio</title>
+            <identifier type="dokumenten_id">Pa 1871-127v-2</identifier>
+          </contentItem>
+          <contentItem n="59">
+            <locus from="128">f. 128</locus>
+            <title type="incipit">O beata et venerabilis</title>
+            <identifier type="dokumenten_id">Pa 1871-128-1</identifier>
+          </contentItem>
+          <contentItem n="60">
+            <locus from="128v">f. 128v</locus>
+            <title type="incipit">O quam beata</title>
+            <identifier type="dokumenten_id">Pa 1871-128v-3</identifier>
+          </contentItem>
+          <contentItem n="61">
+            <locus from="129">f. 129</locus>
+            <title type="incipit">Arvi polique</title>
+            <identifier type="dokumenten_id">Pa 1871-129-12</identifier>
+          </contentItem>
+          <contentItem n="62">
+            <locus from="129">f. 129</locus>
+            <title type="incipit">Cuncta simul</title>
+            <identifier type="dokumenten_id">Pa 1871-129-5</identifier>
+          </contentItem>
+          <contentItem n="63">
+            <locus from="12v">f. 12v</locus>
+            <title type="incipit">Martyrii viam</title>
+            <identifier type="dokumenten_id">Pa 1871-12v-5</identifier>
+          </contentItem>
+          <contentItem n="64">
+            <locus from="12v">f. 12v</locus>
+            <title type="incipit">In iubilo vocis</title>
+            <identifier type="dokumenten_id">Pa 1871-12v-8</identifier>
+          </contentItem>
+          <contentItem n="65">
+            <locus from="130">f. 130</locus>
+            <title type="incipit">Laudum laeta</title>
+            <identifier type="dokumenten_id">Pa 1871-130-4</identifier>
+          </contentItem>
+          <contentItem n="66">
+            <locus from="130v">f. 130v</locus>
+            <title type="incipit">Laus deo nostro</title>
+            <identifier type="dokumenten_id">Pa 1871-130v-6</identifier>
+          </contentItem>
+          <contentItem n="67">
+            <locus from="131">f. 131</locus>
+            <title type="incipit">Turba proclamat</title>
+            <identifier type="dokumenten_id">Pa 1871-131-7</identifier>
+          </contentItem>
+          <contentItem n="68">
+            <locus from="131v">f. 131v</locus>
+            <title type="incipit">Ecce vicit radix</title>
+            <identifier type="dokumenten_id">Pa 1871-131v-10</identifier>
+          </contentItem>
+          <contentItem n="69">
+            <locus from="132">f. 132</locus>
+            <title type="incipit">Celsa personet</title>
+            <identifier type="dokumenten_id">Pa 1871-132-13</identifier>
+          </contentItem>
+          <contentItem n="70">
+            <locus from="133">f. 133</locus>
+            <title type="incipit">Praecelsa dies veneranda</title>
+            <identifier type="dokumenten_id">Pa 1871-133-13</identifier>
+          </contentItem>
+          <contentItem n="71">
+            <locus from="134">f. 134</locus>
+            <title type="incipit">Laetetur et concrepet</title>
+            <identifier type="dokumenten_id">Pa 1871-134-6</identifier>
+          </contentItem>
+          <contentItem n="72">
+            <locus from="134v">f. 134v</locus>
+            <title type="incipit">Ad templi ... concrepet devota</title>
+            <identifier type="dokumenten_id">Pa 1871-134v-11</identifier>
+          </contentItem>
+          <contentItem n="73">
+            <locus from="135v">f. 135v</locus>
+            <title type="incipit">Castrorum proles</title>
+            <identifier type="dokumenten_id">Pa 1871-135v-1</identifier>
+          </contentItem>
+          <contentItem n="74">
+            <locus from="136">f. 136</locus>
+            <title type="incipit">Rex omnipotens</title>
+            <identifier type="dokumenten_id">Pa 1871-136-6</identifier>
+          </contentItem>
+          <contentItem n="75">
+            <locus from="136v">f. 136v</locus>
+            <title type="incipit">Laudiflua cantica</title>
+            <identifier type="dokumenten_id">Pa 1871-136v-11</identifier>
+          </contentItem>
+          <contentItem n="76">
+            <locus from="138">f. 138</locus>
+            <title type="incipit">Almiphona iam gaudia</title>
+            <identifier type="dokumenten_id">Pa 1871-138-10</identifier>
+          </contentItem>
+          <contentItem n="77">
+            <locus from="138v">f. 138v</locus>
+            <title type="incipit">Resonet sacrata</title>
+            <identifier type="dokumenten_id">Pa 1871-138v-11</identifier>
+          </contentItem>
+          <contentItem n="78">
+            <locus from="139v">f. 139v</locus>
+            <title type="incipit">Cantemus organa</title>
+            <identifier type="dokumenten_id">Pa 1871-139v-5</identifier>
+          </contentItem>
+          <contentItem n="79">
+            <locus from="13v">f. 13v</locus>
+            <title type="incipit">Spiritus almus invisere</title>
+            <identifier type="dokumenten_id">Pa 1871-13v-1</identifier>
+          </contentItem>
+          <contentItem n="80">
+            <locus from="13v">f. 13v</locus>
+            <title type="incipit">Quem quaeritis in sepulchro</title>
+            <identifier type="dokumenten_id">Pa 1871-13v-5</identifier>
+          </contentItem>
+          <contentItem n="81">
+            <locus from="140v">f. 140v</locus>
+            <title type="incipit">Orbis conditor</title>
+            <identifier type="dokumenten_id">Pa 1871-140v-4</identifier>
+          </contentItem>
+          <contentItem n="82">
+            <locus from="141">f. 141</locus>
+            <title type="incipit">Canat cuncta</title>
+            <identifier type="dokumenten_id">Pa 1871-141-8</identifier>
+          </contentItem>
+          <contentItem n="83">
+            <locus from="141v">f. 141v</locus>
+            <title type="incipit">Candida contio melos</title>
+            <identifier type="dokumenten_id">Pa 1871-141v-6</identifier>
+          </contentItem>
+          <contentItem n="84">
+            <locus from="142">f. 142</locus>
+            <title type="incipit">Laude summa</title>
+            <identifier type="dokumenten_id">Pa 1871-142-4</identifier>
+          </contentItem>
+          <contentItem n="85">
+            <locus from="142v">f. 142v</locus>
+            <title type="incipit">Psallat chorus laetabundus</title>
+            <identifier type="dokumenten_id">Pa 1871-142v-6</identifier>
+          </contentItem>
+          <contentItem n="86">
+            <locus from="143">f. 143</locus>
+            <title type="incipit">Nostra promat caterva</title>
+            <identifier type="dokumenten_id">Pa 1871-143-5</identifier>
+          </contentItem>
+          <contentItem n="87">
+            <locus from="143v">f. 143v</locus>
+            <title type="incipit">Alle nostra</title>
+            <identifier type="dokumenten_id">Pa 1871-143v-2</identifier>
+          </contentItem>
+          <contentItem n="88">
+            <locus from="144">f. 144</locus>
+            <title type="incipit">Alme rex Christe</title>
+            <identifier type="dokumenten_id">Pa 1871-144-6</identifier>
+          </contentItem>
+          <contentItem n="89">
+            <locus from="145">f. 145</locus>
+            <title type="incipit">Sanctus Petrus</title>
+            <identifier type="dokumenten_id">Pa 1871-145-2</identifier>
+          </contentItem>
+          <contentItem n="90">
+            <locus from="145v">f. 145v</locus>
+            <title type="incipit">Laude iucunda</title>
+            <identifier type="dokumenten_id">Pa 1871-145v-10</identifier>
+          </contentItem>
+          <contentItem n="91">
+            <locus from="146">f. 146</locus>
+            <title type="incipit">Adest dies celebranda</title>
+            <identifier type="dokumenten_id">Pa 1871-146-12</identifier>
+          </contentItem>
+          <contentItem n="92">
+            <locus from="147">f. 147</locus>
+            <title type="incipit">Verbum bonum</title>
+            <identifier type="dokumenten_id">Pa 1871-147-6</identifier>
+          </contentItem>
+          <contentItem n="93">
+            <locus from="147v">f. 147v</locus>
+            <title type="incipit">Concelebremus</title>
+            <identifier type="dokumenten_id">Pa 1871-147v-2</identifier>
+          </contentItem>
+          <contentItem n="94">
+            <locus from="148">f. 148</locus>
+            <title type="incipit">Clara chorus</title>
+            <identifier type="dokumenten_id">Pa 1871-148-8</identifier>
+          </contentItem>
+          <contentItem n="95">
+            <locus from="149">f. 149</locus>
+            <title type="incipit">Sancti merita Benedicti</title>
+            <identifier type="dokumenten_id">Pa 1871-149-1</identifier>
+          </contentItem>
+          <contentItem n="96">
+            <locus from="149v">f. 149v</locus>
+            <title type="incipit">Aetherea laudant</title>
+            <identifier type="dokumenten_id">Pa 1871-149v-2</identifier>
+          </contentItem>
+          <contentItem n="97">
+            <locus from="15">f. 15</locus>
+            <title type="incipit">Ab increpatione</title>
+            <identifier type="dokumenten_id">Pa 1871-15-11</identifier>
+          </contentItem>
+          <contentItem n="98">
+            <locus from="150v">f. 150v</locus>
+            <title type="incipit">Laeta dies aureo</title>
+            <identifier type="dokumenten_id">Pa 1871-150v-8</identifier>
+          </contentItem>
+          <contentItem n="99">
+            <locus from="151">f. 151</locus>
+            <title type="incipit">Praeconia modo</title>
+            <identifier type="dokumenten_id">Pa 1871-151-12</identifier>
+          </contentItem>
+          <contentItem n="100">
+            <locus from="152">f. 152</locus>
+            <title type="incipit">Alme martyr</title>
+            <identifier type="dokumenten_id">Pa 1871-152-3</identifier>
+          </contentItem>
+          <contentItem n="101">
+            <locus from="152v">f. 152v</locus>
+            <title type="incipit">Clara tibi nos</title>
+            <identifier type="dokumenten_id">Pa 1871-152v-6</identifier>
+          </contentItem>
+          <contentItem n="102">
+            <locus from="153">f. 153</locus>
+            <title type="incipit">Aurea virga primae</title>
+            <identifier type="dokumenten_id">Pa 1871-153-8</identifier>
+          </contentItem>
+          <contentItem n="103">
+            <locus from="154">f. 154</locus>
+            <title type="incipit">Aureo flore primae</title>
+            <identifier type="dokumenten_id">Pa 1871-154-6</identifier>
+          </contentItem>
+          <contentItem n="104">
+            <locus from="155">f. 155</locus>
+            <title type="incipit">Reginae nunc caelorum</title>
+            <identifier type="dokumenten_id">Pa 1871-155-5</identifier>
+          </contentItem>
+          <contentItem n="105">
+            <locus from="155v">f. 155v</locus>
+            <title type="incipit">Beata virgo Maria</title>
+            <identifier type="dokumenten_id">Pa 1871-155v-4</identifier>
+          </contentItem>
+          <contentItem n="106">
+            <locus from="156">f. 156</locus>
+            <title type="incipit">Salve porta</title>
+            <identifier type="dokumenten_id">Pa 1871-156-4</identifier>
+          </contentItem>
+          <contentItem n="107">
+            <locus from="156v">f. 156v</locus>
+            <title type="incipit">Virgo dei Maria</title>
+            <identifier type="dokumenten_id">Pa 1871-156v-2</identifier>
+          </contentItem>
+          <contentItem n="108">
+            <locus from="157">f. 157</locus>
+            <title type="incipit">Alle caeleste necnon</title>
+            <identifier type="dokumenten_id">Pa 1871-157-6</identifier>
+          </contentItem>
+          <contentItem n="109">
+            <locus from="158">f. 158</locus>
+            <title type="incipit">Alludat laetus ordo</title>
+            <identifier type="dokumenten_id">Pa 1871-158-5</identifier>
+          </contentItem>
+          <contentItem n="110">
+            <locus from="159">f. 159</locus>
+            <title type="incipit">Ad celebres rex</title>
+            <identifier type="dokumenten_id">Pa 1871-159-1</identifier>
+          </contentItem>
+          <contentItem n="111">
+            <locus from="159v">f. 159v</locus>
+            <title type="incipit">Alle sublime</title>
+            <identifier type="dokumenten_id">Pa 1871-159v-10</identifier>
+          </contentItem>
+          <contentItem n="112">
+            <locus from="15v">f. 15v</locus>
+            <title type="incipit">Sophistica nunc catervula</title>
+            <identifier type="dokumenten_id">Pa 1871-15v-1</identifier>
+          </contentItem>
+          <contentItem n="113">
+            <locus from="15v">f. 15v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-15v-12</identifier>
+          </contentItem>
+          <contentItem n="114">
+            <locus from="16">f. 16</locus>
+            <title type="incipit">Sempiterna virtute</title>
+            <identifier type="dokumenten_id">Pa 1871-16-2</identifier>
+          </contentItem>
+          <contentItem n="115">
+            <locus from="160">f. 160</locus>
+            <title type="incipit">Auriflua comant</title>
+            <identifier type="dokumenten_id">Pa 1871-160-11</identifier>
+          </contentItem>
+          <contentItem n="116">
+            <locus from="161v">f. 161v</locus>
+            <title type="incipit">Adonai Sabaoth</title>
+            <identifier type="dokumenten_id">Pa 1871-161v-3</identifier>
+          </contentItem>
+          <contentItem n="117">
+            <locus from="162v">f. 162v</locus>
+            <title type="incipit">Christo inclita</title>
+            <identifier type="dokumenten_id">Pa 1871-162v-1</identifier>
+          </contentItem>
+          <contentItem n="118">
+            <locus from="163">f. 163</locus>
+            <title type="incipit">Phoebus nunc</title>
+            <identifier type="dokumenten_id">Pa 1871-163-6</identifier>
+          </contentItem>
+          <contentItem n="119">
+            <locus from="163v">f. 163v</locus>
+            <title type="incipit">Alme sanctorum</title>
+            <identifier type="dokumenten_id">Pa 1871-163v-12</identifier>
+          </contentItem>
+          <contentItem n="120">
+            <locus from="164">f. 164</locus>
+            <title type="incipit">Rex alme deus</title>
+            <identifier type="dokumenten_id">Pa 1871-164-11</identifier>
+          </contentItem>
+          <contentItem n="121">
+            <locus from="165">f. 165</locus>
+            <title type="incipit">Mirabilis deus in sanctis</title>
+            <identifier type="dokumenten_id">Pa 1871-165-8</identifier>
+          </contentItem>
+          <contentItem n="122">
+            <locus from="165v">f. 165v</locus>
+            <title type="incipit">Oremus omnes</title>
+            <identifier type="dokumenten_id">Pa 1871-165v-10</identifier>
+          </contentItem>
+          <contentItem n="123">
+            <locus from="165v">f. 165v</locus>
+            <title type="incipit">Hic est sonus</title>
+            <identifier type="dokumenten_id">Pa 1871-165v-2</identifier>
+          </contentItem>
+          <contentItem n="124">
+            <locus from="166">f. 166</locus>
+            <title type="incipit">Vexilla martyrum</title>
+            <identifier type="dokumenten_id">Pa 1871-166-12</identifier>
+          </contentItem>
+          <contentItem n="125">
+            <locus from="167">f. 167</locus>
+            <title type="incipit">O Martine sacer</title>
+            <identifier type="dokumenten_id">Pa 1871-167-1</identifier>
+          </contentItem>
+          <contentItem n="126">
+            <locus from="167v">f. 167v</locus>
+            <title type="incipit">Haec est dies veneranda</title>
+            <identifier type="dokumenten_id">Pa 1871-167v-6</identifier>
+          </contentItem>
+          <contentItem n="127">
+            <locus from="168">f. 168</locus>
+            <title type="incipit">Alma pangat symphonizans</title>
+            <identifier type="dokumenten_id">Pa 1871-168-8</identifier>
+          </contentItem>
+          <contentItem n="128">
+            <locus from="168v">f. 168v</locus>
+            <title type="incipit">O alma trinitas deus</title>
+            <identifier type="dokumenten_id">Pa 1871-168v-12</identifier>
+          </contentItem>
+          <contentItem n="129">
+            <locus from="168v">f. 168v</locus>
+            <title type="incipit">Aure benigna</title>
+            <identifier type="dokumenten_id">Pa 1871-168v-7</identifier>
+          </contentItem>
+          <contentItem n="130">
+            <locus from="169v">f. 169v</locus>
+            <title type="incipit">Haec est festivitas</title>
+            <identifier type="dokumenten_id">Pa 1871-169v-5</identifier>
+          </contentItem>
+          <contentItem n="131">
+            <locus from="16v">f. 16v</locus>
+            <title type="incipit">Laus honor … regi nostro</title>
+            <identifier type="dokumenten_id">Pa 1871-16v-1</identifier>
+          </contentItem>
+          <contentItem n="132">
+            <locus from="17">f. 17</locus>
+            <title type="incipit">Haec est nimis ... festa</title>
+            <identifier type="dokumenten_id">Pa 1871-17-1</identifier>
+          </contentItem>
+          <contentItem n="133">
+            <locus from="170">f. 170</locus>
+            <title type="incipit">Praefulgida dies</title>
+            <identifier type="dokumenten_id">Pa 1871-170-3</identifier>
+          </contentItem>
+          <contentItem n="134">
+            <locus from="170v">f. 170v</locus>
+            <title type="incipit">Christe rex via</title>
+            <identifier type="dokumenten_id">Pa 1871-170v-1</identifier>
+          </contentItem>
+          <contentItem n="135">
+            <locus from="17v">f. 17v</locus>
+            <title type="incipit">Et ecce terraemotus</title>
+            <identifier type="dokumenten_id">Pa 1871-17v-13</identifier>
+          </contentItem>
+          <contentItem n="136">
+            <locus from="18">f. 18</locus>
+            <title type="incipit">Discipulis dominus</title>
+            <identifier type="dokumenten_id">Pa 1871-18-3</identifier>
+          </contentItem>
+          <contentItem n="137">
+            <locus from="18v">f. 18v</locus>
+            <title type="incipit">Nos dominus</title>
+            <identifier type="dokumenten_id">Pa 1871-18v-2</identifier>
+          </contentItem>
+          <contentItem n="138">
+            <locus from="19">f. 19</locus>
+            <title type="incipit">Quem creditis super astra</title>
+            <identifier type="dokumenten_id">Pa 1871-19-9</identifier>
+          </contentItem>
+          <contentItem n="139">
+            <locus from="1v">f. 1v</locus>
+            <title type="incipit">Sophistica nunc catervula</title>
+            <identifier type="dokumenten_id">Pa 1871-1v-1</identifier>
+          </contentItem>
+          <contentItem n="140">
+            <locus from="2">f. 2</locus>
+            <title type="incipit">Magnus deus in universa</title>
+            <identifier type="dokumenten_id">Pa 1871-2-1</identifier>
+          </contentItem>
+          <contentItem n="141">
+            <locus from="20v">f. 20v</locus>
+            <title type="incipit">Elevatus est</title>
+            <identifier type="dokumenten_id">Pa 1871-20v-8</identifier>
+          </contentItem>
+          <contentItem n="142">
+            <locus from="21">f. 21</locus>
+            <title type="incipit">Corpus quod</title>
+            <identifier type="dokumenten_id">Pa 1871-21-2</identifier>
+          </contentItem>
+          <contentItem n="143">
+            <locus from="21">f. 21</locus>
+            <title type="incipit">Hodie descendit spiritus</title>
+            <identifier type="dokumenten_id">Pa 1871-21-6</identifier>
+          </contentItem>
+          <contentItem n="144">
+            <locus from="22v">f. 22v</locus>
+            <title type="incipit">Pangite iam socii</title>
+            <identifier type="dokumenten_id">Pa 1871-22v-6</identifier>
+          </contentItem>
+          <contentItem n="145">
+            <locus from="22v">f. 22v</locus>
+            <title type="incipit">Dum essent</title>
+            <identifier type="dokumenten_id">Pa 1871-22v-9</identifier>
+          </contentItem>
+          <contentItem n="146">
+            <locus from="23">f. 23</locus>
+            <title type="incipit">Quem creditis natum</title>
+            <identifier type="dokumenten_id">Pa 1871-23-1</identifier>
+          </contentItem>
+          <contentItem n="147">
+            <locus from="24">f. 24</locus>
+            <title type="incipit">Iohannes est hic ... de quo canite</title>
+            <identifier type="dokumenten_id">Pa 1871-24-7</identifier>
+          </contentItem>
+          <contentItem n="148">
+            <locus from="24">f. 24</locus>
+            <title type="incipit">Praevius hic ... prophetizat</title>
+            <identifier type="dokumenten_id">Pa 1871-24-9</identifier>
+          </contentItem>
+          <contentItem n="149">
+            <locus from="24v">f. 24v</locus>
+            <title type="incipit">Petri clavigeri cari</title>
+            <identifier type="dokumenten_id">Pa 1871-24v-1</identifier>
+          </contentItem>
+          <contentItem n="150">
+            <locus from="25v">f. 25v</locus>
+            <title type="incipit">Mundum velut</title>
+            <identifier type="dokumenten_id">Pa 1871-25v-10</identifier>
+          </contentItem>
+          <contentItem n="151">
+            <locus from="25v">f. 25v</locus>
+            <title type="incipit">Simoni eia</title>
+            <identifier type="dokumenten_id">Pa 1871-25v-12</identifier>
+          </contentItem>
+          <contentItem n="152">
+            <locus from="26">f. 26</locus>
+            <title type="incipit">Qui dilexit</title>
+            <identifier type="dokumenten_id">Pa 1871-26-2</identifier>
+          </contentItem>
+          <contentItem n="153">
+            <locus from="26">f. 26</locus>
+            <title type="incipit">Plebs devota</title>
+            <identifier type="dokumenten_id">Pa 1871-26-6</identifier>
+          </contentItem>
+          <contentItem n="154">
+            <locus from="27">f. 27</locus>
+            <title type="incipit">Martialem dominus</title>
+            <identifier type="dokumenten_id">Pa 1871-27-4</identifier>
+          </contentItem>
+          <contentItem n="155">
+            <locus from="27">f. 27</locus>
+            <title type="incipit">O sacer gloriose</title>
+            <identifier type="dokumenten_id">Pa 1871-27-7</identifier>
+          </contentItem>
+          <contentItem n="156">
+            <locus from="27">f. 27</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Pa 1871-27-8</identifier>
+          </contentItem>
+          <contentItem n="157">
+            <locus from="27v">f. 27v</locus>
+            <title type="incipit">Petro ad ostium</title>
+            <identifier type="dokumenten_id">Pa 1871-27v-1</identifier>
+          </contentItem>
+          <contentItem n="158">
+            <locus from="28">f. 28</locus>
+            <title type="incipit">Lauream regni</title>
+            <identifier type="dokumenten_id">Pa 1871-28-6</identifier>
+          </contentItem>
+          <contentItem n="159">
+            <locus from="28v">f. 28v</locus>
+            <title type="incipit">Ecce dies sanctae</title>
+            <identifier type="dokumenten_id">Pa 1871-28v-1</identifier>
+          </contentItem>
+          <contentItem n="160">
+            <locus from="29v">f. 29v</locus>
+            <title type="incipit">Caelitus instructi</title>
+            <identifier type="dokumenten_id">Pa 1871-29v-2</identifier>
+          </contentItem>
+          <contentItem n="161">
+            <locus from="2v">f. 2v</locus>
+            <title type="incipit">Quem vates cecinerunt</title>
+            <identifier type="dokumenten_id">Pa 1871-2v-1</identifier>
+          </contentItem>
+          <contentItem n="162">
+            <locus from="3">f. 3</locus>
+            <title type="incipit">Ite missa est</title>
+            <identifier type="dokumenten_id">Pa 1871-3-5</identifier>
+          </contentItem>
+          <contentItem n="163">
+            <locus from="3">f. 3</locus>
+            <title type="incipit">Lux de luce</title>
+            <identifier type="dokumenten_id">Pa 1871-3-7</identifier>
+          </contentItem>
+          <contentItem n="164">
+            <locus from="30">f. 30</locus>
+            <title type="incipit">Cantemus omnes</title>
+            <identifier type="dokumenten_id">Pa 1871-30-2</identifier>
+          </contentItem>
+          <contentItem n="165">
+            <locus from="30">f. 30</locus>
+            <title type="incipit">Sacra melodimata ... nempe</title>
+            <identifier type="dokumenten_id">Pa 1871-30-6</identifier>
+          </contentItem>
+          <contentItem n="166">
+            <locus from="30v">f. 30v</locus>
+            <title type="incipit">Incesto Herodes</title>
+            <identifier type="dokumenten_id">Pa 1871-30v-12</identifier>
+          </contentItem>
+          <contentItem n="167">
+            <locus from="31">f. 31</locus>
+            <title type="incipit">Rex praecelsus</title>
+            <identifier type="dokumenten_id">Pa 1871-31-2</identifier>
+          </contentItem>
+          <contentItem n="168">
+            <locus from="31">f. 31</locus>
+            <title type="incipit">Haec legio</title>
+            <identifier type="dokumenten_id">Pa 1871-31-4</identifier>
+          </contentItem>
+          <contentItem n="169">
+            <locus from="31">f. 31</locus>
+            <title type="incipit">Dicite quid</title>
+            <identifier type="dokumenten_id">Pa 1871-31-9</identifier>
+          </contentItem>
+          <contentItem n="170">
+            <locus from="32">f. 32</locus>
+            <title type="incipit">Factum est</title>
+            <identifier type="dokumenten_id">Pa 1871-32-13</identifier>
+          </contentItem>
+          <contentItem n="171">
+            <locus from="32v">f. 32v</locus>
+            <title type="incipit">Auctorem omnium</title>
+            <identifier type="dokumenten_id">Pa 1871-32v-4</identifier>
+          </contentItem>
+          <contentItem n="172">
+            <locus from="32v">f. 32v</locus>
+            <title type="incipit">Laudibus alternis niveae</title>
+            <identifier type="dokumenten_id">Pa 1871-32v-6</identifier>
+          </contentItem>
+          <contentItem n="173">
+            <locus from="34">f. 34</locus>
+            <title type="incipit">Hodie mundo festivus ... omnium sanctorum</title>
+            <identifier type="dokumenten_id">Pa 1871-34-1</identifier>
+          </contentItem>
+          <contentItem n="174">
+            <locus from="34v">f. 34v</locus>
+            <title type="incipit">Iam patronis</title>
+            <identifier type="dokumenten_id">Pa 1871-34v-6</identifier>
+          </contentItem>
+          <contentItem n="175">
+            <locus from="36">f. 36</locus>
+            <title type="incipit">Celse deus</title>
+            <identifier type="dokumenten_id">Pa 1871-36-12</identifier>
+          </contentItem>
+          <contentItem n="176">
+            <locus from="36v">f. 36v</locus>
+            <title type="incipit">Hic dictis</title>
+            <identifier type="dokumenten_id">Pa 1871-36v-2</identifier>
+          </contentItem>
+          <contentItem n="177">
+            <locus from="36v">f. 36v</locus>
+            <title type="incipit">Fulget in ordine</title>
+            <identifier type="dokumenten_id">Pa 1871-36v-3</identifier>
+          </contentItem>
+          <contentItem n="178">
+            <locus from="37">f. 37</locus>
+            <title type="incipit">Alma dies ... Andreae</title>
+            <identifier type="dokumenten_id">Pa 1871-37-7</identifier>
+          </contentItem>
+          <contentItem n="179">
+            <locus from="38">f. 38</locus>
+            <title type="incipit">Christe tuos</title>
+            <identifier type="dokumenten_id">Pa 1871-38-1</identifier>
+          </contentItem>
+          <contentItem n="180">
+            <locus from="38">f. 38</locus>
+            <title type="incipit">Ut meruit</title>
+            <identifier type="dokumenten_id">Pa 1871-38-5</identifier>
+          </contentItem>
+          <contentItem n="181">
+            <locus from="38">f. 38</locus>
+            <title type="incipit">Celebremus ovanter</title>
+            <identifier type="dokumenten_id">Pa 1871-38-7</identifier>
+          </contentItem>
+          <contentItem n="182">
+            <locus from="3v">f. 3v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-3v-7</identifier>
+          </contentItem>
+          <contentItem n="183">
+            <locus from="4">f. 4</locus>
+            <title type="incipit">Quem quaeritis in praesepe</title>
+            <identifier type="dokumenten_id">Pa 1871-4-1</identifier>
+          </contentItem>
+          <contentItem n="184">
+            <locus from="40">f. 40</locus>
+            <title type="incipit">Domum istam tu protegere</title>
+            <identifier type="dokumenten_id">Pa 1871-40-13</identifier>
+          </contentItem>
+          <contentItem n="185">
+            <locus from="40">f. 40</locus>
+            <title type="incipit">Concrepet ecclesia</title>
+            <identifier type="dokumenten_id">Pa 1871-40-9</identifier>
+          </contentItem>
+          <contentItem n="186">
+            <locus from="40v">f. 40v</locus>
+            <title type="incipit">Cunctipotens genitor</title>
+            <identifier type="dokumenten_id">Pa 1871-40v-1</identifier>
+          </contentItem>
+          <contentItem n="187">
+            <locus from="40v">f. 40v</locus>
+            <title type="incipit">Perspicuae</title>
+            <identifier type="dokumenten_id">Pa 1871-40v-6</identifier>
+          </contentItem>
+          <contentItem n="188">
+            <locus from="40v">f. 40v</locus>
+            <title type="incipit">Festis nunc</title>
+            <identifier type="dokumenten_id">Pa 1871-40v-9</identifier>
+          </contentItem>
+          <contentItem n="189">
+            <locus from="41">f. 41</locus>
+            <title type="incipit">Suscipe sanctorum</title>
+            <identifier type="dokumenten_id">Pa 1871-41-9</identifier>
+          </contentItem>
+          <contentItem n="190">
+            <locus from="41v">f. 41v</locus>
+            <title type="incipit">Sol alma</title>
+            <identifier type="dokumenten_id">Pa 1871-41v-7</identifier>
+          </contentItem>
+          <contentItem n="191">
+            <locus from="43v">f. 43v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Pa 1871-43v-4</identifier>
+          </contentItem>
+          <contentItem n="192">
+            <locus from="43v">f. 43v</locus>
+            <title type="incipit">Rector cosmi</title>
+            <identifier type="dokumenten_id">Pa 1871-43v-7</identifier>
+          </contentItem>
+          <contentItem n="193">
+            <locus from="44">f. 44</locus>
+            <title type="incipit">Te Christe rex</title>
+            <identifier type="dokumenten_id">Pa 1871-44-1</identifier>
+          </contentItem>
+          <contentItem n="194">
+            <locus from="44v">f. 44v</locus>
+            <title type="incipit">Clemens rector</title>
+            <identifier type="dokumenten_id">Pa 1871-44v-3</identifier>
+          </contentItem>
+          <contentItem n="195">
+            <locus from="45">f. 45</locus>
+            <title type="incipit">O theos benigne</title>
+            <identifier type="dokumenten_id">Pa 1871-45-5</identifier>
+          </contentItem>
+          <contentItem n="196">
+            <locus from="45v">f. 45v</locus>
+            <title type="incipit">Rex magne domine</title>
+            <identifier type="dokumenten_id">Pa 1871-45v-4</identifier>
+          </contentItem>
+          <contentItem n="197">
+            <locus from="46">f. 46</locus>
+            <title type="incipit">Christe cui decus</title>
+            <identifier type="dokumenten_id">Pa 1871-46-3</identifier>
+          </contentItem>
+          <contentItem n="198">
+            <locus from="46v">f. 46v</locus>
+            <title type="incipit">Theoricam practicamque</title>
+            <identifier type="dokumenten_id">Pa 1871-46v-1</identifier>
+          </contentItem>
+          <contentItem n="199">
+            <locus from="46v">f. 46v</locus>
+            <title type="incipit">Pater creator</title>
+            <identifier type="dokumenten_id">Pa 1871-46v-13</identifier>
+          </contentItem>
+          <contentItem n="200">
+            <locus from="47">f. 47</locus>
+            <title type="incipit">Dominator deus</title>
+            <identifier type="dokumenten_id">Pa 1871-47-10</identifier>
+          </contentItem>
+          <contentItem n="201">
+            <locus from="47v">f. 47v</locus>
+            <title type="incipit">Summae sophiae</title>
+            <identifier type="dokumenten_id">Pa 1871-47v-4</identifier>
+          </contentItem>
+          <contentItem n="202">
+            <locus from="48">f. 48</locus>
+            <title type="incipit">Conditor rerum</title>
+            <identifier type="dokumenten_id">Pa 1871-48-11</identifier>
+          </contentItem>
+          <contentItem n="203">
+            <locus from="49">f. 49</locus>
+            <title type="incipit">O sacerdos dei</title>
+            <identifier type="dokumenten_id">Pa 1871-49-10</identifier>
+          </contentItem>
+          <contentItem n="204">
+            <locus from="49">f. 49</locus>
+            <title type="incipit">Sacerdos dei excelsi</title>
+            <identifier type="dokumenten_id">Pa 1871-49-6</identifier>
+          </contentItem>
+          <contentItem n="205">
+            <locus from="49v">f. 49v</locus>
+            <title type="incipit">Summe sacerdos</title>
+            <identifier type="dokumenten_id">Pa 1871-49v-1</identifier>
+          </contentItem>
+          <contentItem n="206">
+            <locus from="49v">f. 49v</locus>
+            <title type="incipit">Sacerdos dei excelsi</title>
+            <identifier type="dokumenten_id">Pa 1871-49v-4</identifier>
+          </contentItem>
+          <contentItem n="207">
+            <locus from="49v">f. 49v</locus>
+            <title type="incipit">Patris sapientia</title>
+            <identifier type="dokumenten_id">Pa 1871-49v-7</identifier>
+          </contentItem>
+          <contentItem n="208">
+            <locus from="5">f. 5</locus>
+            <title type="incipit">Qui es sine</title>
+            <identifier type="dokumenten_id">Pa 1871-5-5</identifier>
+          </contentItem>
+          <contentItem n="209">
+            <locus from="50">f. 50</locus>
+            <title type="incipit">Salvifica</title>
+            <identifier type="dokumenten_id">Pa 1871-50-1</identifier>
+          </contentItem>
+          <contentItem n="210">
+            <locus from="50">f. 50</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Pa 1871-50-8</identifier>
+          </contentItem>
+          <contentItem n="211">
+            <locus from="50v">f. 50v</locus>
+            <title type="incipit">Cunctipotens genitor</title>
+            <identifier type="dokumenten_id">Pa 1871-50v-1</identifier>
+          </contentItem>
+          <contentItem n="212">
+            <locus from="50v">f. 50v</locus>
+            <title type="incipit">Princeps astrigeram</title>
+            <identifier type="dokumenten_id">Pa 1871-50v-11</identifier>
+          </contentItem>
+          <contentItem n="213">
+            <locus from="51">f. 51</locus>
+            <title type="incipit">Victimae paschali laudes</title>
+            <identifier type="dokumenten_id">Pa 1871-51-10</identifier>
+          </contentItem>
+          <contentItem n="214">
+            <locus from="51v">f. 51v</locus>
+            <title type="incipit">Nostra promat herilia</title>
+            <identifier type="dokumenten_id">Pa 1871-51v-1</identifier>
+          </contentItem>
+          <contentItem n="215">
+            <locus from="52">f. 52</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Pa 1871-52-11</identifier>
+          </contentItem>
+          <contentItem n="216">
+            <locus from="52v">f. 52v</locus>
+            <title type="incipit">Deus pater ingenitus</title>
+            <identifier type="dokumenten_id">Pa 1871-52v-1</identifier>
+          </contentItem>
+          <contentItem n="217">
+            <locus from="52v">f. 52v</locus>
+            <title type="incipit">Sanctus deus omnipotens</title>
+            <identifier type="dokumenten_id">Pa 1871-52v-9</identifier>
+          </contentItem>
+          <contentItem n="218">
+            <locus from="53">f. 53</locus>
+            <title type="incipit">Pater ingenitus ... Orbis</title>
+            <identifier type="dokumenten_id">Pa 1871-53-11</identifier>
+          </contentItem>
+          <contentItem n="219">
+            <locus from="53">f. 53</locus>
+            <title type="incipit">Deus pater ingenitus</title>
+            <identifier type="dokumenten_id">Pa 1871-53-5</identifier>
+          </contentItem>
+          <contentItem n="220">
+            <locus from="53v">f. 53v</locus>
+            <title type="incipit">Gloriosa dies ... surrexit</title>
+            <identifier type="dokumenten_id">Pa 1871-53v-10</identifier>
+          </contentItem>
+          <contentItem n="221">
+            <locus from="53v">f. 53v</locus>
+            <title type="incipit">Ante saecula</title>
+            <identifier type="dokumenten_id">Pa 1871-53v-4</identifier>
+          </contentItem>
+          <contentItem n="222">
+            <locus from="54">f. 54</locus>
+            <title type="incipit">O lux indeficiens</title>
+            <identifier type="dokumenten_id">Pa 1871-54-12</identifier>
+          </contentItem>
+          <contentItem n="223">
+            <locus from="54">f. 54</locus>
+            <title type="incipit">Admirabilis splendor</title>
+            <identifier type="dokumenten_id">Pa 1871-54-5</identifier>
+          </contentItem>
+          <contentItem n="224">
+            <locus from="54v">f. 54v</locus>
+            <title type="incipit">O sancta maiestas</title>
+            <identifier type="dokumenten_id">Pa 1871-54v-6</identifier>
+          </contentItem>
+          <contentItem n="225">
+            <locus from="55">f. 55</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Pa 1871-55-2</identifier>
+          </contentItem>
+          <contentItem n="226">
+            <locus from="55">f. 55</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Pa 1871-55-5</identifier>
+          </contentItem>
+          <contentItem n="227">
+            <locus from="55">f. 55</locus>
+            <title type="incipit">Summe pater de quo</title>
+            <identifier type="dokumenten_id">Pa 1871-55-8</identifier>
+          </contentItem>
+          <contentItem n="228">
+            <locus from="55v">f. 55v</locus>
+            <title type="incipit">Redemptor mundi</title>
+            <identifier type="dokumenten_id">Pa 1871-55v-1</identifier>
+          </contentItem>
+          <contentItem n="229">
+            <locus from="55v">f. 55v</locus>
+            <title type="incipit">Omnipotens aeterna</title>
+            <identifier type="dokumenten_id">Pa 1871-55v-11</identifier>
+          </contentItem>
+          <contentItem n="230">
+            <locus from="55v">f. 55v</locus>
+            <title type="incipit">Lux indeficiens</title>
+            <identifier type="dokumenten_id">Pa 1871-55v-8</identifier>
+          </contentItem>
+          <contentItem n="231">
+            <locus from="56">f. 56</locus>
+            <title type="incipit">Agnus dei miserere nobis</title>
+            <identifier type="dokumenten_id">Pa 1871-56-10</identifier>
+          </contentItem>
+          <contentItem n="232">
+            <locus from="56">f. 56</locus>
+            <title type="incipit">Pro cunctis deductus</title>
+            <identifier type="dokumenten_id">Pa 1871-56-2</identifier>
+          </contentItem>
+          <contentItem n="233">
+            <locus from="56v">f. 56v</locus>
+            <title type="incipit">Venite fratres</title>
+            <identifier type="dokumenten_id">Pa 1871-56v-11</identifier>
+          </contentItem>
+          <contentItem n="234">
+            <locus from="56v">f. 56v</locus>
+            <title type="incipit">Qui patris in solio</title>
+            <identifier type="dokumenten_id">Pa 1871-56v-5</identifier>
+          </contentItem>
+          <contentItem n="235">
+            <locus from="56v">f. 56v</locus>
+            <title type="incipit">Quem Iohannes in Iordane</title>
+            <identifier type="dokumenten_id">Pa 1871-56v-8</identifier>
+          </contentItem>
+          <contentItem n="236">
+            <locus from="57">f. 57</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Pa 1871-57-11</identifier>
+          </contentItem>
+          <contentItem n="237">
+            <locus from="57">f. 57</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Pa 1871-57-12</identifier>
+          </contentItem>
+          <contentItem n="238">
+            <locus from="57">f. 57</locus>
+            <title type="incipit">Fili patris</title>
+            <identifier type="dokumenten_id">Pa 1871-57-3</identifier>
+          </contentItem>
+          <contentItem n="239">
+            <locus from="57">f. 57</locus>
+            <title type="incipit">O amnos tu theu</title>
+            <identifier type="dokumenten_id">Pa 1871-57-5</identifier>
+          </contentItem>
+          <contentItem n="240">
+            <locus from="57">f. 57</locus>
+            <title type="incipit">Agios agios agios</title>
+            <identifier type="dokumenten_id">Pa 1871-57-7</identifier>
+          </contentItem>
+          <contentItem n="241">
+            <locus from="57v">f. 57v</locus>
+            <title type="incipit">Gaude caterva</title>
+            <identifier type="dokumenten_id">Pa 1871-57v-4</identifier>
+          </contentItem>
+          <contentItem n="242">
+            <locus from="58v">f. 58v</locus>
+            <title type="incipit">Psalle iam turba sacra</title>
+            <identifier type="dokumenten_id">Pa 1871-58v-4</identifier>
+          </contentItem>
+          <contentItem n="243">
+            <locus from="59">f. 59</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-59-11</identifier>
+          </contentItem>
+          <contentItem n="244">
+            <locus from="5v">f. 5v</locus>
+            <title type="incipit">Desinat esse</title>
+            <identifier type="dokumenten_id">Pa 1871-5v-3</identifier>
+          </contentItem>
+          <contentItem n="245">
+            <locus from="5v">f. 5v</locus>
+            <title type="incipit">Statuerunt apostoli</title>
+            <identifier type="dokumenten_id">Pa 1871-5v-6</identifier>
+          </contentItem>
+          <contentItem n="246">
+            <locus from="60">f. 60</locus>
+            <title type="incipit">Laus tua deus</title>
+            <identifier type="dokumenten_id">Pa 1871-60-1</identifier>
+          </contentItem>
+          <contentItem n="247">
+            <locus from="60v">f. 60v</locus>
+            <title type="incipit">Omnipotens altissime</title>
+            <identifier type="dokumenten_id">Pa 1871-60v-11</identifier>
+          </contentItem>
+          <contentItem n="248">
+            <locus from="61v">f. 61v</locus>
+            <title type="incipit">Qui indiges nullius</title>
+            <identifier type="dokumenten_id">Pa 1871-61v-4</identifier>
+          </contentItem>
+          <contentItem n="249">
+            <locus from="62">f. 62</locus>
+            <title type="incipit">Decus eterne</title>
+            <identifier type="dokumenten_id">Pa 1871-62-3</identifier>
+          </contentItem>
+          <contentItem n="250">
+            <locus from="62v">f. 62v</locus>
+            <title type="incipit">Quem cives celestes</title>
+            <identifier type="dokumenten_id">Pa 1871-62v-8</identifier>
+          </contentItem>
+          <contentItem n="251">
+            <locus from="63v">f. 63v</locus>
+            <title type="incipit">O gloria sanctorum</title>
+            <identifier type="dokumenten_id">Pa 1871-63v-4</identifier>
+          </contentItem>
+          <contentItem n="252">
+            <locus from="64">f. 64</locus>
+            <title type="incipit">O laudabilis rex domine</title>
+            <identifier type="dokumenten_id">Pa 1871-64-3</identifier>
+          </contentItem>
+          <contentItem n="253">
+            <locus from="64v">f. 64v</locus>
+            <title type="incipit">Quem patris ad dextram</title>
+            <identifier type="dokumenten_id">Pa 1871-64v-1</identifier>
+          </contentItem>
+          <contentItem n="254">
+            <locus from="65">f. 65</locus>
+            <title type="incipit">Sit tibi laus tria</title>
+            <identifier type="dokumenten_id">Pa 1871-65-1</identifier>
+          </contentItem>
+          <contentItem n="255">
+            <locus from="65">f. 65</locus>
+            <title type="incipit">Laudat in excelsis</title>
+            <identifier type="dokumenten_id">Pa 1871-65-6</identifier>
+          </contentItem>
+          <contentItem n="256">
+            <locus from="65v">f. 65v</locus>
+            <title type="incipit">Christe salus mundi</title>
+            <identifier type="dokumenten_id">Pa 1871-65v-10</identifier>
+          </contentItem>
+          <contentItem n="257">
+            <locus from="66v">f. 66v</locus>
+            <title type="incipit">Omnipotens pie rex</title>
+            <identifier type="dokumenten_id">Pa 1871-66v-3</identifier>
+          </contentItem>
+          <contentItem n="258">
+            <locus from="67">f. 67</locus>
+            <title type="incipit">Laus tibi domine</title>
+            <identifier type="dokumenten_id">Pa 1871-67-13</identifier>
+          </contentItem>
+          <contentItem n="259">
+            <locus from="67">f. 67</locus>
+            <title type="incipit">Rex tibi laus</title>
+            <identifier type="dokumenten_id">Pa 1871-67-2</identifier>
+          </contentItem>
+          <contentItem n="260">
+            <locus from="68">f. 68</locus>
+            <title type="incipit">Laus tibi summe</title>
+            <identifier type="dokumenten_id">Pa 1871-68-13</identifier>
+          </contentItem>
+          <contentItem n="261">
+            <locus from="68">f. 68</locus>
+            <title type="incipit">Prudentia prudentium</title>
+            <identifier type="dokumenten_id">Pa 1871-68-3</identifier>
+          </contentItem>
+          <contentItem n="262">
+            <locus from="69">f. 69</locus>
+            <title type="incipit">Angelico affatu</title>
+            <identifier type="dokumenten_id">Pa 1871-69-11</identifier>
+          </contentItem>
+          <contentItem n="263">
+            <locus from="69">f. 69</locus>
+            <title type="incipit">Rector ab arce</title>
+            <identifier type="dokumenten_id">Pa 1871-69-3</identifier>
+          </contentItem>
+          <contentItem n="264">
+            <locus from="69v">f. 69v</locus>
+            <title type="incipit">Laus angelorum</title>
+            <identifier type="dokumenten_id">Pa 1871-69v-9</identifier>
+          </contentItem>
+          <contentItem n="265">
+            <locus from="6v">f. 6v</locus>
+            <title type="incipit">Almo dei Stephano</title>
+            <identifier type="dokumenten_id">Pa 1871-6v-10</identifier>
+          </contentItem>
+          <contentItem n="266">
+            <locus from="7">f. 7</locus>
+            <title type="incipit">Intuitus caelum</title>
+            <identifier type="dokumenten_id">Pa 1871-7-8</identifier>
+          </contentItem>
+          <contentItem n="267">
+            <locus from="7">f. 7</locus>
+            <title type="incipit">Ecce iam Iohannis</title>
+            <identifier type="dokumenten_id">Pa 1871-7-9</identifier>
+          </contentItem>
+          <contentItem n="268">
+            <locus from="70">f. 70</locus>
+            <title type="incipit">Te consonant</title>
+            <identifier type="dokumenten_id">Pa 1871-70-8</identifier>
+          </contentItem>
+          <contentItem n="269">
+            <locus from="70v">f. 70v</locus>
+            <title type="incipit">Cives superni</title>
+            <identifier type="dokumenten_id">Pa 1871-70v-7</identifier>
+          </contentItem>
+          <contentItem n="270">
+            <locus from="71">f. 71</locus>
+            <title type="incipit">Laus honor Christe</title>
+            <identifier type="dokumenten_id">Pa 1871-71-10</identifier>
+          </contentItem>
+          <contentItem n="271">
+            <locus from="71v">f. 71v</locus>
+            <title type="incipit">Quem cuncta laudant</title>
+            <identifier type="dokumenten_id">Pa 1871-71v-9</identifier>
+          </contentItem>
+          <contentItem n="272">
+            <locus from="72">f. 72</locus>
+            <title type="incipit">Carmine digno</title>
+            <identifier type="dokumenten_id">Pa 1871-72-8</identifier>
+          </contentItem>
+          <contentItem n="273">
+            <locus from="73">f. 73</locus>
+            <title type="incipit">Hinc laudando</title>
+            <identifier type="dokumenten_id">Pa 1871-73-2</identifier>
+          </contentItem>
+          <contentItem n="274">
+            <locus from="73">f. 73</locus>
+            <title type="incipit">Qua iugi voce</title>
+            <identifier type="dokumenten_id">Pa 1871-73-8</identifier>
+          </contentItem>
+          <contentItem n="275">
+            <locus from="73v">f. 73v</locus>
+            <title type="incipit">Quem vere pia laus</title>
+            <identifier type="dokumenten_id">Pa 1871-73v-6</identifier>
+          </contentItem>
+          <contentItem n="276">
+            <locus from="74">f. 74</locus>
+            <title type="incipit">Rector ab arce</title>
+            <identifier type="dokumenten_id">Pa 1871-74-1</identifier>
+          </contentItem>
+          <contentItem n="277">
+            <locus from="74v">f. 74v</locus>
+            <title type="incipit">Flos laudis</title>
+            <identifier type="dokumenten_id">Pa 1871-74v-8</identifier>
+          </contentItem>
+          <contentItem n="278">
+            <locus from="75v">f. 75v</locus>
+            <title type="incipit">Qui deus et rector</title>
+            <identifier type="dokumenten_id">Pa 1871-75v-1</identifier>
+          </contentItem>
+          <contentItem n="279">
+            <locus from="76">f. 76</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Pa 1871-76-11</identifier>
+          </contentItem>
+          <contentItem n="280">
+            <locus from="76">f. 76</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Pa 1871-76-8</identifier>
+          </contentItem>
+          <contentItem n="281">
+            <locus from="76v">f. 76v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-76v-1</identifier>
+          </contentItem>
+          <contentItem n="282">
+            <locus from="76v">f. 76v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-76v-12</identifier>
+          </contentItem>
+          <contentItem n="283">
+            <locus from="76v">f. 76v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-76v-16</identifier>
+          </contentItem>
+          <contentItem n="284">
+            <locus from="76v">f. 76v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-76v-19</identifier>
+          </contentItem>
+          <contentItem n="285">
+            <locus from="76v">f. 76v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-76v-3</identifier>
+          </contentItem>
+          <contentItem n="286">
+            <locus from="77">f. 77</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-77-5</identifier>
+          </contentItem>
+          <contentItem n="287">
+            <locus from="77">f. 77</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-77-7</identifier>
+          </contentItem>
+          <contentItem n="288">
+            <locus from="77">f. 77</locus>
+            <title type="incipit">Ecce puerpera</title>
+            <identifier type="dokumenten_id">Pa 1871-77-9</identifier>
+          </contentItem>
+          <contentItem n="289">
+            <locus from="77v">f. 77v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-77v-1</identifier>
+          </contentItem>
+          <contentItem n="290">
+            <locus from="77v">f. 77v</locus>
+            <title type="incipit">Via lux</title>
+            <identifier type="dokumenten_id">Pa 1871-77v-10I</identifier>
+          </contentItem>
+          <contentItem n="291">
+            <locus from="77v">f. 77v</locus>
+            <title type="incipit">Suscitat proelia</title>
+            <identifier type="dokumenten_id">Pa 1871-77v-10II</identifier>
+          </contentItem>
+          <contentItem n="292">
+            <locus from="77v">f. 77v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-77v-3</identifier>
+          </contentItem>
+          <contentItem n="293">
+            <locus from="77v">f. 77v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-77v-5</identifier>
+          </contentItem>
+          <contentItem n="294">
+            <locus from="77v">f. 77v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-77v-8</identifier>
+          </contentItem>
+          <contentItem n="295">
+            <locus from="78">f. 78</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-78-12</identifier>
+          </contentItem>
+          <contentItem n="296">
+            <locus from="78">f. 78</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-78-4</identifier>
+          </contentItem>
+          <contentItem n="297">
+            <locus from="78">f. 78</locus>
+            <title type="incipit">Adest dies sacra</title>
+            <identifier type="dokumenten_id">Pa 1871-78-7</identifier>
+          </contentItem>
+          <contentItem n="298">
+            <locus from="78v">f. 78v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-78v-11</identifier>
+          </contentItem>
+          <contentItem n="299">
+            <locus from="78v">f. 78v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-78v-2</identifier>
+          </contentItem>
+          <contentItem n="300">
+            <locus from="78v">f. 78v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-78v-5</identifier>
+          </contentItem>
+          <contentItem n="301">
+            <locus from="78v">f. 78v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-78v-8</identifier>
+          </contentItem>
+          <contentItem n="302">
+            <locus from="79">f. 79</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-79-1</identifier>
+          </contentItem>
+          <contentItem n="303">
+            <locus from="79">f. 79</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-79-12</identifier>
+          </contentItem>
+          <contentItem n="304">
+            <locus from="79">f. 79</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-79-16</identifier>
+          </contentItem>
+          <contentItem n="305">
+            <locus from="79">f. 79</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-79-8</identifier>
+          </contentItem>
+          <contentItem n="306">
+            <locus from="79v">f. 79v</locus>
+            <title type="incipit">Rex in aeternum suscipe</title>
+            <identifier type="dokumenten_id">Pa 1871-79v-10</identifier>
+          </contentItem>
+          <contentItem n="307">
+            <locus from="79v">f. 79v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-79v-2</identifier>
+          </contentItem>
+          <contentItem n="308">
+            <locus from="79v">f. 79v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-79v-8</identifier>
+          </contentItem>
+          <contentItem n="309">
+            <locus from="7v">f. 7v</locus>
+            <title type="incipit">Psallite dilecto meruit</title>
+            <identifier type="dokumenten_id">Pa 1871-7v-10</identifier>
+          </contentItem>
+          <contentItem n="310">
+            <locus from="8">f. 8</locus>
+            <title type="incipit">Corda fratrum</title>
+            <identifier type="dokumenten_id">Pa 1871-8-10</identifier>
+          </contentItem>
+          <contentItem n="311">
+            <locus from="8">f. 8</locus>
+            <title type="incipit">Dicite nunc</title>
+            <identifier type="dokumenten_id">Pa 1871-8-12</identifier>
+          </contentItem>
+          <contentItem n="312">
+            <locus from="80">f. 80</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-80-4</identifier>
+          </contentItem>
+          <contentItem n="313">
+            <locus from="80">f. 80</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-80-6</identifier>
+          </contentItem>
+          <contentItem n="314">
+            <locus from="80">f. 80</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-80-9</identifier>
+          </contentItem>
+          <contentItem n="315">
+            <locus from="80v">f. 80v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-80v-1</identifier>
+          </contentItem>
+          <contentItem n="316">
+            <locus from="80v">f. 80v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-80v-4</identifier>
+          </contentItem>
+          <contentItem n="317">
+            <locus from="80v">f. 80v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-80v-7</identifier>
+          </contentItem>
+          <contentItem n="318">
+            <locus from="80v">f. 80v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-80v-9</identifier>
+          </contentItem>
+          <contentItem n="319">
+            <locus from="81">f. 81</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-81-1</identifier>
+          </contentItem>
+          <contentItem n="320">
+            <locus from="81">f. 81</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-81-10</identifier>
+          </contentItem>
+          <contentItem n="321">
+            <locus from="81">f. 81</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-81-12</identifier>
+          </contentItem>
+          <contentItem n="322">
+            <locus from="81">f. 81</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-81-4</identifier>
+          </contentItem>
+          <contentItem n="323">
+            <locus from="81">f. 81</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-81-7</identifier>
+          </contentItem>
+          <contentItem n="324">
+            <locus from="81v">f. 81v</locus>
+            <title type="incipit">Carmina laudum suscipe</title>
+            <identifier type="dokumenten_id">Pa 1871-81v-10</identifier>
+          </contentItem>
+          <contentItem n="325">
+            <locus from="81v">f. 81v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-81v-3</identifier>
+          </contentItem>
+          <contentItem n="326">
+            <locus from="81v">f. 81v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-81v-6</identifier>
+          </contentItem>
+          <contentItem n="327">
+            <locus from="82">f. 82</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-82-13</identifier>
+          </contentItem>
+          <contentItem n="328">
+            <locus from="82">f. 82</locus>
+            <title type="incipit">Suscipe laus angelorum</title>
+            <identifier type="dokumenten_id">Pa 1871-82-6</identifier>
+          </contentItem>
+          <contentItem n="329">
+            <locus from="82v">f. 82v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-82v-11</identifier>
+          </contentItem>
+          <contentItem n="330">
+            <locus from="82v">f. 82v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-82v-5</identifier>
+          </contentItem>
+          <contentItem n="331">
+            <locus from="82v">f. 82v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-82v-8</identifier>
+          </contentItem>
+          <contentItem n="332">
+            <locus from="83">f. 83</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-83-1</identifier>
+          </contentItem>
+          <contentItem n="333">
+            <locus from="83">f. 83</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-83-14</identifier>
+          </contentItem>
+          <contentItem n="334">
+            <locus from="83v">f. 83v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-83v-10</identifier>
+          </contentItem>
+          <contentItem n="335">
+            <locus from="83v">f. 83v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-83v-13</identifier>
+          </contentItem>
+          <contentItem n="336">
+            <locus from="83v">f. 83v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-83v-3</identifier>
+          </contentItem>
+          <contentItem n="337">
+            <locus from="83v">f. 83v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-83v-7</identifier>
+          </contentItem>
+          <contentItem n="338">
+            <locus from="84">f. 84</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-84-11</identifier>
+          </contentItem>
+          <contentItem n="339">
+            <locus from="84">f. 84</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-84-14</identifier>
+          </contentItem>
+          <contentItem n="340">
+            <locus from="84">f. 84</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-84-5</identifier>
+          </contentItem>
+          <contentItem n="341">
+            <locus from="84v">f. 84v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-84v-11</identifier>
+          </contentItem>
+          <contentItem n="342">
+            <locus from="84v">f. 84v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-84v-4</identifier>
+          </contentItem>
+          <contentItem n="343">
+            <locus from="84v">f. 84v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-84v-6</identifier>
+          </contentItem>
+          <contentItem n="344">
+            <locus from="85">f. 85</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-85-10</identifier>
+          </contentItem>
+          <contentItem n="345">
+            <locus from="85">f. 85</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-85-3</identifier>
+          </contentItem>
+          <contentItem n="346">
+            <locus from="85">f. 85</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-85-6</identifier>
+          </contentItem>
+          <contentItem n="347">
+            <locus from="85">f. 85</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-85-8</identifier>
+          </contentItem>
+          <contentItem n="348">
+            <locus from="85v">f. 85v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-85v-1</identifier>
+          </contentItem>
+          <contentItem n="349">
+            <locus from="85v">f. 85v</locus>
+            <title type="incipit">Iam nunc intonat</title>
+            <identifier type="dokumenten_id">Pa 1871-85v-12</identifier>
+          </contentItem>
+          <contentItem n="350">
+            <locus from="85v">f. 85v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-85v-5</identifier>
+          </contentItem>
+          <contentItem n="351">
+            <locus from="85v">f. 85v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-85v-9</identifier>
+          </contentItem>
+          <contentItem n="352">
+            <locus from="86">f. 86</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-86-11</identifier>
+          </contentItem>
+          <contentItem n="353">
+            <locus from="86">f. 86</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-86-8</identifier>
+          </contentItem>
+          <contentItem n="354">
+            <locus from="86v">f. 86v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-86v-1</identifier>
+          </contentItem>
+          <contentItem n="355">
+            <locus from="86v">f. 86v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-86v-14</identifier>
+          </contentItem>
+          <contentItem n="356">
+            <locus from="86v">f. 86v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-86v-5</identifier>
+          </contentItem>
+          <contentItem n="357">
+            <locus from="86v">f. 86v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-86v-9</identifier>
+          </contentItem>
+          <contentItem n="358">
+            <locus from="87">f. 87</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-87-11</identifier>
+          </contentItem>
+          <contentItem n="359">
+            <locus from="87">f. 87</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-87-2</identifier>
+          </contentItem>
+          <contentItem n="360">
+            <locus from="87">f. 87</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-87-4</identifier>
+          </contentItem>
+          <contentItem n="361">
+            <locus from="87">f. 87</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-87-6</identifier>
+          </contentItem>
+          <contentItem n="362">
+            <locus from="87">f. 87</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-87-8</identifier>
+          </contentItem>
+          <contentItem n="363">
+            <locus from="87v">f. 87v</locus>
+            <title type="incipit">Kyrie deus sempiterne</title>
+            <identifier type="dokumenten_id">Pa 1871-87v-1</identifier>
+          </contentItem>
+          <contentItem n="364">
+            <locus from="88">f. 88</locus>
+            <title type="incipit">Voce praecelsa</title>
+            <identifier type="dokumenten_id">Pa 1871-88-1</identifier>
+          </contentItem>
+          <contentItem n="365">
+            <locus from="88v">f. 88v</locus>
+            <title type="incipit">Laus angelica</title>
+            <identifier type="dokumenten_id">Pa 1871-88v-12</identifier>
+          </contentItem>
+          <contentItem n="366">
+            <locus from="88v">f. 88v</locus>
+            <title type="incipit">Iubilate deo omnis</title>
+            <identifier type="dokumenten_id">Pa 1871-88v-4</identifier>
+          </contentItem>
+          <contentItem n="367">
+            <locus from="88v">f. 88v</locus>
+            <title type="incipit">Pangamus carmina</title>
+            <identifier type="dokumenten_id">Pa 1871-88v-7</identifier>
+          </contentItem>
+          <contentItem n="368">
+            <locus from="89v">f. 89v</locus>
+            <title type="incipit">Pangat regi deo</title>
+            <identifier type="dokumenten_id">Pa 1871-89v-10</identifier>
+          </contentItem>
+          <contentItem n="369">
+            <locus from="9">f. 9</locus>
+            <title type="incipit">Psallite sanctorum</title>
+            <identifier type="dokumenten_id">Pa 1871-9-12</identifier>
+          </contentItem>
+          <contentItem n="370">
+            <locus from="9">f. 9</locus>
+            <title type="incipit">Veni sancte spiritus et emitte</title>
+            <identifier type="dokumenten_id">Pa 1871-9-13</identifier>
+          </contentItem>
+          <contentItem n="371">
+            <locus from="9">f. 9</locus>
+            <title type="incipit">Erepti secum</title>
+            <identifier type="dokumenten_id">Pa 1871-9-2a</identifier>
+          </contentItem>
+          <contentItem n="372">
+            <locus from="90v">f. 90v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-90v-1</identifier>
+          </contentItem>
+          <contentItem n="373">
+            <locus from="90v">f. 90v</locus>
+            <title type="incipit">Venit rex ... praestolabatur</title>
+            <identifier type="dokumenten_id">Pa 1871-90v-4</identifier>
+          </contentItem>
+          <contentItem n="374">
+            <locus from="91">f. 91</locus>
+            <title type="incipit">Age nunc mitis</title>
+            <identifier type="dokumenten_id">Pa 1871-91-1</identifier>
+          </contentItem>
+          <contentItem n="375">
+            <locus from="91v">f. 91v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pa 1871-91v-2</identifier>
+          </contentItem>
+          <contentItem n="376">
+            <locus from="91v">f. 91v</locus>
+            <title type="incipit">Summe deus qui cuncta</title>
+            <identifier type="dokumenten_id">Pa 1871-91v-4</identifier>
+          </contentItem>
+          <contentItem n="377">
+            <locus from="92">f. 92</locus>
+            <title type="incipit">Regnantem sempiterna</title>
+            <identifier type="dokumenten_id">Pa 1871-92-1</identifier>
+          </contentItem>
+          <contentItem n="378">
+            <locus from="92">f. 92</locus>
+            <title type="incipit">Qui regis sceptra</title>
+            <identifier type="dokumenten_id">Pa 1871-92-11</identifier>
+          </contentItem>
+          <contentItem n="379">
+            <locus from="92">f. 92</locus>
+            <title type="incipit">Pangat laudes</title>
+            <identifier type="dokumenten_id">Pa 1871-92-2</identifier>
+          </contentItem>
+          <contentItem n="380">
+            <locus from="92v">f. 92v</locus>
+            <title type="incipit">Iubilemus omnes una</title>
+            <identifier type="dokumenten_id">Pa 1871-92v-5</identifier>
+          </contentItem>
+          <contentItem n="381">
+            <locus from="93">f. 93</locus>
+            <title type="incipit">Laus beata</title>
+            <identifier type="dokumenten_id">Pa 1871-93-1</identifier>
+          </contentItem>
+          <contentItem n="382">
+            <locus from="93">f. 93</locus>
+            <title type="incipit">En virginum agmina</title>
+            <identifier type="dokumenten_id">Pa 1871-93-10</identifier>
+          </contentItem>
+          <contentItem n="383">
+            <locus from="93v">f. 93v</locus>
+            <title type="incipit">Psalle iam turba laeta</title>
+            <identifier type="dokumenten_id">Pa 1871-93v-6</identifier>
+          </contentItem>
+          <contentItem n="384">
+            <locus from="94">f. 94</locus>
+            <title type="incipit">Prome verba consona</title>
+            <identifier type="dokumenten_id">Pa 1871-94-12</identifier>
+          </contentItem>
+          <contentItem n="385">
+            <locus from="94">f. 94</locus>
+            <title type="incipit">Veniet rex ... exspectant</title>
+            <identifier type="dokumenten_id">Pa 1871-94-2</identifier>
+          </contentItem>
+          <contentItem n="386">
+            <locus from="94v">f. 94v</locus>
+            <title type="incipit">Age nunc dia</title>
+            <identifier type="dokumenten_id">Pa 1871-94v-10</identifier>
+          </contentItem>
+          <contentItem n="387">
+            <locus from="95">f. 95</locus>
+            <title type="incipit">Adest praecelsa</title>
+            <identifier type="dokumenten_id">Pa 1871-95-3</identifier>
+          </contentItem>
+          <contentItem n="388">
+            <locus from="95v">f. 95v</locus>
+            <title type="incipit">Salve exsultans</title>
+            <identifier type="dokumenten_id">Pa 1871-95v-9</identifier>
+          </contentItem>
+          <contentItem n="389">
+            <locus from="96v">f. 96v</locus>
+            <title type="incipit">Pangat vox humana</title>
+            <identifier type="dokumenten_id">Pa 1871-96v-3</identifier>
+          </contentItem>
+          <contentItem n="390">
+            <locus from="97">f. 97</locus>
+            <title type="incipit">Celebranda satis</title>
+            <identifier type="dokumenten_id">Pa 1871-97-10</identifier>
+          </contentItem>
+          <contentItem n="391">
+            <locus from="98">f. 98</locus>
+            <title type="incipit">Epithalamia affla</title>
+            <identifier type="dokumenten_id">Pa 1871-98-4</identifier>
+          </contentItem>
+          <contentItem n="392">
+            <locus from="98v">f. 98v</locus>
+            <title type="incipit">Veneranda die</title>
+            <identifier type="dokumenten_id">Pa 1871-98v-10</identifier>
+          </contentItem>
+          <contentItem n="393">
+            <locus from="99">f. 99</locus>
+            <title type="incipit">Nato canunt omnia</title>
+            <identifier type="dokumenten_id">Pa 1871-99-1</identifier>
+          </contentItem>
+          <contentItem n="394">
+            <locus from="99v">f. 99v</locus>
+            <title type="incipit">Caeleste organum</title>
+            <identifier type="dokumenten_id">Pa 1871-99v-1</identifier>
+          </contentItem>
+          <contentItem n="395">
+            <locus from="9v">f. 9v</locus>
+            <title type="incipit">Hodie regi magno</title>
+            <identifier type="dokumenten_id">Pa 1871-9v-1b</identifier>
+          </contentItem>
+        </contents>
+        <notesStmt>
+          <annot type="notation-documentation">
+            <ref target="notation/Pa_1871.notation.md">Notation documentation</ref>
+          </annot>
+          <annot type="description">
+            <ref target="Pa_1871.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <classification>
+          <termList>
+            <term type="quellentyp">Tropar, Sequentiar, Prosar, Prosular</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">Nouv. acq. lat. 1871</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">Paris</geogName>
+                <corpName>Bibliothèque nationale de France</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+        <relationList>
+          <relation rel="hasReproduction" target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b85624659/manifest.json" label="IIIF manifest" />
+        </relationList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

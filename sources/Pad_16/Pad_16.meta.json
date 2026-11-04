@@ -1,0 +1,25 @@
+{
+  "id": "Pad 16",
+  "quellensigle": "Pad 16",
+  "herkunftsregion": "Quellen italienischer Herkunft",
+  "herkunftsort": "Padua",
+  "herkunftsinstitution": "Benediktinerinnenkloster S. Pietro",
+  "ordenstradition": "",
+  "quellentyp": "Graduale, Tropar, Kyriale",
+  "bibliotheksort": "Padua",
+  "bibliothek": "Biblioteca Capitolare",
+  "bibliothekssignatur": "B 16*",
+  "kommentar": "",
+  "datierung": "13. Jh (1290)",
+  "status": "",
+  "jahrhundert": "13.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Pad 16",
+  "cantus_century": "13.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Pad_16.description.md"
+  }
+}

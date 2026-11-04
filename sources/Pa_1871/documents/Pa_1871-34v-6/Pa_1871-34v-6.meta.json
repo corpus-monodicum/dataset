@@ -1,0 +1,41 @@
+{
+  "id": "b9dd1622-5125-4901-9efe-aa768fdc14f5",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-34v-6",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Martinus",
+  "feier": "Messe",
+  "textinitium": "Iam patronis",
+  "bibliographischerverweis": "Statuit intr 184 A 108 A 46 A 47 C 48 D 49 E F 65 A 136 C 67 D 68 E G 104 A 105 C 106 D 107 E H 58 A 121 C 122 D 60 E I 109 A 144 C 110 D 111 E 34 A 35 C 145 D 37 E K [mel I D] 147 A 113 C 114 D 115 E 148 A 116 B 124 C 125 D 126 E 146 A 117 B 118 C 119 D 120 E (CT X)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "6",
+  "foliostart": "34v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "(Statuit)",
+    "Endseite": "36",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Statuit intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

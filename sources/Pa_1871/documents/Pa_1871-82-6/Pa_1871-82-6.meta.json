@@ -1,0 +1,41 @@
+{
+  "id": "63826b8a-5bf1-47ab-b311-a8017d615807",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-82-6",
+  "gattung1": "Sequenz",
+  "gattung2": "Teiltextiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Suscipe laus angelorum",
+  "bibliographischerverweis": "AH 49, 519",
+  "druckausgabe": "",
+  "zeilenstart": "6",
+  "foliostart": "82",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "82",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Adorabo maior",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "Laetetur et concrepet",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

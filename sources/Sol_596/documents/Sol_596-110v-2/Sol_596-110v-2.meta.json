@@ -1,0 +1,41 @@
+{
+  "id": "6e522546-8f7c-40f5-bf77-c8792fcfddcb",
+  "quelle_id": "Sol 596",
+  "dokumenten_id": "Sol 596-110v-2",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Hymnus",
+  "festtag": "Pentecoste",
+  "feier": "Prozession",
+  "textinitium": "Veni creator spiritus*",
+  "bibliographischerverweis": "AH 50, 144",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "2",
+  "foliostart": "110v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "110v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Sol 596-109-3S",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Pentecost",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

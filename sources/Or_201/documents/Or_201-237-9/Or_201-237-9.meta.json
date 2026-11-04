@@ -1,0 +1,41 @@
+{
+  "id": "7fa20dad-61ab-46cb-b85c-dc4b3bab01bc",
+  "quelle_id": "Or 201",
+  "dokumenten_id": "Or 201-237-9",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Lazarus",
+  "feier": "Matutin",
+  "textinitium": "Ibo quidem",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "9",
+  "foliostart": "237",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "237",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Or 201-233-24-aS",
+    "Endzeile": "22",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Raising of Lazarus",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

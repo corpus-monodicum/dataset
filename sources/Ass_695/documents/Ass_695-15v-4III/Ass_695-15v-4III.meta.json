@@ -1,0 +1,41 @@
+{
+  "id": "8266f3d2-5643-4af5-974f-2ea558a60441",
+  "quelle_id": "Ass 695",
+  "dokumenten_id": "Ass 695-15v-4III",
+  "gattung1": "Kyrie",
+  "gattung2": "tropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Summe rex sempiterne",
+  "bibliographischerverweis": "AH 47, 28",
+  "druckausgabe": "",
+  "zeilenstart": "4",
+  "foliostart": "15v",
+  "kommentar": "1. Dreistimmig.",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Charles M. Atkinson",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "16v",
+    "Startposition": "III",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "Melnicki 171",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509501",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

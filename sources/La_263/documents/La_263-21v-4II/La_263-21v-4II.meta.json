@@ -1,0 +1,41 @@
+{
+  "id": "365a2bfe-0fa6-4f02-9820-65b23c56279d",
+  "quelle_id": "La 263",
+  "dokumenten_id": "La 263-21v-4II",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Petrus et Paulus",
+  "feier": "Messe",
+  "textinitium": "Ore patris emicans",
+  "bibliographischerverweis": "Nunc scio vere intr A [mel IV F] 104^CM B (CT X)",
+  "druckausgabe": "II-1",
+  "zeilenstart": "4",
+  "foliostart": "21v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "(Nunc scio vere)",
+    "Endseite": "21v",
+    "Startposition": "II",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Nunc scio vere intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "Go I (J)",
+  "quellensigle": "Go I (J)",
+  "herkunftsregion": "Quellen italienischer Herkunft",
+  "herkunftsort": "Aquileia",
+  "herkunftsinstitution": "",
+  "ordenstradition": "",
+  "quellentyp": "Tropar, Sequentiar",
+  "bibliotheksort": "Gorizia",
+  "bibliothek": "Biblioteca del Seminario Centrale",
+  "bibliothekssignatur": "Ms. I (J)",
+  "kommentar": "",
+  "datierung": "14. Jh",
+  "status": "",
+  "jahrhundert": "14.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Go I (J)",
+  "cantus_century": "14.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Go_I__J.description.md"
+  }
+}

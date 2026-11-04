@@ -1,0 +1,41 @@
+{
+  "id": "774d5d89-e4b0-4194-9358-b5936ed47b63",
+  "quelle_id": "Pa 1138",
+  "dokumenten_id": "Pa 1138-124-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Virgines",
+  "feier": "Messe",
+  "textinitium": "En virginum agmina",
+  "bibliographischerverweis": "AH 7, 220",
+  "druckausgabe": "",
+  "zeilenstart": "1",
+  "foliostart": "124",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "125",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Adducentur",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

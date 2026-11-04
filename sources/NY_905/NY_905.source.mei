@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>NY 905: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Isabel Kraft</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Hanna Zühlke</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Gunilla Iversen</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Ritva Maria Jacobsson</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="NY_905">
+        <identifier type="siglum">NY 905</identifier>
+        <identifier type="cantus">NY 905</identifier>
+        <titleStmt>
+          <title>NY 905</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Nürnberg</geogName>
+          <geogName role="origin-region">Quellen deutscher Herkunft</geogName>
+          <corpName role="origin-institution">Sankt Lorenz</corpName>
+          <date>16. Jh (1507 Band I, 1510 Band II)</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus>f. I, 21</locus>
+            <title type="incipit">Hodie cantandus est</title>
+            <identifier type="dokumenten_id">NY 905-I, 21-6</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus>f. I, 22</locus>
+            <title type="incipit">Puer natus est nobis</title>
+            <identifier type="dokumenten_id">NY 905-I, 22-1</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus>f. I, 25</locus>
+            <title type="incipit">Domine Iesu Christe</title>
+            <identifier type="dokumenten_id">NY 905-I, 25-6</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus>f. I, 26v</locus>
+            <title type="incipit">Etenim sederunt</title>
+            <identifier type="dokumenten_id">NY 905-I, 26v-3</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus>f. I, 29v</locus>
+            <title type="incipit">Quoniam dominus</title>
+            <identifier type="dokumenten_id">NY 905-I, 29v-6</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus>f. I, 31</locus>
+            <title type="incipit">In medio ecclesiae</title>
+            <identifier type="dokumenten_id">NY 905-I, 31-2</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus>f. I, 33v</locus>
+            <title type="incipit">Hodie pro domino</title>
+            <identifier type="dokumenten_id">NY 905-I, 33v-4</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus>f. I, 33v</locus>
+            <title type="incipit">Ex ore infantium</title>
+            <identifier type="dokumenten_id">NY 905-I, 33v-8</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus>f. I, 38</locus>
+            <title type="incipit">Forma speciosissimus</title>
+            <identifier type="dokumenten_id">NY 905-I, 38-13</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus>f. I, 38v</locus>
+            <title type="incipit">Ecce advenit</title>
+            <identifier type="dokumenten_id">NY 905-I, 38v-3</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus>f. II, 103</locus>
+            <title type="incipit">Nativitatem venerandam</title>
+            <identifier type="dokumenten_id">NY 905-II, 103-4</identifier>
+          </contentItem>
+          <contentItem n="12">
+            <locus>f. II, 42</locus>
+            <title type="incipit">De ventre</title>
+            <identifier type="dokumenten_id">NY 905-II, 42-10</identifier>
+          </contentItem>
+          <contentItem n="13">
+            <locus>f. II, 42</locus>
+            <title type="incipit">Angelo praenuntiante</title>
+            <identifier type="dokumenten_id">NY 905-II, 42-5</identifier>
+          </contentItem>
+          <contentItem n="14">
+            <locus>f. II, 91</locus>
+            <title type="incipit">Gaudeamus omnes ... Mariae ... assumptione</title>
+            <identifier type="dokumenten_id">NY 905-II, 91-1</identifier>
+          </contentItem>
+        </contents>
+        <notesStmt>
+          <annot type="description">
+            <ref target="NY_905.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <classification>
+          <termList>
+            <term type="quellentyp">Graduale mit Tropen und Sequenzen, Kyriale mit Tropen (zwei Bände)</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">M. 905 ("Gänsebuch")</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">New York</geogName>
+                <corpName>The Morgan Library &amp; Museum</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

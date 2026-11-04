@@ -1,0 +1,41 @@
+{
+  "id": "74af46a3-1cc0-46d3-a61b-f5837aedf8d9",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-159v-10",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Ansbertus",
+  "feier": "Messe",
+  "textinitium": "Alle sublime",
+  "bibliographischerverweis": "AH 7, 162",
+  "druckausgabe": "",
+  "zeilenstart": "10",
+  "foliostart": "159v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "160",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Alle sublime",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "Pa 1235",
+  "quellensigle": "Pa 1235",
+  "herkunftsregion": "Quellen französischer Herkunft",
+  "herkunftsort": "Nevers",
+  "herkunftsinstitution": "Kathedrale Saint-Cyr",
+  "ordenstradition": "",
+  "quellentyp": "Graduale mit Tropus, Prozessionar, Tonar, Hymnar, Tropar-Sequentiar",
+  "bibliotheksort": "Paris",
+  "bibliothek": "Bibliothèque nationale de France",
+  "bibliothekssignatur": "Nouv. acq. lat. 1235",
+  "kommentar": "",
+  "datierung": "12. Jh (um 1150)",
+  "status": "",
+  "jahrhundert": "12.",
+  "manifest": "",
+  "foliooffset": "pageNr+11",
+  "publish": "all",
+  "cantus_siglum": "Pa 1235",
+  "cantus_century": "12.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Pa_1235.description.md"
+  }
+}

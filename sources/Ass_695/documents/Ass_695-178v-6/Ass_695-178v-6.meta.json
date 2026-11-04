@@ -1,0 +1,41 @@
+{
+  "id": "f09d1fe8-f8b4-4434-a79e-429aa0eb74bf",
+  "quelle_id": "Ass 695",
+  "dokumenten_id": "Ass 695-178v-6",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Vincentius",
+  "feier": "Messe",
+  "textinitium": "Triumphalis lux",
+  "bibliographischerverweis": "AH 55, 341",
+  "druckausgabe": "CM III",
+  "zeilenstart": "6",
+  "foliostart": "178v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "180",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

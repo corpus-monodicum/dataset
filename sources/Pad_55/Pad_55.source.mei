@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Pad 55: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Spiele)</resp>
+          <persName>Isabel Kraft</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Hanna Zühlke</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Spiele)</resp>
+          <persName>Elaine Stratton Hild</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="Pad_55">
+        <identifier type="siglum">Pad 55</identifier>
+        <identifier type="cantus">Pad 55</identifier>
+        <titleStmt>
+          <title>Pad 55</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Padua</geogName>
+          <geogName role="origin-region">Quellen italienischer Herkunft</geogName>
+          <corpName role="origin-institution">Kathedrale Santa Maria Assunta</corpName>
+          <date>15. Jh Anfang</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="1">f. 1</locus>
+            <title type="incipit">Quem quaeritis in praesepe</title>
+            <identifier type="dokumenten_id">Pad 55-1-5</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="12v">f. 12v</locus>
+            <title type="incipit">Ave gratia plena</title>
+            <identifier type="dokumenten_id">Pad 55-12v-4</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="13">f. 13</locus>
+            <title type="incipit">Adorna thalamum</title>
+            <identifier type="dokumenten_id">Pad 55-13-3</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="14">f. 14</locus>
+            <title type="incipit">Responsum accepit ... Christum domini et cum</title>
+            <identifier type="dokumenten_id">Pad 55-14-1</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="14v">f. 14v</locus>
+            <title type="incipit">Obtulerunt pro eo ... sicut scriptum</title>
+            <identifier type="dokumenten_id">Pad 55-14v-4</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="15v">f. 15v</locus>
+            <title type="incipit">Ave gratia plena</title>
+            <identifier type="dokumenten_id">Pad 55-15v-12</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="16">f. 16</locus>
+            <title type="incipit">Ave gratia plena</title>
+            <identifier type="dokumenten_id">Pad 55-16-3</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="16v">f. 16v</locus>
+            <title type="incipit">Ecce positus</title>
+            <identifier type="dokumenten_id">Pad 55-16v-12</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="16v">f. 16v</locus>
+            <title type="incipit">Obtulerunt pro eo</title>
+            <identifier type="dokumenten_id">Pad 55-16v-7</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="17">f. 17</locus>
+            <title type="incipit">Suscipiens Symeon</title>
+            <identifier type="dokumenten_id">Pad 55-17-14</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus from="17">f. 17</locus>
+            <title type="incipit">Suscipiens Symeon</title>
+            <identifier type="dokumenten_id">Pad 55-17-16</identifier>
+          </contentItem>
+          <contentItem n="12">
+            <locus from="17">f. 17</locus>
+            <title type="incipit">Responsum accepit ... dominum</title>
+            <identifier type="dokumenten_id">Pad 55-17-8</identifier>
+          </contentItem>
+          <contentItem n="13">
+            <locus from="17v">f. 17v</locus>
+            <title type="incipit">Nunc dimittis</title>
+            <identifier type="dokumenten_id">Pad 55-17v-2</identifier>
+          </contentItem>
+          <contentItem n="14">
+            <locus from="1v">f. 1v</locus>
+            <title type="incipit">Christus natus*</title>
+            <identifier type="dokumenten_id">Pad 55-1v-4</identifier>
+          </contentItem>
+          <contentItem n="15">
+            <locus from="24">f. 24</locus>
+            <title type="incipit">Agios o theos</title>
+            <identifier type="dokumenten_id">Pad 55-24-16</identifier>
+          </contentItem>
+          <contentItem n="16">
+            <locus from="24">f. 24</locus>
+            <title type="incipit">Popule meus*</title>
+            <identifier type="dokumenten_id">Pad 55-24-5a</identifier>
+          </contentItem>
+          <contentItem n="17">
+            <locus from="24">f. 24</locus>
+            <title type="incipit">Agios o theos*</title>
+            <identifier type="dokumenten_id">Pad 55-24-5b</identifier>
+          </contentItem>
+          <contentItem n="18">
+            <locus from="24">f. 24</locus>
+            <title type="incipit">Popule meus</title>
+            <identifier type="dokumenten_id">Pad 55-24-6</identifier>
+          </contentItem>
+          <contentItem n="19">
+            <locus from="24v">f. 24v</locus>
+            <title type="incipit">Quia eduxi te</title>
+            <identifier type="dokumenten_id">Pad 55-24v-12</identifier>
+          </contentItem>
+          <contentItem n="20">
+            <locus from="25">f. 25</locus>
+            <title type="incipit">Agios o theos*</title>
+            <identifier type="dokumenten_id">Pad 55-25-3</identifier>
+          </contentItem>
+          <contentItem n="21">
+            <locus from="25">f. 25</locus>
+            <title type="incipit">Quid ultra debui</title>
+            <identifier type="dokumenten_id">Pad 55-25-7</identifier>
+          </contentItem>
+          <contentItem n="22">
+            <locus from="25v">f. 25v</locus>
+            <title type="incipit">Agios o theos*</title>
+            <identifier type="dokumenten_id">Pad 55-25v-3</identifier>
+          </contentItem>
+          <contentItem n="23">
+            <locus from="25v">f. 25v</locus>
+            <title type="incipit">Ego propter te</title>
+            <identifier type="dokumenten_id">Pad 55-25v-8</identifier>
+          </contentItem>
+          <contentItem n="24">
+            <locus from="27v">f. 27v</locus>
+            <title type="incipit">Crucem tuam adoramus</title>
+            <identifier type="dokumenten_id">Pad 55-27v-1</identifier>
+          </contentItem>
+          <contentItem n="25">
+            <locus from="28">f. 28</locus>
+            <title type="incipit">Crux fidelis</title>
+            <identifier type="dokumenten_id">Pad 55-28-4</identifier>
+          </contentItem>
+          <contentItem n="26">
+            <locus from="31v">f. 31v</locus>
+            <title type="incipit">Flete fideles</title>
+            <identifier type="dokumenten_id">Pad 55-31v-7</identifier>
+          </contentItem>
+          <contentItem n="27">
+            <locus from="36v">f. 36v</locus>
+            <title type="incipit">Locutus est dominus ad Achaz*</title>
+            <identifier type="dokumenten_id">Pad 55-36v-13</identifier>
+          </contentItem>
+          <contentItem n="28">
+            <locus from="36v">f. 36v</locus>
+            <title type="incipit">Missus est angelus</title>
+            <identifier type="dokumenten_id">Pad 55-36v-14</identifier>
+          </contentItem>
+          <contentItem n="29">
+            <locus from="36v">f. 36v</locus>
+            <title type="incipit">Ave Maria gratia plena ... benedicta</title>
+            <identifier type="dokumenten_id">Pad 55-36v-18</identifier>
+          </contentItem>
+          <contentItem n="30">
+            <locus from="36v">f. 36v</locus>
+            <title type="incipit">Quae cum vidisset</title>
+            <identifier type="dokumenten_id">Pad 55-36v-21</identifier>
+          </contentItem>
+          <contentItem n="31">
+            <locus from="37">f. 37</locus>
+            <title type="incipit">Ne timeas Maria</title>
+            <identifier type="dokumenten_id">Pad 55-37-1</identifier>
+          </contentItem>
+          <contentItem n="32">
+            <locus from="37">f. 37</locus>
+            <title type="incipit">Quomodo fiet</title>
+            <identifier type="dokumenten_id">Pad 55-37-12</identifier>
+          </contentItem>
+          <contentItem n="33">
+            <locus from="37">f. 37</locus>
+            <title type="incipit">Et vocabis nomen</title>
+            <identifier type="dokumenten_id">Pad 55-37-5</identifier>
+          </contentItem>
+          <contentItem n="34">
+            <locus from="37v">f. 37v</locus>
+            <title type="incipit">Exsurgens autem Maria</title>
+            <identifier type="dokumenten_id">Pad 55-37v-14</identifier>
+          </contentItem>
+          <contentItem n="35">
+            <locus from="37v">f. 37v</locus>
+            <title type="incipit">Benedicta tu in mulieribus</title>
+            <identifier type="dokumenten_id">Pad 55-37v-22</identifier>
+          </contentItem>
+          <contentItem n="36">
+            <locus from="37v">f. 37v</locus>
+            <title type="incipit">Ideoque et quod</title>
+            <identifier type="dokumenten_id">Pad 55-37v-5</identifier>
+          </contentItem>
+          <contentItem n="37">
+            <locus from="37v">f. 37v</locus>
+            <title type="incipit">Ecce ancilla</title>
+            <identifier type="dokumenten_id">Pad 55-37v-6</identifier>
+          </contentItem>
+          <contentItem n="38">
+            <locus from="38">f. 38</locus>
+            <title type="incipit">Et unde hoc</title>
+            <identifier type="dokumenten_id">Pad 55-38-6</identifier>
+          </contentItem>
+          <contentItem n="39">
+            <locus from="38v">f. 38v</locus>
+            <title type="incipit">Et ait Maria</title>
+            <identifier type="dokumenten_id">Pad 55-38v-3</identifier>
+          </contentItem>
+          <contentItem n="40">
+            <locus from="38v">f. 38v</locus>
+            <title type="incipit">Magnificat anima mea</title>
+            <identifier type="dokumenten_id">Pad 55-38v-6</identifier>
+          </contentItem>
+          <contentItem n="41">
+            <locus from="41">f. 41</locus>
+            <title type="incipit">Nos mulieres</title>
+            <identifier type="dokumenten_id">Pad 55-41-4</identifier>
+          </contentItem>
+          <contentItem n="42">
+            <locus from="41v">f. 41v</locus>
+            <title type="incipit">Quem quaeritis in sepulchro</title>
+            <identifier type="dokumenten_id">Pad 55-41v-9</identifier>
+          </contentItem>
+          <contentItem n="43">
+            <locus from="42">f. 42</locus>
+            <title type="incipit">O Iesu rex</title>
+            <identifier type="dokumenten_id">Pad 55-42-10</identifier>
+          </contentItem>
+          <contentItem n="44">
+            <locus from="43">f. 43</locus>
+            <title type="incipit">Surrexit dominus de sepulchro ... alleluia</title>
+            <identifier type="dokumenten_id">Pad 55-43-10</identifier>
+          </contentItem>
+          <contentItem n="45">
+            <locus from="43">f. 43</locus>
+            <title type="incipit">Dic nobis Maria</title>
+            <identifier type="dokumenten_id">Pad 55-43-16</identifier>
+          </contentItem>
+          <contentItem n="46">
+            <locus from="44">f. 44</locus>
+            <title type="incipit">Te deum laudamus*</title>
+            <identifier type="dokumenten_id">Pad 55-44-5</identifier>
+          </contentItem>
+          <contentItem n="47">
+            <locus from="49">f. 49</locus>
+            <title type="incipit">Omnis pulchritudo</title>
+            <identifier type="dokumenten_id">Pad 55-49-15</identifier>
+          </contentItem>
+          <contentItem n="48">
+            <locus from="50">f. 50</locus>
+            <title type="incipit">Quare sic aspicitis</title>
+            <identifier type="dokumenten_id">Pad 55-50-11</identifier>
+          </contentItem>
+          <contentItem n="49">
+            <locus from="50">f. 50</locus>
+            <title type="incipit">Quare sic aspicitis</title>
+            <identifier type="dokumenten_id">Pad 55-50-7</identifier>
+          </contentItem>
+          <contentItem n="50">
+            <locus from="50v">f. 50v</locus>
+            <title type="incipit">Quis est iste qui</title>
+            <identifier type="dokumenten_id">Pad 55-50v-11</identifier>
+          </contentItem>
+          <contentItem n="51">
+            <locus from="50v">f. 50v</locus>
+            <title type="incipit">Quis est iste qui</title>
+            <identifier type="dokumenten_id">Pad 55-50v-9</identifier>
+          </contentItem>
+          <contentItem n="52">
+            <locus from="51">f. 51</locus>
+            <title type="incipit">Iste formonsus</title>
+            <identifier type="dokumenten_id">Pad 55-51-10</identifier>
+          </contentItem>
+          <contentItem n="53">
+            <locus from="51">f. 51</locus>
+            <title type="incipit">Iste formonsus</title>
+            <identifier type="dokumenten_id">Pad 55-51-3</identifier>
+          </contentItem>
+        </contents>
+        <notesStmt>
+          <annot type="description">
+            <ref target="Pad_55.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <classification>
+          <termList>
+            <term type="quellentyp">Prozessionar mit liturgischen Spielen</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">C 55</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">Padua</geogName>
+                <corpName>Biblioteca Capitolare di Padova</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

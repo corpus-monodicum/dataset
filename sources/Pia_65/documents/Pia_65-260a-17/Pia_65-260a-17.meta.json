@@ -1,0 +1,41 @@
+{
+  "id": "233b49ce-66a1-4946-91e7-674da5fe5b68",
+  "quelle_id": "Pia 65",
+  "dokumenten_id": "Pia 65-260a-17",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Christina",
+  "feier": "Messe",
+  "textinitium": "Christinae festis",
+  "bibliographischerverweis": "Dilexisti intr 11 A 12 B 13 C (CT X)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "17",
+  "foliostart": "260a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Dilexisti",
+    "Endseite": "260a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "20",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Dilexisti intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

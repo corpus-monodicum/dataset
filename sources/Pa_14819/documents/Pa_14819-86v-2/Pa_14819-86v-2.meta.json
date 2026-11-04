@@ -1,0 +1,41 @@
+{
+  "id": "0ca5bfa3-013a-45cc-b533-9ef30ab9e7d3",
+  "quelle_id": "Pa 14819",
+  "dokumenten_id": "Pa 14819-86v-2",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Feria V post Pentecosten",
+  "feier": "Messe",
+  "textinitium": "Simplex in essentia",
+  "bibliographischerverweis": "AH 54, 156",
+  "druckausgabe": "CM III",
+  "zeilenstart": "2",
+  "foliostart": "86v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "88",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

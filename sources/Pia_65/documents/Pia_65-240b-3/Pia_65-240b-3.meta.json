@@ -1,0 +1,41 @@
+{
+  "id": "e39dd2c4-1e0c-46ce-96a5-a7f4443f6158",
+  "quelle_id": "Pia 65",
+  "dokumenten_id": "Pia 65-240b-3",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Arthemius, Candida et Paulina",
+  "feier": "Messe",
+  "textinitium": "Celsa concrepet",
+  "bibliographischerverweis": "Clamaverunt intr 1 A B A C A (CT X)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "3",
+  "foliostart": "240b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Clamaverunt",
+    "Endseite": "240b",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Clamaverunt intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

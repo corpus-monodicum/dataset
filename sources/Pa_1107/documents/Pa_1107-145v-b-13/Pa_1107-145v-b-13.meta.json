@@ -1,0 +1,41 @@
+{
+  "id": "9df8da76-aa6d-4144-9c56-b75848101edd",
+  "quelle_id": "Pa 1107",
+  "dokumenten_id": "Pa 1107-145v-b-13",
+  "gattung1": "Tropus",
+  "gattung2": "Communio-Tropus",
+  "festtag": "Pascha",
+  "feier": "Messe",
+  "textinitium": "Laus honor … regi nostro",
+  "bibliographischerverweis": "Resurr com 10 A 11 B 12 C (CT III)",
+  "druckausgabe": "II-1",
+  "zeilenstart": "13",
+  "foliostart": "145v-b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "Pa 1107 146a-9-",
+    "Endseite": "146a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Resurr com",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

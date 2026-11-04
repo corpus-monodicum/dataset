@@ -1,0 +1,25 @@
+{
+  "id": "Ver 10",
+  "quellensigle": "Ver 10",
+  "herkunftsregion": "Quellen französischer Herkunft",
+  "herkunftsort": "Verdun",
+  "herkunftsinstitution": "Abtei Saint-Airy",
+  "ordenstradition": "",
+  "quellentyp": "Martyrologium, Regula Benedicti, Necrologium, Tropar",
+  "bibliotheksort": "Verdun",
+  "bibliothek": "Bibliothèque municipale",
+  "bibliothekssignatur": "Ms. 10",
+  "kommentar": "",
+  "datierung": "12. Jh (11. Jh und 13. Jh)",
+  "status": "",
+  "jahrhundert": "11., 12., 13.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Ver 10",
+  "cantus_century": "11., 12., 13.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Ver_10.description.md"
+  }
+}

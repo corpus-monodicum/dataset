@@ -1,0 +1,41 @@
+{
+  "id": "94d5ef48-ae0a-4c61-b56d-6a98a3fda90a",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-128v-14",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Annuntiatio Mariae",
+  "feier": "Messe",
+  "textinitium": "Paranymphus salutat",
+  "bibliographischerverweis": "AH 10, 88",
+  "druckausgabe": "CM III",
+  "zeilenstart": "14",
+  "foliostart": "128v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "128v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "15",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "Ende fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

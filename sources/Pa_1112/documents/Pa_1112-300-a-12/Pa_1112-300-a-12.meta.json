@@ -1,0 +1,41 @@
+{
+  "id": "d4b23c76-52f9-47bc-bc93-a788f89f7749",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-300-a-12",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Hieronymus",
+  "feier": "Messe",
+  "textinitium": "Mundi aetate*",
+  "bibliographischerverweis": "AH 8, 113",
+  "druckausgabe": "CM III",
+  "zeilenstart": "12",
+  "foliostart": "300-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "300a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Mirabilis (B)",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

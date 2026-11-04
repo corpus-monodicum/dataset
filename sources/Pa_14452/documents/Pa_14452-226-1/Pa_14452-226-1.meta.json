@@ -1,0 +1,41 @@
+{
+  "id": "603c43a0-5b91-4553-948c-82de7e82699e",
+  "quelle_id": "Pa 14452",
+  "dokumenten_id": "Pa 14452-226-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Visitatio Mariae",
+  "feier": "Messe",
+  "textinitium": "Sancti spiritus … Quo fecundata",
+  "bibliographischerverweis": "AH 54, 17",
+  "druckausgabe": "CM III",
+  "zeilenstart": "1",
+  "foliostart": "226",
+  "kommentar": "Nachtrag_6 | \"PROSA DE VISITATIONE 1567\"",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "227",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Occidentana",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "Nachtrag_6",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

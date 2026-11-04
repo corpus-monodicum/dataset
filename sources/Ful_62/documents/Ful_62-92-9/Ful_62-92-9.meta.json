@@ -1,0 +1,41 @@
+{
+  "id": "6a1c7833-5582-47ab-a716-747e35d6bcd6",
+  "quelle_id": "Ful 62",
+  "dokumenten_id": "Ful 62-92-9",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Feria II post Pascha",
+  "feier": "Messe",
+  "textinitium": "Populus acquisitionis",
+  "bibliographischerverweis": "Fer II intr 31 (CT III)",
+  "druckausgabe": "II-2",
+  "zeilenstart": "9",
+  "foliostart": "92",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "(Sonderfall: Prozessionsgesang Christus resurgens)",
+    "Endseite": "92",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Fer II intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

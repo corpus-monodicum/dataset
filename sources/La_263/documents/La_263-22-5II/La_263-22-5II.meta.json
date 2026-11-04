@@ -1,0 +1,41 @@
+{
+  "id": "3272616e-4d05-41a4-9d61-646f22b52e4e",
+  "quelle_id": "La 263",
+  "dokumenten_id": "La 263-22-5II",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Ascensio domini",
+  "feier": "Messe",
+  "textinitium": "Merenti tunc",
+  "bibliographischerverweis": "Ascens intr A [mel VII H] 61^CM B (CT III)",
+  "druckausgabe": "II-1",
+  "zeilenstart": "5",
+  "foliostart": "22",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "(Viri Galilaei)",
+    "Endseite": "22",
+    "Startposition": "II",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Ascens intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

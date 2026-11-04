@@ -1,0 +1,41 @@
+{
+  "id": "aa2ac1bf-d758-4899-bbfb-7068f99081aa",
+  "quelle_id": "Ven 4",
+  "dokumenten_id": "Ven 4-72-11",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Annuntiatio Mariae",
+  "feier": "",
+  "textinitium": "Salve cara",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "11",
+  "foliostart": "72",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "72v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Ven 4-71-2S",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Annunciation",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

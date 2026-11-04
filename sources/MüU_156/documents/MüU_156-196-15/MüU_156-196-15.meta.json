@@ -1,0 +1,41 @@
+{
+  "id": "5e523090-c262-42ae-a3f5-33f03b7d03b2",
+  "quelle_id": "MüU 156",
+  "dokumenten_id": "MüU 156-196-15",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Nativitas Mariae",
+  "feier": "Messe",
+  "textinitium": "Stirpe Maria",
+  "bibliographischerverweis": "AH 53, 95",
+  "druckausgabe": "",
+  "zeilenstart": "15",
+  "foliostart": "196",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Gionata Brusa",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "196v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Adducentur",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

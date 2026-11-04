@@ -1,0 +1,41 @@
+{
+  "id": "f09e9659-570a-4ef7-b1f0-a77a5d6b33d0",
+  "quelle_id": "MüU 156",
+  "dokumenten_id": "MüU 156-253v-9a",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Translatio Castuli",
+  "feier": "Messe",
+  "textinitium": "Hodie festum ... Castulus translatus",
+  "bibliographischerverweis": "Laetabitur intr 1 A (CT X)",
+  "druckausgabe": "II-2",
+  "zeilenstart": "9",
+  "foliostart": "253v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "MüU 156-101v-6",
+    "Endseite": "253v",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Laetabitur intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

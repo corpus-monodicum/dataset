@@ -1,0 +1,41 @@
+{
+  "id": "fd7aaa7e-b792-4717-9ca0-8e7e06e2aac4",
+  "quelle_id": "SCan 7",
+  "dokumenten_id": "SCan 7-22v-5",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Epiphania",
+  "feier": "Messe",
+  "textinitium": "Haec est praeclara dies",
+  "bibliographischerverweis": "Epiph intr 79 A 81 B 82 C 40 D (CT I)",
+  "druckausgabe": "II-2",
+  "zeilenstart": "5",
+  "foliostart": "22v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "Ecce advenit",
+    "Endseite": "23",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Epiph intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

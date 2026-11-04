@@ -1,0 +1,41 @@
+{
+  "id": "efb4119c-43cf-4be3-ab39-2996ff9e3ffd",
+  "quelle_id": "Rhe 2",
+  "dokumenten_id": "Rhe 2-134b-21",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "",
+  "feier": "",
+  "textinitium": "Laus tibi Christe rex",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "21",
+  "foliostart": "134b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "134b",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Rhe 2-132v-a-38S",
+    "Endzeile": "21",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "Exhortatio virtutum, Scivias Book III Vision 13",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

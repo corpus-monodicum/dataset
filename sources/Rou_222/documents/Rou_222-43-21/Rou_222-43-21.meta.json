@@ -1,0 +1,41 @@
+{
+  "id": "a6a118b0-5ab9-4371-b6d8-03c3fb8e7969",
+  "quelle_id": "Rou 222",
+  "dokumenten_id": "Rou 222-43-21",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Graduale",
+  "festtag": "Feria II post Pascha",
+  "feier": "Vesper",
+  "textinitium": "Haec dies",
+  "bibliographischerverweis": "AMS 81",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "21",
+  "foliostart": "43",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "43v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Rou 222-43-19S",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Journey to Emmaus",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

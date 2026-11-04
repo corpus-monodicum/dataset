@@ -1,0 +1,41 @@
+{
+  "id": "6de6a364-5062-4e5a-8f82-1dd121ba879c",
+  "quelle_id": "Pa 909",
+  "dokumenten_id": "Pa 909-26v-14",
+  "gattung1": "Tropus",
+  "gattung2": "Communio-Tropus",
+  "festtag": "Feria II post Pascha",
+  "feier": "Messe",
+  "textinitium": "Discipulus lacrimas",
+  "bibliographischerverweis": "Fer II com 3 A (CT III)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "14",
+  "foliostart": "26v",
+  "kommentar": "JCS: Uhrzeitproblem wie oben",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "Surrexit",
+    "Endseite": "26v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "15",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Fer II com",
+    "Zusatz_zu_Textinitium": "Ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

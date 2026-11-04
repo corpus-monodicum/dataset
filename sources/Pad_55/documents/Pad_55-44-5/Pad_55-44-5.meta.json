@@ -1,0 +1,41 @@
+{
+  "id": "75c00fb9-d926-4f07-9212-fa4b54b6d6f2",
+  "quelle_id": "Pad 55",
+  "dokumenten_id": "Pad 55-44-5",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Te deum",
+  "festtag": "Pascha",
+  "feier": "Matutin",
+  "textinitium": "Te deum laudamus*",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "5",
+  "foliostart": "44",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "44",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Pad 55-41-4S",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Easter play / Osterspiel",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

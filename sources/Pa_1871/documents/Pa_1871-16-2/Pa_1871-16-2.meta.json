@@ -1,0 +1,41 @@
+{
+  "id": "1ce7f2e5-d18e-4e5f-a9d0-2087d341d092",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-16-2",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Transfiguratio domini",
+  "feier": "Messe",
+  "textinitium": "Sempiterna virtute",
+  "bibliographischerverweis": "AH 7, 40",
+  "druckausgabe": "",
+  "zeilenstart": "2",
+  "foliostart": "16",
+  "kommentar": "Nachtrag",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "16",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Post partum",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

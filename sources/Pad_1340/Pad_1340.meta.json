@@ -1,0 +1,25 @@
+{
+  "id": "Pad 1340",
+  "quellensigle": "Pad 1340",
+  "herkunftsregion": "Quellen aus Ordenstraditionen",
+  "herkunftsort": "Italien",
+  "herkunftsinstitution": "",
+  "ordenstradition": "Franziskaner",
+  "quellentyp": "Graduale, Kyriale",
+  "bibliotheksort": "Padua",
+  "bibliothek": "Biblioteca Universitaria",
+  "bibliothekssignatur": "1340",
+  "kommentar": "",
+  "datierung": "13. Jh 2. Hälfte",
+  "status": "",
+  "jahrhundert": "13.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Pad 1340",
+  "cantus_century": "13.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Pad_1340.description.md"
+  }
+}

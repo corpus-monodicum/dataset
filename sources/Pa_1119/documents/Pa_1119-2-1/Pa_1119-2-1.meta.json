@@ -1,0 +1,41 @@
+{
+  "id": "6ee61886-4146-431e-a2b3-72537f9af0e6",
+  "quelle_id": "Pa 1119",
+  "dokumenten_id": "Pa 1119-2-1",
+  "gattung1": "Kyrie",
+  "gattung2": "tropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Kyrie rex saeclorum",
+  "bibliographischerverweis": "AH 47, 40: 1A 1B 1C 2A 2B 2C 3A 3B 3C",
+  "druckausgabe": "",
+  "zeilenstart": "1",
+  "foliostart": "2",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "3",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "Melnicki 162",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509501",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4fb6a10b-a181-46b6-976f-3ef7f8889d02",
+  "quelle_id": "Pa 14452",
+  "dokumenten_id": "Pa 14452-219-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Octava Iohannis Baptistae",
+  "feier": "Messe",
+  "textinitium": "Praecursoris et baptistae",
+  "bibliographischerverweis": "AH 55, 180",
+  "druckausgabe": "CM III",
+  "zeilenstart": "1",
+  "foliostart": "219",
+  "kommentar": "Nachtrag_5",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "220",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "Nachtrag_5",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

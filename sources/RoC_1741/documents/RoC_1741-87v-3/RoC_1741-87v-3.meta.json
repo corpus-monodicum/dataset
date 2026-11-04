@@ -1,0 +1,41 @@
+{
+  "id": "e28ddde5-1c54-437f-9ff2-714853b50237",
+  "quelle_id": "RoC 1741",
+  "dokumenten_id": "RoC 1741-87v-3",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Senesius et Theopontus",
+  "feier": "Messe",
+  "textinitium": "Laus tibi Christe patris",
+  "bibliographischerverweis": "AH 53, 157",
+  "druckausgabe": "",
+  "zeilenstart": "3",
+  "foliostart": "87v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "88v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Mirabilis (A)",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

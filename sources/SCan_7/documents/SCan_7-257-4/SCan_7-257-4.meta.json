@@ -1,0 +1,41 @@
+{
+  "id": "6a143d90-9749-4c92-bb3d-5b1f6013b1dc",
+  "quelle_id": "SCan 7",
+  "dokumenten_id": "SCan 7-257-4",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Candidus",
+  "feier": "Messe",
+  "textinitium": "Nostri chori melodia",
+  "bibliographischerverweis": "AH 55, 104",
+  "druckausgabe": "",
+  "zeilenstart": "4",
+  "foliostart": "257",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Gionata Brusa",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "259",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "-",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1b3a4d5d-d7e4-4daf-86b5-e8871c35b1fb",
+  "quelle_id": "Pa 904",
+  "dokumenten_id": "Pa 904-12v-25b",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Graduale",
+  "festtag": "Nativitas domini",
+  "feier": "Messe",
+  "textinitium": "Tecum principium*",
+  "bibliographischerverweis": "AMS 9",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "25",
+  "foliostart": "12v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "12v",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "Pa 904-12v-22S",
+    "Endzeile": "25",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Christmas play",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

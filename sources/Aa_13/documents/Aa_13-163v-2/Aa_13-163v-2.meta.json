@@ -1,0 +1,41 @@
+{
+  "id": "45729672-d601-468a-9772-89ff9718bf72",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-163v-2",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Caecilia",
+  "feier": "Messe",
+  "textinitium": "Mater Sion sancta",
+  "bibliographischerverweis": "AH 37, 158",
+  "druckausgabe": "CM III",
+  "zeilenstart": "2",
+  "foliostart": "163v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "163bis",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "B",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

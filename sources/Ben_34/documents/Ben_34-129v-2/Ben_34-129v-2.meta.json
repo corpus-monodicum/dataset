@@ -1,0 +1,41 @@
+{
+  "id": "274b0a3f-0c1c-4332-b711-0962e7f7c64b",
+  "quelle_id": "Ben 34",
+  "dokumenten_id": "Ben 34-129v-2",
+  "gattung1": "Gloria",
+  "gattung2": "tropiert",
+  "festtag": "Feria II post Pascha",
+  "feier": "Messe",
+  "textinitium": "Rex hodie",
+  "bibliographischerverweis": "CT XII, 88: 1 2 3 4 5 6 7 8 9 10 11 12",
+  "druckausgabe": "",
+  "zeilenstart": "2",
+  "foliostart": "129v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "131",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "Bosse 13",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509502",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

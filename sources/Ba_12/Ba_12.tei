@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ba 12: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Isabel Kraft</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Ordinariumsgesänge)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Sequenzen)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Lucia Swientek</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Hanna Zühlke</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Gunilla Iversen</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Ritva Maria Jacobsson</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="Ba_12">
+          <msIdentifier>
+            <settlement>Bamberg</settlement>
+            <repository>Staatsbibliothek</repository>
+            <idno type="shelfmark">Msc. lit. 12</idno>
+            <altIdentifier type="siglum">
+              <idno>Ba 12</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>Ba 12</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <term type="quellentyp">Graduale (Fragment), Ordinariumsmelodien mit Tropen, Sequentiar, Offertorienverse</term>
+            </summary>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="11">f. 11</locus>
+              <title type="incipit">Canamus cuncti</title>
+              <idno type="dokumenten_id">Ba 12-11-1</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="11">f. 11</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Ba 12-11-5</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="11v">f. 11v</locus>
+              <title type="incipit">Kyrie sabaoth</title>
+              <idno type="dokumenten_id">Ba 12-11v-1</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="11v">f. 11v</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Ba 12-11v-6</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="11v">f. 11v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Ba 12-11v-7</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="11v">f. 11v</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Ba 12-11v-8</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="12">f. 12</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Ba 12-12-4</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="12">f. 12</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Ba 12-12-6</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="12">f. 12</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Ba 12-12-7</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="12v">f. 12v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Ba 12-12v-3</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="12v">f. 12v</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Ba 12-12v-4</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="12v">f. 12v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Ba 12-12v-5</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="12v">f. 12v</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Ba 12-12v-8</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="14v">f. 14v</locus>
+              <title type="incipit">Grates nunc omnes</title>
+              <idno type="dokumenten_id">Ba 12-14v-6</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="14v">f. 14v</locus>
+              <title type="incipit">Natus ante saecula</title>
+              <idno type="dokumenten_id">Ba 12-14v-9</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="15">f. 15</locus>
+              <title type="incipit">Hanc concordi</title>
+              <idno type="dokumenten_id">Ba 12-15-11</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="15v">f. 15v</locus>
+              <title type="incipit">Iohannes Iesu Christo</title>
+              <idno type="dokumenten_id">Ba 12-15v-9</idno>
+            </msItem>
+            <msItem n="18">
+              <locus from="16">f. 16</locus>
+              <title type="incipit">Laus tibi Christe patris</title>
+              <idno type="dokumenten_id">Ba 12-16-6</idno>
+            </msItem>
+            <msItem n="19">
+              <locus from="16v">f. 16v</locus>
+              <title type="incipit">Eia recolamus ... piis</title>
+              <idno type="dokumenten_id">Ba 12-16v-4</idno>
+            </msItem>
+            <msItem n="20">
+              <locus from="17">f. 17</locus>
+              <title type="incipit">Festa Christi</title>
+              <idno type="dokumenten_id">Ba 12-17-7</idno>
+            </msItem>
+            <msItem n="21">
+              <locus from="17v">f. 17v</locus>
+              <title type="incipit">Concentu parili hic te</title>
+              <idno type="dokumenten_id">Ba 12-17v-10</idno>
+            </msItem>
+            <msItem n="22">
+              <locus from="18v">f. 18v</locus>
+              <title type="incipit">Laudes salvatori</title>
+              <idno type="dokumenten_id">Ba 12-18v-3</idno>
+            </msItem>
+            <msItem n="23">
+              <locus from="19v">f. 19v</locus>
+              <title type="incipit">Pangamus creatoris</title>
+              <idno type="dokumenten_id">Ba 12-19v-11</idno>
+            </msItem>
+            <msItem n="24">
+              <locus from="19v">f. 19v</locus>
+              <title type="incipit">Agni paschalis esu</title>
+              <idno type="dokumenten_id">Ba 12-19v-2</idno>
+            </msItem>
+            <msItem n="25">
+              <locus from="20">f. 20</locus>
+              <title type="incipit">Victimae paschali laudes</title>
+              <idno type="dokumenten_id">Ba 12-20-13</idno>
+            </msItem>
+            <msItem n="26">
+              <locus from="20v">f. 20v</locus>
+              <title type="incipit">Summi triumphum</title>
+              <idno type="dokumenten_id">Ba 12-20v-7</idno>
+            </msItem>
+            <msItem n="27">
+              <locus from="21">f. 21</locus>
+              <title type="incipit">Sancti spiritus … Quae corda</title>
+              <idno type="dokumenten_id">Ba 12-21-10</idno>
+            </msItem>
+            <msItem n="28">
+              <locus from="22">f. 22</locus>
+              <title type="incipit">Sancti Baptistae Christi</title>
+              <idno type="dokumenten_id">Ba 12-22-2</idno>
+            </msItem>
+            <msItem n="29">
+              <locus from="22v">f. 22v</locus>
+              <title type="incipit">Petre summe Christi</title>
+              <idno type="dokumenten_id">Ba 12-22v-1</idno>
+            </msItem>
+            <msItem n="30">
+              <locus from="22v">f. 22v</locus>
+              <title type="incipit">Laus tibi Christe qui es</title>
+              <idno type="dokumenten_id">Ba 12-22v-12</idno>
+            </msItem>
+            <msItem n="31">
+              <locus from="23v">f. 23v</locus>
+              <title type="incipit">Laurenti David</title>
+              <idno type="dokumenten_id">Ba 12-23v-7</idno>
+            </msItem>
+            <msItem n="32">
+              <locus from="24">f. 24</locus>
+              <title type="incipit">Congaudent angelorum chori</title>
+              <idno type="dokumenten_id">Ba 12-24-5</idno>
+            </msItem>
+            <msItem n="33">
+              <locus from="24v">f. 24v</locus>
+              <title type="incipit">Stirpe Maria</title>
+              <idno type="dokumenten_id">Ba 12-24v-7</idno>
+            </msItem>
+            <msItem n="34">
+              <locus from="25">f. 25</locus>
+              <title type="incipit">Summi regis archangele</title>
+              <idno type="dokumenten_id">Ba 12-25-4</idno>
+            </msItem>
+            <msItem n="35">
+              <locus from="25v">f. 25v</locus>
+              <title type="incipit">Omnes sancti seraphin</title>
+              <idno type="dokumenten_id">Ba 12-25v-4</idno>
+            </msItem>
+            <msItem n="36">
+              <locus from="26">f. 26</locus>
+              <title type="incipit">Sacerdotem Christi</title>
+              <idno type="dokumenten_id">Ba 12-26-3</idno>
+            </msItem>
+            <msItem n="37">
+              <locus from="26v">f. 26v</locus>
+              <title type="incipit">Deus in tua virtute</title>
+              <idno type="dokumenten_id">Ba 12-26v-7</idno>
+            </msItem>
+            <msItem n="38">
+              <locus from="27">f. 27</locus>
+              <title type="incipit">Clare sanctorum</title>
+              <idno type="dokumenten_id">Ba 12-27-3</idno>
+            </msItem>
+            <msItem n="39">
+              <locus from="27v">f. 27v</locus>
+              <title type="incipit">Agone triumphali</title>
+              <idno type="dokumenten_id">Ba 12-27v-1</idno>
+            </msItem>
+            <msItem n="40">
+              <locus from="27v">f. 27v</locus>
+              <title type="incipit">Psallat ecclesia mater illibata</title>
+              <idno type="dokumenten_id">Ba 12-27v-12</idno>
+            </msItem>
+            <msItem n="41">
+              <locus from="28">f. 28</locus>
+              <title type="incipit">Laudet omnis spiritus</title>
+              <idno type="dokumenten_id">Ba 12-28-8</idno>
+            </msItem>
+            <msItem n="42">
+              <locus from="28v">f. 28v</locus>
+              <title type="incipit">Exsultent filiae Sion</title>
+              <idno type="dokumenten_id">Ba 12-28v-12</idno>
+            </msItem>
+            <msItem n="43">
+              <locus from="29v">f. 29v</locus>
+              <title type="incipit">Ave praeclara maris stella</title>
+              <idno type="dokumenten_id">Ba 12-29v-1</idno>
+            </msItem>
+            <msItem n="44">
+              <locus from="30">f. 30</locus>
+              <title type="incipit">Ave Maria gratia plena ... benedicta … gratiam</title>
+              <idno type="dokumenten_id">Ba 12-30-12</idno>
+            </msItem>
+            <msItem n="45">
+              <locus from="32v">f. 32v</locus>
+              <title type="incipit">Lauda Sion</title>
+              <idno type="dokumenten_id">Ba 12-32v-6</idno>
+            </msItem>
+            <msItem n="46">
+              <locus from="34">f. 34</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Ba 12-34-10</idno>
+            </msItem>
+            <msItem n="47">
+              <locus from="34">f. 34</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Ba 12-34-4</idno>
+            </msItem>
+            <msItem n="48">
+              <locus from="34">f. 34</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Ba 12-34-6</idno>
+            </msItem>
+            <msItem n="49">
+              <locus from="34">f. 34</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Ba 12-34-8</idno>
+            </msItem>
+            <msItem n="50">
+              <locus from="41">f. 41</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Ba 12-41-4</idno>
+            </msItem>
+            <msItem n="51">
+              <locus from="42v">f. 42v</locus>
+              <title type="incipit">Sanctissimae virginis votiva</title>
+              <idno type="dokumenten_id">Ba 12-42v-1</idno>
+            </msItem>
+            <msItem n="52">
+              <locus from="44v">f. 44v</locus>
+              <title type="incipit">Cui canit hymnilogum</title>
+              <idno type="dokumenten_id">Ba 12-44v-8</idno>
+            </msItem>
+            <msItem n="53">
+              <locus from="45v">f. 45v</locus>
+              <title type="incipit">Qui deus et rector</title>
+              <idno type="dokumenten_id">Ba 12-45v-5</idno>
+            </msItem>
+            <msItem n="54">
+              <locus from="46">f. 46</locus>
+              <title type="incipit">Hodie parvulorum</title>
+              <idno type="dokumenten_id">Ba 12-46-12</idno>
+            </msItem>
+            <msItem n="55">
+              <locus from="46v">f. 46v</locus>
+              <title type="incipit">Ecclesiae sponsus</title>
+              <idno type="dokumenten_id">Ba 12-46v-1</idno>
+            </msItem>
+            <msItem n="56">
+              <locus from="46v">f. 46v</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Ba 12-46v-12a</idno>
+            </msItem>
+            <msItem n="57">
+              <locus from="46v">f. 46v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Ba 12-46v-12b</idno>
+            </msItem>
+            <msItem n="58">
+              <locus from="46v">f. 46v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Ba 12-46v-9</idno>
+            </msItem>
+            <msItem n="59">
+              <locus from="47">f. 47</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Ba 12-47-1</idno>
+            </msItem>
+            <msItem n="60">
+              <locus from="47">f. 47</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Ba 12-47-2</idno>
+            </msItem>
+            <msItem n="61">
+              <locus from="47">f. 47</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Ba 12-47-4</idno>
+            </msItem>
+            <msItem n="62">
+              <locus from="47v">f. 47v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Ba 12-47v-2</idno>
+            </msItem>
+            <msItem n="63">
+              <locus from="47v">f. 47v</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Ba 12-47v-5a</idno>
+            </msItem>
+            <msItem n="64">
+              <locus from="47v">f. 47v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Ba 12-47v-5b</idno>
+            </msItem>
+            <msItem n="65">
+              <locus from="47v">f. 47v</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Ba 12-47v-7</idno>
+            </msItem>
+            <msItem n="66">
+              <locus from="48">f. 48</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Ba 12-48-4</idno>
+            </msItem>
+            <msItem n="67">
+              <locus from="48">f. 48</locus>
+              <title type="incipit">Spiritus et alme</title>
+              <idno type="dokumenten_id">Ba 12-48-7</idno>
+            </msItem>
+            <msItem n="68">
+              <locus from="48v">f. 48v</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Ba 12-48v-10</idno>
+            </msItem>
+            <msItem n="69">
+              <locus from="48v">f. 48v</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Ba 12-48v-13</idno>
+            </msItem>
+            <msItem n="70">
+              <locus from="48v">f. 48v</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Ba 12-48v-7</idno>
+            </msItem>
+            <msItem n="71">
+              <locus from="49">f. 49</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Ba 12-49-11</idno>
+            </msItem>
+            <msItem n="72">
+              <locus from="49">f. 49</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Ba 12-49-12</idno>
+            </msItem>
+            <msItem n="73">
+              <locus from="49">f. 49</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Ba 12-49-13</idno>
+            </msItem>
+            <msItem n="74">
+              <locus from="49">f. 49</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Ba 12-49-4</idno>
+            </msItem>
+            <msItem n="75">
+              <locus from="49">f. 49</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Ba 12-49-8</idno>
+            </msItem>
+            <msItem n="76">
+              <locus from="49v">f. 49v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Ba 12-49v-10</idno>
+            </msItem>
+            <msItem n="77">
+              <locus from="49v">f. 49v</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Ba 12-49v-12</idno>
+            </msItem>
+            <msItem n="78">
+              <locus from="49v">f. 49v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Ba 12-49v-2</idno>
+            </msItem>
+            <msItem n="79">
+              <locus from="49v">f. 49v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Ba 12-49v-4</idno>
+            </msItem>
+            <msItem n="80">
+              <locus from="49v">f. 49v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Ba 12-49v-6</idno>
+            </msItem>
+            <msItem n="81">
+              <locus from="49v">f. 49v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Ba 12-49v-9</idno>
+            </msItem>
+            <msItem n="82">
+              <locus from="50">f. 50</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Ba 12-50-3</idno>
+            </msItem>
+            <msItem n="83">
+              <locus from="51">f. 51</locus>
+              <title type="incipit">Benedicta semper sancta</title>
+              <idno type="dokumenten_id">Ba 12-51-7</idno>
+            </msItem>
+            <msItem n="84">
+              <locus from="52">f. 52</locus>
+              <title type="incipit">Laetare mater ecclesia</title>
+              <idno type="dokumenten_id">Ba 12-52-1</idno>
+            </msItem>
+            <msItem n="85">
+              <locus from="53">f. 53</locus>
+              <title type="incipit">Gratulare sponsa</title>
+              <idno type="dokumenten_id">Ba 12-53-1</idno>
+            </msItem>
+            <msItem n="86">
+              <locus from="53v">f. 53v</locus>
+              <title type="incipit">Gaude Sion quod egressus</title>
+              <idno type="dokumenten_id">Ba 12-53v-7</idno>
+            </msItem>
+            <msItem n="87">
+              <locus from="69v">f. 69v</locus>
+              <title type="incipit">Lauda Sion</title>
+              <idno type="dokumenten_id">Ba 12-69v-4</idno>
+            </msItem>
+            <msItem n="88">
+              <locus from="71v">f. 71v</locus>
+              <title type="incipit">Regi regum decantet</title>
+              <idno type="dokumenten_id">Ba 12-71v-10</idno>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <musicNotation>
+              <ref target="notation/Ba_12.notation.md">Notation documentation</ref>
+            </musicNotation>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Bamberg</settlement>
+                <region>Quellen deutscher Herkunft</region>
+                <orgName>Dom</orgName>
+              </origPlace>
+              <origDate>14. Jh</origDate>
+            </origin>
+          </history>
+          <additional>
+            <adminInfo>
+              <note type="description">
+                <ref target="Ba_12.description.md">Source description</ref>
+              </note>
+            </adminInfo>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

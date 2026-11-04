@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Mod 16: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Ordinariumsgesänge)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="Mod_16">
+        <identifier type="siglum">Mod 16</identifier>
+        <identifier type="cantus">Mod 16</identifier>
+        <titleStmt>
+          <title>Mod 16</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Modena</geogName>
+          <geogName role="origin-region">Quellen italienischer Herkunft</geogName>
+          <date>13. Jh Anfang</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="10">f. 10</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Mod 16-10-8</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="10v">f. 10v</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Mod 16-10v-1</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="11">f. 11</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Mod 16-11-9</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="11v">f. 11v</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Mod 16-11v-2</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="12">f. 12</locus>
+            <title type="incipit">Kyrie eleyson*</title>
+            <identifier type="dokumenten_id">Mod 16-12-7a</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="12">f. 12</locus>
+            <title type="incipit">Gloria in excelsis*</title>
+            <identifier type="dokumenten_id">Mod 16-12-7b</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="12">f. 12</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Mod 16-12-8</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="12v">f. 12v</locus>
+            <title type="incipit">Gloria in excelsis*</title>
+            <identifier type="dokumenten_id">Mod 16-12v-2</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="12v">f. 12v</locus>
+            <title type="incipit">Kyrie eleyson*</title>
+            <identifier type="dokumenten_id">Mod 16-12v-4</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="12v">f. 12v</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Mod 16-12v-5</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus from="13v">f. 13v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Mod 16-13v-2</identifier>
+          </contentItem>
+          <contentItem n="12">
+            <locus from="13v">f. 13v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Mod 16-13v-4</identifier>
+          </contentItem>
+          <contentItem n="13">
+            <locus from="14">f. 14</locus>
+            <title type="incipit">Gloria in excelsis*</title>
+            <identifier type="dokumenten_id">Mod 16-14-1</identifier>
+          </contentItem>
+          <contentItem n="14">
+            <locus from="14">f. 14</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Mod 16-14-11</identifier>
+          </contentItem>
+          <contentItem n="15">
+            <locus from="14">f. 14</locus>
+            <title type="incipit">Kyrie eleyson*</title>
+            <identifier type="dokumenten_id">Mod 16-14-2</identifier>
+          </contentItem>
+          <contentItem n="16">
+            <locus from="14">f. 14</locus>
+            <title type="incipit">Gloria in excelsis*</title>
+            <identifier type="dokumenten_id">Mod 16-14-3</identifier>
+          </contentItem>
+          <contentItem n="17">
+            <locus from="14">f. 14</locus>
+            <title type="incipit">Kyrie eleyson*</title>
+            <identifier type="dokumenten_id">Mod 16-14-5a</identifier>
+          </contentItem>
+          <contentItem n="18">
+            <locus from="14">f. 14</locus>
+            <title type="incipit">Gloria in excelsis*</title>
+            <identifier type="dokumenten_id">Mod 16-14-5b</identifier>
+          </contentItem>
+          <contentItem n="19">
+            <locus from="14">f. 14</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Mod 16-14-6</identifier>
+          </contentItem>
+          <contentItem n="20">
+            <locus from="14">f. 14</locus>
+            <title type="incipit">Gloria in excelsis*</title>
+            <identifier type="dokumenten_id">Mod 16-14-9</identifier>
+          </contentItem>
+          <contentItem n="21">
+            <locus from="14v">f. 14v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Mod 16-14v-1</identifier>
+          </contentItem>
+          <contentItem n="22">
+            <locus from="5v">f. 5v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Mod 16-5v-1</identifier>
+          </contentItem>
+          <contentItem n="23">
+            <locus from="5v">f. 5v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Mod 16-5v-3</identifier>
+          </contentItem>
+          <contentItem n="24">
+            <locus from="5v">f. 5v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Mod 16-5v-7</identifier>
+          </contentItem>
+          <contentItem n="25">
+            <locus from="6">f. 6</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Mod 16-6-2</identifier>
+          </contentItem>
+          <contentItem n="26">
+            <locus from="6">f. 6</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Mod 16-6-5</identifier>
+          </contentItem>
+          <contentItem n="27">
+            <locus from="6">f. 6</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Mod 16-6-8</identifier>
+          </contentItem>
+          <contentItem n="28">
+            <locus from="7">f. 7</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Mod 16-7-4</identifier>
+          </contentItem>
+          <contentItem n="29">
+            <locus from="7">f. 7</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Mod 16-7-6</identifier>
+          </contentItem>
+          <contentItem n="30">
+            <locus from="77">f. 77</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Mod 16-77-7</identifier>
+          </contentItem>
+          <contentItem n="31">
+            <locus from="77v">f. 77v</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Mod 16-77v-3</identifier>
+          </contentItem>
+          <contentItem n="32">
+            <locus from="77v">f. 77v</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Mod 16-77v-8</identifier>
+          </contentItem>
+          <contentItem n="33">
+            <locus from="78">f. 78</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Mod 16-78-5</identifier>
+          </contentItem>
+          <contentItem n="34">
+            <locus from="78v">f. 78v</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Mod 16-78v-1</identifier>
+          </contentItem>
+          <contentItem n="35">
+            <locus from="78v">f. 78v</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Mod 16-78v-6</identifier>
+          </contentItem>
+          <contentItem n="36">
+            <locus from="79">f. 79</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Mod 16-79-2</identifier>
+          </contentItem>
+          <contentItem n="37">
+            <locus from="79">f. 79</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Mod 16-79-8</identifier>
+          </contentItem>
+          <contentItem n="38">
+            <locus from="79v">f. 79v</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Mod 16-79v-5</identifier>
+          </contentItem>
+          <contentItem n="39">
+            <locus from="8">f. 8</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Mod 16-8-10</identifier>
+          </contentItem>
+          <contentItem n="40">
+            <locus from="8">f. 8</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Mod 16-8-3</identifier>
+          </contentItem>
+          <contentItem n="41">
+            <locus from="80">f. 80</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Mod 16-80-1</identifier>
+          </contentItem>
+          <contentItem n="42">
+            <locus from="80">f. 80</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Mod 16-80-8</identifier>
+          </contentItem>
+          <contentItem n="43">
+            <locus from="80v">f. 80v</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Mod 16-80v-3</identifier>
+          </contentItem>
+          <contentItem n="44">
+            <locus from="80v">f. 80v</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Mod 16-80v-9</identifier>
+          </contentItem>
+          <contentItem n="45">
+            <locus from="81">f. 81</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Mod 16-81-1</identifier>
+          </contentItem>
+          <contentItem n="46">
+            <locus from="81">f. 81</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Mod 16-81-5</identifier>
+          </contentItem>
+          <contentItem n="47">
+            <locus from="81">f. 81</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Mod 16-81-7</identifier>
+          </contentItem>
+          <contentItem n="48">
+            <locus from="81">f. 81</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Mod 16-81-9</identifier>
+          </contentItem>
+          <contentItem n="49">
+            <locus from="81v">f. 81v</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Mod 16-81v-2</identifier>
+          </contentItem>
+          <contentItem n="50">
+            <locus from="81v">f. 81v</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Mod 16-81v-4</identifier>
+          </contentItem>
+          <contentItem n="51">
+            <locus from="81v">f. 81v</locus>
+            <title type="incipit">Agnus dei*</title>
+            <identifier type="dokumenten_id">Mod 16-81v-8</identifier>
+          </contentItem>
+          <contentItem n="52">
+            <locus from="81v">f. 81v</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Mod 16-81v-9</identifier>
+          </contentItem>
+          <contentItem n="53">
+            <locus from="82">f. 82</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Mod 16-82-2</identifier>
+          </contentItem>
+          <contentItem n="54">
+            <locus from="82">f. 82</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Mod 16-82-4</identifier>
+          </contentItem>
+          <contentItem n="55">
+            <locus from="82">f. 82</locus>
+            <title type="incipit">Agnus dei*</title>
+            <identifier type="dokumenten_id">Mod 16-82-6</identifier>
+          </contentItem>
+          <contentItem n="56">
+            <locus from="9">f. 9</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Mod 16-9-8</identifier>
+          </contentItem>
+          <contentItem n="57">
+            <locus from="9v">f. 9v</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Mod 16-9v-2</identifier>
+          </contentItem>
+        </contents>
+        <notesStmt>
+          <annot type="description">
+            <ref target="Mod_16.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <classification>
+          <termList>
+            <term type="quellentyp">Kyriale, Sequentiar mit Cantatorium, Prozessionar</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">O.I.16</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">Modena</geogName>
+                <corpName>Biblioteca Capitolare</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

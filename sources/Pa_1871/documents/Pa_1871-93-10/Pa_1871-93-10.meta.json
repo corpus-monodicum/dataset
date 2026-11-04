@@ -1,0 +1,41 @@
+{
+  "id": "faf3036a-dd75-4428-b46d-da1e2b455eda",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-93-10",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Lucia",
+  "feier": "Messe",
+  "textinitium": "En virginum agmina",
+  "bibliographischerverweis": "AH 7, 220",
+  "druckausgabe": "",
+  "zeilenstart": "10",
+  "foliostart": "93",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "93v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Adducentur",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

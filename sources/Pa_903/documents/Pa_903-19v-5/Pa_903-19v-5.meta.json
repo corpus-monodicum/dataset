@@ -1,0 +1,41 @@
+{
+  "id": "16387672-3f97-4ca8-acd7-fbf23c2e9650",
+  "quelle_id": "Pa 903",
+  "dokumenten_id": "Pa 903-19v-5",
+  "gattung1": "Antiphon",
+  "gattung2": "Offertorium",
+  "festtag": "Marcellus",
+  "feier": "Messe",
+  "textinitium": "Veritas mea",
+  "bibliographischerverweis": "AMS 22",
+  "druckausgabe": "II-3",
+  "zeilenstart": "5",
+  "foliostart": "19v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "19v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

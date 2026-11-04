@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ma 289: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Text edition (Lieder)</resp>
+          <persName>Gunilla Björkvall</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Spiele)</resp>
+          <persName>Elaine Stratton Hild</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Lieder)</resp>
+          <persName>Konstantin Voigt</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Hanna Zühlke</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Ordinariumsgesänge)</resp>
+          <persName>Konstantin Voigt</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="Ma_289">
+          <msIdentifier>
+            <settlement>Madrid</settlement>
+            <repository>Biblioteca Nacional</repository>
+            <idno type="shelfmark">Ms. 289</idno>
+            <altIdentifier type="siglum">
+              <idno>Ma 289</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>Madrid 289</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <term type="quellentyp">Tropar, Sequentiar, Liturgische Spiele, Tonar, Conductus</term>
+            </summary>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="101">f. 101</locus>
+              <title type="incipit">Resonet intonet fidelis</title>
+              <idno type="dokumenten_id">Ma 289-101-4</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="107">f. 107</locus>
+              <idno type="dokumenten_id">Ma 289-107-1</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="107v">f. 107v</locus>
+              <title type="incipit">Stella fulgore</title>
+              <idno type="dokumenten_id">Ma 289-107v-10</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="107v">f. 107v</locus>
+              <title type="incipit">Quae regem regum</title>
+              <idno type="dokumenten_id">Ma 289-107v-11</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="107v">f. 107v</locus>
+              <title type="incipit">Quem venturum</title>
+              <idno type="dokumenten_id">Ma 289-107v-12</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="107v">f. 107v</locus>
+              <title type="incipit">Te deum laudamus*</title>
+              <idno type="dokumenten_id">Ma 289-107v-9</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="108">f. 108</locus>
+              <title type="incipit">Ante venire</title>
+              <idno type="dokumenten_id">Ma 289-108-11</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="108">f. 108</locus>
+              <title type="incipit">Regia vos mandata</title>
+              <idno type="dokumenten_id">Ma 289-108-14</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="108">f. 108</locus>
+              <title type="incipit">Israelitarum rex</title>
+              <idno type="dokumenten_id">Ma 289-108-15</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="108">f. 108</locus>
+              <title type="incipit">Venite</title>
+              <idno type="dokumenten_id">Ma 289-108-1a</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="108">f. 108</locus>
+              <title type="incipit">Venite</title>
+              <idno type="dokumenten_id">Ma 289-108-1b</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="108">f. 108</locus>
+              <title type="incipit">Venite adoremus</title>
+              <idno type="dokumenten_id">Ma 289-108-1c</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="108">f. 108</locus>
+              <title type="incipit">Eamus ergo ... quia scriptum</title>
+              <idno type="dokumenten_id">Ma 289-108-4</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="108">f. 108</locus>
+              <title type="incipit">Salve rex Iudaeorum en magi</title>
+              <idno type="dokumenten_id">Ma 289-108-8</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="108v">f. 108v</locus>
+              <title type="incipit">Auro regem ture</title>
+              <idno type="dokumenten_id">Ma 289-108v-10</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="108v">f. 108v</locus>
+              <title type="incipit">Huc symmystae mei</title>
+              <idno type="dokumenten_id">Ma 289-108v-12</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="108v">f. 108v</locus>
+              <title type="incipit">Vos legis periti</title>
+              <idno type="dokumenten_id">Ma 289-108v-13</idno>
+            </msItem>
+            <msItem n="18">
+              <locus from="108v">f. 108v</locus>
+              <title type="incipit">Quem quaeritis advene</title>
+              <idno type="dokumenten_id">Ma 289-108v-2a</idno>
+            </msItem>
+            <msItem n="19">
+              <locus from="108v">f. 108v</locus>
+              <title type="incipit">Regem Iudaeorum</title>
+              <idno type="dokumenten_id">Ma 289-108v-2b</idno>
+            </msItem>
+            <msItem n="20">
+              <locus from="108v">f. 108v</locus>
+              <title type="incipit">Regem quem quaeritis</title>
+              <idno type="dokumenten_id">Ma 289-108v-3</idno>
+            </msItem>
+            <msItem n="21">
+              <locus from="108v">f. 108v</locus>
+              <title type="incipit">Illum natum esse</title>
+              <idno type="dokumenten_id">Ma 289-108v-4</idno>
+            </msItem>
+            <msItem n="22">
+              <locus from="108v">f. 108v</locus>
+              <title type="incipit">Si illum regnare</title>
+              <idno type="dokumenten_id">Ma 289-108v-6</idno>
+            </msItem>
+            <msItem n="23">
+              <locus from="108v">f. 108v</locus>
+              <title type="incipit">Hunc regnare ... trinum</title>
+              <idno type="dokumenten_id">Ma 289-108v-7</idno>
+            </msItem>
+            <msItem n="24">
+              <locus from="109">f. 109</locus>
+              <title type="incipit">Ite et de puero</title>
+              <idno type="dokumenten_id">Ma 289-109-12</idno>
+            </msItem>
+            <msItem n="25">
+              <locus from="109">f. 109</locus>
+              <title type="incipit">Salve rex Iudaeorum</title>
+              <idno type="dokumenten_id">Ma 289-109-2</idno>
+            </msItem>
+            <msItem n="26">
+              <locus from="109">f. 109</locus>
+              <title type="incipit">O vos scribae</title>
+              <idno type="dokumenten_id">Ma 289-109-3</idno>
+            </msItem>
+            <msItem n="27">
+              <locus from="109">f. 109</locus>
+              <title type="incipit">Vidimus domine</title>
+              <idno type="dokumenten_id">Ma 289-109-6</idno>
+            </msItem>
+            <msItem n="28">
+              <locus from="109">f. 109</locus>
+              <title type="incipit">Bethlehem non es minima</title>
+              <idno type="dokumenten_id">Ma 289-109-7</idno>
+            </msItem>
+            <msItem n="29">
+              <locus from="109v">f. 109v</locus>
+              <title type="incipit">Pastores dicite</title>
+              <idno type="dokumenten_id">Ma 289-109v-1</idno>
+            </msItem>
+            <msItem n="30">
+              <locus from="109v">f. 109v</locus>
+              <title type="incipit">Ecce puer adest</title>
+              <idno type="dokumenten_id">Ma 289-109v-12</idno>
+            </msItem>
+            <msItem n="31">
+              <locus from="109v">f. 109v</locus>
+              <title type="incipit">Ecce stella in oriente</title>
+              <idno type="dokumenten_id">Ma 289-109v-5</idno>
+            </msItem>
+            <msItem n="32">
+              <locus from="109v">f. 109v</locus>
+              <title type="incipit">Quam Balaam</title>
+              <idno type="dokumenten_id">Ma 289-109v-6</idno>
+            </msItem>
+            <msItem n="33">
+              <locus from="109v">f. 109v</locus>
+              <title type="incipit">Qui sunt hi qui stella</title>
+              <idno type="dokumenten_id">Ma 289-109v-8</idno>
+            </msItem>
+            <msItem n="34">
+              <locus from="109v">f. 109v</locus>
+              <title type="incipit">Nos sumus quos</title>
+              <idno type="dokumenten_id">Ma 289-109v-9</idno>
+            </msItem>
+            <msItem n="35">
+              <locus from="110">f. 110</locus>
+              <title type="incipit">Salve deus deorum</title>
+              <idno type="dokumenten_id">Ma 289-110-1</idno>
+            </msItem>
+            <msItem n="36">
+              <locus from="110">f. 110</locus>
+              <title type="incipit">Surge inluminare ... deus ante tempora</title>
+              <idno type="dokumenten_id">Ma 289-110-10</idno>
+            </msItem>
+            <msItem n="37">
+              <locus from="110">f. 110</locus>
+              <title type="incipit">Impleta sunt omnia</title>
+              <idno type="dokumenten_id">Ma 289-110-5</idno>
+            </msItem>
+            <msItem n="38">
+              <locus from="110">f. 110</locus>
+              <title type="incipit">Nuntium vobis fero</title>
+              <idno type="dokumenten_id">Ma 289-110-7</idno>
+            </msItem>
+            <msItem n="39">
+              <locus from="110">f. 110</locus>
+              <title type="incipit">Te deum laudamus*</title>
+              <idno type="dokumenten_id">Ma 289-110-9</idno>
+            </msItem>
+            <msItem n="40">
+              <locus from="111v">f. 111v</locus>
+              <title type="incipit">Omnes de Saba*</title>
+              <idno type="dokumenten_id">Ma 289-111v-11</idno>
+            </msItem>
+            <msItem n="41">
+              <locus from="115v">f. 115v</locus>
+              <title type="incipit">Quis revolvet nobis lapidem</title>
+              <idno type="dokumenten_id">Ma 289-115v-11</idno>
+            </msItem>
+            <msItem n="42">
+              <locus from="115v">f. 115v</locus>
+              <title type="incipit">Venite</title>
+              <idno type="dokumenten_id">Ma 289-115v-12a</idno>
+            </msItem>
+            <msItem n="43">
+              <locus from="115v">f. 115v</locus>
+              <title type="incipit">Quis revolvet</title>
+              <idno type="dokumenten_id">Ma 289-115v-12b</idno>
+            </msItem>
+            <msItem n="44">
+              <locus from="116">f. 116</locus>
+              <title type="incipit">Venite</title>
+              <idno type="dokumenten_id">Ma 289-116-1a</idno>
+            </msItem>
+            <msItem n="45">
+              <locus from="116">f. 116</locus>
+              <title type="incipit">Quis revolvet</title>
+              <idno type="dokumenten_id">Ma 289-116-1b</idno>
+            </msItem>
+            <msItem n="46">
+              <locus from="116">f. 116</locus>
+              <title type="incipit">Venite nolite timere</title>
+              <idno type="dokumenten_id">Ma 289-116-2a</idno>
+            </msItem>
+            <msItem n="47">
+              <locus from="116">f. 116</locus>
+              <title type="incipit">Quem quaeritis in sepulchro</title>
+              <idno type="dokumenten_id">Ma 289-116-2b</idno>
+            </msItem>
+            <msItem n="48">
+              <locus from="116">f. 116</locus>
+              <title type="incipit">Alleluia resurrexit dominus</title>
+              <idno type="dokumenten_id">Ma 289-116-5</idno>
+            </msItem>
+            <msItem n="49">
+              <locus from="116">f. 116</locus>
+              <title type="incipit">Hodie resurrexit leo fortis</title>
+              <idno type="dokumenten_id">Ma 289-116-6</idno>
+            </msItem>
+            <msItem n="50">
+              <locus from="116">f. 116</locus>
+              <title type="incipit">Te deum laudamus*</title>
+              <idno type="dokumenten_id">Ma 289-116-7</idno>
+            </msItem>
+            <msItem n="51">
+              <locus from="116">f. 116</locus>
+              <title type="incipit">Fratres expurgate ... regi perrenis gloriae</title>
+              <idno type="dokumenten_id">Ma 289-116-8</idno>
+            </msItem>
+            <msItem n="52">
+              <locus from="117">f. 117</locus>
+              <title type="incipit">Iesu nostra redemptio*</title>
+              <idno type="dokumenten_id">Ma 289-117-7</idno>
+            </msItem>
+            <msItem n="53">
+              <locus from="117">f. 117</locus>
+              <title type="incipit">Tertia dies est</title>
+              <idno type="dokumenten_id">Ma 289-117-8</idno>
+            </msItem>
+            <msItem n="54">
+              <locus from="117">f. 117</locus>
+              <title type="incipit">Qui sunt hi sermones</title>
+              <idno type="dokumenten_id">Ma 289-117-9</idno>
+            </msItem>
+            <msItem n="55">
+              <locus from="117v">f. 117v</locus>
+              <title type="incipit">Mane nobiscum</title>
+              <idno type="dokumenten_id">Ma 289-117v-11</idno>
+            </msItem>
+            <msItem n="56">
+              <locus from="117v">f. 117v</locus>
+              <title type="incipit">Mihi longum iter</title>
+              <idno type="dokumenten_id">Ma 289-117v-13</idno>
+            </msItem>
+            <msItem n="57">
+              <locus from="117v">f. 117v</locus>
+              <title type="incipit">O stulti et tardi</title>
+              <idno type="dokumenten_id">Ma 289-117v-4</idno>
+            </msItem>
+            <msItem n="58">
+              <locus from="117v">f. 117v</locus>
+              <title type="incipit">Nonne sic oportuit</title>
+              <idno type="dokumenten_id">Ma 289-117v-6</idno>
+            </msItem>
+            <msItem n="59">
+              <locus from="117v">f. 117v</locus>
+              <title type="incipit">Cum autem appropinquaret</title>
+              <idno type="dokumenten_id">Ma 289-117v-8</idno>
+            </msItem>
+            <msItem n="60">
+              <locus from="118">f. 118</locus>
+              <title type="incipit">Sol vergens</title>
+              <idno type="dokumenten_id">Ma 289-118-1</idno>
+            </msItem>
+            <msItem n="61">
+              <locus from="118">f. 118</locus>
+              <title type="incipit">Nonne cor nostrum</title>
+              <idno type="dokumenten_id">Ma 289-118-12</idno>
+            </msItem>
+            <msItem n="62">
+              <locus from="118">f. 118</locus>
+              <title type="incipit">Et intravit cum</title>
+              <idno type="dokumenten_id">Ma 289-118-3</idno>
+            </msItem>
+            <msItem n="63">
+              <locus from="118v">f. 118v</locus>
+              <title type="incipit">Pax vobis ego sum nolite ... videte</title>
+              <idno type="dokumenten_id">Ma 289-118v-1</idno>
+            </msItem>
+            <msItem n="64">
+              <locus from="118v">f. 118v</locus>
+              <title type="incipit">Surrexit dominus de sepulchro ... alleluia</title>
+              <idno type="dokumenten_id">Ma 289-118v-6</idno>
+            </msItem>
+            <msItem n="65">
+              <locus from="118v">f. 118v</locus>
+              <title type="incipit">Deo gratias alleluia</title>
+              <idno type="dokumenten_id">Ma 289-118v-7</idno>
+            </msItem>
+            <msItem n="66">
+              <locus from="126v">f. 126v</locus>
+              <title type="incipit">Verbum patris hodie</title>
+              <idno type="dokumenten_id">Ma 289-126v-3</idno>
+            </msItem>
+            <msItem n="67">
+              <locus from="126v">f. 126v</locus>
+              <title type="incipit">Gaude Ierusalem perhenni</title>
+              <idno type="dokumenten_id">Ma 289-126v-7</idno>
+            </msItem>
+            <msItem n="68">
+              <locus from="127">f. 127</locus>
+              <title type="incipit">Exultet nostra contio</title>
+              <idno type="dokumenten_id">Ma 289-127-3</idno>
+            </msItem>
+            <msItem n="69">
+              <locus from="128">f. 128</locus>
+              <title type="incipit">Congaudet turba fidelium</title>
+              <idno type="dokumenten_id">Ma 289-128-8</idno>
+            </msItem>
+            <msItem n="70">
+              <locus from="128v">f. 128v</locus>
+              <title type="incipit">Congaudet hodie celestis</title>
+              <idno type="dokumenten_id">Ma 289-128v-9</idno>
+            </msItem>
+            <msItem n="71">
+              <locus from="129v">f. 129v</locus>
+              <title type="incipit">Patris ingeniti filius</title>
+              <idno type="dokumenten_id">Ma 289-129v-2</idno>
+            </msItem>
+            <msItem n="72">
+              <locus from="130">f. 130</locus>
+              <title type="incipit">Castitatis lilium effloruit</title>
+              <idno type="dokumenten_id">Ma 289-130-9</idno>
+            </msItem>
+            <msItem n="73">
+              <locus from="131">f. 131</locus>
+              <title type="incipit">Super omnes alias</title>
+              <idno type="dokumenten_id">Ma 289-131-5</idno>
+            </msItem>
+            <msItem n="74">
+              <locus from="132v">f. 132v</locus>
+              <title type="incipit">Lux omni festa</title>
+              <idno type="dokumenten_id">Ma 289-132v-2</idno>
+            </msItem>
+            <msItem n="75">
+              <locus from="133">f. 133</locus>
+              <title type="incipit">Venit deus a solio</title>
+              <idno type="dokumenten_id">Ma 289-133-6</idno>
+            </msItem>
+            <msItem n="76">
+              <locus from="133v">f. 133v</locus>
+              <title type="incipit">Rex omnia tenens</title>
+              <idno type="dokumenten_id">Ma 289-133v-7</idno>
+            </msItem>
+            <msItem n="77">
+              <locus from="134">f. 134</locus>
+              <title type="incipit">Splendor patris et sol</title>
+              <idno type="dokumenten_id">Ma 289-134-10</idno>
+            </msItem>
+            <msItem n="78">
+              <locus from="134v">f. 134v</locus>
+              <title type="incipit">Thesaurus novae gratiae</title>
+              <idno type="dokumenten_id">Ma 289-134v-6</idno>
+            </msItem>
+            <msItem n="79">
+              <locus from="135">f. 135</locus>
+              <title type="incipit">Populi fera turba</title>
+              <idno type="dokumenten_id">Ma 289-135-1</idno>
+            </msItem>
+            <msItem n="80">
+              <locus from="135">f. 135</locus>
+              <title type="incipit">Congaudeat ecclesia sollemnis</title>
+              <idno type="dokumenten_id">Ma 289-135-9</idno>
+            </msItem>
+            <msItem n="81">
+              <locus from="135v">f. 135v</locus>
+              <title type="incipit">Iohannes postquam senuit</title>
+              <idno type="dokumenten_id">Ma 289-135v-6</idno>
+            </msItem>
+            <msItem n="82">
+              <locus from="136">f. 136</locus>
+              <title type="incipit">Eia pueri iubilo</title>
+              <idno type="dokumenten_id">Ma 289-136-4</idno>
+            </msItem>
+            <msItem n="83">
+              <locus from="136">f. 136</locus>
+              <title type="incipit">Dulce melos cum organo</title>
+              <idno type="dokumenten_id">Ma 289-136-8</idno>
+            </msItem>
+            <msItem n="84">
+              <locus from="136v">f. 136v</locus>
+              <title type="incipit">Dei sapientia manet</title>
+              <idno type="dokumenten_id">Ma 289-136v-11</idno>
+            </msItem>
+            <msItem n="85">
+              <locus from="137v">f. 137v</locus>
+              <title type="incipit">Exultemus et laetemur</title>
+              <idno type="dokumenten_id">Ma 289-137v-2</idno>
+            </msItem>
+            <msItem n="86">
+              <locus from="138">f. 138</locus>
+              <title type="incipit">Resurgente dominorum domino</title>
+              <idno type="dokumenten_id">Ma 289-138-1</idno>
+            </msItem>
+            <msItem n="87">
+              <locus from="138">f. 138</locus>
+              <title type="incipit">Laetabunda lauda plebs</title>
+              <idno type="dokumenten_id">Ma 289-138-9</idno>
+            </msItem>
+            <msItem n="88">
+              <locus from="138v">f. 138v</locus>
+              <title type="incipit">Ascendentem Christum regem</title>
+              <idno type="dokumenten_id">Ma 289-138v-7</idno>
+            </msItem>
+            <msItem n="89">
+              <locus from="139">f. 139</locus>
+              <title type="incipit">Ad honorem sempiterni</title>
+              <idno type="dokumenten_id">Ma 289-139-2</idno>
+            </msItem>
+            <msItem n="90">
+              <locus from="139v">f. 139v</locus>
+              <title type="incipit">Consolator paraclite fidelium</title>
+              <idno type="dokumenten_id">Ma 289-139v-1</idno>
+            </msItem>
+            <msItem n="91">
+              <locus from="139v">f. 139v</locus>
+              <title type="incipit">Benedicamus regi sidereo</title>
+              <idno type="dokumenten_id">Ma 289-139v-12</idno>
+            </msItem>
+            <msItem n="92">
+              <locus from="139v">f. 139v</locus>
+              <title type="incipit">Haec est domus</title>
+              <idno type="dokumenten_id">Ma 289-139v-8</idno>
+            </msItem>
+            <msItem n="93">
+              <locus from="140">f. 140</locus>
+              <title type="incipit">Benedicamus domino</title>
+              <idno type="dokumenten_id">Ma 289-140-12</idno>
+            </msItem>
+            <msItem n="94">
+              <locus from="140">f. 140</locus>
+              <title type="incipit">Sanctissimo pontifici</title>
+              <idno type="dokumenten_id">Ma 289-140-4</idno>
+            </msItem>
+            <msItem n="95">
+              <locus from="140v">f. 140v</locus>
+              <title type="incipit">Benedicamus domino</title>
+              <idno type="dokumenten_id">Ma 289-140v-2</idno>
+            </msItem>
+            <msItem n="96">
+              <locus from="140v">f. 140v</locus>
+              <title type="incipit">Benedicamus domino</title>
+              <idno type="dokumenten_id">Ma 289-140v-2</idno>
+            </msItem>
+            <msItem n="97">
+              <locus from="140v">f. 140v</locus>
+              <title type="incipit">Benedicamus salvatori laudantes</title>
+              <idno type="dokumenten_id">Ma 289-140v-3</idno>
+            </msItem>
+            <msItem n="98">
+              <locus from="141">f. 141</locus>
+              <title type="incipit">Da laudis homo</title>
+              <idno type="dokumenten_id">Ma 289-141-1</idno>
+            </msItem>
+            <msItem n="99">
+              <locus from="142">f. 142</locus>
+              <title type="incipit">Congaudentes iubilemus</title>
+              <idno type="dokumenten_id">Ma 289-142-7</idno>
+            </msItem>
+            <msItem n="100">
+              <locus from="142v">f. 142v</locus>
+              <title type="incipit">Exsultantes et laetantes</title>
+              <idno type="dokumenten_id">Ma 289-142v-6</idno>
+            </msItem>
+            <msItem n="101">
+              <locus from="143">f. 143</locus>
+              <title type="incipit">Anni novi circulus</title>
+              <idno type="dokumenten_id">Ma 289-143-11</idno>
+            </msItem>
+            <msItem n="102">
+              <locus from="143v">f. 143v</locus>
+              <title type="incipit">Natali regis gloriae</title>
+              <idno type="dokumenten_id">Ma 289-143v-12</idno>
+            </msItem>
+            <msItem n="103">
+              <locus from="144v">f. 144v</locus>
+              <title type="incipit">Natus est hodie</title>
+              <idno type="dokumenten_id">Ma 289-144v-11</idno>
+            </msItem>
+            <msItem n="104">
+              <locus from="144v">f. 144v</locus>
+              <title type="incipit">Omnis mundus iucundetur</title>
+              <idno type="dokumenten_id">Ma 289-144v-4</idno>
+            </msItem>
+            <msItem n="105">
+              <locus from="145v">f. 145v</locus>
+              <title type="incipit">Dicimus ecclesiam sponsam</title>
+              <idno type="dokumenten_id">Ma 289-145v-4</idno>
+            </msItem>
+            <msItem n="106">
+              <locus from="146">f. 146</locus>
+              <title type="incipit">Virgo dei genitrix</title>
+              <idno type="dokumenten_id">Ma 289-146-2</idno>
+            </msItem>
+            <msItem n="107">
+              <locus from="146v">f. 146v</locus>
+              <title type="incipit">Orientis partibus adventavit</title>
+              <idno type="dokumenten_id">Ma 289-146v-12</idno>
+            </msItem>
+            <msItem n="108">
+              <locus from="146v">f. 146v</locus>
+              <title type="incipit">Dei patris unicae</title>
+              <idno type="dokumenten_id">Ma 289-146v-3</idno>
+            </msItem>
+            <msItem n="109">
+              <locus from="147">f. 147</locus>
+              <title type="incipit">In hoc anni circulo</title>
+              <idno type="dokumenten_id">Ma 289-147-7</idno>
+            </msItem>
+            <msItem n="110">
+              <locus from="147v">f. 147v</locus>
+              <title type="incipit">Novus annus dies</title>
+              <idno type="dokumenten_id">Ma 289-147v-9</idno>
+            </msItem>
+            <msItem n="111">
+              <locus from="148">f. 148</locus>
+              <title type="incipit">Dies ista gaudium</title>
+              <idno type="dokumenten_id">Ma 289-148-6</idno>
+            </msItem>
+            <msItem n="112">
+              <locus from="155v">f. 155v</locus>
+              <title type="incipit">Bethlehem regis superni</title>
+              <idno type="dokumenten_id">Ma 289-155v-1</idno>
+            </msItem>
+            <msItem n="113">
+              <locus from="156">f. 156</locus>
+              <title type="incipit">O primus homo</title>
+              <idno type="dokumenten_id">Ma 289-156-2</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Palermo</settlement>
+                <region>Quellen normanno-sizilischer Herkunft</region>
+                <orgName>Cappella Palatina</orgName>
+              </origPlace>
+              <origDate>12. Jh (um 1140)</origDate>
+            </origin>
+          </history>
+          <additional>
+            <surrogates>
+              <bibl>
+                <ref type="iiif-manifest" target="https://iiif.diamm.net/manifests/E-Mn-Ms-289/manifest.json" />
+              </bibl>
+            </surrogates>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

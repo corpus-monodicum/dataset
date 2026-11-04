@@ -1,0 +1,41 @@
+{
+  "id": "7405b72c-359f-4a50-989b-6354510363bc",
+  "quelle_id": "Rou 222",
+  "dokumenten_id": "Rou 222-43v-4",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Alleluia",
+  "festtag": "Feria II post Pascha",
+  "feier": "Vesper",
+  "textinitium": "Alleluia Nonne cor nostrum",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "4",
+  "foliostart": "43v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "43v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Rou 222-43-19S",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Journey to Emmaus",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

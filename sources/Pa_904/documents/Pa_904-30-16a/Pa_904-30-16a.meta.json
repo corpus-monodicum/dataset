@@ -1,0 +1,41 @@
+{
+  "id": "8843cf1f-b1dc-486f-a2d5-43ad2e060131",
+  "quelle_id": "Pa 904",
+  "dokumenten_id": "Pa 904-30-16a",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Oratio",
+  "festtag": "Epiphania",
+  "feier": "Messe",
+  "textinitium": "Deus qui hodierna*",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "16",
+  "foliostart": "30",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "30",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "Pa 904-29-2-aS",
+    "Endzeile": "16",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Magi play",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

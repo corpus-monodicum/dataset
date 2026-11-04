@@ -1,0 +1,41 @@
+{
+  "id": "c810cb52-e1f5-49ea-b4af-f6e5c048f27f",
+  "quelle_id": "Ba 12",
+  "dokumenten_id": "Ba 12-53-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Otto",
+  "feier": "Messe",
+  "textinitium": "Gratulare sponsa",
+  "bibliographischerverweis": "AH 9, 315",
+  "druckausgabe": "CM III",
+  "zeilenstart": "1",
+  "foliostart": "53",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "53v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "Nachtrag 2",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

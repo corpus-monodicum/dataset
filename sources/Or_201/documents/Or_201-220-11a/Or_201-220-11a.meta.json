@@ -1,0 +1,41 @@
+{
+  "id": "b429be2a-86c1-4c71-a7c1-036abae74b8c",
+  "quelle_id": "Or 201",
+  "dokumenten_id": "Or 201-220-11a",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Innocentes",
+  "feier": "Matutin",
+  "textinitium": "Gaude gaude gaude*",
+  "bibliographischerverweis": "vgl. CAO 2924",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "11",
+  "foliostart": "220",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "220",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "Or 201-215-7-aS",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Play of the Innocents",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

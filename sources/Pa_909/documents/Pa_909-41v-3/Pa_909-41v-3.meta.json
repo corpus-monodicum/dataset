@@ -1,0 +1,41 @@
+{
+  "id": "22193bcf-9007-4ab9-b10e-92f658b4fa74",
+  "quelle_id": "Pa 909",
+  "dokumenten_id": "Pa 909-41v-3",
+  "gattung1": "Tropus",
+  "gattung2": "Communio-Tropus",
+  "festtag": "Petrus et Paulus",
+  "feier": "Messe",
+  "textinitium": "Simoni eia",
+  "bibliographischerverweis": "Simon Iohannis com 3 A (CT X)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "3",
+  "foliostart": "41v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "Simon Iohannis",
+    "Endseite": "41v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Simon Iohannis com",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

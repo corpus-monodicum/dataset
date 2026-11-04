@@ -1,0 +1,41 @@
+{
+  "id": "f968a073-c361-48e6-99f7-572ce8a1f682",
+  "quelle_id": "Ben 34",
+  "dokumenten_id": "Ben 34-172-10",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Dedicatio ecclesiae",
+  "feier": "Messe",
+  "textinitium": "Hic caelum terris",
+  "bibliographischerverweis": "Terribilis intr 136 A 137 B 138 C 139 D 120 A 121 B 122 C 123 D (CT VIII)",
+  "druckausgabe": "",
+  "zeilenstart": "10",
+  "foliostart": "172",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "(Terribilis)",
+    "Endseite": "172v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Terribilis intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

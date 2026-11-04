@@ -1,0 +1,28 @@
+{
+  "source": "Wü_165",
+  "images": [
+    {
+      "file": "patterns/patterns.svg",
+      "kind": "patterns",
+      "media_type": "image/svg+xml",
+      "sha256": "c99da6eb61ac1b06bd36c091b2a78410ade7c1d2932152c2504e912cfac155aa",
+      "bytes": 72216,
+      "shows": "Wü 165: Muster &amp; Entsprechungen",
+      "embeds_raster_image": false,
+      "source": {
+        "siglum": "Wü 165",
+        "library": "Universitätsbibliothek",
+        "place": "Würzburg",
+        "shelfmark": "M. p. th. f. 165",
+        "iiif_manifests": [],
+        "online_catalogue": []
+      },
+      "rights": {
+        "status": "not checked",
+        "library_terms_url": null,
+        "statement": null,
+        "note": "The images are crops of manuscript images of the library named under `source`; the rights of the library are not settled by the licence of this dataset (see docs/LICENCE-DECISION.md)."
+      }
+    }
+  ]
+}

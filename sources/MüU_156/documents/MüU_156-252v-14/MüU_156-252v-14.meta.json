@@ -1,0 +1,41 @@
+{
+  "id": "f45ee4f1-01af-4be5-90dc-8c899d675e46",
+  "quelle_id": "MüU 156",
+  "dokumenten_id": "MüU 156-252v-14",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Petrus et Paulus",
+  "feier": "Messe",
+  "textinitium": "Divina beatus Petrus",
+  "bibliographischerverweis": "Nunc scio vere intr 13 A (CT X)",
+  "druckausgabe": "II-2",
+  "zeilenstart": "14",
+  "foliostart": "252v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "MüU 156-105v-7",
+    "Endseite": "252v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "16",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Nunc scio vere intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

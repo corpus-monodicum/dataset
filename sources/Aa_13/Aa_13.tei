@@ -1,0 +1,1052 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Aa 13: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Isabel Kraft</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Ordinariumsgesänge)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Sequenzen)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Hanna Zühlke</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Gunilla Iversen</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Ritva Maria Jacobsson</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="Aa_13">
+          <msIdentifier>
+            <settlement>Aachen</settlement>
+            <repository>Domarchiv</repository>
+            <idno type="shelfmark">Hs. G 13</idno>
+            <altIdentifier type="siglum">
+              <idno>Aa 13</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <term type="quellentyp">Graduale, Tropar, Kyriale mit Tropen, Sequentiar</term>
+            </summary>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="107v">f. 107v</locus>
+              <title type="incipit">Hodie cantandus est</title>
+              <idno type="dokumenten_id">Aa 13-107v-7</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="108">f. 108</locus>
+              <title type="incipit">Cuncta creans cuncta</title>
+              <idno type="dokumenten_id">Aa 13-108-5</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="108">f. 108</locus>
+              <title type="incipit">Hodie celebremus</title>
+              <idno type="dokumenten_id">Aa 13-108-9</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="108v">f. 108v</locus>
+              <title type="incipit">Quoniam dominus</title>
+              <idno type="dokumenten_id">Aa 13-108v-3</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="109">f. 109</locus>
+              <title type="incipit">Cui canunt angeli</title>
+              <idno type="dokumenten_id">Aa 13-109-1</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="109">f. 109</locus>
+              <title type="incipit">Par patri</title>
+              <idno type="dokumenten_id">Aa 13-109-14</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="109">f. 109</locus>
+              <title type="incipit">Cum dominus</title>
+              <idno type="dokumenten_id">Aa 13-109-6</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="109v">f. 109v</locus>
+              <title type="incipit">Angelus excuteret</title>
+              <idno type="dokumenten_id">Aa 13-109v-14</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="109v">f. 109v</locus>
+              <title type="incipit">Iohannes est hic ... cui in laude</title>
+              <idno type="dokumenten_id">Aa 13-109v-6</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="110">f. 110</locus>
+              <title type="incipit">Hodie salus</title>
+              <idno type="dokumenten_id">Aa 13-110-10</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="110">f. 110</locus>
+              <title type="incipit">Hodie sanctissima virgo virginum</title>
+              <idno type="dokumenten_id">Aa 13-110-3</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="110v">f. 110v</locus>
+              <title type="incipit">Hoc festum cunctis</title>
+              <idno type="dokumenten_id">Aa 13-110v-1</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="110v">f. 110v</locus>
+              <title type="incipit">Sanctus evigilans</title>
+              <idno type="dokumenten_id">Aa 13-110v-8</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="111">f. 111</locus>
+              <title type="incipit">Rex virginum amator</title>
+              <idno type="dokumenten_id">Aa 13-111-4</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="112">f. 112</locus>
+              <title type="incipit">Cunctipotens genitor</title>
+              <idno type="dokumenten_id">Aa 13-112-1</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="112">f. 112</locus>
+              <title type="incipit">Te Christe rex</title>
+              <idno type="dokumenten_id">Aa 13-112-12</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="112v">f. 112v</locus>
+              <title type="incipit">Orbis factor</title>
+              <idno type="dokumenten_id">Aa 13-112v-10</idno>
+            </msItem>
+            <msItem n="18">
+              <locus from="113">f. 113</locus>
+              <title type="incipit">Pater cuncta</title>
+              <idno type="dokumenten_id">Aa 13-113-2</idno>
+            </msItem>
+            <msItem n="19">
+              <locus from="113">f. 113</locus>
+              <title type="incipit">Pater creator</title>
+              <idno type="dokumenten_id">Aa 13-113-7</idno>
+            </msItem>
+            <msItem n="20">
+              <locus from="113v">f. 113v</locus>
+              <title type="incipit">Kyrie fons bonitatis</title>
+              <idno type="dokumenten_id">Aa 13-113v-2</idno>
+            </msItem>
+            <msItem n="21">
+              <locus from="114">f. 114</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Aa 13-114-11</idno>
+            </msItem>
+            <msItem n="22">
+              <locus from="114">f. 114</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Aa 13-114-15</idno>
+            </msItem>
+            <msItem n="23">
+              <locus from="114">f. 114</locus>
+              <title type="incipit">Lux et origo</title>
+              <idno type="dokumenten_id">Aa 13-114-2</idno>
+            </msItem>
+            <msItem n="24">
+              <locus from="114v">f. 114v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Aa 13-114v-1</idno>
+            </msItem>
+            <msItem n="25">
+              <locus from="114v">f. 114v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Aa 13-114v-10</idno>
+            </msItem>
+            <msItem n="26">
+              <locus from="114v">f. 114v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Aa 13-114v-11</idno>
+            </msItem>
+            <msItem n="27">
+              <locus from="114v">f. 114v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Aa 13-114v-12</idno>
+            </msItem>
+            <msItem n="28">
+              <locus from="114v">f. 114v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Aa 13-114v-15</idno>
+            </msItem>
+            <msItem n="29">
+              <locus from="114v">f. 114v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Aa 13-114v-4</idno>
+            </msItem>
+            <msItem n="30">
+              <locus from="114v">f. 114v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Aa 13-114v-7</idno>
+            </msItem>
+            <msItem n="31">
+              <locus from="115">f. 115</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Aa 13-115-1</idno>
+            </msItem>
+            <msItem n="32">
+              <locus from="115">f. 115</locus>
+              <title type="incipit">Cuius reboat</title>
+              <idno type="dokumenten_id">Aa 13-115-5</idno>
+            </msItem>
+            <msItem n="33">
+              <locus from="115v">f. 115v</locus>
+              <title type="incipit">Qui deus et rector</title>
+              <idno type="dokumenten_id">Aa 13-115v-14</idno>
+            </msItem>
+            <msItem n="34">
+              <locus from="116v">f. 116v</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Aa 13-116v-12</idno>
+            </msItem>
+            <msItem n="35">
+              <locus from="116v">f. 116v</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Aa 13-116v-2</idno>
+            </msItem>
+            <msItem n="36">
+              <locus from="117">f. 117</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Aa 13-117-15</idno>
+            </msItem>
+            <msItem n="37">
+              <locus from="117">f. 117</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Aa 13-117-6</idno>
+            </msItem>
+            <msItem n="38">
+              <locus from="117b">f. 117b</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Aa 13-117b-1</idno>
+            </msItem>
+            <msItem n="39">
+              <locus from="117b">f. 117b</locus>
+              <title type="incipit">Spiritus et alme</title>
+              <idno type="dokumenten_id">Aa 13-117b-4</idno>
+            </msItem>
+            <msItem n="40">
+              <locus from="117bv">f. 117bv</locus>
+              <title type="incipit">Mariae filius</title>
+              <idno type="dokumenten_id">Aa 13-117bv-5</idno>
+            </msItem>
+            <msItem n="41">
+              <locus from="117bv">f. 117bv</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Aa 13-117bv-8</idno>
+            </msItem>
+            <msItem n="42">
+              <locus from="117v">f. 117v</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Aa 13-117v-8</idno>
+            </msItem>
+            <msItem n="43">
+              <locus from="118">f. 118</locus>
+              <title type="incipit">Credo in unum deum</title>
+              <idno type="dokumenten_id">Aa 13-118-2I</idno>
+            </msItem>
+            <msItem n="44">
+              <locus from="118">f. 118</locus>
+              <title type="incipit">Credo in unum deum</title>
+              <idno type="dokumenten_id">Aa 13-118-2II</idno>
+            </msItem>
+            <msItem n="45">
+              <locus from="118v">f. 118v</locus>
+              <title type="incipit">Trinitas unitas</title>
+              <idno type="dokumenten_id">Aa 13-118v-11</idno>
+            </msItem>
+            <msItem n="46">
+              <locus from="118v">f. 118v</locus>
+              <title type="incipit">Principium sine principio sit peccati</title>
+              <idno type="dokumenten_id">Aa 13-118v-2</idno>
+            </msItem>
+            <msItem n="47">
+              <locus from="119">f. 119</locus>
+              <title type="incipit">Perpetuo numine</title>
+              <idno type="dokumenten_id">Aa 13-119-13</idno>
+            </msItem>
+            <msItem n="48">
+              <locus from="119">f. 119</locus>
+              <title type="incipit">Clemens verbisator</title>
+              <idno type="dokumenten_id">Aa 13-119-8</idno>
+            </msItem>
+            <msItem n="49">
+              <locus from="119v">f. 119v</locus>
+              <title type="incipit">Nos redimens</title>
+              <idno type="dokumenten_id">Aa 13-119v-12</idno>
+            </msItem>
+            <msItem n="50">
+              <locus from="119v">f. 119v</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Aa 13-119v-3</idno>
+            </msItem>
+            <msItem n="51">
+              <locus from="119v">f. 119v</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Aa 13-119v-6</idno>
+            </msItem>
+            <msItem n="52">
+              <locus from="119v">f. 119v</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Aa 13-119v-9</idno>
+            </msItem>
+            <msItem n="53">
+              <locus from="120">f. 120</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Aa 13-120-14</idno>
+            </msItem>
+            <msItem n="54">
+              <locus from="120">f. 120</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Aa 13-120-15</idno>
+            </msItem>
+            <msItem n="55">
+              <locus from="120">f. 120</locus>
+              <title type="incipit">Cui Abel iustus</title>
+              <idno type="dokumenten_id">Aa 13-120-2</idno>
+            </msItem>
+            <msItem n="56">
+              <locus from="120">f. 120</locus>
+              <title type="incipit">Qui sedes … solus</title>
+              <idno type="dokumenten_id">Aa 13-120-8</idno>
+            </msItem>
+            <msItem n="57">
+              <locus from="120v">f. 120v</locus>
+              <title type="incipit">Qui sedes ... miserere</title>
+              <idno type="dokumenten_id">Aa 13-120v-1</idno>
+            </msItem>
+            <msItem n="58">
+              <locus from="120v">f. 120v</locus>
+              <title type="incipit">Ite missa est</title>
+              <idno type="dokumenten_id">Aa 13-120v-10</idno>
+            </msItem>
+            <msItem n="59">
+              <locus from="120v">f. 120v</locus>
+              <title type="incipit">Ite missa est</title>
+              <idno type="dokumenten_id">Aa 13-120v-11</idno>
+            </msItem>
+            <msItem n="60">
+              <locus from="120v">f. 120v</locus>
+              <title type="incipit">Iesse virgam</title>
+              <idno type="dokumenten_id">Aa 13-120v-13</idno>
+            </msItem>
+            <msItem n="61">
+              <locus from="120v">f. 120v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Aa 13-120v-3</idno>
+            </msItem>
+            <msItem n="62">
+              <locus from="120v">f. 120v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Aa 13-120v-4</idno>
+            </msItem>
+            <msItem n="63">
+              <locus from="120v">f. 120v</locus>
+              <title type="incipit">Ite missa est</title>
+              <idno type="dokumenten_id">Aa 13-120v-6</idno>
+            </msItem>
+            <msItem n="64">
+              <locus from="120v">f. 120v</locus>
+              <title type="incipit">Ite missa est</title>
+              <idno type="dokumenten_id">Aa 13-120v-7a</idno>
+            </msItem>
+            <msItem n="65">
+              <locus from="120v">f. 120v</locus>
+              <title type="incipit">Ite missa est</title>
+              <idno type="dokumenten_id">Aa 13-120v-7b</idno>
+            </msItem>
+            <msItem n="66">
+              <locus from="120v">f. 120v</locus>
+              <title type="incipit">Ite missa est</title>
+              <idno type="dokumenten_id">Aa 13-120v-8</idno>
+            </msItem>
+            <msItem n="67">
+              <locus from="120v">f. 120v</locus>
+              <title type="incipit">Ite missa est</title>
+              <idno type="dokumenten_id">Aa 13-120v-9a</idno>
+            </msItem>
+            <msItem n="68">
+              <locus from="120v">f. 120v</locus>
+              <title type="incipit">Ite missa est</title>
+              <idno type="dokumenten_id">Aa 13-120v-9b</idno>
+            </msItem>
+            <msItem n="69">
+              <locus from="121">f. 121</locus>
+              <title type="incipit">Splendor patris et figura</title>
+              <idno type="dokumenten_id">Aa 13-121-11</idno>
+            </msItem>
+            <msItem n="70">
+              <locus from="122">f. 122</locus>
+              <title type="incipit">In natale salvatoris</title>
+              <idno type="dokumenten_id">Aa 13-122-1</idno>
+            </msItem>
+            <msItem n="71">
+              <locus from="122">f. 122</locus>
+              <title type="incipit">Laetabundus exsultet</title>
+              <idno type="dokumenten_id">Aa 13-122-12</idno>
+            </msItem>
+            <msItem n="72">
+              <locus from="122v">f. 122v</locus>
+              <title type="incipit">Promissa mundo</title>
+              <idno type="dokumenten_id">Aa 13-122v-8</idno>
+            </msItem>
+            <msItem n="73">
+              <locus from="123">f. 123</locus>
+              <title type="incipit">Heri mundus exsultavit</title>
+              <idno type="dokumenten_id">Aa 13-123-11</idno>
+            </msItem>
+            <msItem n="74">
+              <locus from="124">f. 124</locus>
+              <title type="incipit">Verbum dei deo</title>
+              <idno type="dokumenten_id">Aa 13-124-1</idno>
+            </msItem>
+            <msItem n="75">
+              <locus from="124v">f. 124v</locus>
+              <title type="incipit">Laudes deo concinamus</title>
+              <idno type="dokumenten_id">Aa 13-124v-7</idno>
+            </msItem>
+            <msItem n="76">
+              <locus from="125">f. 125</locus>
+              <title type="incipit">Virgo mater salvatoris</title>
+              <idno type="dokumenten_id">Aa 13-125-14</idno>
+            </msItem>
+            <msItem n="77">
+              <locus from="126">f. 126</locus>
+              <title type="incipit">Salvatori iubilemus</title>
+              <idno type="dokumenten_id">Aa 13-126-8</idno>
+            </msItem>
+            <msItem n="78">
+              <locus from="126v">f. 126v</locus>
+              <title type="incipit">Martyris egregii triumphos</title>
+              <idno type="dokumenten_id">Aa 13-126v-10</idno>
+            </msItem>
+            <msItem n="79">
+              <locus from="127">f. 127</locus>
+              <title type="incipit">Doctori gentium pangat</title>
+              <idno type="dokumenten_id">Aa 13-127-11</idno>
+            </msItem>
+            <msItem n="80">
+              <locus from="128">f. 128</locus>
+              <title type="incipit">Templum cordis</title>
+              <idno type="dokumenten_id">Aa 13-128-5</idno>
+            </msItem>
+            <msItem n="81">
+              <locus from="128v">f. 128v</locus>
+              <title type="incipit">Paranymphus salutat</title>
+              <idno type="dokumenten_id">Aa 13-128v-14</idno>
+            </msItem>
+            <msItem n="82">
+              <locus from="129">f. 129</locus>
+              <title type="incipit">Zyma vetus</title>
+              <idno type="dokumenten_id">Aa 13-129-1</idno>
+            </msItem>
+            <msItem n="83">
+              <locus from="129">f. 129</locus>
+              <title type="incipit">Fulgens praeclara</title>
+              <idno type="dokumenten_id">Aa 13-129-9</idno>
+            </msItem>
+            <msItem n="84">
+              <locus from="130">f. 130</locus>
+              <title type="incipit">Salve dies dierum</title>
+              <idno type="dokumenten_id">Aa 13-130-4</idno>
+            </msItem>
+            <msItem n="85">
+              <locus from="130v">f. 130v</locus>
+              <title type="incipit">Lux illuxit dominica</title>
+              <idno type="dokumenten_id">Aa 13-130v-6</idno>
+            </msItem>
+            <msItem n="86">
+              <locus from="131">f. 131</locus>
+              <title type="incipit">Laudes crucis</title>
+              <idno type="dokumenten_id">Aa 13-131-12</idno>
+            </msItem>
+            <msItem n="87">
+              <locus from="131">f. 131</locus>
+              <title type="incipit">Victimae paschali laudes</title>
+              <idno type="dokumenten_id">Aa 13-131-5</idno>
+            </msItem>
+            <msItem n="88">
+              <locus from="132">f. 132</locus>
+              <title type="incipit">Lux praeclara lux sollemnis</title>
+              <idno type="dokumenten_id">Aa 13-132-10</idno>
+            </msItem>
+            <msItem n="89">
+              <locus from="133">f. 133</locus>
+              <title type="incipit">Rex omnipotens</title>
+              <idno type="dokumenten_id">Aa 13-133-3</idno>
+            </msItem>
+            <msItem n="90">
+              <locus from="133v">f. 133v</locus>
+              <title type="incipit">Sancti spiritus … Quae corda</title>
+              <idno type="dokumenten_id">Aa 13-133v-6</idno>
+            </msItem>
+            <msItem n="91">
+              <locus from="134">f. 134</locus>
+              <title type="incipit">Patrem natum</title>
+              <idno type="dokumenten_id">Aa 13-134-1</idno>
+            </msItem>
+            <msItem n="92">
+              <locus from="134">f. 134</locus>
+              <title type="incipit">Gaude Sion laetabunda</title>
+              <idno type="dokumenten_id">Aa 13-134-12</idno>
+            </msItem>
+            <msItem n="93">
+              <locus from="135v">f. 135v</locus>
+              <title type="incipit">Adest dies ... dulci melo</title>
+              <idno type="dokumenten_id">Aa 13-135v-1</idno>
+            </msItem>
+            <msItem n="94">
+              <locus from="136">f. 136</locus>
+              <title type="incipit">Gaude Roma</title>
+              <idno type="dokumenten_id">Aa 13-136-3</idno>
+            </msItem>
+            <msItem n="95">
+              <locus from="136v">f. 136v</locus>
+              <title type="incipit">Roma Petro glorietur</title>
+              <idno type="dokumenten_id">Aa 13-136v-14</idno>
+            </msItem>
+            <msItem n="96">
+              <locus from="137v">f. 137v</locus>
+              <title type="incipit">Ecce dies triumphalis gaude</title>
+              <idno type="dokumenten_id">Aa 13-137v-10</idno>
+            </msItem>
+            <msItem n="97">
+              <locus from="138">f. 138</locus>
+              <title type="incipit">Mane prima sabbati</title>
+              <idno type="dokumenten_id">Aa 13-138-1</idno>
+            </msItem>
+            <msItem n="98">
+              <locus from="138">f. 138</locus>
+              <title type="incipit">Prunis datum</title>
+              <idno type="dokumenten_id">Aa 13-138-11</idno>
+            </msItem>
+            <msItem n="99">
+              <locus from="139">f. 139</locus>
+              <title type="incipit">Stola iucunditatis</title>
+              <idno type="dokumenten_id">Aa 13-139-10</idno>
+            </msItem>
+            <msItem n="100">
+              <locus from="139v">f. 139v</locus>
+              <title type="incipit">O Maria stella</title>
+              <idno type="dokumenten_id">Aa 13-139v-10</idno>
+            </msItem>
+            <msItem n="101">
+              <locus from="140">f. 140</locus>
+              <title type="incipit">Aurea virga primae</title>
+              <idno type="dokumenten_id">Aa 13-140-1</idno>
+            </msItem>
+            <msItem n="102">
+              <locus from="140">f. 140</locus>
+              <title type="incipit">Laudemus omnes</title>
+              <idno type="dokumenten_id">Aa 13-140-5</idno>
+            </msItem>
+            <msItem n="103">
+              <locus from="140v">f. 140v</locus>
+              <title type="incipit">Praecursorem ... Huius ortum</title>
+              <idno type="dokumenten_id">Aa 13-140v-10</idno>
+            </msItem>
+            <msItem n="104">
+              <locus from="141">f. 141</locus>
+              <title type="incipit">Flos Aegidi confessorum</title>
+              <idno type="dokumenten_id">Aa 13-141-13</idno>
+            </msItem>
+            <msItem n="105">
+              <locus from="141v">f. 141v</locus>
+              <title type="incipit">Exsultantes iubilemus</title>
+              <idno type="dokumenten_id">Aa 13-141v-12</idno>
+            </msItem>
+            <msItem n="106">
+              <locus from="142v">f. 142v</locus>
+              <title type="incipit">Salve crux arbor</title>
+              <idno type="dokumenten_id">Aa 13-142v-2</idno>
+            </msItem>
+            <msItem n="107">
+              <locus from="143">f. 143</locus>
+              <title type="incipit">Martyris egregia Lamberti</title>
+              <idno type="dokumenten_id">Aa 13-143-1</idno>
+            </msItem>
+            <msItem n="108">
+              <locus from="143v">f. 143v</locus>
+              <title type="incipit">Plausu chorus laetabundo</title>
+              <idno type="dokumenten_id">Aa 13-143v-10</idno>
+            </msItem>
+            <msItem n="109">
+              <locus from="144">f. 144</locus>
+              <title type="incipit">Laus erumpat</title>
+              <idno type="dokumenten_id">Aa 13-144-12</idno>
+            </msItem>
+            <msItem n="110">
+              <locus from="145">f. 145</locus>
+              <title type="incipit">Venerando praesuli</title>
+              <idno type="dokumenten_id">Aa 13-145-4</idno>
+            </msItem>
+            <msItem n="111">
+              <locus from="145v">f. 145v</locus>
+              <title type="incipit">Gaude prole Graecia</title>
+              <idno type="dokumenten_id">Aa 13-145v-11</idno>
+            </msItem>
+            <msItem n="112">
+              <locus from="146v">f. 146v</locus>
+              <title type="incipit">Resultet tellus</title>
+              <idno type="dokumenten_id">Aa 13-146v-3</idno>
+            </msItem>
+            <msItem n="113">
+              <locus from="147">f. 147</locus>
+              <title type="incipit">Confessorem sanctissimum</title>
+              <idno type="dokumenten_id">Aa 13-147-6</idno>
+            </msItem>
+            <msItem n="114">
+              <locus from="147v">f. 147v</locus>
+              <title type="incipit">Iucundare plebs fidelis nam praeclara</title>
+              <idno type="dokumenten_id">Aa 13-147v-13</idno>
+            </msItem>
+            <msItem n="115">
+              <locus from="148v">f. 148v</locus>
+              <title type="incipit">Exsultemus et laetemur et Andreae</title>
+              <idno type="dokumenten_id">Aa 13-148v-9</idno>
+            </msItem>
+            <msItem n="116">
+              <locus from="149">f. 149</locus>
+              <title type="incipit">Laureata novo Thoma</title>
+              <idno type="dokumenten_id">Aa 13-149-1</idno>
+            </msItem>
+            <msItem n="117">
+              <locus from="149v">f. 149v</locus>
+              <title type="incipit">Urbs Aquensis</title>
+              <idno type="dokumenten_id">Aa 13-149v-10</idno>
+            </msItem>
+            <msItem n="118">
+              <locus from="150">f. 150</locus>
+              <title type="incipit">Exsultent omnes parvuli</title>
+              <idno type="dokumenten_id">Aa 13-150-14</idno>
+            </msItem>
+            <msItem n="119">
+              <locus from="150v">f. 150v</locus>
+              <title type="incipit">Cor angustum</title>
+              <idno type="dokumenten_id">Aa 13-150v-15</idno>
+            </msItem>
+            <msItem n="120">
+              <locus from="151v">f. 151v</locus>
+              <title type="incipit">O beata beatorum martyrum</title>
+              <idno type="dokumenten_id">Aa 13-151v-11</idno>
+            </msItem>
+            <msItem n="121">
+              <locus from="152">f. 152</locus>
+              <title type="incipit">Supernae matris</title>
+              <idno type="dokumenten_id">Aa 13-152-6</idno>
+            </msItem>
+            <msItem n="122">
+              <locus from="152v">f. 152v</locus>
+              <title type="incipit">Gaude mater ecclesia materna</title>
+              <idno type="dokumenten_id">Aa 13-152v-9</idno>
+            </msItem>
+            <msItem n="123">
+              <locus from="153">f. 153</locus>
+              <title type="incipit">Rex Salomon</title>
+              <idno type="dokumenten_id">Aa 13-153-1</idno>
+            </msItem>
+            <msItem n="124">
+              <locus from="153">f. 153</locus>
+              <title type="incipit">Salve mater salvatoris vas electum</title>
+              <idno type="dokumenten_id">Aa 13-153-7</idno>
+            </msItem>
+            <msItem n="125">
+              <locus from="153v">f. 153v</locus>
+              <title type="incipit">Hodiernae lux diei</title>
+              <idno type="dokumenten_id">Aa 13-153v-14</idno>
+            </msItem>
+            <msItem n="126">
+              <locus from="154">f. 154</locus>
+              <title type="incipit">Virginis in laude grex</title>
+              <idno type="dokumenten_id">Aa 13-154-1</idno>
+            </msItem>
+            <msItem n="127">
+              <locus from="154">f. 154</locus>
+              <title type="incipit">Ave Maria pretiosa</title>
+              <idno type="dokumenten_id">Aa 13-154-11</idno>
+            </msItem>
+            <msItem n="128">
+              <locus from="154">f. 154</locus>
+              <title type="incipit">Verbum bonum</title>
+              <idno type="dokumenten_id">Aa 13-154-3</idno>
+            </msItem>
+            <msItem n="129">
+              <locus from="154v">f. 154v</locus>
+              <title type="incipit">Ave virgo singularis mater</title>
+              <idno type="dokumenten_id">Aa 13-154v-12</idno>
+            </msItem>
+            <msItem n="130">
+              <locus from="155v">f. 155v</locus>
+              <title type="incipit">Ave mater Iesu</title>
+              <idno type="dokumenten_id">Aa 13-155v-2</idno>
+            </msItem>
+            <msItem n="131">
+              <locus from="156">f. 156</locus>
+              <title type="incipit">Virgines castae</title>
+              <idno type="dokumenten_id">Aa 13-156-1</idno>
+            </msItem>
+            <msItem n="132">
+              <locus from="156v">f. 156v</locus>
+              <title type="incipit">Sanctissimae virginis votiva</title>
+              <idno type="dokumenten_id">Aa 13-156v-1</idno>
+            </msItem>
+            <msItem n="133">
+              <locus from="157">f. 157</locus>
+              <title type="incipit">Grates nunc omnes</title>
+              <idno type="dokumenten_id">Aa 13-157-1</idno>
+            </msItem>
+            <msItem n="134">
+              <locus from="157">f. 157</locus>
+              <title type="incipit">Natus ante saecula</title>
+              <idno type="dokumenten_id">Aa 13-157-15</idno>
+            </msItem>
+            <msItem n="135">
+              <locus from="157">f. 157</locus>
+              <title type="incipit">Eia recolamus ... piis</title>
+              <idno type="dokumenten_id">Aa 13-157-3</idno>
+            </msItem>
+            <msItem n="136">
+              <locus from="157v">f. 157v</locus>
+              <title type="incipit">Iohannes Iesu Christo</title>
+              <idno type="dokumenten_id">Aa 13-157v-14</idno>
+            </msItem>
+            <msItem n="137">
+              <locus from="157v">f. 157v</locus>
+              <title type="incipit">Hanc concordi</title>
+              <idno type="dokumenten_id">Aa 13-157v-5</idno>
+            </msItem>
+            <msItem n="138">
+              <locus from="158">f. 158</locus>
+              <title type="incipit">Festa Christi</title>
+              <idno type="dokumenten_id">Aa 13-158-11</idno>
+            </msItem>
+            <msItem n="139">
+              <locus from="158">f. 158</locus>
+              <title type="incipit">Laus tibi Christe cui sapit</title>
+              <idno type="dokumenten_id">Aa 13-158-2</idno>
+            </msItem>
+            <msItem n="140">
+              <locus from="158v">f. 158v</locus>
+              <title type="incipit">Laudes salvatori</title>
+              <idno type="dokumenten_id">Aa 13-158v-19</idno>
+            </msItem>
+            <msItem n="141">
+              <locus from="158v">f. 158v</locus>
+              <title type="incipit">Concentu parili hic te</title>
+              <idno type="dokumenten_id">Aa 13-158v-4</idno>
+            </msItem>
+            <msItem n="142">
+              <locus from="159v">f. 159v</locus>
+              <title type="incipit">Laudes Christo redempti</title>
+              <idno type="dokumenten_id">Aa 13-159v-1</idno>
+            </msItem>
+            <msItem n="143">
+              <locus from="159v">f. 159v</locus>
+              <title type="incipit">Agni paschalis esu</title>
+              <idno type="dokumenten_id">Aa 13-159v-13</idno>
+            </msItem>
+            <msItem n="144">
+              <locus from="159v">f. 159v</locus>
+              <title type="incipit">Summi triumphum</title>
+              <idno type="dokumenten_id">Aa 13-159v-20</idno>
+            </msItem>
+            <msItem n="145">
+              <locus from="160">f. 160</locus>
+              <title type="incipit">Benedictio trinae unitati</title>
+              <idno type="dokumenten_id">Aa 13-160-14</idno>
+            </msItem>
+            <msItem n="146">
+              <locus from="160v">f. 160v</locus>
+              <title type="incipit">Sancti Baptistae Christi</title>
+              <idno type="dokumenten_id">Aa 13-160v-10</idno>
+            </msItem>
+            <msItem n="147">
+              <locus from="160v">f. 160v</locus>
+              <title type="incipit">Petre summe Christi</title>
+              <idno type="dokumenten_id">Aa 13-160v-21</idno>
+            </msItem>
+            <msItem n="148">
+              <locus from="161">f. 161</locus>
+              <title type="incipit">Caeli enarrant</title>
+              <idno type="dokumenten_id">Aa 13-161-9</idno>
+            </msItem>
+            <msItem n="149">
+              <locus from="161v">f. 161v</locus>
+              <title type="incipit">Laus tibi Christe qui es</title>
+              <idno type="dokumenten_id">Aa 13-161v-15</idno>
+            </msItem>
+            <msItem n="150">
+              <locus from="162">f. 162</locus>
+              <title type="incipit">Ave praeclara maris stella</title>
+              <idno type="dokumenten_id">Aa 13-162-1</idno>
+            </msItem>
+            <msItem n="151">
+              <locus from="162v">f. 162v</locus>
+              <title type="incipit">Virginalis turma sexus</title>
+              <idno type="dokumenten_id">Aa 13-162v-2</idno>
+            </msItem>
+            <msItem n="152">
+              <locus from="163">f. 163</locus>
+              <title type="incipit">Dixit dominus ex Basan</title>
+              <idno type="dokumenten_id">Aa 13-163-5</idno>
+            </msItem>
+            <msItem n="153">
+              <locus from="163v">f. 163v</locus>
+              <title type="incipit">Mater Sion sancta</title>
+              <idno type="dokumenten_id">Aa 13-163v-2</idno>
+            </msItem>
+            <msItem n="154">
+              <locus from="164">f. 164</locus>
+              <title type="incipit">Laurenti David</title>
+              <idno type="dokumenten_id">Aa 13-164-12</idno>
+            </msItem>
+            <msItem n="155">
+              <locus from="164v">f. 164v</locus>
+              <title type="incipit">Congaudent angelorum chori</title>
+              <idno type="dokumenten_id">Aa 13-164v-1</idno>
+            </msItem>
+            <msItem n="156">
+              <locus from="164v">f. 164v</locus>
+              <title type="incipit">Psallite regi nostro</title>
+              <idno type="dokumenten_id">Aa 13-164v-14</idno>
+            </msItem>
+            <msItem n="157">
+              <locus from="165">f. 165</locus>
+              <title type="incipit">Stirpe Maria</title>
+              <idno type="dokumenten_id">Aa 13-165-15</idno>
+            </msItem>
+            <msItem n="158">
+              <locus from="165v">f. 165v</locus>
+              <title type="incipit">Omnes sancti seraphin</title>
+              <idno type="dokumenten_id">Aa 13-165v-10</idno>
+            </msItem>
+            <msItem n="159">
+              <locus from="165v">f. 165v</locus>
+              <title type="incipit">Sacerdotem Christi</title>
+              <idno type="dokumenten_id">Aa 13-165v-19</idno>
+            </msItem>
+            <msItem n="160">
+              <locus from="165v">f. 165v</locus>
+              <title type="incipit">Magnum te Michaelem</title>
+              <idno type="dokumenten_id">Aa 13-165v-3</idno>
+            </msItem>
+            <msItem n="161">
+              <locus from="166">f. 166</locus>
+              <title type="incipit">Sanctissimae virginis votiva</title>
+              <idno type="dokumenten_id">Aa 13-166-15</idno>
+            </msItem>
+            <msItem n="162">
+              <locus from="166v">f. 166v</locus>
+              <title type="incipit">Psallat ecclesia mater illibata</title>
+              <idno type="dokumenten_id">Aa 13-166v-15</idno>
+            </msItem>
+            <msItem n="163">
+              <locus from="166v">f. 166v</locus>
+              <title type="incipit">Deus in tua virtute</title>
+              <idno type="dokumenten_id">Aa 13-166v-6</idno>
+            </msItem>
+            <msItem n="164">
+              <locus from="167">f. 167</locus>
+              <title type="incipit">Agone triumphali</title>
+              <idno type="dokumenten_id">Aa 13-167-13</idno>
+            </msItem>
+            <msItem n="165">
+              <locus from="167">f. 167</locus>
+              <title type="incipit">Clare sanctorum</title>
+              <idno type="dokumenten_id">Aa 13-167-4</idno>
+            </msItem>
+            <msItem n="166">
+              <locus from="167v">f. 167v</locus>
+              <title type="incipit">Gaude caelestis sponsa</title>
+              <idno type="dokumenten_id">Aa 13-167v-17</idno>
+            </msItem>
+            <msItem n="167">
+              <locus from="167v">f. 167v</locus>
+              <title type="incipit">Ad laudes salvatoris</title>
+              <idno type="dokumenten_id">Aa 13-167v-4</idno>
+            </msItem>
+            <msItem n="168">
+              <locus from="168">f. 168</locus>
+              <title type="incipit">In Karoli Magni</title>
+              <idno type="dokumenten_id">Aa 13-168-6</idno>
+            </msItem>
+            <msItem n="169">
+              <locus from="168v">f. 168v</locus>
+              <title type="incipit">Inviolata intacta</title>
+              <idno type="dokumenten_id">Aa 13-168v-1</idno>
+            </msItem>
+            <msItem n="170">
+              <locus from="168v">f. 168v</locus>
+              <title type="incipit">Laus tibi Christe qui es</title>
+              <idno type="dokumenten_id">Aa 13-168v-7</idno>
+            </msItem>
+            <msItem n="171">
+              <locus from="169">f. 169</locus>
+              <title type="incipit">Veni sancte spiritus et emitte</title>
+              <idno type="dokumenten_id">Aa 13-169-1</idno>
+            </msItem>
+            <msItem n="172">
+              <locus from="169">f. 169</locus>
+              <title type="incipit">Laus sit regi gloriae</title>
+              <idno type="dokumenten_id">Aa 13-169-11</idno>
+            </msItem>
+            <msItem n="173">
+              <locus from="169v">f. 169v</locus>
+              <title type="incipit">Gaude Sion quod egressus</title>
+              <idno type="dokumenten_id">Aa 13-169v-12</idno>
+            </msItem>
+            <msItem n="174">
+              <locus from="169v">f. 169v</locus>
+              <title type="incipit">Haec concordes</title>
+              <idno type="dokumenten_id">Aa 13-169v-6</idno>
+            </msItem>
+            <msItem n="175">
+              <locus from="170">f. 170</locus>
+              <title type="incipit">Psallat cum laetitia</title>
+              <idno type="dokumenten_id">Aa 13-170-6</idno>
+            </msItem>
+            <msItem n="176">
+              <locus from="170v">f. 170v</locus>
+              <title type="incipit">Congaudentes exsultemus vocali</title>
+              <idno type="dokumenten_id">Aa 13-170v-1</idno>
+            </msItem>
+            <msItem n="177">
+              <locus from="170v">f. 170v</locus>
+              <title type="incipit">Christi laudem praedicemus</title>
+              <idno type="dokumenten_id">Aa 13-170v-6</idno>
+            </msItem>
+            <msItem n="178">
+              <locus from="49v">f. 49v</locus>
+              <title type="incipit">Resurrexi</title>
+              <idno type="dokumenten_id">Aa 13-49v-2</idno>
+            </msItem>
+            <msItem n="179">
+              <locus from="63">f. 63</locus>
+              <title type="incipit">Viri Galilaei</title>
+              <idno type="dokumenten_id">Aa 13-63-6</idno>
+            </msItem>
+            <msItem n="180">
+              <locus from="65">f. 65</locus>
+              <title type="incipit">Spiritus domini</title>
+              <idno type="dokumenten_id">Aa 13-65-1</idno>
+            </msItem>
+            <msItem n="181">
+              <locus from="78">f. 78</locus>
+              <title type="incipit">Terribilis est locus iste</title>
+              <idno type="dokumenten_id">Aa 13-78-4</idno>
+            </msItem>
+            <msItem n="182">
+              <locus from="7v">f. 7v</locus>
+              <title type="incipit">Puer natus est nobis</title>
+              <idno type="dokumenten_id">Aa 13-7v-7</idno>
+            </msItem>
+            <msItem n="183">
+              <locus from="8">f. 8</locus>
+              <title type="incipit">Tui sunt caeli ... orbem</title>
+              <idno type="dokumenten_id">Aa 13-8-4</idno>
+            </msItem>
+            <msItem n="184">
+              <locus from="83">f. 83</locus>
+              <title type="incipit">Vultum tuum</title>
+              <idno type="dokumenten_id">Aa 13-83-10</idno>
+            </msItem>
+            <msItem n="185">
+              <locus from="85a">f. 85a</locus>
+              <title type="incipit">Gloriosae virginis Agathae</title>
+              <idno type="dokumenten_id">Aa 13-85a-9</idno>
+            </msItem>
+            <msItem n="186">
+              <locus from="85v">f. 85v</locus>
+              <title type="incipit">Gaudeamus omnes ... Agathae</title>
+              <idno type="dokumenten_id">Aa 13-85v-5</idno>
+            </msItem>
+            <msItem n="187">
+              <locus from="8v">f. 8v</locus>
+              <title type="incipit">Etenim sederunt</title>
+              <idno type="dokumenten_id">Aa 13-8v-1</idno>
+            </msItem>
+            <msItem n="188">
+              <locus from="9">f. 9</locus>
+              <title type="incipit">In medio ecclesiae</title>
+              <idno type="dokumenten_id">Aa 13-9-5</idno>
+            </msItem>
+            <msItem n="189">
+              <locus from="92">f. 92</locus>
+              <title type="incipit">De ventre</title>
+              <idno type="dokumenten_id">Aa 13-92-1</idno>
+            </msItem>
+            <msItem n="190">
+              <locus from="93v">f. 93v</locus>
+              <title type="incipit">Nunc scio vere</title>
+              <idno type="dokumenten_id">Aa 13-93v-14</idno>
+            </msItem>
+            <msItem n="191">
+              <locus from="97">f. 97</locus>
+              <title type="incipit">Timete dominum</title>
+              <idno type="dokumenten_id">Aa 13-97-3</idno>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <musicNotation>
+              <ref target="notation/Aa_13.notation.md">Notation documentation</ref>
+            </musicNotation>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Aachen</settlement>
+                <region>Quellen deutscher Herkunft</region>
+                <orgName>Marienstift</orgName>
+              </origPlace>
+              <origDate>12. Jh 2. Hälfte</origDate>
+            </origin>
+          </history>
+          <additional>
+            <adminInfo>
+              <note type="description">
+                <ref target="Aa_13.description.md">Source description</ref>
+              </note>
+            </adminInfo>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

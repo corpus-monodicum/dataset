@@ -1,0 +1,41 @@
+{
+  "id": "5efa3580-790c-4d46-bcd6-f9a5c204abbc",
+  "quelle_id": "Or 201",
+  "dokumenten_id": "Or 201-197-7",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Nicolaus",
+  "feier": "Laudes",
+  "textinitium": "Apolloni qui",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "7",
+  "foliostart": "197",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "197",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Or 201-196-16S",
+    "Endzeile": "16",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Nicholas play: Son of Getron",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

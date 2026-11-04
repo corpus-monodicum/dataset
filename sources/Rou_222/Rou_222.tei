@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Rou 222: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Edition (Spiele)</resp>
+          <persName>Elaine Stratton Hild</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Hanna Zühlke</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="Rou_222">
+          <msIdentifier>
+            <settlement>Rouen</settlement>
+            <repository>Bibliothèque municipale</repository>
+            <idno type="shelfmark">Ms. 222</idno>
+            <altIdentifier type="siglum">
+              <idno>Rou 222</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>Rou 222</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <term type="quellentyp">Prozessionar (Fragment)</term>
+            </summary>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="30v">f. 30v</locus>
+              <title type="incipit">Popule meus</title>
+              <idno type="dokumenten_id">Rou 222-30v-23</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="31">f. 31</locus>
+              <title type="incipit">Quia eduxi te</title>
+              <idno type="dokumenten_id">Rou 222-31-26</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="31">f. 31</locus>
+              <title type="incipit">Agios o theos</title>
+              <idno type="dokumenten_id">Rou 222-31-5</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="31v">f. 31v</locus>
+              <title type="incipit">Quid ultra debui</title>
+              <idno type="dokumenten_id">Rou 222-31v-12</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="31v">f. 31v</locus>
+              <title type="incipit">Agios o theos*</title>
+              <idno type="dokumenten_id">Rou 222-31v-22</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="31v">f. 31v</locus>
+              <title type="incipit">Ecce lignum crucis</title>
+              <idno type="dokumenten_id">Rou 222-31v-26</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="31v">f. 31v</locus>
+              <title type="incipit">Agios o theos*</title>
+              <idno type="dokumenten_id">Rou 222-31v-8</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="32">f. 32</locus>
+              <title type="incipit">Tuam crucem adoramus</title>
+              <idno type="dokumenten_id">Rou 222-32-10</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="32">f. 32</locus>
+              <title type="incipit">Adoremus crucis signaculum</title>
+              <idno type="dokumenten_id">Rou 222-32-12</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="32">f. 32</locus>
+              <title type="incipit">Crucem tuam adoramus</title>
+              <idno type="dokumenten_id">Rou 222-32-7</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="33">f. 33</locus>
+              <title type="incipit">Dum fabricator mundi</title>
+              <idno type="dokumenten_id">Rou 222-33-1</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="33v">f. 33v</locus>
+              <title type="incipit">Crux fidelis</title>
+              <idno type="dokumenten_id">Rou 222-33v-5</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="34">f. 34</locus>
+              <title type="incipit">Sicut ovis ad occisionem*</title>
+              <idno type="dokumenten_id">Rou 222-34-10</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="34">f. 34</locus>
+              <title type="incipit">In pace in idipsum*</title>
+              <idno type="dokumenten_id">Rou 222-34-12</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="34">f. 34</locus>
+              <title type="incipit">Sepulto domino*</title>
+              <idno type="dokumenten_id">Rou 222-34-14</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="34">f. 34</locus>
+              <title type="incipit">Super omnia ligna</title>
+              <idno type="dokumenten_id">Rou 222-34-5</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="4">f. 4</locus>
+              <title type="incipit">Impleta sunt omnia</title>
+              <idno type="dokumenten_id">Rou 222-4-16</idno>
+            </msItem>
+            <msItem n="18">
+              <locus from="4">f. 4</locus>
+              <title type="incipit">Tria sunt munera</title>
+              <idno type="dokumenten_id">Rou 222-4-22</idno>
+            </msItem>
+            <msItem n="19">
+              <locus from="4">f. 4</locus>
+              <title type="incipit">Salve princeps saeculorum</title>
+              <idno type="dokumenten_id">Rou 222-4-4</idno>
+            </msItem>
+            <msItem n="20">
+              <locus from="43">f. 43</locus>
+              <title type="incipit">Alleluia Redemptionem*</title>
+              <idno type="dokumenten_id">Rou 222-43-19</idno>
+            </msItem>
+            <msItem n="21">
+              <locus from="43">f. 43</locus>
+              <title type="incipit">Haec dies</title>
+              <idno type="dokumenten_id">Rou 222-43-21</idno>
+            </msItem>
+            <msItem n="22">
+              <locus from="43v">f. 43v</locus>
+              <title type="incipit">In exitu*</title>
+              <idno type="dokumenten_id">Rou 222-43v-13</idno>
+            </msItem>
+            <msItem n="23">
+              <locus from="43v">f. 43v</locus>
+              <title type="incipit">Iesu nostra redemptio*</title>
+              <idno type="dokumenten_id">Rou 222-43v-19</idno>
+            </msItem>
+            <msItem n="24">
+              <locus from="43v">f. 43v</locus>
+              <title type="incipit">Alleluia Nonne cor nostrum</title>
+              <idno type="dokumenten_id">Rou 222-43v-4</idno>
+            </msItem>
+            <msItem n="25">
+              <locus from="43v">f. 43v</locus>
+              <title type="incipit">Resurrexit dominus sicut</title>
+              <idno type="dokumenten_id">Rou 222-43v-7</idno>
+            </msItem>
+            <msItem n="26">
+              <locus from="43v">f. 43v</locus>
+              <title type="incipit">Et coegerunt illum</title>
+              <idno type="dokumenten_id">Rou 222-43v-8</idno>
+            </msItem>
+            <msItem n="27">
+              <locus from="44">f. 44</locus>
+              <title type="incipit">Qui sunt hi sermones</title>
+              <idno type="dokumenten_id">Rou 222-44-1</idno>
+            </msItem>
+            <msItem n="28">
+              <locus from="44">f. 44</locus>
+              <title type="incipit">O stulti et tardi</title>
+              <idno type="dokumenten_id">Rou 222-44-17</idno>
+            </msItem>
+            <msItem n="29">
+              <locus from="44v">f. 44v</locus>
+              <title type="incipit">Alleluia Nonne cor nostrum*</title>
+              <idno type="dokumenten_id">Rou 222-44v-18</idno>
+            </msItem>
+            <msItem n="30">
+              <locus from="44v">f. 44v</locus>
+              <title type="incipit">Dic nobis Maria</title>
+              <idno type="dokumenten_id">Rou 222-44v-22</idno>
+            </msItem>
+            <msItem n="31">
+              <locus from="44v">f. 44v</locus>
+              <title type="incipit">Mane nobiscum</title>
+              <idno type="dokumenten_id">Rou 222-44v-7</idno>
+            </msItem>
+            <msItem n="32">
+              <locus from="44v">f. 44v</locus>
+              <title type="incipit">Sol vergens</title>
+              <idno type="dokumenten_id">Rou 222-44v-8</idno>
+            </msItem>
+            <msItem n="33">
+              <locus from="4v">f. 4v</locus>
+              <title type="incipit">Kyrie fons bonitatis*</title>
+              <idno type="dokumenten_id">Rou 222-4v-7a</idno>
+            </msItem>
+            <msItem n="34">
+              <locus from="4v">f. 4v</locus>
+              <title type="incipit">Alleluia Vidimus stellam*</title>
+              <idno type="dokumenten_id">Rou 222-4v-7b</idno>
+            </msItem>
+            <msItem n="35">
+              <locus from="4v">f. 4v</locus>
+              <title type="incipit">Sanctus ... dominus deus*</title>
+              <idno type="dokumenten_id">Rou 222-4v-7c</idno>
+            </msItem>
+            <msItem n="36">
+              <locus from="4v">f. 4v</locus>
+              <title type="incipit">Agnus dei*</title>
+              <idno type="dokumenten_id">Rou 222-4v-7d</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Rouen</settlement>
+                <region>Quellen normannischer Herkunft</region>
+                <orgName>Kathedrale Notre-Dame de l’Assomption</orgName>
+              </origPlace>
+              <origDate>14. Jh 2. Hälfte</origDate>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

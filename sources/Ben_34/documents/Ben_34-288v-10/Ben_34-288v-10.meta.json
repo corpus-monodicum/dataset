@@ -1,0 +1,41 @@
+{
+  "id": "ededb0f7-d7b3-4242-bac8-6cb95482b3b0",
+  "quelle_id": "Ben 34",
+  "dokumenten_id": "Ben 34-288v-10",
+  "gattung1": "Gloria",
+  "gattung2": "tropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Quem cives celestes",
+  "bibliographischerverweis": "CT XII, 70, Versio V: 1 2 3 4 8 5 7 36 25 37 29 38 26 27 31 30 33 34 32 35 39 40 41 42",
+  "druckausgabe": "",
+  "zeilenstart": "10",
+  "foliostart": "288v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "280v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "Bosse 43",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509502",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

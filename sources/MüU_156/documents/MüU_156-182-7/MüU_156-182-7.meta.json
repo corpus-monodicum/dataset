@@ -1,0 +1,41 @@
+{
+  "id": "bccc11e3-fad4-44bd-8eb0-0a8f1b602bad",
+  "quelle_id": "MüU 156",
+  "dokumenten_id": "MüU 156-182-7",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Corpus Christi",
+  "feier": "Messe",
+  "textinitium": "Lauda Sion",
+  "bibliographischerverweis": "AH 50, 385",
+  "druckausgabe": "",
+  "zeilenstart": "7",
+  "foliostart": "182",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Gionata Brusa",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "183",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "14",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Laetabitur",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

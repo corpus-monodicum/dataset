@@ -1,0 +1,41 @@
+{
+  "id": "adb45c4e-7f1e-494a-b9e5-677ec0df5576",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-32-13",
+  "gattung1": "Tropus",
+  "gattung2": "Offertorium-Tropus",
+  "festtag": "Michael",
+  "feier": "Messe",
+  "textinitium": "Factum est",
+  "bibliographischerverweis": "Stetit angelus off 9 A 10 B C (CT X)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "13",
+  "foliostart": "32",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "(Stetit)",
+    "Endseite": "32v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Stetit angelus off",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

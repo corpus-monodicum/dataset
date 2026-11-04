@@ -1,0 +1,41 @@
+{
+  "id": "d262d926-40f1-4eb3-be85-2ef66a24ab79",
+  "quelle_id": "Ben 34",
+  "dokumenten_id": "Ben 34-47-2",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Purificatio Mariae",
+  "feier": "Messe",
+  "textinitium": "Adest alma virgo parens",
+  "bibliographischerverweis": "Susc 22a A 34 B 95 C 96 D 97 E (CT IX)",
+  "druckausgabe": "",
+  "zeilenstart": "2",
+  "foliostart": "47",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "(Suscepimus)",
+    "Endseite": "47",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

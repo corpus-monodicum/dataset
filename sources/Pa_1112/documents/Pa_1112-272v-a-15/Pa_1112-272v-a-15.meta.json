@@ -1,0 +1,41 @@
+{
+  "id": "cd9bafad-72e4-4989-b5d6-2c8f11c229b4",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-272v-a-15",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Sabbatum post Pentecosten",
+  "feier": "Messe",
+  "textinitium": "Veni sancte spiritus et emitte",
+  "bibliographischerverweis": "AH 54, 153",
+  "druckausgabe": "CM III",
+  "zeilenstart": "15",
+  "foliostart": "272v-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "272v-b",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "16",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

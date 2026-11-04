@@ -1,0 +1,41 @@
+{
+  "id": "1df98c0d-ab22-468e-a277-4d920d125cbb",
+  "quelle_id": "Civ 41",
+  "dokumenten_id": "Civ 41-138-5",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "Pascha",
+  "feier": "Matutin",
+  "textinitium": "Ego dormivi",
+  "bibliographischerverweis": "CAO 2572",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "5",
+  "foliostart": "138",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "138",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Civ 41-138-1S",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Easter play / Osterspiel",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

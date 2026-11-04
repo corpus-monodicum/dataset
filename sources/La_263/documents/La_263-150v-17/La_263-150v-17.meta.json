@@ -1,0 +1,41 @@
+{
+  "id": "250c4b8b-5a8e-4c96-adb0-df89fb8caeae",
+  "quelle_id": "La 263",
+  "dokumenten_id": "La 263-150v-17",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "",
+  "feier": "",
+  "textinitium": "Ecce agnus dei",
+  "bibliographischerverweis": "CAO 2490",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "17",
+  "foliostart": "150v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "150v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "La 263-149-23S",
+    "Endzeile": "18",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "Magi play",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

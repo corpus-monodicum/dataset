@@ -1,0 +1,720 @@
+{
+  "type": "cm-manuscript-export",
+  "schemaVersion": 2,
+  "exportedAt": "2026-11-02T18:13:45.443Z",
+  "exportedManuscripts": [
+    "Pro 12"
+  ],
+  "data": {
+    "personalTables": [
+      {
+        "id": "t_095f6270-9bb2-45a2-8d7c-12abfa1b4daf",
+        "name": "Pro 12",
+        "source": "Pro 12",
+        "notes": "",
+        "patterns": [],
+        "rows": [
+          {
+            "pattern": "*",
+            "customId": "10",
+            "notes": ""
+          },
+          {
+            "pattern": "*e",
+            "customId": "11",
+            "notes": ""
+          },
+          {
+            "pattern": "*ee",
+            "customId": "12",
+            "notes": ""
+          },
+          {
+            "pattern": "*[ed]",
+            "customId": "13",
+            "notes": ""
+          },
+          {
+            "pattern": "*ed",
+            "customId": "14",
+            "notes": ""
+          },
+          {
+            "pattern": "[*d]",
+            "customId": "20",
+            "notes": ""
+          },
+          {
+            "pattern": "[*du]",
+            "customId": "21",
+            "notes": ""
+          },
+          {
+            "pattern": "[*dud]",
+            "customId": "22",
+            "notes": ""
+          },
+          {
+            "pattern": "[*d]u",
+            "customId": "23",
+            "notes": ""
+          },
+          {
+            "pattern": "[*d]e",
+            "customId": "24",
+            "notes": ""
+          },
+          {
+            "pattern": "[*d]d",
+            "customId": "25",
+            "notes": ""
+          },
+          {
+            "pattern": "*dd",
+            "customId": "30",
+            "notes": ""
+          },
+          {
+            "pattern": "*ddu",
+            "customId": "31",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u]",
+            "customId": "40",
+            "notes": ""
+          },
+          {
+            "pattern": "[*ud]",
+            "customId": "41",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u]dd",
+            "customId": "42",
+            "notes": ""
+          },
+          {
+            "pattern": "[*uu]u",
+            "customId": "43",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u]u",
+            "customId": "44",
+            "notes": ""
+          },
+          {
+            "pattern": "*[uu]",
+            "customId": "45",
+            "notes": ""
+          },
+          {
+            "pattern": "[*dL]",
+            "customId": "10+/20-",
+            "notes": ""
+          },
+          {
+            "pattern": "[*uL]",
+            "customId": "10+/40-",
+            "notes": ""
+          },
+          {
+            "pattern": "*[edL]",
+            "customId": "11+/13-",
+            "notes": ""
+          },
+          {
+            "pattern": "[*dudL]",
+            "customId": "21+",
+            "notes": ""
+          },
+          {
+            "pattern": "[*udL]",
+            "customId": "40+",
+            "notes": ""
+          }
+        ],
+        "isPublished": true
+      }
+    ],
+    "regions": {
+      "Pro 12_16v": [
+        {
+          "id": "r_c681ac81-619f-422d-b93e-fc8d8d44f17d",
+          "name": "Line 1",
+          "points": "18.91,14.54 46.69,14.54 46.69,22.30 18.91,22.30",
+          "canvas": {
+            "index": 36,
+            "label": "f. 016v - 017"
+          }
+        }
+      ],
+      "Pro 12_17r": [
+        {
+          "id": "r_83ea9706-fb10-418c-8034-53f05edfdf00",
+          "name": "Line 1",
+          "points": "50.88,16.23 78.32,16.23 78.32,23.88 50.88,23.88",
+          "canvas": {
+            "index": 37,
+            "label": "f. 016v - 017"
+          }
+        }
+      ],
+      "Pro 12_18v": [
+        {
+          "id": "r_29e61421-7294-4814-b12c-917f0a9a89e8",
+          "name": "Line 5",
+          "points": "18.60,38.62 47.75,38.62 47.75,44.10 18.60,44.10",
+          "canvas": {
+            "index": 40,
+            "label": "f. 018v - 019"
+          }
+        },
+        {
+          "id": "r_ecc324f2-acc4-40f1-9cf7-f41367c1e10b",
+          "name": "Line 6",
+          "points": "18.58,43.37 47.73,43.37 47.73,49.94 18.58,49.94",
+          "canvas": {
+            "index": 40,
+            "label": "f. 018v - 019"
+          }
+        },
+        {
+          "id": "r_25e160e6-b679-4cab-92ee-32ca7d440ad6",
+          "name": "Line 10",
+          "points": "19.26,66.10 46.80,66.10 46.80,72.05 19.26,72.05",
+          "canvas": {
+            "index": 40,
+            "label": "f. 018v - 019"
+          }
+        }
+      ],
+      "Pro 12_19r": [
+        {
+          "id": "r_1bb80d67-4184-49fe-8687-3f546c8318c2",
+          "name": "Line 2",
+          "points": "51.30,23.23 78.39,23.23 78.39,29.26 51.30,29.26",
+          "canvas": {
+            "index": 41,
+            "label": "f. 018v - 019"
+          }
+        }
+      ],
+      "Pro 12_23v": [
+        {
+          "id": "r_f01ba954-9a0b-4f33-970f-315185d264f9",
+          "name": "Line 4",
+          "points": "17.80,33.61 46.96,33.61 46.96,40.06 17.80,40.06",
+          "canvas": {
+            "index": 50,
+            "label": "f. 023v - 024"
+          }
+        }
+      ],
+      "Pro 12_26r": [
+        {
+          "id": "r_66e0a9b9-be2b-4242-98eb-b4da5b9ff79a",
+          "name": "Line 1",
+          "points": "50.35,17.03 78.84,17.03 78.84,23.43 50.35,23.43",
+          "canvas": {
+            "index": 55,
+            "label": "f. 025v - 026"
+          }
+        }
+      ],
+      "Pro 12_29r": [
+        {
+          "id": "r_40ab9966-3e9b-4334-b1f4-1b2c217d50c5",
+          "name": "Line 6",
+          "points": "49.11,44.43 81.22,44.43 81.22,50.69 49.11,50.69",
+          "canvas": {
+            "index": 61,
+            "label": "f. 028v - 029"
+          }
+        }
+      ],
+      "Pro 12_30r": [
+        {
+          "id": "r_5d67796e-c816-4c4b-bc54-e5cc0670e5de",
+          "name": "Line 1",
+          "points": "51.01,16.10 79.23,16.10 79.23,23.52 51.01,23.52",
+          "canvas": {
+            "index": 63,
+            "label": "f. 029v - 030"
+          }
+        }
+      ],
+      "Pro 12_46v": [
+        {
+          "id": "r_544f35e4-2836-427c-aac8-e5aa5aaeb33f",
+          "name": "Line 8",
+          "points": "19.97,57.40 46.73,57.40 46.73,63.35 19.97,63.35",
+          "canvas": {
+            "index": 96,
+            "label": "f. 046v - 047"
+          }
+        }
+      ],
+      "Pro 12_47r": [
+        {
+          "id": "r_98dceaad-0ed1-4f3d-a0c6-4729feffbcf1",
+          "name": "Line 2",
+          "points": "49.62,23.26 79.93,23.26 79.93,29.10 49.62,29.10",
+          "canvas": {
+            "index": 97,
+            "label": "f. 046v - 047"
+          }
+        }
+      ],
+      "Pro 12_196r": [
+        {
+          "id": "r_724655ff-3bef-4cf5-8aaa-9556b512f336",
+          "name": "Line 5",
+          "points": "55.53,37.87 83.89,37.87 83.89,42.92 55.53,42.92",
+          "canvas": {
+            "index": 395,
+            "label": "f. 195v - 196"
+          }
+        }
+      ]
+    },
+    "regionItems": {
+      "r_c681ac81-619f-422d-b93e-fc8d8d44f17d": [
+        {
+          "id": "i_2a1ebadf-5947-4f14-b9ec-b6c5828634cc",
+          "pattern": "[*udL]",
+          "points": "20.85,15.30 22.24,15.30 22.24,17.52 20.85,17.52",
+          "linkData": {
+            "sysId": "Pro 12-16-5|16v|1|Ma-|D5-E5-D5"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_eba4ae00-e183-4a4d-a1e9-8dc622e98625",
+          "pattern": "*",
+          "points": "22.49,15.88 23.71,15.88 23.71,17.55 22.49,17.55",
+          "linkData": {
+            "sysId": "Pro 12-16-5|16v|1|gni|D5"
+          },
+          "variant": "b"
+        },
+        {
+          "id": "i_5a2d7c9b-84f4-4470-a544-3bdd9dc64e6d",
+          "pattern": "*[edL]",
+          "points": "24.67,16.52 26.44,16.52 26.44,18.72 24.67,18.72",
+          "linkData": {
+            "sysId": "Pro 12-16-5|16v|1|Can-|C5-C5-B4"
+          },
+          "variant": "b"
+        },
+        {
+          "id": "i_33508b9b-f1e9-4ced-a9c4-930136ae6a2d",
+          "pattern": "*",
+          "points": "29.51,16.99 30.63,16.99 30.63,18.91 29.51,18.91",
+          "linkData": {
+            "sysId": "Pro 12-16-5|16v|1|do-|C5"
+          },
+          "variant": "a"
+        },
+        {
+          "id": "i_860092ea-0e4f-4c21-9d2d-917d046dd0f7",
+          "pattern": "*",
+          "points": "30.68,16.74 31.61,16.74 31.61,18.89 30.68,18.89",
+          "linkData": {
+            "sysId": "Pro 12-16-5|16v|1|mi-|C5"
+          },
+          "variant": "a"
+        }
+      ],
+      "r_83ea9706-fb10-418c-8034-53f05edfdf00": [
+        {
+          "id": "i_11dd8ce7-e148-46b7-9891-6486f8998229",
+          "pattern": "[*du]",
+          "points": "54.65,16.57 56.19,16.57 56.19,19.15 54.65,19.15",
+          "linkData": {
+            "sysId": "Pro 12-16v-8|17r|1|tur|D5-C5-E5"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_c98bb02e-7861-49aa-beb9-ca99b8c8f827",
+          "pattern": "*[ed]",
+          "points": "57.82,17.47 59.49,17.47 59.49,19.81 57.82,19.81",
+          "linkData": {
+            "sysId": "Pro 12-16v-8|17r|1|ter|C5-C5-B4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_9121d934-0e30-4603-a6f7-af54c4437ded",
+          "pattern": "[*dud]",
+          "points": "70.87,18.19 72.52,18.19 72.52,20.85 70.87,20.85",
+          "linkData": {
+            "sysId": "Pro 12-16v-8|17r|1|ni-|B4-A4-C5-A4"
+          },
+          "variant": ""
+        }
+      ],
+      "r_29e61421-7294-4814-b12c-917f0a9a89e8": [
+        {
+          "id": "i_516b0ecc-f127-4529-a95b-cbee34e436d6",
+          "pattern": "*e",
+          "points": "24.70,39.44 26.28,39.44 26.28,41.14 24.70,41.14",
+          "linkData": {
+            "sysId": "Pro 12-18v-3|18v|5|Et-|F4-F4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_49031d77-e49c-43e1-922e-0dd305041034",
+          "pattern": "[*d]u",
+          "points": "26.19,40.49 27.54,40.49 27.54,42.32 26.19,42.32",
+          "linkData": {
+            "sysId": "Pro 12-18v-3|18v|5|e-|D4-C4-D4"
+          },
+          "variant": "a"
+        },
+        {
+          "id": "i_38afd230-431e-471c-b06a-15791355375a",
+          "pattern": "[*du]",
+          "points": "27.79,39.77 29.04,39.77 29.04,41.93 27.79,41.93",
+          "linkData": {
+            "sysId": "Pro 12-18v-3|18v|5|nim|F4-D4-F4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_8a07d582-b333-4c1b-a902-55e9295d1f88",
+          "pattern": "[*dL]",
+          "points": "29.73,40.62 31.03,40.62 31.03,42.39 29.73,42.39",
+          "linkData": {
+            "sysId": "Pro 12-18v-3|18v|5|In-|D4-C4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_e1637d19-abbb-4714-aa07-39f760bb07b5",
+          "pattern": "[*du]",
+          "points": "35.21,40.32 36.86,40.32 36.86,42.45 35.21,42.45",
+          "linkData": {
+            "sysId": "Pro 12-18v-3|18v|5|runt|E4-C4-D4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_6016474b-321f-405c-ba18-83af5f056e42",
+          "pattern": "[*dL]",
+          "points": "37.52,40.98 38.48,40.98 38.48,42.39 37.52,42.39",
+          "linkData": {
+            "sysId": "Pro 12-18v-3|18v|5|con-|D4-C4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_416cec00-b8fc-4ced-8f61-ef4705e51d94",
+          "pattern": "[*u]dd",
+          "points": "41.07,39.35 42.74,39.35 42.74,41.55 41.07,41.55",
+          "linkData": {
+            "sysId": "Pro 12-18v-3|18v|5|me|F4-G4-F4-E4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_72fe44c0-69b2-4a39-8633-578980c86f44",
+          "pattern": "*ddu",
+          "points": "46.57,38.70 47.74,38.70 47.74,40.71 46.57,40.71",
+          "linkData": {
+            "sysId": "Pro 12-18v-3|18v|5|o-|B4-A4-G4-A4"
+          },
+          "variant": ""
+        }
+      ],
+      "r_ecc324f2-acc4-40f1-9cf7-f41367c1e10b": [
+        {
+          "id": "i_ae4d8adc-e4d1-48b1-8bd4-e37a9b6e3c9b",
+          "pattern": "[*d]d",
+          "points": "43.82,44.19 44.75,44.19 44.75,46.75 43.82,46.75",
+          "linkData": {
+            "sysId": "Pro 12-18v-3|18v|6|pi-|A4-G4-F4"
+          },
+          "variant": "b"
+        }
+      ],
+      "r_25e160e6-b679-4cab-92ee-32ca7d440ad6": [
+        {
+          "id": "i_df8194b0-801a-48ca-bce9-e73df6935cd8",
+          "pattern": "*ee",
+          "points": "23.02,67.46 25.15,67.46 25.15,68.70 23.02,68.70",
+          "linkData": {
+            "sysId": "Pro 12-18v-9|18v|10|ban-|F4-F4-F4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_beb3e3ef-988c-4b62-bbe1-9db316684946",
+          "pattern": "*ee",
+          "points": "31.34,67.40 33.22,67.40 33.22,68.89 31.34,68.89",
+          "linkData": {
+            "sysId": "Pro 12-18v-9|18v|10|per-|F4-F4-F4"
+          },
+          "variant": ""
+        }
+      ],
+      "r_1bb80d67-4184-49fe-8687-3f546c8318c2": [
+        {
+          "id": "i_563b0156-bc37-4ff7-8ca4-d3745f8805c5",
+          "pattern": "*dd",
+          "points": "54.27,23.72 55.71,23.72 55.71,26.38 54.27,26.38",
+          "linkData": {
+            "sysId": "Pro 12-18v-9|19r|2|fi-|G4-F4-D4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_063ae5f9-09aa-4de2-ab9a-7507f84a9348",
+          "pattern": "[*u]u",
+          "points": "55.77,23.64 56.79,23.64 56.79,26.36 55.77,26.36",
+          "linkData": {
+            "sysId": "Pro 12-18v-9|19r|2|ca-|D4-F4-G4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_30b6278e-8923-4757-9ba2-b1b363658edd",
+          "pattern": "[*d]u",
+          "points": "60.03,24.73 61.25,24.73 61.25,26.76 60.03,26.76",
+          "linkData": {
+            "sysId": "Pro 12-18v-9|19r|2|ni-|E4-D4-E4"
+          },
+          "variant": "b"
+        },
+        {
+          "id": "i_0a601895-6ca1-4e65-9649-25331ade9332",
+          "pattern": "[*u]",
+          "points": "71.71,23.89 72.79,23.89 72.79,26.06 71.71,26.06",
+          "linkData": {
+            "sysId": "Pro 12-18v-9|19r|2|la-|A4-C5"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_08a2a954-e89c-49e9-8cd0-f75c90292fb9",
+          "pattern": "[*u]",
+          "points": "65.91,24.92 66.74,24.92 66.74,26.47 65.91,26.47",
+          "linkData": {
+            "sysId": "Pro 12-18v-9|19r|2|a|G4-A4"
+          },
+          "variant": ""
+        }
+      ],
+      "r_f01ba954-9a0b-4f33-970f-315185d264f9": [
+        {
+          "id": "i_c13669fe-b372-4ed1-b4e5-29aa5d4f77fc",
+          "pattern": "[*d]u",
+          "points": "19.46,33.91 21.04,33.91 21.04,35.84 19.46,35.84",
+          "linkData": {
+            "sysId": "Pro 12-23v-3|23v|4||C5-B4-C5"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_b85a7611-ac55-4e09-b3ec-59c9400a497e",
+          "pattern": "*ee",
+          "points": "22.86,35.81 24.59,35.81 24.59,37.71 22.86,37.71",
+          "linkData": {
+            "sysId": "Pro 12-23v-3|23v|4||F4-F4-F4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_33d747c4-b6c8-4dbf-8d79-a5f4fdb88a44",
+          "pattern": "[*u]u",
+          "points": "31.99,35.28 33.15,35.28 33.15,38.29 31.99,38.29",
+          "linkData": {
+            "sysId": "Pro 12-23v-3|23v|4|sic-|D4-F4-G4"
+          },
+          "variant": ""
+        }
+      ],
+      "r_66e0a9b9-be2b-4242-98eb-b4da5b9ff79a": [
+        {
+          "id": "i_113e35c5-9826-4187-b7cc-c4008c21f3f5",
+          "pattern": "[*dudL]",
+          "points": "61.43,18.18 62.87,18.18 62.87,20.63 61.43,20.63",
+          "linkData": {
+            "sysId": "Pro 12-25v-9|26r|1|con-|C5-B4-C5-A4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_c7fd87ea-b316-4660-8110-a2f129dbef04",
+          "pattern": "*[ed]",
+          "points": "66.98,17.75 68.30,17.75 68.30,19.72 66.98,19.72",
+          "linkData": {
+            "sysId": "Pro 12-25v-9|26r|1|qui-|D5-D5-C5"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_78932834-533e-425b-81cc-250f0b608853",
+          "pattern": "*ddu",
+          "points": "68.15,17.72 69.99,17.72 69.99,20.10 68.15,20.10",
+          "linkData": {
+            "sysId": "Pro 12-25v-9|26r|1|qui-|D5-C5-B4-C5"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_c55786d4-b5a9-4102-8c42-70ce1de5ca36",
+          "pattern": "[*u]u",
+          "points": "70.02,17.36 71.44,17.36 71.44,20.05 70.02,20.05",
+          "linkData": {
+            "sysId": "Pro 12-25v-9|26r|1|qui-|B4-C5-D5"
+          },
+          "variant": ""
+        }
+      ],
+      "r_40ab9966-3e9b-4334-b1f4-1b2c217d50c5": [
+        {
+          "id": "i_6d1f3b7b-145d-4602-b75b-8409f2c89ea2",
+          "pattern": "*ed",
+          "points": "65.82,45.60 67.56,45.60 67.56,48.10 65.82,48.10",
+          "linkData": {
+            "sysId": "Pro 12-29-5|29r|6|mo|F4-F4-D4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_992436bd-e263-4662-8f8d-ebfff2191ae4",
+          "pattern": "[*ud]",
+          "points": "77.09,45.63 78.34,45.63 78.34,47.59 77.09,47.59",
+          "linkData": {
+            "sysId": "Pro 12-29-5|29r|6|e-|D4-E4-D4"
+          },
+          "variant": ""
+        }
+      ],
+      "r_5d67796e-c816-4c4b-bc54-e5cc0670e5de": [
+        {
+          "id": "i_37b92d29-fec1-44ed-8087-9784709332c8",
+          "pattern": "[*uL]",
+          "points": "57.56,18.74 58.40,18.74 58.40,21.59 57.56,21.59",
+          "linkData": {
+            "sysId": "Pro 12-29v-2|30r|1|Et|C4-F4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_a908a40b-3616-4a19-a2b9-190e23c88700",
+          "pattern": "[*d]",
+          "points": "64.70,19.64 65.65,19.64 65.65,21.22 64.70,21.22",
+          "linkData": {
+            "sysId": "Pro 12-29v-2|30r|1|li|E4-D4"
+          },
+          "variant": "a"
+        },
+        {
+          "id": "i_a96d78e1-0ef3-4d9d-9102-f2b2c49183ab",
+          "pattern": "[*d]d",
+          "points": "72.46,19.16 73.50,19.16 73.50,21.42 72.46,21.42",
+          "linkData": {
+            "sysId": "Pro 12-29v-2|30r|1|nor|F4-E4-D4"
+          },
+          "variant": "a"
+        },
+        {
+          "id": "i_e06d48e0-c188-4790-a591-280b13ba2f0b",
+          "pattern": "[*d]",
+          "points": "74.75,19.19 75.30,19.19 75.30,20.97 74.75,20.97",
+          "linkData": {
+            "sysId": "Pro 12-29v-2|30r|1|glo-|F4-E4"
+          },
+          "variant": "b"
+        }
+      ],
+      "r_544f35e4-2836-427c-aac8-e5aa5aaeb33f": [
+        {
+          "id": "i_0d6570d2-6acc-494c-8e92-96fd877d9316",
+          "pattern": "[*udL]",
+          "points": "28.07,57.43 29.47,57.43 29.47,59.60 28.07,59.60",
+          "linkData": {
+            "sysId": "Pro 12-46v-7|46v|8|mun-|A4-B4-A4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_88a53822-6f47-46b6-87c7-b69da941c431",
+          "pattern": "[*uu]u",
+          "points": "32.50,58.76 33.71,58.76 33.71,61.54 32.50,61.54",
+          "linkData": {
+            "sysId": "Pro 12-46v-7|46v|8|a|D4-E4-F4-G4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_a0996f14-8198-47a4-a7e9-e213b0da380d",
+          "pattern": "*e",
+          "points": "37.20,58.13 38.14,58.13 38.14,59.39 37.20,59.39",
+          "linkData": {
+            "sysId": "Pro 12-46v-7|46v|8|fu-|A4-A4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_e9a6039d-df06-4c46-9a13-483f5345d41f",
+          "pattern": "[*ud]",
+          "points": "38.21,58.32 39.21,58.32 39.21,60.32 38.21,60.32",
+          "linkData": {
+            "sysId": "Pro 12-46v-7|46v|8|sa|F4-A4-G4"
+          },
+          "variant": ""
+        }
+      ],
+      "r_98dceaad-0ed1-4f3d-a0c6-4729feffbcf1": [
+        {
+          "id": "i_3e485db1-6ca4-4e08-842a-f91eb043e0c9",
+          "pattern": "*[uu]",
+          "points": "64.21,24.60 65.46,24.60 65.46,27.40 64.21,27.40",
+          "linkData": {
+            "sysId": "Pro 12-46v-10|47r|2|se-|G4-A4-C5"
+          },
+          "variant": ""
+        }
+      ],
+      "r_724655ff-3bef-4cf5-8aaa-9556b512f336": [
+        {
+          "id": "i_0d10b067-b065-49e1-89d4-e01337453fd6",
+          "pattern": "[*d]e",
+          "points": "64.96,38.33 66.84,38.33 66.84,40.55 64.96,40.55",
+          "linkData": {
+            "sysId": "Pro 12-196-1|196r|5|stum|G4-F4-F4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_ffc8f531-3e7c-43ef-938c-fde0797363a7",
+          "pattern": "[*d]",
+          "points": "78.62,38.13 79.98,38.13 79.98,40.18 78.62,40.18",
+          "linkData": {
+            "sysId": "Pro 12-196-1|196r|5|los|C5-B4"
+          },
+          "variant": "a"
+        },
+        {
+          "id": "i_46ac3300-925b-4c71-be30-965424fb5f08",
+          "pattern": "*[edL]",
+          "points": "81.60,38.27 83.20,38.27 83.20,40.26 81.60,40.26",
+          "linkData": {
+            "sysId": "Pro 12-196-1|196r|5|scen-|B4-B4-A4"
+          },
+          "variant": "a"
+        }
+      ]
+    },
+    "manualLines": {},
+    "iiifLinks": {
+      "Pro 12": "https://api.irht.cnrs.fr/ark:/63955/fm2ehhsm22uk/manifest.json"
+    }
+  }
+}

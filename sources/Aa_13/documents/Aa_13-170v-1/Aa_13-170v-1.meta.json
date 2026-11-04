@@ -1,0 +1,41 @@
+{
+  "id": "25739125-ff08-416f-868b-aacc105c1283",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-170v-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Nicolaus",
+  "feier": "Messe",
+  "textinitium": "Congaudentes exsultemus vocali",
+  "bibliographischerverweis": "AH 54, 66",
+  "druckausgabe": "CM III",
+  "zeilenstart": "1",
+  "foliostart": "170v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "170v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "C",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

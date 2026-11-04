@@ -1,0 +1,41 @@
+{
+  "id": "2f0e1859-7fcd-4c4f-a1dc-e48f25e0a0d3",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-188v-5b",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Octava Petri et Pauli",
+  "feier": "Messe",
+  "textinitium": "Laude iucunda*",
+  "bibliographischerverweis": "AH 7, 183; AH 53, 211",
+  "druckausgabe": "CM III",
+  "zeilenstart": "5",
+  "foliostart": "188v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "188v",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "In omnem terram",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

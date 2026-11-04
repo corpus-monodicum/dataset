@@ -1,0 +1,41 @@
+{
+  "id": "aa6feeb2-05ba-47fe-b1ed-c12fa8aa172f",
+  "quelle_id": "Pad 16",
+  "dokumenten_id": "Pad 16-243v-8a",
+  "gattung1": "Kyrie",
+  "gattung2": "untropiert",
+  "festtag": "Ascensio domini",
+  "feier": "Messe",
+  "textinitium": "Kyrie eleyson*",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "8",
+  "foliostart": "243v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "243v",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "Melnicki 39: 1A",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509501",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

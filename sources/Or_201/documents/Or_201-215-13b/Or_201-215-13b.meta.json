@@ -1,0 +1,41 @@
+{
+  "id": "80d0d07f-d823-4196-8fd0-173275e76f65",
+  "quelle_id": "Or 201",
+  "dokumenten_id": "Or 201-215-13b",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Innocentes",
+  "feier": "Matutin",
+  "textinitium": "Ioseph Ioseph ... tolle",
+  "bibliographischerverweis": "vgl. CAO 5156",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "13",
+  "foliostart": "215",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "215",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "Or 201-215-7-aS",
+    "Endzeile": "19",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Play of the Innocents",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

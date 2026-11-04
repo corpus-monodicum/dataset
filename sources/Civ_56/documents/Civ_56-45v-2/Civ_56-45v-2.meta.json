@@ -1,0 +1,41 @@
+{
+  "id": "33f5cd44-f795-4f77-bdb6-0b4ae4608966",
+  "quelle_id": "Civ 56",
+  "dokumenten_id": "Civ 56-45v-2",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Agatha",
+  "feier": "Messe",
+  "textinitium": "Gaudeamus omnes ... Agathae",
+  "bibliographischerverweis": "AMS 30",
+  "druckausgabe": "II-4",
+  "zeilenstart": "2",
+  "foliostart": "45v",
+  "kommentar": "JCS: Verweis auf f. 175 v?; nee, umgekehrt, wir verweisen vom Tropus (175v) auf den Primärgesang",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "45v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

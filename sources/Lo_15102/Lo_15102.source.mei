@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Lo 15102: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Spiele)</resp>
+          <persName>Elaine Stratton Hild</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="Lo_15102">
+        <identifier type="siglum">Lo 15102</identifier>
+        <identifier type="cantus">Lo 15102</identifier>
+        <titleStmt>
+          <title>Lo 15102</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Sponheim</geogName>
+          <geogName role="origin-region">Quellen deutscher Herkunft</geogName>
+          <corpName role="origin-institution">Abtei St Martin</corpName>
+          <date>1487</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <title type="incipit">Ordo virtutum</title>
+            <identifier type="dokumenten_id">Lo 15102--</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="207">f. 207</locus>
+            <title type="incipit">Nos sumus radices</title>
+            <identifier type="dokumenten_id">Lo 15102-207-10</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="207">f. 207</locus>
+            <title type="incipit">Qui sunt hi qui ut nubes*</title>
+            <identifier type="dokumenten_id">Lo 15102-207-4</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="207">f. 207</locus>
+            <title type="incipit">O antiqui sancti</title>
+            <identifier type="dokumenten_id">Lo 15102-207-5</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="207v">f. 207v</locus>
+            <title type="incipit">O nos peregrine</title>
+            <identifier type="dokumenten_id">Lo 15102-207v-2</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="207v">f. 207v</locus>
+            <title type="incipit">O dulcis diuinitas</title>
+            <identifier type="dokumenten_id">Lo 15102-207v-8</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="208">f. 208</locus>
+            <title type="incipit">O felix anima</title>
+            <identifier type="dokumenten_id">Lo 15102-208-4</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="208">f. 208</locus>
+            <title type="incipit">O libenter</title>
+            <identifier type="dokumenten_id">Lo 15102-208-7</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="208">f. 208</locus>
+            <title type="incipit">Nos debemus</title>
+            <identifier type="dokumenten_id">Lo 15102-208-9</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="208v">f. 208v</locus>
+            <title type="incipit">O grauis labor</title>
+            <identifier type="dokumenten_id">Lo 15102-208v-2</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus from="208v">f. 208v</locus>
+            <title type="incipit">O anima uoluntate</title>
+            <identifier type="dokumenten_id">Lo 15102-208v-6</identifier>
+          </contentItem>
+          <contentItem n="12">
+            <locus from="209">f. 209</locus>
+            <title type="incipit">O infelix</title>
+            <identifier type="dokumenten_id">Lo 15102-209-10</identifier>
+          </contentItem>
+          <contentItem n="13">
+            <locus from="209">f. 209</locus>
+            <title type="incipit">Succurrite michi</title>
+            <identifier type="dokumenten_id">Lo 15102-209-2</identifier>
+          </contentItem>
+          <contentItem n="14">
+            <locus from="209">f. 209</locus>
+            <title type="incipit">Vide quid</title>
+            <identifier type="dokumenten_id">Lo 15102-209-4</identifier>
+          </contentItem>
+          <contentItem n="15">
+            <locus from="209">f. 209</locus>
+            <title type="incipit">O nescio</title>
+            <identifier type="dokumenten_id">Lo 15102-209-6</identifier>
+          </contentItem>
+          <contentItem n="16">
+            <locus from="209v">f. 209v</locus>
+            <title type="incipit">O plangens uox</title>
+            <identifier type="dokumenten_id">Lo 15102-209v-11</identifier>
+          </contentItem>
+          <contentItem n="17">
+            <locus from="209v">f. 209v</locus>
+            <title type="incipit">Tu nescis</title>
+            <identifier type="dokumenten_id">Lo 15102-209v-3</identifier>
+          </contentItem>
+          <contentItem n="18">
+            <locus from="209v">f. 209v</locus>
+            <title type="incipit">Deus creauit</title>
+            <identifier type="dokumenten_id">Lo 15102-209v-5</identifier>
+          </contentItem>
+          <contentItem n="19">
+            <locus from="209v">f. 209v</locus>
+            <title type="incipit">Fatue fatue</title>
+            <identifier type="dokumenten_id">Lo 15102-209v-7</identifier>
+          </contentItem>
+          <contentItem n="20">
+            <locus from="210v">f. 210v</locus>
+            <title type="incipit">Que est hec</title>
+            <identifier type="dokumenten_id">Lo 15102-210v-1</identifier>
+          </contentItem>
+          <contentItem n="21">
+            <locus from="210v">f. 210v</locus>
+            <title type="incipit">Nos autem omnes</title>
+            <identifier type="dokumenten_id">Lo 15102-210v-11</identifier>
+          </contentItem>
+          <contentItem n="22">
+            <locus from="210v">f. 210v</locus>
+            <title type="incipit">Ego humilitas</title>
+            <identifier type="dokumenten_id">Lo 15102-210v-13</identifier>
+          </contentItem>
+          <contentItem n="23">
+            <locus from="210v">f. 210v</locus>
+            <title type="incipit">Ego cum meis</title>
+            <identifier type="dokumenten_id">Lo 15102-210v-8</identifier>
+          </contentItem>
+          <contentItem n="24">
+            <locus from="211">f. 211</locus>
+            <title type="incipit">O dilectissime flos</title>
+            <identifier type="dokumenten_id">Lo 15102-211-10</identifier>
+          </contentItem>
+          <contentItem n="25">
+            <locus from="211">f. 211</locus>
+            <title type="incipit">Ego timor dei</title>
+            <identifier type="dokumenten_id">Lo 15102-211-12</identifier>
+          </contentItem>
+          <contentItem n="26">
+            <locus from="211">f. 211</locus>
+            <title type="incipit">O gloriosa regina</title>
+            <identifier type="dokumenten_id">Lo 15102-211-3</identifier>
+          </contentItem>
+          <contentItem n="27">
+            <locus from="211">f. 211</locus>
+            <title type="incipit">Ideo dilectissime</title>
+            <identifier type="dokumenten_id">Lo 15102-211-5</identifier>
+          </contentItem>
+          <contentItem n="28">
+            <locus from="211">f. 211</locus>
+            <title type="incipit">Ego karitas</title>
+            <identifier type="dokumenten_id">Lo 15102-211-7</identifier>
+          </contentItem>
+          <contentItem n="29">
+            <locus from="211v">f. 211v</locus>
+            <title type="incipit">Tu autem exterritus</title>
+            <identifier type="dokumenten_id">Lo 15102-211v-11</identifier>
+          </contentItem>
+          <contentItem n="30">
+            <locus from="211v">f. 211v</locus>
+            <title type="incipit">Ego lucida obedientia</title>
+            <identifier type="dokumenten_id">Lo 15102-211v-14</identifier>
+          </contentItem>
+          <contentItem n="31">
+            <locus from="211v">f. 211v</locus>
+            <title type="incipit">O timor ualde</title>
+            <identifier type="dokumenten_id">Lo 15102-211v-3</identifier>
+          </contentItem>
+          <contentItem n="32">
+            <locus from="211v">f. 211v</locus>
+            <title type="incipit">Euge euge</title>
+            <identifier type="dokumenten_id">Lo 15102-211v-6</identifier>
+          </contentItem>
+          <contentItem n="33">
+            <locus from="212">f. 212</locus>
+            <title type="incipit">Ego sum dulcis conspectrix</title>
+            <identifier type="dokumenten_id">Lo 15102-212-10</identifier>
+          </contentItem>
+          <contentItem n="34">
+            <locus from="212">f. 212</locus>
+            <title type="incipit">O dulcissima uocatrix</title>
+            <identifier type="dokumenten_id">Lo 15102-212-2</identifier>
+          </contentItem>
+          <contentItem n="35">
+            <locus from="212">f. 212</locus>
+            <title type="incipit">Ego fides</title>
+            <identifier type="dokumenten_id">Lo 15102-212-5</identifier>
+          </contentItem>
+          <contentItem n="36">
+            <locus from="212">f. 212</locus>
+            <title type="incipit">O serena speculata</title>
+            <identifier type="dokumenten_id">Lo 15102-212-7</identifier>
+          </contentItem>
+          <contentItem n="37">
+            <locus from="212v">f. 212v</locus>
+            <title type="incipit">Flos campi</title>
+            <identifier type="dokumenten_id">Lo 15102-212v-10</identifier>
+          </contentItem>
+          <contentItem n="38">
+            <locus from="212v">f. 212v</locus>
+            <title type="incipit">O uiuens uita</title>
+            <identifier type="dokumenten_id">Lo 15102-212v-3</identifier>
+          </contentItem>
+          <contentItem n="39">
+            <locus from="212v">f. 212v</locus>
+            <title type="incipit">O virginitas</title>
+            <identifier type="dokumenten_id">Lo 15102-212v-6</identifier>
+          </contentItem>
+          <contentItem n="40">
+            <locus from="213">f. 213</locus>
+            <title type="incipit">Fugite oues</title>
+            <identifier type="dokumenten_id">Lo 15102-213-4</identifier>
+          </contentItem>
+          <contentItem n="41">
+            <locus from="213">f. 213</locus>
+            <title type="incipit">Has te</title>
+            <identifier type="dokumenten_id">Lo 15102-213-6a</identifier>
+          </contentItem>
+          <contentItem n="42">
+            <locus from="213">f. 213</locus>
+            <title type="incipit">Ego contemptus mundi</title>
+            <identifier type="dokumenten_id">Lo 15102-213-6b</identifier>
+          </contentItem>
+          <contentItem n="43">
+            <locus from="213v">f. 213v</locus>
+            <title type="incipit">O gloriosa domina</title>
+            <identifier type="dokumenten_id">Lo 15102-213v-2</identifier>
+          </contentItem>
+          <contentItem n="44">
+            <locus from="213v">f. 213v</locus>
+            <title type="incipit">Ego aurea porta</title>
+            <identifier type="dokumenten_id">Lo 15102-213v-6</identifier>
+          </contentItem>
+          <contentItem n="45">
+            <locus from="213v">f. 213v</locus>
+            <title type="incipit">O filia regis</title>
+            <identifier type="dokumenten_id">Lo 15102-213v-8</identifier>
+          </contentItem>
+          <contentItem n="46">
+            <locus from="214">f. 214</locus>
+            <title type="incipit">Ego sum amatrix</title>
+            <identifier type="dokumenten_id">Lo 15102-214-2</identifier>
+          </contentItem>
+          <contentItem n="47">
+            <locus from="214">f. 214</locus>
+            <title type="incipit">O tu angelica</title>
+            <identifier type="dokumenten_id">Lo 15102-214-5</identifier>
+          </contentItem>
+          <contentItem n="48">
+            <locus from="214">f. 214</locus>
+            <title type="incipit">Ego obtenebro</title>
+            <identifier type="dokumenten_id">Lo 15102-214-7</identifier>
+          </contentItem>
+          <contentItem n="49">
+            <locus from="214">f. 214</locus>
+            <title type="incipit">Tu es in edificatione</title>
+            <identifier type="dokumenten_id">Lo 15102-214-9</identifier>
+          </contentItem>
+          <contentItem n="50">
+            <locus from="214v">f. 214v</locus>
+            <title type="incipit">O quam amara</title>
+            <identifier type="dokumenten_id">Lo 15102-214v-2</identifier>
+          </contentItem>
+          <contentItem n="51">
+            <locus from="214v">f. 214v</locus>
+            <title type="incipit">O laudabilis mater</title>
+            <identifier type="dokumenten_id">Lo 15102-214v-5</identifier>
+          </contentItem>
+          <contentItem n="52">
+            <locus from="214v">f. 214v</locus>
+            <title type="incipit">Ego victoria</title>
+            <identifier type="dokumenten_id">Lo 15102-214v-8</identifier>
+          </contentItem>
+          <contentItem n="53">
+            <locus from="215">f. 215</locus>
+            <title type="incipit">O dulcissima bellatrix</title>
+            <identifier type="dokumenten_id">Lo 15102-215-2</identifier>
+          </contentItem>
+          <contentItem n="54">
+            <locus from="215">f. 215</locus>
+            <title type="incipit">Ego discretio</title>
+            <identifier type="dokumenten_id">Lo 15102-215-6</identifier>
+          </contentItem>
+          <contentItem n="55">
+            <locus from="215">f. 215</locus>
+            <title type="incipit">O pulcherrima</title>
+            <identifier type="dokumenten_id">Lo 15102-215-9</identifier>
+          </contentItem>
+          <contentItem n="56">
+            <locus from="215v">f. 215v</locus>
+            <title type="incipit">Ego sum columpna</title>
+            <identifier type="dokumenten_id">Lo 15102-215v-2</identifier>
+          </contentItem>
+          <contentItem n="57">
+            <locus from="215v">f. 215v</locus>
+            <title type="incipit">O firma</title>
+            <identifier type="dokumenten_id">Lo 15102-215v-5</identifier>
+          </contentItem>
+          <contentItem n="58">
+            <locus from="215v">f. 215v</locus>
+            <title type="incipit">O filie Israhel</title>
+            <identifier type="dokumenten_id">Lo 15102-215v-6</identifier>
+          </contentItem>
+          <contentItem n="59">
+            <locus from="216">f. 216</locus>
+            <title type="incipit">Ach ach feruens</title>
+            <identifier type="dokumenten_id">Lo 15102-216-10</identifier>
+          </contentItem>
+          <contentItem n="60">
+            <locus from="216">f. 216</locus>
+            <title type="incipit">Heu heu nos virtutes</title>
+            <identifier type="dokumenten_id">Lo 15102-216-2</identifier>
+          </contentItem>
+          <contentItem n="61">
+            <locus from="216">f. 216</locus>
+            <title type="incipit">O uos regales</title>
+            <identifier type="dokumenten_id">Lo 15102-216-4</identifier>
+          </contentItem>
+          <contentItem n="62">
+            <locus from="216">f. 216</locus>
+            <title type="incipit">O fugitiue</title>
+            <identifier type="dokumenten_id">Lo 15102-216-8</identifier>
+          </contentItem>
+          <contentItem n="63">
+            <locus from="216v">f. 216v</locus>
+            <title type="incipit">Noli timere nec</title>
+            <identifier type="dokumenten_id">Lo 15102-216v-2</identifier>
+          </contentItem>
+          <contentItem n="64">
+            <locus from="216v">f. 216v</locus>
+            <title type="incipit">Nunc est michi</title>
+            <identifier type="dokumenten_id">Lo 15102-216v-4</identifier>
+          </contentItem>
+          <contentItem n="65">
+            <locus from="216v">f. 216v</locus>
+            <title type="incipit">Curre ad nos</title>
+            <identifier type="dokumenten_id">Lo 15102-216v-9</identifier>
+          </contentItem>
+          <contentItem n="66">
+            <locus from="217">f. 217</locus>
+            <title type="incipit">Ego peccator</title>
+            <identifier type="dokumenten_id">Lo 15102-217-2</identifier>
+          </contentItem>
+          <contentItem n="67">
+            <locus from="217">f. 217</locus>
+            <title type="incipit">O anima fugitiua</title>
+            <identifier type="dokumenten_id">Lo 15102-217-8</identifier>
+          </contentItem>
+          <contentItem n="68">
+            <locus from="217v">f. 217v</locus>
+            <title type="incipit">Volumus te</title>
+            <identifier type="dokumenten_id">Lo 15102-217v-11</identifier>
+          </contentItem>
+          <contentItem n="69">
+            <locus from="217v">f. 217v</locus>
+            <title type="incipit">Et o uera medicina</title>
+            <identifier type="dokumenten_id">Lo 15102-217v-2</identifier>
+          </contentItem>
+          <contentItem n="70">
+            <locus from="217v">f. 217v</locus>
+            <title type="incipit">O omnes virtutes</title>
+            <identifier type="dokumenten_id">Lo 15102-217v-6</identifier>
+          </contentItem>
+          <contentItem n="71">
+            <locus from="218">f. 218</locus>
+            <title type="incipit">O misera filia</title>
+            <identifier type="dokumenten_id">Lo 15102-218-3</identifier>
+          </contentItem>
+          <contentItem n="72">
+            <locus from="218">f. 218</locus>
+            <title type="incipit">O uiuens fons</title>
+            <identifier type="dokumenten_id">Lo 15102-218-6</identifier>
+          </contentItem>
+          <contentItem n="73">
+            <locus from="218v">f. 218v</locus>
+            <title type="incipit">O victoria que</title>
+            <identifier type="dokumenten_id">Lo 15102-218v-16</identifier>
+          </contentItem>
+          <contentItem n="74">
+            <locus from="218v">f. 218v</locus>
+            <title type="incipit">Que es aut</title>
+            <identifier type="dokumenten_id">Lo 15102-218v-4</identifier>
+          </contentItem>
+          <contentItem n="75">
+            <locus from="218v">f. 218v</locus>
+            <title type="incipit">Ego omnes uias meas</title>
+            <identifier type="dokumenten_id">Lo 15102-218v-9</identifier>
+          </contentItem>
+          <contentItem n="76">
+            <locus from="219">f. 219</locus>
+            <title type="incipit">Gaudete o socii</title>
+            <identifier type="dokumenten_id">Lo 15102-219-10</identifier>
+          </contentItem>
+          <contentItem n="77">
+            <locus from="219">f. 219</locus>
+            <title type="incipit">O fortissimi</title>
+            <identifier type="dokumenten_id">Lo 15102-219-3</identifier>
+          </contentItem>
+          <contentItem n="78">
+            <locus from="219">f. 219</locus>
+            <title type="incipit">O dulcissima bellatrix*</title>
+            <identifier type="dokumenten_id">Lo 15102-219-7a</identifier>
+          </contentItem>
+          <contentItem n="79">
+            <locus from="219">f. 219</locus>
+            <title type="incipit">Ligate ergo</title>
+            <identifier type="dokumenten_id">Lo 15102-219-7b</identifier>
+          </contentItem>
+          <contentItem n="80">
+            <locus from="219">f. 219</locus>
+            <title type="incipit">O regina nostra</title>
+            <identifier type="dokumenten_id">Lo 15102-219-8</identifier>
+          </contentItem>
+          <contentItem n="81">
+            <locus from="219v">f. 219v</locus>
+            <title type="incipit">Quomodo posset</title>
+            <identifier type="dokumenten_id">Lo 15102-219v-17</identifier>
+          </contentItem>
+          <contentItem n="82">
+            <locus from="219v">f. 219v</locus>
+            <title type="incipit">Laus tibi Christe rex</title>
+            <identifier type="dokumenten_id">Lo 15102-219v-2</identifier>
+          </contentItem>
+          <contentItem n="83">
+            <locus from="219v">f. 219v</locus>
+            <title type="incipit">In mente altissimi</title>
+            <identifier type="dokumenten_id">Lo 15102-219v-4</identifier>
+          </contentItem>
+          <contentItem n="84">
+            <locus from="219v">f. 219v</locus>
+            <title type="incipit">Tu nescis quid</title>
+            <identifier type="dokumenten_id">Lo 15102-219v-8</identifier>
+          </contentItem>
+          <contentItem n="85">
+            <locus from="220">f. 220</locus>
+            <title type="incipit">O pater omnipotens ex</title>
+            <identifier type="dokumenten_id">Lo 15102-220-10</identifier>
+          </contentItem>
+          <contentItem n="86">
+            <locus from="220">f. 220</locus>
+            <title type="incipit">O deus quis es</title>
+            <identifier type="dokumenten_id">Lo 15102-220-4</identifier>
+          </contentItem>
+          <contentItem n="87">
+            <locus from="220v">f. 220v</locus>
+            <title type="incipit">In principio omnes</title>
+            <identifier type="dokumenten_id">Lo 15102-220v-3</identifier>
+          </contentItem>
+        </contents>
+        <classification>
+          <termList>
+            <term type="ordenstradition">Benediktiner</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">Add. 15102</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">London</geogName>
+                <corpName>British Library</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

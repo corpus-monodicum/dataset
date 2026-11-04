@@ -1,0 +1,25 @@
+{
+  "id": "Ben 34",
+  "quellensigle": "Ben 34",
+  "herkunftsregion": "Quellen italienischer Herkunft",
+  "herkunftsort": "Benevent (Region)",
+  "herkunftsinstitution": "",
+  "ordenstradition": "",
+  "quellentyp": "Graduale mit Tropen und Sequenzen, Kyriale",
+  "bibliotheksort": "Benevent",
+  "bibliothek": "Biblioteca Capitolare",
+  "bibliothekssignatur": "34",
+  "kommentar": "",
+  "datierung": "12. Jh",
+  "status": "",
+  "jahrhundert": "12.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Ben 34",
+  "cantus_century": "12.",
+  "dataset_external_files": {
+    "beschreibung": "Ben_34.description.md",
+    "notationsdokumentation": "notation/Ben_34.notation.md"
+  }
+}

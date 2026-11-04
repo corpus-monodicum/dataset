@@ -1,0 +1,41 @@
+{
+  "id": "88e82777-11af-4a02-b56c-bb577d0da523",
+  "quelle_id": "PaSG 117",
+  "dokumenten_id": "PaSG 117-100v-5",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Lectio",
+  "festtag": "Pascha",
+  "feier": "Matutin",
+  "textinitium": "Maria Magdalene et Maria Iacobi*",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "5",
+  "foliostart": "100v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "100v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "PaSG 117-100-13-aS",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Easter play / Osterspiel",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "328820ec-a5f2-4d55-bc46-e3f1f68520fa",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-301-a-18b",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Omnes sancti",
+  "feier": "Messe",
+  "textinitium": "Christo inclita*",
+  "bibliographischerverweis": "AH 7, 118; AH 53, 115",
+  "druckausgabe": "CM III",
+  "zeilenstart": "18",
+  "foliostart": "301-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "301a",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "18",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Eia turma",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

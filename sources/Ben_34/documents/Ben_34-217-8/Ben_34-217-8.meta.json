@@ -1,0 +1,41 @@
+{
+  "id": "bf740cd9-eb4d-45bc-8a1f-9bf27a7abe43",
+  "quelle_id": "Ben 34",
+  "dokumenten_id": "Ben 34-217-8",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Laurentius",
+  "feier": "Messe",
+  "textinitium": "Martyr Laurentius",
+  "bibliographischerverweis": "Probasti intr 1 A 2 B (CT X)",
+  "druckausgabe": "",
+  "zeilenstart": "8",
+  "foliostart": "217",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "(Probasti)",
+    "Endseite": "217",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Probasti intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

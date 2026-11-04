@@ -1,0 +1,41 @@
+{
+  "id": "d7d90b27-b70f-44a0-8837-104b5119008a",
+  "quelle_id": "Pad 47",
+  "dokumenten_id": "Pad 47-195v-9",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Petrus et Paulus",
+  "feier": "Messe",
+  "textinitium": "Divina beatus Petrus",
+  "bibliographischerverweis": "Nunc scio vere intr 13 A 38 B 39 C 40 D E 80 A (CT X)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "9",
+  "foliostart": "195v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Nunc scio",
+    "Endseite": "196",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Nunc scio vere intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

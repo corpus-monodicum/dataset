@@ -1,0 +1,41 @@
+{
+  "id": "9c27d3f8-0567-409c-b15a-9b5eb7211fa8",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-21-6",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Pentecoste",
+  "feier": "Messe",
+  "textinitium": "Hodie descendit spiritus",
+  "bibliographischerverweis": "Pent intr 59 A 43 A 62 A 20 B 21 C 22 E 27 F 41 G H 48 A 49 B 50 C 51 E 52 G 23 A 25 C 24 G 63 A 34 C 35 E 26 A 15 B 16 C 17 D 53 A 54 B 55 C 56 D 57 G (CT III)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "6",
+  "foliostart": "21",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "(Spiritus)",
+    "Endseite": "22",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "13",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Pent intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

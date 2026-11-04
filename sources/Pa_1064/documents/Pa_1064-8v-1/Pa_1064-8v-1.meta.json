@@ -1,0 +1,41 @@
+{
+  "id": "bafc6cc9-01ae-48ed-b0f0-15adb7c793da",
+  "quelle_id": "Pa 1064",
+  "dokumenten_id": "Pa 1064-8v-1",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Feria II post Pascha",
+  "feier": "Vesper",
+  "textinitium": "Iam tres dies",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "1",
+  "foliostart": "8v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "8v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Pa 1064-8-2S",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Journey to Emmaus",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

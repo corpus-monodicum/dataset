@@ -1,0 +1,41 @@
+{
+  "id": "34c0c796-0134-4922-b03c-9f198df24f95",
+  "quelle_id": "Pa 904",
+  "dokumenten_id": "Pa 904-12v-19",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Tropus",
+  "festtag": "Nativitas domini",
+  "feier": "Matutin",
+  "textinitium": "Alleluia alleluia iam vere",
+  "bibliographischerverweis": "CT I (Nat III intr 62)^2",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "19",
+  "foliostart": "12v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "12v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Pa 904-10v-9S",
+    "Endzeile": "23",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Christmas play",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

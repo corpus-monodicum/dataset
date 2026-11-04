@@ -1,0 +1,41 @@
+{
+  "id": "44419d95-293c-4e25-bf07-66f713b026be",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-285-7",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominicae dies",
+  "feier": "Messe",
+  "textinitium": "Stans a longe qui plurima",
+  "bibliographischerverweis": "AH 53, 93",
+  "druckausgabe": "CM III",
+  "zeilenstart": "7",
+  "foliostart": "285",
+  "kommentar": "Zuordnung siehe Hiley 1993.",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "285v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Metensis minor",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

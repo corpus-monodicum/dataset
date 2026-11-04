@@ -1,0 +1,25 @@
+{
+  "id": "Pa 909",
+  "quellensigle": "Pa 909",
+  "herkunftsregion": "Quellen französischer Herkunft",
+  "herkunftsort": "Limoges",
+  "herkunftsinstitution": "Abtei Saint-Martial, möglicherweise für Saint-Martin",
+  "ordenstradition": "",
+  "quellentyp": "Tropar, Mess- und Offiziumsgesänge, Sequentiar, Prosen, Prozessionar, Offertoriale, Tonar",
+  "bibliotheksort": "Paris",
+  "bibliothek": "Bibliothèque nationale de France",
+  "bibliothekssignatur": "Lat. 909",
+  "kommentar": "",
+  "datierung": "11. Jh 1. Drittel",
+  "status": "",
+  "jahrhundert": "11.",
+  "manifest": "",
+  "foliooffset": "pageNr+8",
+  "publish": "all",
+  "cantus_siglum": "Pa 909",
+  "cantus_century": "11.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Pa_909.description.md"
+  }
+}

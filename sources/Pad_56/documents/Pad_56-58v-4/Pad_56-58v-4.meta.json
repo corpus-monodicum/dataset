@@ -1,0 +1,41 @@
+{
+  "id": "299b8fbf-66ba-4303-adf8-5a1efebd805f",
+  "quelle_id": "Pad 56",
+  "dokumenten_id": "Pad 56-58v-4",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "Epiphania",
+  "feier": "",
+  "textinitium": "Apertis thesauris",
+  "bibliographischerverweis": "CAO 1447",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "4",
+  "foliostart": "58v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "58v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Pad 56-58v-4S",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Magi play",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

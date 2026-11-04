@@ -1,0 +1,41 @@
+{
+  "id": "c1f20372-2f5a-48a5-8894-fe540a1a4228",
+  "quelle_id": "Ven 4",
+  "dokumenten_id": "Ven 4-71v-4",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "Annuntiatio Mariae",
+  "feier": "",
+  "textinitium": "Quomodo fiet",
+  "bibliographischerverweis": "CAO 4563",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "4",
+  "foliostart": "71v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "71v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Ven 4-71-2S",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Annunciation",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

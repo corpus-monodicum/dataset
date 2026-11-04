@@ -1,0 +1,41 @@
+{
+  "id": "67312429-fa21-4845-9a6c-cbc951afd1e1",
+  "quelle_id": "Ma 289",
+  "dokumenten_id": "Ma 289-140v-3",
+  "gattung1": "Benedicamus",
+  "gattung2": "untropiert",
+  "festtag": "",
+  "feier": "",
+  "textinitium": "Benedicamus salvatori laudantes",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "3",
+  "foliostart": "140v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Konstantin Voigt",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "140v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "none",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6571afc9-e1cb-4838-a188-390ae80d201d",
+  "quelle_id": "Be 40608",
+  "dokumenten_id": "Be 40608-135-3",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Dedicatio ecclesiae",
+  "feier": "Messe",
+  "textinitium": "Terribilis est locus iste",
+  "bibliographischerverweis": "AMS 100",
+  "druckausgabe": "",
+  "zeilenstart": "3",
+  "foliostart": "135",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "135",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

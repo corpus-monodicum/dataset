@@ -1,0 +1,41 @@
+{
+  "id": "0c145b67-0672-4fc8-9dd5-4993859da718",
+  "quelle_id": "Ei 366",
+  "dokumenten_id": "Ei 366-20-12b",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Inventio crucis",
+  "feier": "Messe",
+  "textinitium": "Haec est sancta sollemnitas sollemnitatum",
+  "bibliographischerverweis": "AH 53, 56",
+  "druckausgabe": "CM III",
+  "zeilenstart": "12",
+  "foliostart": "20",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "21a",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Virgo plorans",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "Virgo plorans",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

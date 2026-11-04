@@ -1,0 +1,41 @@
+{
+  "id": "28128007-c7ef-4400-bc49-faccad1803bc",
+  "quelle_id": "Tsa 135",
+  "dokumenten_id": "Tsa 135-1-1",
+  "gattung1": "Kyrie",
+  "gattung2": "<tropiert>",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "?",
+  "bibliographischerverweis": "?",
+  "druckausgabe": "",
+  "zeilenstart": "1",
+  "foliostart": "1",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "1",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "Melnicki ?",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509501",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "Beginn fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

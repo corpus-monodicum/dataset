@@ -1,0 +1,28 @@
+{
+  "source": "Aa_13",
+  "images": [
+    {
+      "file": "patterns/patterns.svg",
+      "kind": "patterns",
+      "media_type": "image/svg+xml",
+      "sha256": "c1034f08fc5e720f6b361a93a683921bec435c889b7cffd31e003f3357d2b1a6",
+      "bytes": 69868,
+      "shows": "Aa 13: Muster &amp; Entsprechungen",
+      "embeds_raster_image": false,
+      "source": {
+        "siglum": "Aa 13",
+        "library": "Domarchiv",
+        "place": "Aachen",
+        "shelfmark": "Hs. G 13",
+        "iiif_manifests": [],
+        "online_catalogue": []
+      },
+      "rights": {
+        "status": "not checked",
+        "library_terms_url": null,
+        "statement": null,
+        "note": "The images are crops of manuscript images of the library named under `source`; the rights of the library are not settled by the licence of this dataset (see docs/LICENCE-DECISION.md)."
+      }
+    }
+  ]
+}

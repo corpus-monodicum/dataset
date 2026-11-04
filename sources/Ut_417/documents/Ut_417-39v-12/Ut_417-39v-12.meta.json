@@ -1,0 +1,41 @@
+{
+  "id": "ebc603ee-6541-4dce-a3c7-e55030d74d9d",
+  "quelle_id": "Ut 417",
+  "dokumenten_id": "Ut 417-39v-12",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Virgines",
+  "feier": "Messe",
+  "textinitium": "Gaude caelestis sponsa",
+  "bibliographischerverweis": "AH 54, 92",
+  "druckausgabe": "",
+  "zeilenstart": "12",
+  "foliostart": "39v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "40",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Adducentur",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

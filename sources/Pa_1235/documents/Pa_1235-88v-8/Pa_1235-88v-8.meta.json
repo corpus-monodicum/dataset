@@ -1,0 +1,41 @@
+{
+  "id": "49787dd1-2b6e-4601-bca4-ed3fdec88048",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-88v-8",
+  "gattung1": "Antiphon",
+  "gattung2": "Communio",
+  "festtag": "Ascensio domini",
+  "feier": "Messe",
+  "textinitium": "Psallite domino",
+  "bibliographischerverweis": "AMS 102",
+  "druckausgabe": "II-1",
+  "zeilenstart": "8",
+  "foliostart": "88v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "88v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

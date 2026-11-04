@@ -1,0 +1,41 @@
+{
+  "id": "9f6688ec-49f4-4983-8588-3cdb45c3d824",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-201-6b",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Nativitas Mariae",
+  "feier": "Messe",
+  "textinitium": "Hodie mundo festivus ... nativitatis Mariae*",
+  "bibliographischerverweis": "Gaud 71b",
+  "druckausgabe": "II-1",
+  "zeilenstart": "6",
+  "foliostart": "201",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "Pro 12 195v-4-",
+    "Endseite": "201",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

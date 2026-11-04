@@ -1,0 +1,25 @@
+{
+  "id": "Dar 868",
+  "quellensigle": "Dar 868",
+  "herkunftsregion": "Quellen aus Ordenstraditionen",
+  "herkunftsort": "Arnstein",
+  "herkunftsinstitution": "",
+  "ordenstradition": "Prämonstratenser",
+  "quellentyp": "Graduale, Kyriale, Sequentiar",
+  "bibliotheksort": "Darmstadt",
+  "bibliothek": "Universitäts- und Landesbibliothek",
+  "bibliothekssignatur": "Hs. 868",
+  "kommentar": "",
+  "datierung": "12. Jh (um 1180)",
+  "status": "",
+  "jahrhundert": "12.",
+  "manifest": "",
+  "foliooffset": "pageNr+6",
+  "publish": "all",
+  "cantus_siglum": "Dar 868",
+  "cantus_century": "12.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Dar_868.description.md"
+  }
+}

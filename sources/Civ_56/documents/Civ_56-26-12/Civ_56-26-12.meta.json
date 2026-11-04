@@ -1,0 +1,41 @@
+{
+  "id": "fa6dc980-c63d-4bbf-8c71-4e8d1a5ef974",
+  "quelle_id": "Civ 56",
+  "dokumenten_id": "Civ 56-26-12",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Iohannes Evangelista",
+  "feier": "Messe",
+  "textinitium": "Quoniam dominus",
+  "bibliographischerverweis": "Ioh ev intr 15 A 16 B 17 C 18 D E 19 (CT I)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "12",
+  "foliostart": "26",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "In medio",
+    "Endseite": "27",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Ioh ev intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

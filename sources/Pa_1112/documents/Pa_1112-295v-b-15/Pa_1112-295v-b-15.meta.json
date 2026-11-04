@@ -1,0 +1,41 @@
+{
+  "id": "d1fa8831-d276-48a3-8313-27ec8f1845fd",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-295v-b-15",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Augustinus",
+  "feier": "Messe",
+  "textinitium": "Supernae matris*",
+  "bibliographischerverweis": "AH 55, 37",
+  "druckausgabe": "CM III",
+  "zeilenstart": "15",
+  "foliostart": "295v-b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "295v-b",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "15",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5b7f0d64-50c7-40c6-92d6-f84ff58f200a",
+  "quelle_id": "La 263",
+  "dokumenten_id": "La 263-145-19b",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "Pascha",
+  "feier": "Prozession",
+  "textinitium": "Christus resurgens*",
+  "bibliographischerverweis": "CAO 1796",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "19",
+  "foliostart": "145",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "145",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "La 263-145-13S",
+    "Endzeile": "19",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Easter play / Osterspiel",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

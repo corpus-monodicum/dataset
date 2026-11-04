@@ -1,0 +1,25 @@
+{
+  "id": "Pa 1119",
+  "quellensigle": "Pa 1119",
+  "herkunftsregion": "Quellen aquitanischer Herkunft",
+  "herkunftsort": "Limoges",
+  "herkunftsinstitution": "Abtei Saint-Martial",
+  "ordenstradition": "",
+  "quellentyp": "Tropar, Sequentiar",
+  "bibliotheksort": "Paris",
+  "bibliothek": "Bibliothèque nationale de France",
+  "bibliothekssignatur": "Lat. 1119",
+  "kommentar": "",
+  "datierung": "11. Jh Mitte",
+  "status": "",
+  "jahrhundert": "11.",
+  "manifest": "",
+  "foliooffset": "pageNr+5",
+  "publish": "all",
+  "cantus_siglum": "Pa 1119",
+  "cantus_century": "11.",
+  "dataset_external_files": {
+    "beschreibung": "Pa_1119.description.md",
+    "notationsdokumentation": "notation/Pa_1119.notation.md"
+  }
+}

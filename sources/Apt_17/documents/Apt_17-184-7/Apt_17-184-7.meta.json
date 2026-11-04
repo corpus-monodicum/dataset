@@ -1,0 +1,41 @@
+{
+  "id": "2ef4f08a-657b-410b-afdf-d02367ed6e84",
+  "quelle_id": "Apt 17",
+  "dokumenten_id": "Apt 17-184-7",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Dedicatio ecclesiae",
+  "feier": "Messe",
+  "textinitium": "Psallite cum laude",
+  "bibliographischerverweis": "Ded intr 96 A 42 A 43 B 44 C 45 D E 71 A 40 B 72 D 47 A 48 B 49 D 46 A 98 B 56 C 57 D 99 A 51 B 52 C 100 D 101 A 58 B 102 C 103 D 104 F [mel II F] 62 A 105 B 106 C 107 D 108 A 65 B 66 C 67 D 109 A 110 B 111 C 112 A 113 B 114 D (CT VIII)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "7",
+  "foliostart": "184",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "(Terribilis)",
+    "Endseite": "189",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Ded intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

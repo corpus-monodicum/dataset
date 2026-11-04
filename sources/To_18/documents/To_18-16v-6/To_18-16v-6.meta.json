@@ -1,0 +1,41 @@
+{
+  "id": "7a8d010c-63ef-4958-a3da-2e870626212c",
+  "quelle_id": "To 18",
+  "dokumenten_id": "To 18-16v-6",
+  "gattung1": "Sanctus",
+  "gattung2": "tropiert",
+  "festtag": "Nativitas domini",
+  "feier": "3. Messe",
+  "textinitium": "Deus pater ingenitus",
+  "bibliographischerverweis": "CT VII, 40: A B C",
+  "druckausgabe": "",
+  "zeilenstart": "6",
+  "foliostart": "16v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "16v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "Thannabaur 154",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509504",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

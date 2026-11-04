@@ -1,0 +1,41 @@
+{
+  "id": "b4f7fe8d-56e3-473d-b9eb-9ec7df4f1684",
+  "quelle_id": "Mza 11",
+  "dokumenten_id": "Mza 11-114v-5",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Petrus et Paulus",
+  "feier": "Messe",
+  "textinitium": "Nunc scio vere",
+  "bibliographischerverweis": "AMS 122",
+  "druckausgabe": "II-4",
+  "zeilenstart": "5",
+  "foliostart": "114v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "114v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

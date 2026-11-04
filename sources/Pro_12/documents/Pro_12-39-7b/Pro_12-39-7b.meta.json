@@ -1,0 +1,41 @@
+{
+  "id": "f053acb2-2643-4cc6-941a-fdd493ca391e",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-39-7b",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Launomarus",
+  "feier": "Messe",
+  "textinitium": "Organicis ... qui in suis*",
+  "bibliographischerverweis": "AH 53, 242",
+  "druckausgabe": "CM III",
+  "zeilenstart": "7",
+  "foliostart": "39",
+  "kommentar": "Querverweis: cclviii (258)",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "39",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Iustus ut palma maior",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

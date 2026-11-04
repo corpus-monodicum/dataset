@@ -1,0 +1,41 @@
+{
+  "id": "e6e1824f-a6cf-4a1e-9c84-9e44b73eecfd",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-281-2",
+  "gattung1": "Sequenz",
+  "gattung2": "Textlos",
+  "festtag": "Beata Maria virgo",
+  "feier": "Messe",
+  "textinitium": "Alleluia",
+  "bibliographischerverweis": "AH 7, 94",
+  "druckausgabe": "CM III",
+  "zeilenstart": "2",
+  "foliostart": "281",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "281",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Dulce lignum",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

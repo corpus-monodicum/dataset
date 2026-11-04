@@ -1,0 +1,41 @@
+{
+  "id": "7859d5f3-9a8d-4dfc-90e0-be8a603cd35b",
+  "quelle_id": "Wü 165",
+  "dokumenten_id": "Wü 165-120v-9",
+  "gattung1": "Antiphon",
+  "gattung2": "Offertorium",
+  "festtag": "Gorgonius",
+  "feier": "Messe",
+  "textinitium": "Posuisti domine",
+  "bibliographischerverweis": "AMS 148",
+  "druckausgabe": "II-2",
+  "zeilenstart": "9",
+  "foliostart": "120v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "120v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

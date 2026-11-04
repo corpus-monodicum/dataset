@@ -1,0 +1,41 @@
+{
+  "id": "f347ecde-915f-4255-b563-7a95fbbc4d0e",
+  "quelle_id": "Ass 695",
+  "dokumenten_id": "Ass 695-238v-7II",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Beata Maria virgo",
+  "feier": "Messe",
+  "textinitium": "Ave sidus lux",
+  "bibliographischerverweis": "AH 54, 247",
+  "druckausgabe": "CM III",
+  "zeilenstart": "7",
+  "foliostart": "238v",
+  "kommentar": "Oberstimme",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "239v",
+    "Startposition": "II",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "Mza 77",
+  "quellensigle": "Mza 77",
+  "herkunftsregion": "Quellen italienischer Herkunft",
+  "herkunftsort": "Monza",
+  "herkunftsinstitution": "",
+  "ordenstradition": "",
+  "quellentyp": "Graduale, Kyriale, Tropar, Sequentiar",
+  "bibliotheksort": "Monza",
+  "bibliothek": "Biblioteca Capitolare",
+  "bibliothekssignatur": "Ms. c. 14/77",
+  "kommentar": "",
+  "datierung": "12. Jh – 13. Jh",
+  "status": "",
+  "jahrhundert": "12., 13.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Mza 77",
+  "cantus_century": "12., 13.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Mza_77.description.md"
+  }
+}

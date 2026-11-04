@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pad 16: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Michael Klaper</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Ordinariumsgesänge)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Gunilla Iversen</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Ritva Maria Jacobsson</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="Pad_16">
+          <msIdentifier>
+            <settlement>Padua</settlement>
+            <repository>Biblioteca Capitolare</repository>
+            <idno type="shelfmark">B 16*</idno>
+            <altIdentifier type="siglum">
+              <idno>Pad 16</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>Pad 16</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <term type="quellentyp">Graduale, Tropar, Kyriale</term>
+            </summary>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="143v">f. 143v</locus>
+              <title type="incipit">Terribilis est locus iste</title>
+              <idno type="dokumenten_id">Pad 16-143v-4</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="145v">f. 145v</locus>
+              <title type="incipit">Viri Galilaei</title>
+              <idno type="dokumenten_id">Pad 16-145v-2</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="149">f. 149</locus>
+              <title type="incipit">Spiritus domini</title>
+              <idno type="dokumenten_id">Pad 16-149-2</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="14v">f. 14v</locus>
+              <title type="incipit">Puer natus est nobis</title>
+              <idno type="dokumenten_id">Pad 16-14v-6</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="157v">f. 157v</locus>
+              <title type="incipit">De ventre</title>
+              <idno type="dokumenten_id">Pad 16-157v-5</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="16">f. 16</locus>
+              <title type="incipit">Etenim sederunt</title>
+              <idno type="dokumenten_id">Pad 16-16-3</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="161">f. 161</locus>
+              <title type="incipit">Nunc scio vere</title>
+              <idno type="dokumenten_id">Pad 16-161-1</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="18v">f. 18v</locus>
+              <title type="incipit">In medio ecclesiae</title>
+              <idno type="dokumenten_id">Pad 16-18v-6</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="209">f. 209</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pad 16-209-2</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="209">f. 209</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pad 16-209-4</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="216v">f. 216v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pad 16-216v-4</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="216v">f. 216v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pad 16-216v-7</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="217">f. 217</locus>
+              <title type="incipit">Lux et origo</title>
+              <idno type="dokumenten_id">Pad 16-217-11</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="218">f. 218</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Pad 16-218-4</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="219">f. 219</locus>
+              <title type="incipit">Deus fortis ... Filius</title>
+              <idno type="dokumenten_id">Pad 16-219-3</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="219">f. 219</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Pad 16-219-9</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="219v">f. 219v</locus>
+              <title type="incipit">Kyrie eleyson*</title>
+              <idno type="dokumenten_id">Pad 16-219v-2a</idno>
+            </msItem>
+            <msItem n="18">
+              <locus from="219v">f. 219v</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pad 16-219v-2b</idno>
+            </msItem>
+            <msItem n="19">
+              <locus from="220v">f. 220v</locus>
+              <title type="incipit">Sanctus ... dominus deus*</title>
+              <idno type="dokumenten_id">Pad 16-220v-9a</idno>
+            </msItem>
+            <msItem n="20">
+              <locus from="220v">f. 220v</locus>
+              <title type="incipit">Agnus dei*</title>
+              <idno type="dokumenten_id">Pad 16-220v-9b</idno>
+            </msItem>
+            <msItem n="21">
+              <locus from="221">f. 221</locus>
+              <title type="incipit">Hodie cantandus est</title>
+              <idno type="dokumenten_id">Pad 16-221-3</idno>
+            </msItem>
+            <msItem n="22">
+              <locus from="221v">f. 221v</locus>
+              <title type="incipit">Rex pie rex regum</title>
+              <idno type="dokumenten_id">Pad 16-221v-8</idno>
+            </msItem>
+            <msItem n="23">
+              <locus from="222v">f. 222v</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pad 16-222v-8</idno>
+            </msItem>
+            <msItem n="24">
+              <locus from="224">f. 224</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Pad 16-224-4</idno>
+            </msItem>
+            <msItem n="25">
+              <locus from="224">f. 224</locus>
+              <title type="incipit">Hodie natus est nobis</title>
+              <idno type="dokumenten_id">Pad 16-224-8</idno>
+            </msItem>
+            <msItem n="26">
+              <locus from="224v">f. 224v</locus>
+              <title type="incipit">Beatus protomartyr</title>
+              <idno type="dokumenten_id">Pad 16-224v-8</idno>
+            </msItem>
+            <msItem n="27">
+              <locus from="225">f. 225</locus>
+              <title type="incipit">Kyrie eleyson*</title>
+              <idno type="dokumenten_id">Pad 16-225-4</idno>
+            </msItem>
+            <msItem n="28">
+              <locus from="225">f. 225</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pad 16-225-5</idno>
+            </msItem>
+            <msItem n="29">
+              <locus from="226">f. 226</locus>
+              <title type="incipit">Sanctus ... dominus deus*</title>
+              <idno type="dokumenten_id">Pad 16-226-6a</idno>
+            </msItem>
+            <msItem n="30">
+              <locus from="226">f. 226</locus>
+              <title type="incipit">Agnus dei*</title>
+              <idno type="dokumenten_id">Pad 16-226-6b</idno>
+            </msItem>
+            <msItem n="31">
+              <locus from="226">f. 226</locus>
+              <title type="incipit">Ecce iam Iohannis</title>
+              <idno type="dokumenten_id">Pad 16-226-7</idno>
+            </msItem>
+            <msItem n="32">
+              <locus from="226v">f. 226v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pad 16-226v-2</idno>
+            </msItem>
+            <msItem n="33">
+              <locus from="226v">f. 226v</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pad 16-226v-5</idno>
+            </msItem>
+            <msItem n="34">
+              <locus from="227v">f. 227v</locus>
+              <title type="incipit">Sanctus ... dominus deus*</title>
+              <idno type="dokumenten_id">Pad 16-227v-4</idno>
+            </msItem>
+            <msItem n="35">
+              <locus from="227v">f. 227v</locus>
+              <title type="incipit">Celsa nunc omnes</title>
+              <idno type="dokumenten_id">Pad 16-227v-5</idno>
+            </msItem>
+            <msItem n="36">
+              <locus from="228">f. 228</locus>
+              <title type="incipit">Kyrie eleyson*</title>
+              <idno type="dokumenten_id">Pad 16-228-1</idno>
+            </msItem>
+            <msItem n="37">
+              <locus from="228">f. 228</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pad 16-228-2a</idno>
+            </msItem>
+            <msItem n="38">
+              <locus from="228">f. 228</locus>
+              <title type="incipit">Sanctus ... dominus deus*</title>
+              <idno type="dokumenten_id">Pad 16-228-3a</idno>
+            </msItem>
+            <msItem n="39">
+              <locus from="228">f. 228</locus>
+              <title type="incipit">Agnus dei*</title>
+              <idno type="dokumenten_id">Pad 16-228-3b</idno>
+            </msItem>
+            <msItem n="40">
+              <locus from="228">f. 228</locus>
+              <title type="incipit">Kyrie eleyson*</title>
+              <idno type="dokumenten_id">Pad 16-228-4a</idno>
+            </msItem>
+            <msItem n="41">
+              <locus from="228">f. 228</locus>
+              <title type="incipit">Ecclesiae sponsus</title>
+              <idno type="dokumenten_id">Pad 16-228-5</idno>
+            </msItem>
+            <msItem n="42">
+              <locus from="228v">f. 228v</locus>
+              <title type="incipit">Cunctipotens genitor</title>
+              <idno type="dokumenten_id">Pad 16-228v-8</idno>
+            </msItem>
+            <msItem n="43">
+              <locus from="229v">f. 229v</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pad 16-229v-5</idno>
+            </msItem>
+            <msItem n="44">
+              <locus from="231">f. 231</locus>
+              <title type="incipit">Plebs subiecta</title>
+              <idno type="dokumenten_id">Pad 16-231-9</idno>
+            </msItem>
+            <msItem n="45">
+              <locus from="231v">f. 231v</locus>
+              <title type="incipit">Kyrie eleyson*</title>
+              <idno type="dokumenten_id">Pad 16-231v-1</idno>
+            </msItem>
+            <msItem n="46">
+              <locus from="231v">f. 231v</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pad 16-231v-2</idno>
+            </msItem>
+            <msItem n="47">
+              <locus from="234v">f. 234v</locus>
+              <title type="incipit">Kyrie eleyson*</title>
+              <idno type="dokumenten_id">Pad 16-234v-5a</idno>
+            </msItem>
+            <msItem n="48">
+              <locus from="234v">f. 234v</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pad 16-234v-5b</idno>
+            </msItem>
+            <msItem n="49">
+              <locus from="235">f. 235</locus>
+              <title type="incipit">Sanctus ... dominus deus*</title>
+              <idno type="dokumenten_id">Pad 16-235-8a</idno>
+            </msItem>
+            <msItem n="50">
+              <locus from="235">f. 235</locus>
+              <title type="incipit">Agnus dei*</title>
+              <idno type="dokumenten_id">Pad 16-235-8b</idno>
+            </msItem>
+            <msItem n="51">
+              <locus from="242v">f. 242v</locus>
+              <title type="incipit">Celebremus ovanter</title>
+              <idno type="dokumenten_id">Pad 16-242v-5</idno>
+            </msItem>
+            <msItem n="52">
+              <locus from="243">f. 243</locus>
+              <title type="incipit">Kyrie eleyson*</title>
+              <idno type="dokumenten_id">Pad 16-243-1a</idno>
+            </msItem>
+            <msItem n="53">
+              <locus from="243">f. 243</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pad 16-243-1b</idno>
+            </msItem>
+            <msItem n="54">
+              <locus from="243v">f. 243v</locus>
+              <title type="incipit">Sanctus ... dominus deus*</title>
+              <idno type="dokumenten_id">Pad 16-243v-5a</idno>
+            </msItem>
+            <msItem n="55">
+              <locus from="243v">f. 243v</locus>
+              <title type="incipit">Agnus dei*</title>
+              <idno type="dokumenten_id">Pad 16-243v-5b</idno>
+            </msItem>
+            <msItem n="56">
+              <locus from="243v">f. 243v</locus>
+              <title type="incipit">Hodie redemptor</title>
+              <idno type="dokumenten_id">Pad 16-243v-6</idno>
+            </msItem>
+            <msItem n="57">
+              <locus from="243v">f. 243v</locus>
+              <title type="incipit">Kyrie eleyson*</title>
+              <idno type="dokumenten_id">Pad 16-243v-8a</idno>
+            </msItem>
+            <msItem n="58">
+              <locus from="243v">f. 243v</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pad 16-243v-8b</idno>
+            </msItem>
+            <msItem n="59">
+              <locus from="245">f. 245</locus>
+              <title type="incipit">Laudes deo ore pio*</title>
+              <idno type="dokumenten_id">Pad 16-245-3</idno>
+            </msItem>
+            <msItem n="60">
+              <locus from="245">f. 245</locus>
+              <title type="incipit">Ad dexteram patris</title>
+              <idno type="dokumenten_id">Pad 16-245-4</idno>
+            </msItem>
+            <msItem n="61">
+              <locus from="246v">f. 246v</locus>
+              <title type="incipit">Hodie spiritus sanctus procedens</title>
+              <idno type="dokumenten_id">Pad 16-246v-9</idno>
+            </msItem>
+            <msItem n="62">
+              <locus from="247">f. 247</locus>
+              <title type="incipit">Kyrie eleyson*</title>
+              <idno type="dokumenten_id">Pad 16-247-2a</idno>
+            </msItem>
+            <msItem n="63">
+              <locus from="247">f. 247</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pad 16-247-2b</idno>
+            </msItem>
+            <msItem n="64">
+              <locus from="248">f. 248</locus>
+              <title type="incipit">Laudes deo ore pio*</title>
+              <idno type="dokumenten_id">Pad 16-248-9a</idno>
+            </msItem>
+            <msItem n="65">
+              <locus from="248">f. 248</locus>
+              <title type="incipit">Ad dexteram patris*</title>
+              <idno type="dokumenten_id">Pad 16-248-9b</idno>
+            </msItem>
+            <msItem n="66">
+              <locus from="24v">f. 24v</locus>
+              <title type="incipit">Ecce advenit</title>
+              <idno type="dokumenten_id">Pad 16-24v-7</idno>
+            </msItem>
+            <msItem n="67">
+              <locus from="251v">f. 251v</locus>
+              <title type="incipit">Audite insulae</title>
+              <idno type="dokumenten_id">Pad 16-251v-3</idno>
+            </msItem>
+            <msItem n="68">
+              <locus from="251v">f. 251v</locus>
+              <title type="incipit">Kyrie eleyson*</title>
+              <idno type="dokumenten_id">Pad 16-251v-7</idno>
+            </msItem>
+            <msItem n="69">
+              <locus from="251v">f. 251v</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pad 16-251v-8</idno>
+            </msItem>
+            <msItem n="70">
+              <locus from="252v">f. 252v</locus>
+              <title type="incipit">Sanctus ... dominus deus*</title>
+              <idno type="dokumenten_id">Pad 16-252v-4</idno>
+            </msItem>
+            <msItem n="71">
+              <locus from="252v">f. 252v</locus>
+              <title type="incipit">Quem Iohannes in Iordane</title>
+              <idno type="dokumenten_id">Pad 16-252v-5</idno>
+            </msItem>
+            <msItem n="72">
+              <locus from="253">f. 253</locus>
+              <title type="incipit">Beatissimus Petrus</title>
+              <idno type="dokumenten_id">Pad 16-253-3</idno>
+            </msItem>
+            <msItem n="73">
+              <locus from="253">f. 253</locus>
+              <title type="incipit">Kyrie eleyson*</title>
+              <idno type="dokumenten_id">Pad 16-253-8a</idno>
+            </msItem>
+            <msItem n="74">
+              <locus from="253">f. 253</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pad 16-253-8b</idno>
+            </msItem>
+            <msItem n="75">
+              <locus from="254">f. 254</locus>
+              <title type="incipit">Sanctus ... dominus deus*</title>
+              <idno type="dokumenten_id">Pad 16-254-7a</idno>
+            </msItem>
+            <msItem n="76">
+              <locus from="254">f. 254</locus>
+              <title type="incipit">Agnus dei*</title>
+              <idno type="dokumenten_id">Pad 16-254-7b</idno>
+            </msItem>
+            <msItem n="77">
+              <locus from="254">f. 254</locus>
+              <title type="incipit">Vox domino</title>
+              <idno type="dokumenten_id">Pad 16-254-8</idno>
+            </msItem>
+            <msItem n="78">
+              <locus from="254v">f. 254v</locus>
+              <title type="incipit">Kyrie eleyson*</title>
+              <idno type="dokumenten_id">Pad 16-254v-1a</idno>
+            </msItem>
+            <msItem n="79">
+              <locus from="254v">f. 254v</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pad 16-254v-1b</idno>
+            </msItem>
+            <msItem n="80">
+              <locus from="255">f. 255</locus>
+              <title type="incipit">Sanctus ... dominus deus*</title>
+              <idno type="dokumenten_id">Pad 16-255-8a</idno>
+            </msItem>
+            <msItem n="81">
+              <locus from="255">f. 255</locus>
+              <title type="incipit">Agnus dei*</title>
+              <idno type="dokumenten_id">Pad 16-255-8b</idno>
+            </msItem>
+            <msItem n="82">
+              <locus from="255">f. 255</locus>
+              <title type="incipit">Hodie assumpta est</title>
+              <idno type="dokumenten_id">Pad 16-255-9</idno>
+            </msItem>
+            <msItem n="83">
+              <locus from="255v">f. 255v</locus>
+              <title type="incipit">Kyrie eleyson*</title>
+              <idno type="dokumenten_id">Pad 16-255v-6a</idno>
+            </msItem>
+            <msItem n="84">
+              <locus from="255v">f. 255v</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pad 16-255v-6b</idno>
+            </msItem>
+            <msItem n="85">
+              <locus from="257">f. 257</locus>
+              <title type="incipit">Sanctus ... dominus deus*</title>
+              <idno type="dokumenten_id">Pad 16-257-1a</idno>
+            </msItem>
+            <msItem n="86">
+              <locus from="257">f. 257</locus>
+              <title type="incipit">Agnus dei*</title>
+              <idno type="dokumenten_id">Pad 16-257-1b</idno>
+            </msItem>
+            <msItem n="87">
+              <locus from="257v">f. 257v</locus>
+              <title type="incipit">A solis ortu</title>
+              <idno type="dokumenten_id">Pad 16-257v-10</idno>
+            </msItem>
+            <msItem n="88">
+              <locus from="258">f. 258</locus>
+              <title type="incipit">Kyrie eleyson*</title>
+              <idno type="dokumenten_id">Pad 16-258-4a</idno>
+            </msItem>
+            <msItem n="89">
+              <locus from="258">f. 258</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pad 16-258-4b</idno>
+            </msItem>
+            <msItem n="90">
+              <locus from="258v">f. 258v</locus>
+              <title type="incipit">Agnus dei*</title>
+              <idno type="dokumenten_id">Pad 16-258v-10a</idno>
+            </msItem>
+            <msItem n="91">
+              <locus from="258v">f. 258v</locus>
+              <title type="incipit">Kyrie eleyson*</title>
+              <idno type="dokumenten_id">Pad 16-258v-10b</idno>
+            </msItem>
+            <msItem n="92">
+              <locus from="258v">f. 258v</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pad 16-258v-10c</idno>
+            </msItem>
+            <msItem n="93">
+              <locus from="258v">f. 258v</locus>
+              <title type="incipit">Sanctus ... dominus deus*</title>
+              <idno type="dokumenten_id">Pad 16-258v-7</idno>
+            </msItem>
+            <msItem n="94">
+              <locus from="259">f. 259</locus>
+              <title type="incipit">Kyrie eleyson*</title>
+              <idno type="dokumenten_id">Pad 16-259-8a</idno>
+            </msItem>
+            <msItem n="95">
+              <locus from="259">f. 259</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pad 16-259-8b</idno>
+            </msItem>
+            <msItem n="96">
+              <locus from="262v">f. 262v</locus>
+              <title type="incipit">O quam glorifico</title>
+              <idno type="dokumenten_id">Pad 16-262v-5</idno>
+            </msItem>
+            <msItem n="97">
+              <locus from="268">f. 268</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pad 16-268-11</idno>
+            </msItem>
+            <msItem n="98">
+              <locus from="268">f. 268</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pad 16-268-9</idno>
+            </msItem>
+            <msItem n="99">
+              <locus from="268v">f. 268v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pad 16-268v-2</idno>
+            </msItem>
+            <msItem n="100">
+              <locus from="268v">f. 268v</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Pad 16-268v-4</idno>
+            </msItem>
+            <msItem n="101">
+              <locus from="269">f. 269</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Pad 16-269-8</idno>
+            </msItem>
+            <msItem n="102">
+              <locus from="270">f. 270</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Pad 16-270-3</idno>
+            </msItem>
+            <msItem n="103">
+              <locus from="270v">f. 270v</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Pad 16-270v-6</idno>
+            </msItem>
+            <msItem n="104">
+              <locus from="271">f. 271</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Pad 16-271-9</idno>
+            </msItem>
+            <msItem n="105">
+              <locus from="271v">f. 271v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Pad 16-271v-4</idno>
+            </msItem>
+            <msItem n="106">
+              <locus from="271v">f. 271v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Pad 16-271v-6</idno>
+            </msItem>
+            <msItem n="107">
+              <locus from="271v">f. 271v</locus>
+              <title type="incipit">Ite bracchio</title>
+              <idno type="dokumenten_id">Pad 16-271v-8</idno>
+            </msItem>
+            <msItem n="108">
+              <locus from="272">f. 272</locus>
+              <title type="incipit">Ite laudantes</title>
+              <idno type="dokumenten_id">Pad 16-272-3</idno>
+            </msItem>
+            <msItem n="109">
+              <locus from="274">f. 274</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Pad 16-274-1</idno>
+            </msItem>
+            <msItem n="110">
+              <locus from="274v">f. 274v</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Pad 16-274v-4</idno>
+            </msItem>
+            <msItem n="111">
+              <locus from="274v">f. 274v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Pad 16-274v-8</idno>
+            </msItem>
+            <msItem n="112">
+              <locus from="275">f. 275</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Pad 16-275-1</idno>
+            </msItem>
+            <msItem n="113">
+              <locus from="275">f. 275</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Pad 16-275-3</idno>
+            </msItem>
+            <msItem n="114">
+              <locus from="277v">f. 277v</locus>
+              <title type="incipit">Canamus cuncti</title>
+              <idno type="dokumenten_id">Pad 16-277v-8</idno>
+            </msItem>
+            <msItem n="115">
+              <locus from="37">f. 37</locus>
+              <title type="incipit">Suscepimus</title>
+              <idno type="dokumenten_id">Pad 16-37-10</idno>
+            </msItem>
+            <msItem n="116">
+              <locus from="38v">f. 38v</locus>
+              <title type="incipit">Gaudeamus omnes ... Agathae</title>
+              <idno type="dokumenten_id">Pad 16-38v-8</idno>
+            </msItem>
+            <msItem n="117">
+              <locus from="59v">f. 59v</locus>
+              <title type="incipit">Confessio</title>
+              <idno type="dokumenten_id">Pad 16-59v-2</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Padua</settlement>
+                <region>Quellen italienischer Herkunft</region>
+                <orgName>Benediktinerinnenkloster S. Pietro</orgName>
+              </origPlace>
+              <origDate>13. Jh (1290)</origDate>
+            </origin>
+          </history>
+          <additional>
+            <adminInfo>
+              <note type="description">
+                <ref target="Pad_16.description.md">Source description</ref>
+              </note>
+            </adminInfo>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

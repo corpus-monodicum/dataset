@@ -1,0 +1,41 @@
+{
+  "id": "b2d93a45-1305-41c2-b2b9-aa50cf3b2836",
+  "quelle_id": "Halb 45",
+  "dokumenten_id": "Halb 45-32-5",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Adventus reliquiarum",
+  "feier": "Messe",
+  "textinitium": "O quam glorifico*",
+  "bibliographischerverweis": "Gaudeamus intr 15 (CT X)",
+  "druckausgabe": "II-2",
+  "zeilenstart": "5",
+  "foliostart": "32",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "(Salus autem)",
+    "Endseite": "32",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Gaudeamus intr",
+    "Zusatz_zu_Textinitium": "Nur Incipit ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

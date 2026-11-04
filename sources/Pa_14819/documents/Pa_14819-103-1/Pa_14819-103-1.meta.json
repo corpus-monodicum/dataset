@@ -1,0 +1,41 @@
+{
+  "id": "47dcd6eb-d32f-4009-9e8d-4d6beb46f3a2",
+  "quelle_id": "Pa 14819",
+  "dokumenten_id": "Pa 14819-103-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Paulus",
+  "feier": "Messe",
+  "textinitium": "Corde voce",
+  "bibliographischerverweis": "AH 55, 278",
+  "druckausgabe": "CM III",
+  "zeilenstart": "1",
+  "foliostart": "103",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "104v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "41604e20-52e4-420a-83b6-abb5e51d5837",
+  "quelle_id": "To 18",
+  "dokumenten_id": "To 18-89-5",
+  "gattung1": "Tropus",
+  "gattung2": "Offertorium-Tropus",
+  "festtag": "Pascha",
+  "feier": "Messe",
+  "textinitium": "Terra tremuit ... leo fortis",
+  "bibliographischerverweis": "Resurr off 2 1 A 9 B 10 C A B C 3 D E 5 F 13 G E (CT III)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "5",
+  "foliostart": "89",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Terra tremuit",
+    "Endseite": "89v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Resurr off",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

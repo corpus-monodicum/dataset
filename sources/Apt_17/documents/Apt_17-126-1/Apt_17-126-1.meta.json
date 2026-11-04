@@ -1,0 +1,41 @@
+{
+  "id": "5324e541-cccf-4088-8cb9-ff65e1dc7f11",
+  "quelle_id": "Apt 17",
+  "dokumenten_id": "Apt 17-126-1",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Pascha",
+  "feier": "Messe",
+  "textinitium": "Hora est psallite ... eia",
+  "bibliographischerverweis": "Resurr intr G Q A (CT III, S. 220, 217, 218) A 50 A 51 C 52 D G 64 A 65 C 66 D 88 A 89 C 90 D 102 F H 92 A 46 C 47 D 48 F 103 I [mel IV B] 49 A 93 C 94 D 57 F 95 A 96 C 97 D 98 F K 83 A 104 B 105 C 106 D 107 F L 58 A 59 B 61 C 60 D 62 E 63 F 101 A 108 C 109 D 70 A 110 C 111 D 112 A 113 C 114 D 115 A 116 C 117 D (CT III)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "1",
+  "foliostart": "126",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "(Resurrexi)",
+    "Endseite": "133",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Resurr intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

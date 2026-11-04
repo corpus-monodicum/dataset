@@ -1,0 +1,41 @@
+{
+  "id": "19429288-fa9e-4252-bfd5-fcc092f7b795",
+  "quelle_id": "Mod 7",
+  "dokumenten_id": "Mod 7-153v-2",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Iohannes Baptista",
+  "feier": "Messe",
+  "textinitium": "Clara iam nobis",
+  "bibliographischerverweis": "De ventre intr 71 A 74 B 75 C 76 D 72 E 31 A (CT X)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "2",
+  "foliostart": "153v",
+  "kommentar": "Elemente 74, 75, 76 und 72 radiert",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "De ventre",
+    "Endseite": "154",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "De ventre intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

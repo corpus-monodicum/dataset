@@ -1,0 +1,41 @@
+{
+  "id": "b66e68ca-f013-4948-8b6c-513b220aa771",
+  "quelle_id": "MüU 156",
+  "dokumenten_id": "MüU 156-187-13",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Divisio apostolorum",
+  "feier": "Messe",
+  "textinitium": "Caeli enarrant",
+  "bibliographischerverweis": "AH 50, 267",
+  "druckausgabe": "",
+  "zeilenstart": "13",
+  "foliostart": "187",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Gionata Brusa",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "188v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "-",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

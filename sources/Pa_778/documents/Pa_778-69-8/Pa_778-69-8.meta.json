@@ -1,0 +1,41 @@
+{
+  "id": "f1106eae-7329-48eb-b082-9ccd3474abc5",
+  "quelle_id": "Pa 778",
+  "dokumenten_id": "Pa 778-69-8",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Hilarius",
+  "feier": "Messe",
+  "textinitium": "Nova gratia",
+  "bibliographischerverweis": "AH 7, 135",
+  "druckausgabe": "",
+  "zeilenstart": "8",
+  "foliostart": "69",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "70v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Nova gratia",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

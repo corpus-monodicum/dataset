@@ -1,0 +1,41 @@
+{
+  "id": "b70adb3f-5611-480a-afa5-0ce1f7889ab4",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-268v-a-10",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Ascensio domini",
+  "feier": "Messe",
+  "textinitium": "Rex omnipotens",
+  "bibliographischerverweis": "AH 53, 66",
+  "druckausgabe": "CM III",
+  "zeilenstart": "10",
+  "foliostart": "268v-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "269a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "13",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Occidentana",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

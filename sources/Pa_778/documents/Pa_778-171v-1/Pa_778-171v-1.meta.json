@@ -1,0 +1,41 @@
+{
+  "id": "00629ef6-25fa-4413-85ca-91f1b4bede5d",
+  "quelle_id": "Pa 778",
+  "dokumenten_id": "Pa 778-171v-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominica II post Pascha",
+  "feier": "Messe",
+  "textinitium": "Gaudeat tellus",
+  "bibliographischerverweis": "AH 7, 249",
+  "druckausgabe": "",
+  "zeilenstart": "1",
+  "foliostart": "171v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "173",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "(Gaudeat tellus)",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

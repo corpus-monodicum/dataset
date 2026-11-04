@@ -1,0 +1,41 @@
+{
+  "id": "2d5bb0d8-4648-47c0-a06f-87d9b80e1b7d",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-288-b-5",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Translatio Martini",
+  "feier": "Messe",
+  "textinitium": "Christo inclita",
+  "bibliographischerverweis": "AH 7, 118; AH 53, 115",
+  "druckausgabe": "CM III",
+  "zeilenstart": "5",
+  "foliostart": "288-b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "288v-b",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Eia turma",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

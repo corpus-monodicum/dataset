@@ -1,0 +1,41 @@
+{
+  "id": "da4c378e-4958-4947-a98d-1ce4a69ca991",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-178-8",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominica II adventus",
+  "feier": "Messe",
+  "textinitium": "Salus aeterna indeficiens",
+  "bibliographischerverweis": "AH 53, 1",
+  "druckausgabe": "CM III",
+  "zeilenstart": "8",
+  "foliostart": "178",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "178v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Aurea",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

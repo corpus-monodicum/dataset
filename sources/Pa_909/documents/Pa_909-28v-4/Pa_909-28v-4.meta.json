@@ -1,0 +1,41 @@
+{
+  "id": "b3e10b86-b6b4-442f-b7da-ddc65652e057",
+  "quelle_id": "Pa 909",
+  "dokumenten_id": "Pa 909-28v-4",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Philippus et Iacobus",
+  "feier": "Messe",
+  "textinitium": "Mortificando",
+  "bibliographischerverweis": "Exclamaverunt intr 6 A 7 B 8 C D 12 A E 9 A 10 B 11 C (CT X)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "4",
+  "foliostart": "28v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "Exclamaverunt",
+    "Endseite": "28v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "14",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Exclamaverunt intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

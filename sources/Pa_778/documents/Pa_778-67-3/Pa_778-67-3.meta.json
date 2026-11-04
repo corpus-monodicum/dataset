@@ -1,0 +1,41 @@
+{
+  "id": "442861ce-da5f-49c3-8e77-f343f6c2cd01",
+  "quelle_id": "Pa 778",
+  "dokumenten_id": "Pa 778-67-3",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Vincentius",
+  "feier": "Messe",
+  "textinitium": "Praecelsa intonent",
+  "bibliographischerverweis": "AH 7, 206",
+  "druckausgabe": "",
+  "zeilenstart": "3",
+  "foliostart": "67",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "68",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Iusti epulentur",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

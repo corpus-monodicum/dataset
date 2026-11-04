@@ -1,0 +1,41 @@
+{
+  "id": "4017dd0c-5215-4c61-97e1-85d966bdeb81",
+  "quelle_id": "Pa 903",
+  "dokumenten_id": "Pa 903-63-9",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Feria III in palmis",
+  "feier": "Messe",
+  "textinitium": "Nos autem gloriari",
+  "bibliographischerverweis": "AMS 75",
+  "druckausgabe": "II-3",
+  "zeilenstart": "9",
+  "foliostart": "63",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "63",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

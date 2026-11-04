@@ -1,0 +1,25 @@
+{
+  "id": "Mü 5539",
+  "quellensigle": "Mü 5539",
+  "herkunftsregion": "Quellen deutscher Herkunft",
+  "herkunftsort": "Dießen",
+  "herkunftsinstitution": "Augustiner-Chorherrenstift",
+  "ordenstradition": "",
+  "quellentyp": "",
+  "bibliotheksort": "München",
+  "bibliothek": "Bayerische Staatsbibliothek",
+  "bibliothekssignatur": "Clm 5539",
+  "kommentar": "",
+  "datierung": "14. Jh 1. Hälfte",
+  "status": "",
+  "jahrhundert": "14.",
+  "manifest": "",
+  "foliooffset": "pageNr+4",
+  "publish": "all",
+  "cantus_siglum": "Mü 5539",
+  "cantus_century": "14.",
+  "dataset_external_files": {
+    "beschreibung": "Mü_5539.description.md",
+    "notationsdokumentation": "notation/Mü_5539.notation.md"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "Mü 4101",
+  "quellensigle": "Mü 4101",
+  "herkunftsregion": "Quellen deutscher Herkunft",
+  "herkunftsort": "Augsburg",
+  "herkunftsinstitution": "Augustiner-Chorherrenstift Heilig-Kreuz",
+  "ordenstradition": "",
+  "quellentyp": "Graduale, Kyriale, Sequentiar (, Direktorium)",
+  "bibliotheksort": "München",
+  "bibliothek": "Bayerische Staatsbibliothek",
+  "bibliothekssignatur": "Clm 4101",
+  "kommentar": "",
+  "datierung": "15. Jh Ende (1497)",
+  "status": "",
+  "jahrhundert": "15.",
+  "manifest": "",
+  "foliooffset": "pageNr+7",
+  "publish": "all",
+  "cantus_siglum": "Mü 4101",
+  "cantus_century": "15.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Mü_4101.description.md"
+  }
+}

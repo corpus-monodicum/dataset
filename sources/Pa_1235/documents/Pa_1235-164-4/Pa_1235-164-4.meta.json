@@ -1,0 +1,41 @@
+{
+  "id": "74f8bda1-0bb8-45f9-bb2f-f38c6ad0d540",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-164-4",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Ascensio domini",
+  "feier": "Komplet",
+  "textinitium": "Qui scandis",
+  "bibliographischerverweis": "AH 42, 24",
+  "druckausgabe": "CM III",
+  "zeilenstart": "4",
+  "foliostart": "164",
+  "kommentar": "im Hymnar",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "164",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

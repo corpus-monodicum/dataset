@@ -1,0 +1,25 @@
+{
+  "id": "Si 29",
+  "quellensigle": "Si 29",
+  "herkunftsregion": "Quellen französischer Herkunft",
+  "herkunftsort": "Sion (Sitten)",
+  "herkunftsinstitution": "Basilique de Valère (Valeria)",
+  "ordenstradition": "",
+  "quellentyp": "Graduale mit Tropus, Kyriale mit Tropen, Sequentiar",
+  "bibliotheksort": "Sion (Sitten)",
+  "bibliothek": "Archives du Chapitre",
+  "bibliothekssignatur": "Ms. 29",
+  "kommentar": "",
+  "datierung": "13. Jh 2. Hälfte",
+  "status": "",
+  "jahrhundert": "13.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Si 29",
+  "cantus_century": "13.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Si_29.description.md"
+  }
+}

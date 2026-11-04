@@ -1,0 +1,41 @@
+{
+  "id": "9949fca9-59a3-4ca6-bbfe-02ea1f324504",
+  "quelle_id": "Pad 47",
+  "dokumenten_id": "Pad 47-218-10",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Omnes sancti",
+  "feier": "Messe",
+  "textinitium": "Sanguine sacrati",
+  "bibliographischerverweis": "Gaudeamus intr 73 A 74 B 61 C D (CT X)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "10",
+  "foliostart": "218",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Gaudeamus",
+    "Endseite": "218v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Gaudeamus intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

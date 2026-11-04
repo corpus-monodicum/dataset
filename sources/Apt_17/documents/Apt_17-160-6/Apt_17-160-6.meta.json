@@ -1,0 +1,41 @@
+{
+  "id": "b71ac802-8f9b-4228-8525-65c5264e1d99",
+  "quelle_id": "Apt 17",
+  "dokumenten_id": "Apt 17-160-6",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Feria III post Pascha",
+  "feier": "Messe",
+  "textinitium": "Discipulis dominus",
+  "bibliographischerverweis": "Fer III intr 7 A 8 B 9 C D 17 A 18 B 19 C (CT III)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "6",
+  "foliostart": "160",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "(Aqua)",
+    "Endseite": "161",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Fer III intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

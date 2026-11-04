@@ -1,0 +1,25 @@
+{
+  "id": "Sal 20",
+  "quellensigle": "Sal 20",
+  "herkunftsregion": "Quellen deutscher Herkunft",
+  "herkunftsort": "Regensburg",
+  "herkunftsinstitution": "Sankt Ägid, Kommende des Deutschen Ordens",
+  "ordenstradition": "",
+  "quellentyp": "Graduale mit Tropen, Kyriale, Sequentiar",
+  "bibliotheksort": "Salzburg",
+  "bibliothek": "Bibliothek der Erzabtei Sankt Peter",
+  "bibliothekssignatur": "a VII 20",
+  "kommentar": "",
+  "datierung": "14. Jh 1. Hälfte",
+  "status": "",
+  "jahrhundert": "14.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Sal 20",
+  "cantus_century": "14.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Sal_20.description.md"
+  }
+}

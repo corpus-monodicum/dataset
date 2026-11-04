@@ -1,0 +1,41 @@
+{
+  "id": "73484215-cf52-4b3a-b524-5a98446947f1",
+  "quelle_id": "Ei 366",
+  "dokumenten_id": "Ei 366-19-3b",
+  "gattung1": "Sequenz",
+  "gattung2": "Textlos",
+  "festtag": "Philippus et Iacobus",
+  "feier": "Messe",
+  "textinitium": "Alleluia",
+  "bibliographischerverweis": "AH 54, 74",
+  "druckausgabe": "CM III",
+  "zeilenstart": "3",
+  "foliostart": "19",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "20a",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Occidentana",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "Occidentana",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

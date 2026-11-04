@@ -1,0 +1,41 @@
+{
+  "id": "33898098-ec14-4e87-9230-971fec895104",
+  "quelle_id": "Aut 183",
+  "dokumenten_id": "Aut 183-37v-8",
+  "gattung1": "Tropus",
+  "gattung2": "Offertorium-Tropus",
+  "festtag": "Pascha",
+  "feier": "Messe",
+  "textinitium": "Ab increpatione",
+  "bibliographischerverweis": "Resurr off 1 A 9 B 27 C 10 D (CT III)",
+  "druckausgabe": "",
+  "zeilenstart": "8",
+  "foliostart": "37v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "37v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Resurr off",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

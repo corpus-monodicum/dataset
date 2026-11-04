@@ -1,0 +1,41 @@
+{
+  "id": "b2ebc099-5b0a-443b-897b-fbe2670f6d34",
+  "quelle_id": "Pa 909",
+  "dokumenten_id": "Pa 909-59-5",
+  "gattung1": "Tropus",
+  "gattung2": "Communio-Tropus",
+  "festtag": "Androchius",
+  "feier": "Messe",
+  "textinitium": "Summa dei",
+  "bibliographischerverweis": "Multitudo languentium com 2 A (CT X)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "5",
+  "foliostart": "59",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "Multitudo",
+    "Endseite": "59",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Multitudo languentium com",
+    "Zusatz_zu_Textinitium": "Ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

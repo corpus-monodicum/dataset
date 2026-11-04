@@ -1,0 +1,41 @@
+{
+  "id": "92273e30-482b-4d31-a071-ad07b83f41fd",
+  "quelle_id": "MüU 156",
+  "dokumenten_id": "MüU 156-251-14",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Iohannes Evangelista",
+  "feier": "Messe",
+  "textinitium": "Quoniam dominus",
+  "bibliographischerverweis": "Ioh ev intr 15 A 16 B 17 C 18 D E 19 A (CT I)",
+  "druckausgabe": "II-2",
+  "zeilenstart": "14",
+  "foliostart": "251",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "MüU 156-13-6",
+    "Endseite": "251v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Ioh ev intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

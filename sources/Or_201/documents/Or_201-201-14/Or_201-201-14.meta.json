@@ -1,0 +1,41 @@
+{
+  "id": "130f72e2-7ad7-48e6-851a-fdcd591897a8",
+  "quelle_id": "Or 201",
+  "dokumenten_id": "Or 201-201-14",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Nicolaus",
+  "feier": "Laudes",
+  "textinitium": "Summe regum rex",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "14",
+  "foliostart": "201",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "202",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Or 201-196-16S",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Nicholas play: Son of Getron",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

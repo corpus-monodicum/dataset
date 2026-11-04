@@ -1,0 +1,41 @@
+{
+  "id": "09205e98-cfbc-4ee8-a7d4-447e55534576",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-46-3",
+  "gattung1": "Kyrie",
+  "gattung2": "tropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Christe cui decus",
+  "bibliographischerverweis": "AH 47, 37 (Apparat): 1A 1B 1C 2A 2B 2C 3A 3B 3C",
+  "druckausgabe": "",
+  "zeilenstart": "3",
+  "foliostart": "46",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "46",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "13",
+    "Melodiennummer_Katalog": "Melnicki 47",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509501",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "80f3f736-96df-4d3c-be57-829c48f1d400",
+  "quelle_id": "Pa 903",
+  "dokumenten_id": "Pa 903-151v-4",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Purificatio Mariae",
+  "feier": "Messe",
+  "textinitium": "O nova res",
+  "bibliographischerverweis": "Susc 40 A 41 B 38 C G [mel I D] 43 A 44 B 45 C 60 D 46 F H [mel I B] 61 A 62 B 63 C 64 E (CT IX)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "4",
+  "foliostart": "151v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "Suscepimus)",
+    "Endseite": "151v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "14",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

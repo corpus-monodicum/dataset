@@ -1,0 +1,41 @@
+{
+  "id": "1ec3d681-8be4-4d03-8742-e354bf837a17",
+  "quelle_id": "Ba 12",
+  "dokumenten_id": "Ba 12-53v-7",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Elisabeth",
+  "feier": "Messe",
+  "textinitium": "Gaude Sion quod egressus",
+  "bibliographischerverweis": "AH 55, 120",
+  "druckausgabe": "CM III",
+  "zeilenstart": "7",
+  "foliostart": "53v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "53v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "13",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "Ende fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "Nachtrag 2",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

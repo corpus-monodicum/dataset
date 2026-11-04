@@ -1,0 +1,41 @@
+{
+  "id": "ff33b427-b7e6-455c-b07d-66e51abbcb03",
+  "quelle_id": "Civ 101",
+  "dokumenten_id": "Civ 101-39-15",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "Pascha",
+  "feier": "Prozession / Vesper",
+  "textinitium": "Regina coeli",
+  "bibliographischerverweis": "CAO 4597",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "15",
+  "foliostart": "39",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "39",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Civ 101-38-9S",
+    "Endzeile": "21",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Easter play / Osterspiel",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "676ccc70-3826-4b84-a6e9-de942a624bd7",
+  "quelle_id": "Rhe 2",
+  "dokumenten_id": "Rhe 2-133v-a-16",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "",
+  "feier": "",
+  "textinitium": "Nos uirtutes",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "16",
+  "foliostart": "133v-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "133v-a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Rhe 2-132v-a-38S",
+    "Endzeile": "24",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "Exhortatio virtutum, Scivias Book III Vision 13",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

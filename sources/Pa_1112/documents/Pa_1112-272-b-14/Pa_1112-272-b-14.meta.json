@@ -1,0 +1,41 @@
+{
+  "id": "361a3c32-9a88-4af7-b7f3-b79a094f42a1",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-272-b-14",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Feria VI post Pentecosten",
+  "feier": "Messe",
+  "textinitium": "Alma chorus domini",
+  "bibliographischerverweis": "AH 53, 87",
+  "druckausgabe": "CM III",
+  "zeilenstart": "14",
+  "foliostart": "272-b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "272v-a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "13",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Tuba (A)",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

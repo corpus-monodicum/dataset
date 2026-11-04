@@ -1,0 +1,41 @@
+{
+  "id": "6bf33189-6809-457d-b28c-c24ac397a90f",
+  "quelle_id": "Pst 121",
+  "dokumenten_id": "Pst 121-74-1",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Zeno",
+  "feier": "Messe",
+  "textinitium": "Chori sanctorum ... fratri",
+  "bibliographischerverweis": "Ecce sacerdos ... Zeno intr 1 A 2 B (CT X)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "1",
+  "foliostart": "74",
+  "kommentar": "Lakune (nach Ritva, \"et principem\" - Forts. Von \"Statuit\", Psalm: Ecce sacerdos",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Ecce sacerdos ... Zeno",
+    "Endseite": "74",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "Beginn fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Ecce sacerdos ... Zeno intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

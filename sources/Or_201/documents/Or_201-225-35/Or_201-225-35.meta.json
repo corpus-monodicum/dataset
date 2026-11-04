@@ -1,0 +1,41 @@
+{
+  "id": "ac9b43fc-9aa8-4d4c-8cbb-9c4f3e0deff2",
+  "quelle_id": "Or 201",
+  "dokumenten_id": "Or 201-225-35",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Hymnus",
+  "festtag": "Feria III post Pascha",
+  "feier": "Vesper",
+  "textinitium": "Iesu nostra redemptio*",
+  "bibliographischerverweis": "AH 51, 89",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "35",
+  "foliostart": "225",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "225",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Or 201-225-35S",
+    "Endzeile": "35",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Journey to Emmaus",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

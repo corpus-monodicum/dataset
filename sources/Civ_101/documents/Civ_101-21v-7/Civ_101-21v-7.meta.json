@@ -1,0 +1,41 @@
+{
+  "id": "d2706654-5aca-40f2-a484-2948c1062466",
+  "quelle_id": "Civ 101",
+  "dokumenten_id": "Civ 101-21v-7",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Responsorium",
+  "festtag": "Dominica in palmis",
+  "feier": "Prozession",
+  "textinitium": "Salvum me fac",
+  "bibliographischerverweis": "CAO 7566",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "7",
+  "foliostart": "21v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "22",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Civ 101-21-7S",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Entry into Jerusalem",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

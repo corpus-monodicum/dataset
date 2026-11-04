@@ -1,0 +1,41 @@
+{
+  "id": "12b89786-b01e-44cd-bc9d-dabdfa536b43",
+  "quelle_id": "Pa 909",
+  "dokumenten_id": "Pa 909-54v-2",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Martinus",
+  "feier": "Messe",
+  "textinitium": "Laetabunda per orbem",
+  "bibliographischerverweis": "Statuit intr 108 A 157 C 158 D 159 E F 46 A 47 C 48 D 49 E 58 A 121 C 122 D 60 E 109 A 144 C 110 D 111 E 34 A 35 C 145 D 37 E 147 A 113 C 114 D 115 E 148 A 116 B 124 C 125 D 126 E 146 A 117 B 118 C 119 D 120 E 2 A 65 A 136 C 67 D 68 E 104 A 105 C 106 D 107 E 25 A 26 C 27 D 28 E (CT X)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "2",
+  "foliostart": "54v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "Statuit",
+    "Endseite": "57",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Statuit intr",
+    "Zusatz_zu_Textinitium": "9 Tropenelemente ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "b1f80b98-7e04-4317-995d-6d6b450694b8",
+  "quelle_id": "Pa 14452",
+  "dokumenten_id": "Pa 14452-236-10",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Translatio sanctae coronae",
+  "feier": "Messe",
+  "textinitium": "Regis et pontificis",
+  "bibliographischerverweis": "AH 54, 133; AH 8, 16",
+  "druckausgabe": "CM III",
+  "zeilenstart": "10",
+  "foliostart": "236",
+  "kommentar": "Nachtrag_6",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "237v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "Nachtrag_6",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

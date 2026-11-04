@@ -1,0 +1,25 @@
+{
+  "id": "To 18",
+  "quellensigle": "To 18",
+  "herkunftsregion": "Quellen italienischer Herkunft",
+  "herkunftsort": "Bobbio",
+  "herkunftsinstitution": "Abtei San Colombano",
+  "ordenstradition": "",
+  "quellentyp": "Graduale, Tropar, Sequentiar, Kyriale",
+  "bibliotheksort": "Torino",
+  "bibliothek": "Biblioteca Nazionale Universitaria",
+  "bibliothekssignatur": "Ms. F IV 18",
+  "kommentar": "",
+  "datierung": "11. Jh – 12. Jh",
+  "status": "",
+  "jahrhundert": "11., 12.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "To 18",
+  "cantus_century": "11., 12.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "To_18.description.md"
+  }
+}

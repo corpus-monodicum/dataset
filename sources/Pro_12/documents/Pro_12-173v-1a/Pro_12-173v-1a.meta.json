@@ -1,0 +1,41 @@
+{
+  "id": "a4652284-fdb0-4ce5-b44d-7eddb2d4a3a7",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-173v-1a",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Ascensio domini",
+  "feier": "Messe",
+  "textinitium": "Rex omnipotens*",
+  "bibliographischerverweis": "AH 53, 66",
+  "druckausgabe": "CM III",
+  "zeilenstart": "1",
+  "foliostart": "173v",
+  "kommentar": "Querverweis: cclxviii (268)",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "173v",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Occidentana",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

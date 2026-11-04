@@ -1,0 +1,41 @@
+{
+  "id": "728897c8-67ff-441e-a1c8-8e300659eb3c",
+  "quelle_id": "Ben 34",
+  "dokumenten_id": "Ben 34-172v-9",
+  "gattung1": "Gloria",
+  "gattung2": "tropiert",
+  "festtag": "Dedicatio ecclesiae",
+  "feier": "Messe",
+  "textinitium": "Aureas arces",
+  "bibliographischerverweis": "CT XII, 6: 1 3 4 5 6 7 8 9 10 12",
+  "druckausgabe": "",
+  "zeilenstart": "9",
+  "foliostart": "172v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "173v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "Bosse 21",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509502",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "fa5a9e39-eff0-4ba8-93a4-032c67893b87",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-275v-5",
+  "gattung1": "Sequenz",
+  "gattung2": "Textlos",
+  "festtag": "Assumptio Mariae",
+  "feier": "Messe",
+  "textinitium": "Alleluia",
+  "bibliographischerverweis": "AH 7, 107",
+  "druckausgabe": "CM III",
+  "zeilenstart": "5",
+  "foliostart": "275v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "275v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Hodie Maria virgo",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

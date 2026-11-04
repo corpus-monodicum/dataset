@@ -1,0 +1,41 @@
+{
+  "id": "93cadef4-3640-4175-9ebe-3e2dfd9eaa9d",
+  "quelle_id": "WiSch 4/5",
+  "dokumenten_id": "WiSch 4/5-Bv-4",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Iohannes Baptista",
+  "feier": "Messe",
+  "textinitium": "Cunctae gaudentes",
+  "bibliographischerverweis": "De ventre intr 19 A 20 B 21 C 8 A (CT X)",
+  "druckausgabe": "II-2",
+  "zeilenstart": "4",
+  "foliostart": "Bv",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "(De ventre)",
+    "Endseite": "Bv",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "De ventre intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

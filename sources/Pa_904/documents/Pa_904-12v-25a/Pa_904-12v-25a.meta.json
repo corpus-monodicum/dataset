@@ -1,0 +1,41 @@
+{
+  "id": "c557d5ef-d39f-4d6a-ba3a-6f8ceddd967a",
+  "quelle_id": "Pa 904",
+  "dokumenten_id": "Pa 904-12v-25a",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Lectio",
+  "festtag": "Nativitas domini",
+  "feier": "Messe",
+  "textinitium": "",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "25",
+  "foliostart": "12v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "12v",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "Pa 904-12v-22S",
+    "Endzeile": "25",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Christmas play",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

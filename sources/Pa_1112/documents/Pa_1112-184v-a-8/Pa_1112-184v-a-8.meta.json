@@ -1,0 +1,41 @@
+{
+  "id": "90b11f7b-d55d-4744-af52-5c247c323b2d",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-184v-a-8",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Susceptio crucis",
+  "feier": "Messe",
+  "textinitium": "Laudes crucis*",
+  "bibliographischerverweis": "AH 54, 120",
+  "druckausgabe": "",
+  "zeilenstart": "8",
+  "foliostart": "184v-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "184v-a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

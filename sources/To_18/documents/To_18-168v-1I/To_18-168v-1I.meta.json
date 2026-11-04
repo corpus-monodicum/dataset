@@ -1,0 +1,41 @@
+{
+  "id": "8b2e3717-acd5-433a-af92-f8866f0bd56c",
+  "quelle_id": "To 18",
+  "dokumenten_id": "To 18-168v-1I",
+  "gattung1": "Sanctus",
+  "gattung2": "tropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Trinitas unitas",
+  "bibliographischerverweis": "CT VII, 161: 1a 1b 2a 2b 3a 3b 4a 4b 5a 5b",
+  "druckausgabe": "",
+  "zeilenstart": "1",
+  "foliostart": "168v",
+  "kommentar": "Lesart vor Korrektur",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "168v",
+    "Startposition": "I",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "Thannabaur ?",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509504",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

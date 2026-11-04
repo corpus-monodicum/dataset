@@ -1,0 +1,41 @@
+{
+  "id": "6dbe9906-ad1d-4217-aea6-e8a7d775b49f",
+  "quelle_id": "Ma 289",
+  "dokumenten_id": "Ma 289-118v-1",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Feria II post Pascha",
+  "feier": "",
+  "textinitium": "Pax vobis ego sum nolite ... videte",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "1",
+  "foliostart": "118v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "118v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Ma 289-117-7S",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Journey to Emmaus",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

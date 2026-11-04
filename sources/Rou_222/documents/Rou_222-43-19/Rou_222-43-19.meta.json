@@ -1,0 +1,41 @@
+{
+  "id": "27ee485f-1588-4765-a80d-75b2e2d63956",
+  "quelle_id": "Rou 222",
+  "dokumenten_id": "Rou 222-43-19",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Alleluia",
+  "festtag": "Feria II post Pascha",
+  "feier": "Vesper",
+  "textinitium": "Alleluia Redemptionem*",
+  "bibliographischerverweis": "AMS 82",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "19",
+  "foliostart": "43",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "43",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Rou 222-43-19S",
+    "Endzeile": "20",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Journey to Emmaus",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

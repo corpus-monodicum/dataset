@@ -1,0 +1,41 @@
+{
+  "id": "f3b50692-f7bf-47e7-b2a5-12c3f717ab60",
+  "quelle_id": "MüU 156",
+  "dokumenten_id": "MüU 156-262v-5",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Visitatio Mariae",
+  "feier": "Messe",
+  "textinitium": "Veni praecelsa domina",
+  "bibliographischerverweis": "AH 54, 193",
+  "druckausgabe": "",
+  "zeilenstart": "5",
+  "foliostart": "262v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Gionata Brusa",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "263",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "-",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "Nachtrag 2",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

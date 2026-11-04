@@ -1,0 +1,41 @@
+{
+  "id": "2dde0bf2-bafb-417c-99c6-7204f23ed424",
+  "quelle_id": "Pa 909",
+  "dokumenten_id": "Pa 909-60v-13",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Andreas",
+  "feier": "Messe",
+  "textinitium": "Sanctorum collegia",
+  "bibliographischerverweis": "Mihi autem intr 24 A 25+26 B 37 D 38 E 39 F G 40 A 41 A 42 C 43 D (CT X)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "13",
+  "foliostart": "60v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "Mihi autem",
+    "Endseite": "61v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Mihi autem intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

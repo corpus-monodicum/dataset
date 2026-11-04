@@ -1,0 +1,41 @@
+{
+  "id": "44f6e2da-0fb7-4215-a59a-1bb37266d428",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-6v-10",
+  "gattung1": "Tropus",
+  "gattung2": "Offertorium-Tropus",
+  "festtag": "Stephanus",
+  "feier": "Messe",
+  "textinitium": "Almo dei Stephano",
+  "bibliographischerverweis": "Steph off 27 A B 29 C D E B (CT I)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "10",
+  "foliostart": "6v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "(Elegerunt)",
+    "Endseite": "7",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Steph off",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

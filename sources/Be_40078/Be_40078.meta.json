@@ -1,0 +1,25 @@
+{
+  "id": "Be 40078",
+  "quellensigle": "Be 40078",
+  "herkunftsregion": "Quellen deutscher Herkunft",
+  "herkunftsort": "Quedlinburg",
+  "herkunftsinstitution": "möglicherweise Sankt Nicolai",
+  "ordenstradition": "",
+  "quellentyp": "Graduale, Tropar, Kyriale, Sequentiar",
+  "bibliotheksort": "Berlin",
+  "bibliothek": "Staatsbibliothek PKB",
+  "bibliothekssignatur": "Mus. ms. 40078",
+  "kommentar": "",
+  "datierung": "15. Jh, 2. Hälfte",
+  "status": "",
+  "jahrhundert": "12.",
+  "manifest": "",
+  "foliooffset": "pageNr+3",
+  "publish": "all",
+  "cantus_siglum": "Be 40078",
+  "cantus_century": "12.",
+  "dataset_external_files": {
+    "beschreibung": "Be_40078.description.md",
+    "notationsdokumentation": "notation/Be_40078.notation.md"
+  }
+}

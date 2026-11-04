@@ -1,0 +1,41 @@
+{
+  "id": "fa98d0b8-501b-4c64-b2e2-9d306a539203",
+  "quelle_id": "RoC 1741",
+  "dokumenten_id": "RoC 1741-133-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominica XXII post Pentecosten",
+  "feier": "Messe",
+  "textinitium": "Almiflua caelorum",
+  "bibliographischerverweis": "AH 34, 108",
+  "druckausgabe": "",
+  "zeilenstart": "1",
+  "foliostart": "133",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "134",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "(Almiflua caelorum)",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

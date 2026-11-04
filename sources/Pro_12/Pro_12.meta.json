@@ -1,0 +1,25 @@
+{
+  "id": "Pro 12",
+  "quellensigle": "Pro 12",
+  "herkunftsregion": "Quellen französischer Herkunft",
+  "herkunftsort": "Chartres",
+  "herkunftsinstitution": "Kathedrale Notre-Dame",
+  "ordenstradition": "",
+  "quellentyp": "Graduale mit Tropen, Kyriale mit Tropen, Sequentiar",
+  "bibliotheksort": "Provins",
+  "bibliothek": "Bibliothèque municipale",
+  "bibliothekssignatur": "Ms. 12 (24)",
+  "kommentar": "",
+  "datierung": "13. Jh 1. Hälfte",
+  "status": "",
+  "jahrhundert": "13.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Pro 12",
+  "cantus_century": "13.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Pro_12.description.md"
+  }
+}

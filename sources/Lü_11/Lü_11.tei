@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lü 11: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Edition (Sequenzen)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Lucia Swientek</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="Lü_11">
+          <msIdentifier>
+            <settlement>Lübeck</settlement>
+            <repository>Stadtbibliothek</repository>
+            <idno type="shelfmark">Ms. theol. lat 2° 11</idno>
+            <altIdentifier type="siglum">
+              <idno>Lü 11</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>Lü 11</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <term type="quellentyp">Graduale mit Ordinariumsgesängen und Sequenzen</term>
+            </summary>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="127">f. 127</locus>
+              <title type="incipit">Ave mundi spes</title>
+              <idno type="dokumenten_id">Lü 11-127-5</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="128">f. 128</locus>
+              <title type="incipit">Grates nunc omnes</title>
+              <idno type="dokumenten_id">Lü 11-128-1</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="128">f. 128</locus>
+              <title type="incipit">Eia recolamus ... piis</title>
+              <idno type="dokumenten_id">Lü 11-128-5</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="129">f. 129</locus>
+              <title type="incipit">Natus ante saecula</title>
+              <idno type="dokumenten_id">Lü 11-129-5</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="130">f. 130</locus>
+              <title type="incipit">Hanc concordi</title>
+              <idno type="dokumenten_id">Lü 11-130-2</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="130v">f. 130v</locus>
+              <title type="incipit">Scriba doctus</title>
+              <idno type="dokumenten_id">Lü 11-130v-7</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="131">f. 131</locus>
+              <title type="incipit">Festa Christi</title>
+              <idno type="dokumenten_id">Lü 11-131-9</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="132">f. 132</locus>
+              <title type="incipit">Dixit dominus ex Basan</title>
+              <idno type="dokumenten_id">Lü 11-132-9</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="133">f. 133</locus>
+              <title type="incipit">Concentu parili hic te</title>
+              <idno type="dokumenten_id">Lü 11-133-9</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="134v">f. 134v</locus>
+              <title type="incipit">Laudes salvatori</title>
+              <idno type="dokumenten_id">Lü 11-134v-4</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="136">f. 136</locus>
+              <title type="incipit">Victimae paschali laudes</title>
+              <idno type="dokumenten_id">Lü 11-136-7</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="136v">f. 136v</locus>
+              <title type="incipit">Summi triumphum</title>
+              <idno type="dokumenten_id">Lü 11-136v-6</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="137v">f. 137v</locus>
+              <title type="incipit">Laudes crucis</title>
+              <idno type="dokumenten_id">Lü 11-137v-7</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="139">f. 139</locus>
+              <title type="incipit">Verbum dei deo</title>
+              <idno type="dokumenten_id">Lü 11-139-9</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="140v">f. 140v</locus>
+              <title type="incipit">Sancti spiritus … Quae corda</title>
+              <idno type="dokumenten_id">Lü 11-140v-10</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="142">f. 142</locus>
+              <title type="incipit">Veni sancte spiritus et emitte</title>
+              <idno type="dokumenten_id">Lü 11-142-3</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="142v">f. 142v</locus>
+              <title type="incipit">Benedicta semper sancta</title>
+              <idno type="dokumenten_id">Lü 11-142v-4</idno>
+            </msItem>
+            <msItem n="18">
+              <locus from="143v">f. 143v</locus>
+              <title type="incipit">Lauda Sion</title>
+              <idno type="dokumenten_id">Lü 11-143v-3</idno>
+            </msItem>
+            <msItem n="19">
+              <locus from="145">f. 145</locus>
+              <title type="incipit">Sancti Baptistae Christi</title>
+              <idno type="dokumenten_id">Lü 11-145-9</idno>
+            </msItem>
+            <msItem n="20">
+              <locus from="163">f. 163</locus>
+              <title type="incipit">Psallat ecclesia mater illibata</title>
+              <idno type="dokumenten_id">Lü 11-163-1</idno>
+            </msItem>
+            <msItem n="21">
+              <locus from="163">f. 163</locus>
+              <title type="incipit">Ave praeclara maris stella</title>
+              <idno type="dokumenten_id">Lü 11-163-4</idno>
+            </msItem>
+            <msItem n="22">
+              <locus from="164v">f. 164v</locus>
+              <title type="incipit">Ave Maria gratia plena ... benedicta … gratiam</title>
+              <idno type="dokumenten_id">Lü 11-164v-4</idno>
+            </msItem>
+            <msItem n="23">
+              <locus from="165v">f. 165v</locus>
+              <title type="incipit">Hodiernae lux diei</title>
+              <idno type="dokumenten_id">Lü 11-165v-2</idno>
+            </msItem>
+            <msItem n="24">
+              <locus from="166">f. 166</locus>
+              <title type="incipit">Salve proles Davidis</title>
+              <idno type="dokumenten_id">Lü 11-166-4</idno>
+            </msItem>
+            <msItem n="25">
+              <locus from="167">f. 167</locus>
+              <title type="incipit">Gaude Maria templum</title>
+              <idno type="dokumenten_id">Lü 11-167-5</idno>
+            </msItem>
+            <msItem n="26">
+              <locus from="167v">f. 167v</locus>
+              <title type="incipit">Verbum bonum</title>
+              <idno type="dokumenten_id">Lü 11-167v-2</idno>
+            </msItem>
+            <msItem n="27">
+              <locus from="168">f. 168</locus>
+              <title type="incipit">Laetabundus exsultet</title>
+              <idno type="dokumenten_id">Lü 11-168-2</idno>
+            </msItem>
+            <msItem n="28">
+              <locus from="180">f. 180</locus>
+              <title type="incipit">Virgini Mariae … O beata</title>
+              <idno type="dokumenten_id">Lü 11-180-7</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Lübeck</settlement>
+                <region>Quellen deutscher Herkunft</region>
+              </origPlace>
+              <origDate>15. Jh (vor 1415)</origDate>
+            </origin>
+          </history>
+          <additional>
+            <adminInfo>
+              <note type="description">
+                <ref target="Lü_11.description.md">Source description</ref>
+              </note>
+            </adminInfo>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

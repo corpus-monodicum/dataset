@@ -1,0 +1,41 @@
+{
+  "id": "36b12289-19cc-4631-9e94-4f5f72e37064",
+  "quelle_id": "Civ 101",
+  "dokumenten_id": "Civ 101-24-4",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "Dominica in palmis",
+  "feier": "Prozession",
+  "textinitium": "Turba multa",
+  "bibliographischerverweis": "CAO 5256",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "4",
+  "foliostart": "24",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "24",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Civ 101-21-7S",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Entry into Jerusalem",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

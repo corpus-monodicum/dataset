@@ -1,0 +1,25 @@
+{
+  "id": "Parm 12",
+  "quellensigle": "Parm 12",
+  "herkunftsregion": "Quellen italienischer Herkunft",
+  "herkunftsort": "Parma",
+  "herkunftsinstitution": "Kathedrale",
+  "ordenstradition": "",
+  "quellentyp": "Tropar, Sequentiar",
+  "bibliotheksort": "Parma",
+  "bibliothek": "Archivio Capitolare",
+  "bibliothekssignatur": "Ms. AC 12",
+  "kommentar": "",
+  "datierung": "14. Jh – 15. Jh",
+  "status": "",
+  "jahrhundert": "14., 15.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Parm 12",
+  "cantus_century": "14., 15.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Parm_12.description.md"
+  }
+}

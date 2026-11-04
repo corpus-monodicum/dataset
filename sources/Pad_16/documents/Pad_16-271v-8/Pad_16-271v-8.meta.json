@@ -1,0 +1,41 @@
+{
+  "id": "91154185-7a1a-4ea1-82b7-19d709edacee",
+  "quelle_id": "Pad 16",
+  "dokumenten_id": "Pad 16-271v-8",
+  "gattung1": "Ite missa est",
+  "gattung2": "tropiert",
+  "festtag": "Nativitas domini",
+  "feier": "1. Messe",
+  "textinitium": "Ite bracchio",
+  "bibliographischerverweis": "AH 47, 473",
+  "druckausgabe": "",
+  "zeilenstart": "8",
+  "foliostart": "271v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "272",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "Eifrig/Pfisterer 113",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "Ite missa est",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ca6944e4-4fc7-4b3c-a903-6ebd3ce8c372",
+  "quelle_id": "Apt 17",
+  "dokumenten_id": "Apt 17-88-1",
+  "gattung1": "Tropus",
+  "gattung2": "Communio-Tropus",
+  "festtag": "Innocentes",
+  "feier": "Messe",
+  "textinitium": "Psallite sanctorum",
+  "bibliographischerverweis": "Innoc com 4 A (CT I)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "1",
+  "foliostart": "88",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "(Vox in Rama)",
+    "Endseite": "88",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Innoc com",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

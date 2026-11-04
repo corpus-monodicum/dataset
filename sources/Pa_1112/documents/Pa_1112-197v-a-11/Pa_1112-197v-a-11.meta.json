@@ -1,0 +1,41 @@
+{
+  "id": "efb50775-dd82-4a09-8727-83a2480a70ed",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-197v-a-11",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dies II post Dionysium",
+  "feier": "Messe",
+  "textinitium": "Mundi aetate*",
+  "bibliographischerverweis": "AH 8, 113",
+  "druckausgabe": "",
+  "zeilenstart": "11",
+  "foliostart": "197v-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "197v-a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

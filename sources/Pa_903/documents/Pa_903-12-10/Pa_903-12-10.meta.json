@@ -1,0 +1,41 @@
+{
+  "id": "1a6b2c20-61dc-42f1-b0f7-0462146f3db8",
+  "quelle_id": "Pa 903",
+  "dokumenten_id": "Pa 903-12-10",
+  "gattung1": "Antiphon",
+  "gattung2": "Communio",
+  "festtag": "Stephanus",
+  "feier": "Messe",
+  "textinitium": "Video caelos apertos",
+  "bibliographischerverweis": "AMS 12",
+  "druckausgabe": "II-3",
+  "zeilenstart": "10",
+  "foliostart": "12",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "12",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

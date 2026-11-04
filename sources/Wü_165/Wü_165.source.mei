@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Wü 165: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Isabel Kraft</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Hanna Zühlke</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Gunilla Iversen</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Ritva Maria Jacobsson</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="Wü_165">
+        <identifier type="siglum">Wü 165</identifier>
+        <identifier type="cantus">Wü 165</identifier>
+        <titleStmt>
+          <title>Wü 165</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Würzburg</geogName>
+          <geogName role="origin-region">Quellen deutscher Herkunft</geogName>
+          <corpName role="origin-institution">Stift Haug</corpName>
+          <date>14. Jh 2. Hälfte</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="11">f. 11</locus>
+            <title type="incipit">Hodie cantandus est</title>
+            <identifier type="dokumenten_id">Wü 165-11-9</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="111">f. 111</locus>
+            <title type="incipit">Angelo praenuntiante</title>
+            <identifier type="dokumenten_id">Wü 165-111-6</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="111">f. 111</locus>
+            <title type="incipit">De ventre</title>
+            <identifier type="dokumenten_id">Wü 165-111-9</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="111v">f. 111v</locus>
+            <title type="incipit">Tu puer</title>
+            <identifier type="dokumenten_id">Wü 165-111v-10</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="111v">f. 111v</locus>
+            <title type="incipit">Multae tribulationes</title>
+            <identifier type="dokumenten_id">Wü 165-111v-13</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="111v">f. 111v</locus>
+            <title type="incipit">Nativitatem venerandi</title>
+            <identifier type="dokumenten_id">Wü 165-111v-5</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="111v">f. 111v</locus>
+            <title type="incipit">Hodie dilectissimi</title>
+            <identifier type="dokumenten_id">Wü 165-111v-8</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="114">f. 114</locus>
+            <title type="incipit">Haec est alma dies</title>
+            <identifier type="dokumenten_id">Wü 165-114-10</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="117">f. 117</locus>
+            <title type="incipit">Hodie caelesti</title>
+            <identifier type="dokumenten_id">Wü 165-117-5</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="118">f. 118</locus>
+            <title type="incipit">Hodie sanctissima virgo virginum</title>
+            <identifier type="dokumenten_id">Wü 165-118-13</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus from="11v">f. 11v</locus>
+            <title type="incipit">Puer natus est nobis</title>
+            <identifier type="dokumenten_id">Wü 165-11v-4</identifier>
+          </contentItem>
+          <contentItem n="12">
+            <locus from="12">f. 12</locus>
+            <title type="incipit">Eia conlevitae</title>
+            <identifier type="dokumenten_id">Wü 165-12-9</identifier>
+          </contentItem>
+          <contentItem n="13">
+            <locus from="120v">f. 120v</locus>
+            <title type="incipit">Posuisti domine</title>
+            <identifier type="dokumenten_id">Wü 165-120v-9</identifier>
+          </contentItem>
+          <contentItem n="14">
+            <locus from="121">f. 121</locus>
+            <title type="incipit">Benedicite dominum</title>
+            <identifier type="dokumenten_id">Wü 165-121-12</identifier>
+          </contentItem>
+          <contentItem n="15">
+            <locus from="121">f. 121</locus>
+            <title type="incipit">Hodie regi archangelorum</title>
+            <identifier type="dokumenten_id">Wü 165-121-7</identifier>
+          </contentItem>
+          <contentItem n="16">
+            <locus from="122v">f. 122v</locus>
+            <title type="incipit">O rex regum</title>
+            <identifier type="dokumenten_id">Wü 165-122v-13</identifier>
+          </contentItem>
+          <contentItem n="17">
+            <locus from="122v">f. 122v</locus>
+            <title type="incipit">Os iereos</title>
+            <identifier type="dokumenten_id">Wü 165-122v-4</identifier>
+          </contentItem>
+          <contentItem n="18">
+            <locus from="124v">f. 124v</locus>
+            <title type="incipit">Sanctus evigilans</title>
+            <identifier type="dokumenten_id">Wü 165-124v-15</identifier>
+          </contentItem>
+          <contentItem n="19">
+            <locus from="126">f. 126</locus>
+            <title type="incipit">Terribilis est locus iste</title>
+            <identifier type="dokumenten_id">Wü 165-126-2</identifier>
+          </contentItem>
+          <contentItem n="20">
+            <locus from="12v">f. 12v</locus>
+            <title type="incipit">Etenim sederunt</title>
+            <identifier type="dokumenten_id">Wü 165-12v-4</identifier>
+          </contentItem>
+          <contentItem n="21">
+            <locus from="13">f. 13</locus>
+            <title type="incipit">Quoniam dominus</title>
+            <identifier type="dokumenten_id">Wü 165-13-10</identifier>
+          </contentItem>
+          <contentItem n="22">
+            <locus from="13v">f. 13v</locus>
+            <title type="incipit">In medio ecclesiae</title>
+            <identifier type="dokumenten_id">Wü 165-13v-9</identifier>
+          </contentItem>
+          <contentItem n="23">
+            <locus from="14">f. 14</locus>
+            <title type="incipit">Hodie pro domino</title>
+            <identifier type="dokumenten_id">Wü 165-14-11</identifier>
+          </contentItem>
+          <contentItem n="24">
+            <locus from="14">f. 14</locus>
+            <title type="incipit">Iustus ut palma</title>
+            <identifier type="dokumenten_id">Wü 165-14-6</identifier>
+          </contentItem>
+          <contentItem n="25">
+            <locus from="14v">f. 14v</locus>
+            <title type="incipit">Gaudeamus laetantes</title>
+            <identifier type="dokumenten_id">Wü 165-14v-12</identifier>
+          </contentItem>
+          <contentItem n="26">
+            <locus from="14v">f. 14v</locus>
+            <title type="incipit">Ex ore infantium</title>
+            <identifier type="dokumenten_id">Wü 165-14v-2</identifier>
+          </contentItem>
+          <contentItem n="27">
+            <locus from="15">f. 15</locus>
+            <title type="incipit">Anima nostra</title>
+            <identifier type="dokumenten_id">Wü 165-15-2</identifier>
+          </contentItem>
+          <contentItem n="28">
+            <locus from="15">f. 15</locus>
+            <title type="incipit">Veneranda praesentis</title>
+            <identifier type="dokumenten_id">Wü 165-15-5</identifier>
+          </contentItem>
+          <contentItem n="29">
+            <locus from="15">f. 15</locus>
+            <title type="incipit">Vox in Rama</title>
+            <identifier type="dokumenten_id">Wü 165-15-8</identifier>
+          </contentItem>
+          <contentItem n="30">
+            <locus from="15v">f. 15v</locus>
+            <title type="incipit">Vultum tuum</title>
+            <identifier type="dokumenten_id">Wü 165-15v-12</identifier>
+          </contentItem>
+          <contentItem n="31">
+            <locus from="16v">f. 16v</locus>
+            <title type="incipit">Ecclesiae sponsus</title>
+            <identifier type="dokumenten_id">Wü 165-16v-10</identifier>
+          </contentItem>
+          <contentItem n="32">
+            <locus from="17">f. 17</locus>
+            <title type="incipit">Ecce advenit</title>
+            <identifier type="dokumenten_id">Wü 165-17-4</identifier>
+          </contentItem>
+          <contentItem n="33">
+            <locus from="17v">f. 17v</locus>
+            <title type="incipit">O redemptor omnium cui</title>
+            <identifier type="dokumenten_id">Wü 165-17v-3</identifier>
+          </contentItem>
+          <contentItem n="34">
+            <locus from="17v">f. 17v</locus>
+            <title type="incipit">Reges Tharsis</title>
+            <identifier type="dokumenten_id">Wü 165-17v-5</identifier>
+          </contentItem>
+          <contentItem n="35">
+            <locus from="29v">f. 29v</locus>
+            <title type="incipit">Confessio</title>
+            <identifier type="dokumenten_id">Wü 165-29v-2</identifier>
+          </contentItem>
+          <contentItem n="36">
+            <locus from="96">f. 96</locus>
+            <title type="incipit">Statuit ei dominus</title>
+            <identifier type="dokumenten_id">Wü 165-96-1</identifier>
+          </contentItem>
+        </contents>
+        <notesStmt>
+          <annot type="notation-documentation">
+            <ref target="notation/Wü_165.notation.md">Notation documentation</ref>
+          </annot>
+          <annot type="description">
+            <ref target="Wü_165.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <classification>
+          <termList>
+            <term type="quellentyp">Graduale mit Tropen, Kyriale mit Tropen, Sequentiar</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">M. p. th. f. 165</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">Würzburg</geogName>
+                <corpName>Universitätsbibliothek</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

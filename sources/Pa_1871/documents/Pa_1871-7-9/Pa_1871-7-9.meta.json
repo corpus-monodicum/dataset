@@ -1,0 +1,41 @@
+{
+  "id": "1c4a9b25-73fe-4a4a-9fe2-97bbf8de6010",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-7-9",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Iohannes Evangelista",
+  "feier": "Messe",
+  "textinitium": "Ecce iam Iohannis",
+  "bibliographischerverweis": "Ioh ev intr 24 A 27 B 28 C D 30 A 31 B 32 C E 25 A 36 B 37 C F 44 A 45 B 46 C 41 A (CT I)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "9",
+  "foliostart": "7",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "(In medio)",
+    "Endseite": "7v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Ioh ev intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "04a55204-10fe-4bff-bfde-6a16c2bc4abe",
+  "quelle_id": "Ass 695",
+  "dokumenten_id": "Ass 695-90-6",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Nichasius",
+  "feier": "Messe",
+  "textinitium": "Gaude eia unica",
+  "bibliographischerverweis": "AH 9, 67",
+  "druckausgabe": "CM III",
+  "zeilenstart": "6",
+  "foliostart": "90",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "91",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Concordia",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

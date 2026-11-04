@@ -1,0 +1,41 @@
+{
+  "id": "2bfb931d-d6db-4266-afc0-0df51ae17802",
+  "quelle_id": "MüU 156",
+  "dokumenten_id": "MüU 156-189v-7",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Iacobus",
+  "feier": "Messe",
+  "textinitium": "Pangat chorus",
+  "bibliographischerverweis": "AH 55, 172",
+  "druckausgabe": "",
+  "zeilenstart": "7",
+  "foliostart": "189v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Gionata Brusa",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "190v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "-",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

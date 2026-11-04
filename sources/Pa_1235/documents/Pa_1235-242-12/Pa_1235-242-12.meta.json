@@ -1,0 +1,41 @@
+{
+  "id": "b8757095-3cdb-48b3-ac10-d70258ce8009",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-242-12",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Vincentius",
+  "feier": "Messe",
+  "textinitium": "Praecelsa saeclis colitur",
+  "bibliographischerverweis": "AH 53, 223",
+  "druckausgabe": "CM III",
+  "zeilenstart": "12",
+  "foliostart": "242",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "243",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Iusti epulentur",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

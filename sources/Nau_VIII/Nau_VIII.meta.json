@@ -1,0 +1,25 @@
+{
+  "id": "Nau VIII",
+  "quellensigle": "Nau VIII",
+  "herkunftsregion": "Quellen deutscher Herkunft",
+  "herkunftsort": "Meißen",
+  "herkunftsinstitution": "Dom",
+  "ordenstradition": "",
+  "quellentyp": "Graduale mit Tropen (Winterteil), Psalterium, Hymnar, Kyriale, Sequentiar",
+  "bibliotheksort": "Naumburg",
+  "bibliothek": "Domstiftsbibliothek",
+  "bibliothekssignatur": "Chorbuch VIII",
+  "kommentar": "",
+  "datierung": "16. Jh Anfang (1500–1505)",
+  "status": "",
+  "jahrhundert": "15., 16.",
+  "manifest": "",
+  "foliooffset": "pageNr+16",
+  "publish": "all",
+  "cantus_siglum": "Nau VIII",
+  "cantus_century": "15., 16.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Nau_VIII.description.md"
+  }
+}

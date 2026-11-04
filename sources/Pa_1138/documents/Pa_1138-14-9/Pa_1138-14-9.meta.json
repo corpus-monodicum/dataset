@@ -1,0 +1,41 @@
+{
+  "id": "68ca9026-e804-44fd-90ba-a8f0798e1cf1",
+  "quelle_id": "Pa 1138",
+  "dokumenten_id": "Pa 1138-14-9",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Nativitas domini",
+  "feier": "2. Messe",
+  "textinitium": "Prome verba consona",
+  "bibliographischerverweis": "AH 7, 30; AH 53, 13",
+  "druckausgabe": "",
+  "zeilenstart": "9",
+  "foliostart": "14",
+  "kommentar": "beginnt in Pa 1138. endet in Pa 1338",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "9v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Dominus regnavit",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

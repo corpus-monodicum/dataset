@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lo 2615: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Edition (Spiele)</resp>
+          <persName>Elaine Stratton Hild</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="Lo_2615">
+          <msIdentifier>
+            <settlement>London</settlement>
+            <repository>British Library</repository>
+            <idno type="shelfmark">Ms. Egerton 2615</idno>
+            <altIdentifier type="siglum">
+              <idno>Lo 2615</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>Lo 2615</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="100v">f. 100v</locus>
+              <title type="incipit">Tolle vasa princeps</title>
+              <idno type="dokumenten_id">Lo 2615-100v-11</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="101">f. 101</locus>
+              <title type="incipit">Solvitur in libro</title>
+              <idno type="dokumenten_id">Lo 2615-101-4</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="101v">f. 101v</locus>
+              <title type="incipit">Regis vasa referentes</title>
+              <idno type="dokumenten_id">Lo 2615-101v-5</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="102">f. 102</locus>
+              <title type="incipit">Ecce rex Darius</title>
+              <idno type="dokumenten_id">Lo 2615-102-6</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="103">f. 103</locus>
+              <title type="incipit">Rex in aeternum</title>
+              <idno type="dokumenten_id">Lo 2615-103-2</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="103">f. 103</locus>
+              <title type="incipit">Audite principes</title>
+              <idno type="dokumenten_id">Lo 2615-103-5</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="103v">f. 103v</locus>
+              <title type="incipit">Ex regali venit</title>
+              <idno type="dokumenten_id">Lo 2615-103v-1</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="103v">f. 103v</locus>
+              <title type="incipit">Congaudentes celebremus</title>
+              <idno type="dokumenten_id">Lo 2615-103v-10</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="103v">f. 103v</locus>
+              <title type="incipit">G'en vois</title>
+              <idno type="dokumenten_id">Lo 2615-103v-9</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="104v">f. 104v</locus>
+              <title type="incipit">Rex in aeternum</title>
+              <idno type="dokumenten_id">Lo 2615-104v-11</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="104v">f. 104v</locus>
+              <title type="incipit">Decreverunt in tua</title>
+              <idno type="dokumenten_id">Lo 2615-104v-12</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="104v">f. 104v</locus>
+              <title type="incipit">Rex in aeternum</title>
+              <idno type="dokumenten_id">Lo 2615-104v-3</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="104v">f. 104v</locus>
+              <title type="incipit">Quia novi te</title>
+              <idno type="dokumenten_id">Lo 2615-104v-4</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="105v">f. 105v</locus>
+              <title type="incipit">Nunquid Dari observari</title>
+              <idno type="dokumenten_id">Lo 2615-105v-3</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="106">f. 106</locus>
+              <title type="incipit">Heu heu heu quo</title>
+              <idno type="dokumenten_id">Lo 2615-106-11</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="106">f. 106</locus>
+              <title type="incipit">Si sprevit legem</title>
+              <idno type="dokumenten_id">Lo 2615-106-7</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="106v">f. 106v</locus>
+              <title type="incipit">Habbakuk tu senex</title>
+              <idno type="dokumenten_id">Lo 2615-106v-15</idno>
+            </msItem>
+            <msItem n="18">
+              <locus from="106v">f. 106v</locus>
+              <title type="incipit">Deus quem colis</title>
+              <idno type="dokumenten_id">Lo 2615-106v-3</idno>
+            </msItem>
+            <msItem n="19">
+              <locus from="106v">f. 106v</locus>
+              <title type="incipit">Huius rei non</title>
+              <idno type="dokumenten_id">Lo 2615-106v-9</idno>
+            </msItem>
+            <msItem n="20">
+              <locus from="107">f. 107</locus>
+              <title type="incipit">Novit dei cognitio</title>
+              <idno type="dokumenten_id">Lo 2615-107-1</idno>
+            </msItem>
+            <msItem n="21">
+              <locus from="107">f. 107</locus>
+              <title type="incipit">Tene putas Daniel</title>
+              <idno type="dokumenten_id">Lo 2615-107-14</idno>
+            </msItem>
+            <msItem n="22">
+              <locus from="107">f. 107</locus>
+              <title type="incipit">Surge frater</title>
+              <idno type="dokumenten_id">Lo 2615-107-6</idno>
+            </msItem>
+            <msItem n="23">
+              <locus from="107">f. 107</locus>
+              <title type="incipit">Recordatus es mei</title>
+              <idno type="dokumenten_id">Lo 2615-107-9</idno>
+            </msItem>
+            <msItem n="24">
+              <locus from="107v">f. 107v</locus>
+              <title type="incipit">Merito haec patimur</title>
+              <idno type="dokumenten_id">Lo 2615-107v-10</idno>
+            </msItem>
+            <msItem n="25">
+              <locus from="107v">f. 107v</locus>
+              <title type="incipit">Deum Danielis qui</title>
+              <idno type="dokumenten_id">Lo 2615-107v-15</idno>
+            </msItem>
+            <msItem n="26">
+              <locus from="107v">f. 107v</locus>
+              <title type="incipit">Rex in aeternum ... angelicum</title>
+              <idno type="dokumenten_id">Lo 2615-107v-2</idno>
+            </msItem>
+            <msItem n="27">
+              <locus from="107v">f. 107v</locus>
+              <title type="incipit">Danielem educite</title>
+              <idno type="dokumenten_id">Lo 2615-107v-6</idno>
+            </msItem>
+            <msItem n="28">
+              <locus from="108">f. 108</locus>
+              <title type="incipit">Te deum laudamus*</title>
+              <idno type="dokumenten_id">Lo 2615-108-12</idno>
+            </msItem>
+            <msItem n="29">
+              <locus from="108">f. 108</locus>
+              <title type="incipit">Ecce venit sanctus</title>
+              <idno type="dokumenten_id">Lo 2615-108-3</idno>
+            </msItem>
+            <msItem n="30">
+              <locus from="108">f. 108</locus>
+              <title type="incipit">Nuntium vobis fero</title>
+              <idno type="dokumenten_id">Lo 2615-108-9</idno>
+            </msItem>
+            <msItem n="31">
+              <locus from="95">f. 95</locus>
+              <title type="incipit">Ad honorem tui Christe</title>
+              <idno type="dokumenten_id">Lo 2615-95-1</idno>
+            </msItem>
+            <msItem n="32">
+              <locus from="95">f. 95</locus>
+              <title type="incipit">Astra tenenti</title>
+              <idno type="dokumenten_id">Lo 2615-95-6</idno>
+            </msItem>
+            <msItem n="33">
+              <locus from="95v">f. 95v</locus>
+              <title type="incipit">Rex in aeternum</title>
+              <idno type="dokumenten_id">Lo 2615-95v-10</idno>
+            </msItem>
+            <msItem n="34">
+              <locus from="95v">f. 95v</locus>
+              <title type="incipit">Vos qui paretis</title>
+              <idno type="dokumenten_id">Lo 2615-95v-12</idno>
+            </msItem>
+            <msItem n="35">
+              <locus from="96">f. 96</locus>
+              <title type="incipit">Iubilemus regi nostro</title>
+              <idno type="dokumenten_id">Lo 2615-96-6</idno>
+            </msItem>
+            <msItem n="36">
+              <locus from="97">f. 97</locus>
+              <title type="incipit">Rex in aeternum ... adsumus</title>
+              <idno type="dokumenten_id">Lo 2615-97-12</idno>
+            </msItem>
+            <msItem n="37">
+              <locus from="97">f. 97</locus>
+              <title type="incipit">Qui scripturam</title>
+              <idno type="dokumenten_id">Lo 2615-97-13</idno>
+            </msItem>
+            <msItem n="38">
+              <locus from="97">f. 97</locus>
+              <title type="incipit">Ecce sunt ante</title>
+              <idno type="dokumenten_id">Lo 2615-97-4</idno>
+            </msItem>
+            <msItem n="39">
+              <locus from="97">f. 97</locus>
+              <title type="incipit">Mane thecel fares</title>
+              <idno type="dokumenten_id">Lo 2615-97-6</idno>
+            </msItem>
+            <msItem n="40">
+              <locus from="97">f. 97</locus>
+              <title type="incipit">Vocate mathematicos</title>
+              <idno type="dokumenten_id">Lo 2615-97-8</idno>
+            </msItem>
+            <msItem n="41">
+              <locus from="97v">f. 97v</locus>
+              <title type="incipit">Nescimus persolvere</title>
+              <idno type="dokumenten_id">Lo 2615-97v-3</idno>
+            </msItem>
+            <msItem n="42">
+              <locus from="97v">f. 97v</locus>
+              <title type="incipit">Cum doctorum</title>
+              <idno type="dokumenten_id">Lo 2615-97v-7</idno>
+            </msItem>
+            <msItem n="43">
+              <locus from="98">f. 98</locus>
+              <title type="incipit">Rex in aeternum ... ut scribentis</title>
+              <idno type="dokumenten_id">Lo 2615-98-5</idno>
+            </msItem>
+            <msItem n="44">
+              <locus from="98">f. 98</locus>
+              <title type="incipit">Cum Iudaea captivis</title>
+              <idno type="dokumenten_id">Lo 2615-98-8</idno>
+            </msItem>
+            <msItem n="45">
+              <locus from="98v">f. 98v</locus>
+              <title type="incipit">Multum miror</title>
+              <idno type="dokumenten_id">Lo 2615-98v-11</idno>
+            </msItem>
+            <msItem n="46">
+              <locus from="98v">f. 98v</locus>
+              <title type="incipit">Vos Danielem</title>
+              <idno type="dokumenten_id">Lo 2615-98v-3</idno>
+            </msItem>
+            <msItem n="47">
+              <locus from="98v">f. 98v</locus>
+              <title type="incipit">Vir propheta dei</title>
+              <idno type="dokumenten_id">Lo 2615-98v-6</idno>
+            </msItem>
+            <msItem n="48">
+              <locus from="99">f. 99</locus>
+              <title type="incipit">Hic verus dei</title>
+              <idno type="dokumenten_id">Lo 2615-99-3</idno>
+            </msItem>
+            <msItem n="49">
+              <locus from="99v">f. 99v</locus>
+              <title type="incipit">Rex tua nolo</title>
+              <idno type="dokumenten_id">Lo 2615-99v-12</idno>
+            </msItem>
+            <msItem n="50">
+              <locus from="99v">f. 99v</locus>
+              <title type="incipit">Rex in aeternum</title>
+              <idno type="dokumenten_id">Lo 2615-99v-7a</idno>
+            </msItem>
+            <msItem n="51">
+              <locus from="99v">f. 99v</locus>
+              <title type="incipit">Tune Daniel nomine</title>
+              <idno type="dokumenten_id">Lo 2615-99v-7b</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Beauvais</settlement>
+                <region>Quellen französischer Herkunft</region>
+                <orgName>Kathedrale Saint-Pierre</orgName>
+              </origPlace>
+              <origDate>13. Jh (1227–1234)</origDate>
+            </origin>
+          </history>
+          <additional>
+            <surrogates>
+              <bibl>
+                <ref type="iiif-manifest" target="https://iiif.diamm.net/manifests/GB-Lbl-Egerton_2615/manifest.json" />
+              </bibl>
+            </surrogates>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ut 417: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Isabel Kraft</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Ordinariumsgesänge)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Sequenzen)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Hanna Zühlke</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Gunilla Iversen</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Ritva Maria Jacobsson</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="Ut_417">
+          <msIdentifier>
+            <settlement>Utrecht</settlement>
+            <repository>Universiteitsbibliotheek</repository>
+            <idno type="shelfmark">417</idno>
+            <altIdentifier type="siglum">
+              <idno>Ut 417</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>Ut 417</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <term type="quellentyp">Sequentiar, Tropar, Kyriale mit Tropen</term>
+            </summary>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="1">f. 1</locus>
+              <title type="incipit">Congaudent angelorum chori</title>
+              <idno type="dokumenten_id">Ut 417-1-1</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="10">f. 10</locus>
+              <title type="incipit">Laudes deo concinat orbis</title>
+              <idno type="dokumenten_id">Ut 417-10-1</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="10">f. 10</locus>
+              <title type="incipit">Carmen suo dilecto</title>
+              <idno type="dokumenten_id">Ut 417-10-11</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="10v">f. 10v</locus>
+              <title type="incipit">Victimae paschali laudes</title>
+              <idno type="dokumenten_id">Ut 417-10v-9</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="11">f. 11</locus>
+              <title type="incipit">Mane prima sabbati</title>
+              <idno type="dokumenten_id">Ut 417-11-3</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="11v">f. 11v</locus>
+              <title type="incipit">Verbum dei deo</title>
+              <idno type="dokumenten_id">Ut 417-11v-6</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="12v">f. 12v</locus>
+              <title type="incipit">Laudes Christo redempti*</title>
+              <idno type="dokumenten_id">Ut 417-12v-3</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="12v">f. 12v</locus>
+              <title type="incipit">Summi triumphum</title>
+              <idno type="dokumenten_id">Ut 417-12v-4</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="13">f. 13</locus>
+              <title type="incipit">Sancti spiritus … Quae corda</title>
+              <idno type="dokumenten_id">Ut 417-13-7</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="13v">f. 13v</locus>
+              <title type="incipit">Veni spiritus aeternorum</title>
+              <idno type="dokumenten_id">Ut 417-13v-11</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="14">f. 14</locus>
+              <title type="incipit">Veni sancte spiritus et emitte</title>
+              <idno type="dokumenten_id">Ut 417-14-6</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="14v">f. 14v</locus>
+              <title type="incipit">Benedicta semper sancta</title>
+              <idno type="dokumenten_id">Ut 417-14v-2</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="15">f. 15</locus>
+              <title type="incipit">Benedictio trinae unitati</title>
+              <idno type="dokumenten_id">Ut 417-15-10</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="15">f. 15</locus>
+              <title type="incipit">Laus deo patri</title>
+              <idno type="dokumenten_id">Ut 417-15-5</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="16">f. 16</locus>
+              <title type="incipit">Sancti Baptistae Christi</title>
+              <idno type="dokumenten_id">Ut 417-16-4</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="16v">f. 16v</locus>
+              <title type="incipit">Petre summe Christi</title>
+              <idno type="dokumenten_id">Ut 417-16v-4</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="17">f. 17</locus>
+              <title type="incipit">Ave summa praesulum</title>
+              <idno type="dokumenten_id">Ut 417-17-2</idno>
+            </msItem>
+            <msItem n="18">
+              <locus from="17v">f. 17v</locus>
+              <title type="incipit">Caeli enarrant</title>
+              <idno type="dokumenten_id">Ut 417-17v-6</idno>
+            </msItem>
+            <msItem n="19">
+              <locus from="18v">f. 18v</locus>
+              <title type="incipit">Eia laudes grex</title>
+              <idno type="dokumenten_id">Ut 417-18v-11</idno>
+            </msItem>
+            <msItem n="20">
+              <locus from="19">f. 19</locus>
+              <title type="incipit">Laus tibi Christe qui es</title>
+              <idno type="dokumenten_id">Ut 417-19-13</idno>
+            </msItem>
+            <msItem n="21">
+              <locus from="1v">f. 1v</locus>
+              <title type="incipit">Eia recolamus ... piis</title>
+              <idno type="dokumenten_id">Ut 417-1v-2</idno>
+            </msItem>
+            <msItem n="22">
+              <locus from="2">f. 2</locus>
+              <title type="incipit">Natus ante saecula</title>
+              <idno type="dokumenten_id">Ut 417-2-5</idno>
+            </msItem>
+            <msItem n="23">
+              <locus from="20">f. 20</locus>
+              <title type="incipit">Laurenti David</title>
+              <idno type="dokumenten_id">Ut 417-20-8</idno>
+            </msItem>
+            <msItem n="24">
+              <locus from="20v">f. 20v</locus>
+              <title type="incipit">Congaudent angelorum chori*</title>
+              <idno type="dokumenten_id">Ut 417-20v-6a</idno>
+            </msItem>
+            <msItem n="25">
+              <locus from="20v">f. 20v</locus>
+              <title type="incipit">Ave Maria gratia plena ... benedicta … gratiam</title>
+              <idno type="dokumenten_id">Ut 417-20v-6b</idno>
+            </msItem>
+            <msItem n="26">
+              <locus from="21">f. 21</locus>
+              <title type="incipit">Fecunda verbo</title>
+              <idno type="dokumenten_id">Ut 417-21-6</idno>
+            </msItem>
+            <msItem n="27">
+              <locus from="21v">f. 21v</locus>
+              <title type="incipit">Salve porta</title>
+              <idno type="dokumenten_id">Ut 417-21v-3</idno>
+            </msItem>
+            <msItem n="28">
+              <locus from="22">f. 22</locus>
+              <title type="incipit">Imperatrix gloriosa</title>
+              <idno type="dokumenten_id">Ut 417-22-1</idno>
+            </msItem>
+            <msItem n="29">
+              <locus from="22v">f. 22v</locus>
+              <title type="incipit">Hodiernae lux diei</title>
+              <idno type="dokumenten_id">Ut 417-22v-11</idno>
+            </msItem>
+            <msItem n="30">
+              <locus from="22v">f. 22v</locus>
+              <title type="incipit">Verbum bonum</title>
+              <idno type="dokumenten_id">Ut 417-22v-3</idno>
+            </msItem>
+            <msItem n="31">
+              <locus from="23">f. 23</locus>
+              <title type="incipit">Gaude mater luminis</title>
+              <idno type="dokumenten_id">Ut 417-23-9</idno>
+            </msItem>
+            <msItem n="32">
+              <locus from="23v">f. 23v</locus>
+              <title type="incipit">Ortum Christi</title>
+              <idno type="dokumenten_id">Ut 417-23v-4</idno>
+            </msItem>
+            <msItem n="33">
+              <locus from="24">f. 24</locus>
+              <title type="incipit">Ave praeclara maris stella</title>
+              <idno type="dokumenten_id">Ut 417-24-12</idno>
+            </msItem>
+            <msItem n="34">
+              <locus from="24">f. 24</locus>
+              <title type="incipit">Gaude Maria templum</title>
+              <idno type="dokumenten_id">Ut 417-24-7</idno>
+            </msItem>
+            <msItem n="35">
+              <locus from="25">f. 25</locus>
+              <title type="incipit">Psallite regi nostro</title>
+              <idno type="dokumenten_id">Ut 417-25-10</idno>
+            </msItem>
+            <msItem n="36">
+              <locus from="26">f. 26</locus>
+              <title type="incipit">Stirpe Maria</title>
+              <idno type="dokumenten_id">Ut 417-26-5</idno>
+            </msItem>
+            <msItem n="37">
+              <locus from="26v">f. 26v</locus>
+              <title type="incipit">Salve crux sancta arbor</title>
+              <idno type="dokumenten_id">Ut 417-26v-1</idno>
+            </msItem>
+            <msItem n="38">
+              <locus from="26v">f. 26v</locus>
+              <title type="incipit">Laudes crucis</title>
+              <idno type="dokumenten_id">Ut 417-26v-7</idno>
+            </msItem>
+            <msItem n="39">
+              <locus from="27v">f. 27v</locus>
+              <title type="incipit">Summi regis archangele</title>
+              <idno type="dokumenten_id">Ut 417-27v-10</idno>
+            </msItem>
+            <msItem n="40">
+              <locus from="28">f. 28</locus>
+              <title type="incipit">Gaude prole Graecia</title>
+              <idno type="dokumenten_id">Ut 417-28-10</idno>
+            </msItem>
+            <msItem n="41">
+              <locus from="29">f. 29</locus>
+              <title type="incipit">O beata beatorum martyrum</title>
+              <idno type="dokumenten_id">Ut 417-29-7</idno>
+            </msItem>
+            <msItem n="42">
+              <locus from="29v">f. 29v</locus>
+              <title type="incipit">Caeli solem imitantes</title>
+              <idno type="dokumenten_id">Ut 417-29v-4</idno>
+            </msItem>
+            <msItem n="43">
+              <locus from="2v">f. 2v</locus>
+              <title type="incipit">Hanc concordi</title>
+              <idno type="dokumenten_id">Ut 417-2v-7</idno>
+            </msItem>
+            <msItem n="44">
+              <locus from="3">f. 3</locus>
+              <title type="incipit">Unus amor</title>
+              <idno type="dokumenten_id">Ut 417-3-6</idno>
+            </msItem>
+            <msItem n="45">
+              <locus from="30">f. 30</locus>
+              <title type="incipit">Virginalis turma sexus</title>
+              <idno type="dokumenten_id">Ut 417-30-2</idno>
+            </msItem>
+            <msItem n="46">
+              <locus from="30v">f. 30v</locus>
+              <title type="incipit">Omnes sancti seraphin</title>
+              <idno type="dokumenten_id">Ut 417-30v-10</idno>
+            </msItem>
+            <msItem n="47">
+              <locus from="31">f. 31</locus>
+              <title type="incipit">Ad laudes salvatoris</title>
+              <idno type="dokumenten_id">Ut 417-31-8</idno>
+            </msItem>
+            <msItem n="48">
+              <locus from="31v">f. 31v</locus>
+              <title type="incipit">Sacerdotem Christi</title>
+              <idno type="dokumenten_id">Ut 417-31v-10</idno>
+            </msItem>
+            <msItem n="49">
+              <locus from="32v">f. 32v</locus>
+              <title type="incipit">Katherinae virginis</title>
+              <idno type="dokumenten_id">Ut 417-32v-1</idno>
+            </msItem>
+            <msItem n="50">
+              <locus from="33">f. 33</locus>
+              <title type="incipit">Hac in die mentes</title>
+              <idno type="dokumenten_id">Ut 417-33-5</idno>
+            </msItem>
+            <msItem n="51">
+              <locus from="34">f. 34</locus>
+              <title type="incipit">Deus in tua virtute</title>
+              <idno type="dokumenten_id">Ut 417-34-6</idno>
+            </msItem>
+            <msItem n="52">
+              <locus from="34v">f. 34v</locus>
+              <title type="incipit">Laude Christo debita</title>
+              <idno type="dokumenten_id">Ut 417-34v-3</idno>
+            </msItem>
+            <msItem n="53">
+              <locus from="35v">f. 35v</locus>
+              <title type="incipit">Congaudentes exsultemus vocali</title>
+              <idno type="dokumenten_id">Ut 417-35v-4</idno>
+            </msItem>
+            <msItem n="54">
+              <locus from="36v">f. 36v</locus>
+              <title type="incipit">Stans a longe qui plurima</title>
+              <idno type="dokumenten_id">Ut 417-36v-14</idno>
+            </msItem>
+            <msItem n="55">
+              <locus from="36v">f. 36v</locus>
+              <title type="incipit">Psallat ecclesia mater illibata</title>
+              <idno type="dokumenten_id">Ut 417-36v-3</idno>
+            </msItem>
+            <msItem n="56">
+              <locus from="37">f. 37</locus>
+              <title type="incipit">Iucundare plebs fidelis cuius</title>
+              <idno type="dokumenten_id">Ut 417-37-7</idno>
+            </msItem>
+            <msItem n="57">
+              <locus from="38">f. 38</locus>
+              <title type="incipit">Qui sunt isti</title>
+              <idno type="dokumenten_id">Ut 417-38-8</idno>
+            </msItem>
+            <msItem n="58">
+              <locus from="38v">f. 38v</locus>
+              <title type="incipit">Clare sanctorum</title>
+              <idno type="dokumenten_id">Ut 417-38v-6</idno>
+            </msItem>
+            <msItem n="59">
+              <locus from="39">f. 39</locus>
+              <title type="incipit">Agone triumphali</title>
+              <idno type="dokumenten_id">Ut 417-39-4</idno>
+            </msItem>
+            <msItem n="60">
+              <locus from="39v">f. 39v</locus>
+              <title type="incipit">Gaude caelestis sponsa</title>
+              <idno type="dokumenten_id">Ut 417-39v-12</idno>
+            </msItem>
+            <msItem n="61">
+              <locus from="39v">f. 39v</locus>
+              <title type="incipit">Rex regum deus noster</title>
+              <idno type="dokumenten_id">Ut 417-39v-2</idno>
+            </msItem>
+            <msItem n="62">
+              <locus from="3v">f. 3v</locus>
+              <title type="incipit">Iohannes Iesu Christo</title>
+              <idno type="dokumenten_id">Ut 417-3v-5</idno>
+            </msItem>
+            <msItem n="63">
+              <locus from="4">f. 4</locus>
+              <title type="incipit">Laus tibi Christe cui sapit</title>
+              <idno type="dokumenten_id">Ut 417-4-2</idno>
+            </msItem>
+            <msItem n="64">
+              <locus from="40">f. 40</locus>
+              <title type="incipit">Virgini Mariae … Eva tristis</title>
+              <idno type="dokumenten_id">Ut 417-40-10</idno>
+            </msItem>
+            <msItem n="65">
+              <locus from="40v">f. 40v</locus>
+              <title type="incipit">Salve pater et patrone</title>
+              <idno type="dokumenten_id">Ut 417-40v-7</idno>
+            </msItem>
+            <msItem n="66">
+              <locus from="44v">f. 44v</locus>
+              <title type="incipit">Quoniam dominus</title>
+              <idno type="dokumenten_id">Ut 417-44v-12</idno>
+            </msItem>
+            <msItem n="67">
+              <locus from="44v">f. 44v</locus>
+              <title type="incipit">Hodie cantandus est</title>
+              <idno type="dokumenten_id">Ut 417-44v-2</idno>
+            </msItem>
+            <msItem n="68">
+              <locus from="44v">f. 44v</locus>
+              <title type="incipit">Summae tuum</title>
+              <idno type="dokumenten_id">Ut 417-44v-8</idno>
+            </msItem>
+            <msItem n="69">
+              <locus from="45">f. 45</locus>
+              <title type="incipit">Laudibus infantum</title>
+              <idno type="dokumenten_id">Ut 417-45-10</idno>
+            </msItem>
+            <msItem n="70">
+              <locus from="45">f. 45</locus>
+              <title type="incipit">Quod prisco</title>
+              <idno type="dokumenten_id">Ut 417-45-13</idno>
+            </msItem>
+            <msItem n="71">
+              <locus from="45v">f. 45v</locus>
+              <title type="incipit">Postquam factus</title>
+              <idno type="dokumenten_id">Ut 417-45v-10</idno>
+            </msItem>
+            <msItem n="72">
+              <locus from="45v">f. 45v</locus>
+              <title type="incipit">Ecclesiae sponsus</title>
+              <idno type="dokumenten_id">Ut 417-45v-5</idno>
+            </msItem>
+            <msItem n="73">
+              <locus from="46">f. 46</locus>
+              <title type="incipit">Kyrie o theos</title>
+              <idno type="dokumenten_id">Ut 417-46-2</idno>
+            </msItem>
+            <msItem n="74">
+              <locus from="46v">f. 46v</locus>
+              <title type="incipit">Kyrie fons bonitatis</title>
+              <idno type="dokumenten_id">Ut 417-46v-5</idno>
+            </msItem>
+            <msItem n="75">
+              <locus from="47">f. 47</locus>
+              <title type="incipit">Rex pie rex regum</title>
+              <idno type="dokumenten_id">Ut 417-47-7</idno>
+            </msItem>
+            <msItem n="76">
+              <locus from="47v">f. 47v</locus>
+              <title type="incipit">Cunctipotens genitor</title>
+              <idno type="dokumenten_id">Ut 417-47v-7</idno>
+            </msItem>
+            <msItem n="77">
+              <locus from="48">f. 48</locus>
+              <title type="incipit">Lux et origo</title>
+              <idno type="dokumenten_id">Ut 417-48-6</idno>
+            </msItem>
+            <msItem n="78">
+              <locus from="48v">f. 48v</locus>
+              <title type="incipit">Kyrie deus sempiterne</title>
+              <idno type="dokumenten_id">Ut 417-48v-11</idno>
+            </msItem>
+            <msItem n="79">
+              <locus from="48v">f. 48v</locus>
+              <title type="incipit">Orbis factor</title>
+              <idno type="dokumenten_id">Ut 417-48v-3</idno>
+            </msItem>
+            <msItem n="80">
+              <locus from="49">f. 49</locus>
+              <title type="incipit">Princeps astrigeram</title>
+              <idno type="dokumenten_id">Ut 417-49-12</idno>
+            </msItem>
+            <msItem n="81">
+              <locus from="49v">f. 49v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Ut 417-49v-11</idno>
+            </msItem>
+            <msItem n="82">
+              <locus from="4v">f. 4v</locus>
+              <title type="incipit">Eia recolamus ... piis*</title>
+              <idno type="dokumenten_id">Ut 417-4v-12</idno>
+            </msItem>
+            <msItem n="83">
+              <locus from="4v">f. 4v</locus>
+              <title type="incipit">Festa Christi</title>
+              <idno type="dokumenten_id">Ut 417-4v-13</idno>
+            </msItem>
+            <msItem n="84">
+              <locus from="4v">f. 4v</locus>
+              <title type="incipit">Laus tibi Christe patris</title>
+              <idno type="dokumenten_id">Ut 417-4v-2</idno>
+            </msItem>
+            <msItem n="85">
+              <locus from="50">f. 50</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Ut 417-50-1</idno>
+            </msItem>
+            <msItem n="86">
+              <locus from="50">f. 50</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Ut 417-50-10</idno>
+            </msItem>
+            <msItem n="87">
+              <locus from="50">f. 50</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Ut 417-50-11</idno>
+            </msItem>
+            <msItem n="88">
+              <locus from="50">f. 50</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Ut 417-50-3</idno>
+            </msItem>
+            <msItem n="89">
+              <locus from="50">f. 50</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Ut 417-50-6</idno>
+            </msItem>
+            <msItem n="90">
+              <locus from="50">f. 50</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Ut 417-50-7</idno>
+            </msItem>
+            <msItem n="91">
+              <locus from="50">f. 50</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Ut 417-50-8</idno>
+            </msItem>
+            <msItem n="92">
+              <locus from="50">f. 50</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Ut 417-50-9</idno>
+            </msItem>
+            <msItem n="93">
+              <locus from="50v">f. 50v</locus>
+              <title type="incipit">Spiritus et alme</title>
+              <idno type="dokumenten_id">Ut 417-50v-13</idno>
+            </msItem>
+            <msItem n="94">
+              <locus from="50v">f. 50v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Ut 417-50v-3</idno>
+            </msItem>
+            <msItem n="95">
+              <locus from="50v">f. 50v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Ut 417-50v-5</idno>
+            </msItem>
+            <msItem n="96">
+              <locus from="50v">f. 50v</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Ut 417-50v-7</idno>
+            </msItem>
+            <msItem n="97">
+              <locus from="51">f. 51</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Ut 417-51-5</idno>
+            </msItem>
+            <msItem n="98">
+              <locus from="51v">f. 51v</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Ut 417-51v-11</idno>
+            </msItem>
+            <msItem n="99">
+              <locus from="51v">f. 51v</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Ut 417-51v-2</idno>
+            </msItem>
+            <msItem n="100">
+              <locus from="52">f. 52</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Ut 417-52-7</idno>
+            </msItem>
+            <msItem n="101">
+              <locus from="52v">f. 52v</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Ut 417-52v-4</idno>
+            </msItem>
+            <msItem n="102">
+              <locus from="53">f. 53</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Ut 417-53-1</idno>
+            </msItem>
+            <msItem n="103">
+              <locus from="53">f. 53</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Ut 417-53-9</idno>
+            </msItem>
+            <msItem n="104">
+              <locus from="53v">f. 53v</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Ut 417-53v-10</idno>
+            </msItem>
+            <msItem n="105">
+              <locus from="53v">f. 53v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Ut 417-53v-13</idno>
+            </msItem>
+            <msItem n="106">
+              <locus from="53v">f. 53v</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Ut 417-53v-6</idno>
+            </msItem>
+            <msItem n="107">
+              <locus from="54">f. 54</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Ut 417-54-1</idno>
+            </msItem>
+            <msItem n="108">
+              <locus from="54">f. 54</locus>
+              <title type="incipit">Qui sedes … miserere</title>
+              <idno type="dokumenten_id">Ut 417-54-10</idno>
+            </msItem>
+            <msItem n="109">
+              <locus from="54">f. 54</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Ut 417-54-12</idno>
+            </msItem>
+            <msItem n="110">
+              <locus from="54">f. 54</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Ut 417-54-4</idno>
+            </msItem>
+            <msItem n="111">
+              <locus from="54">f. 54</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Ut 417-54-7</idno>
+            </msItem>
+            <msItem n="112">
+              <locus from="54">f. 54</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Ut 417-54-8</idno>
+            </msItem>
+            <msItem n="113">
+              <locus from="54v">f. 54v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Ut 417-54v-10</idno>
+            </msItem>
+            <msItem n="114">
+              <locus from="54v">f. 54v</locus>
+              <title type="incipit">Ite missa est</title>
+              <idno type="dokumenten_id">Ut 417-54v-12a</idno>
+            </msItem>
+            <msItem n="115">
+              <locus from="54v">f. 54v</locus>
+              <title type="incipit">Ite missa est</title>
+              <idno type="dokumenten_id">Ut 417-54v-12b</idno>
+            </msItem>
+            <msItem n="116">
+              <locus from="54v">f. 54v</locus>
+              <title type="incipit">Ite missa est</title>
+              <idno type="dokumenten_id">Ut 417-54v-12c</idno>
+            </msItem>
+            <msItem n="117">
+              <locus from="54v">f. 54v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Ut 417-54v-3</idno>
+            </msItem>
+            <msItem n="118">
+              <locus from="54v">f. 54v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Ut 417-54v-4</idno>
+            </msItem>
+            <msItem n="119">
+              <locus from="54v">f. 54v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Ut 417-54v-7</idno>
+            </msItem>
+            <msItem n="120">
+              <locus from="54v">f. 54v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Ut 417-54v-8</idno>
+            </msItem>
+            <msItem n="121">
+              <locus from="55">f. 55</locus>
+              <title type="incipit">Ite missa est</title>
+              <idno type="dokumenten_id">Ut 417-55-1a</idno>
+            </msItem>
+            <msItem n="122">
+              <locus from="55">f. 55</locus>
+              <title type="incipit">Ite missa est</title>
+              <idno type="dokumenten_id">Ut 417-55-1b</idno>
+            </msItem>
+            <msItem n="123">
+              <locus from="55">f. 55</locus>
+              <title type="incipit">Ite missa est</title>
+              <idno type="dokumenten_id">Ut 417-55-2a</idno>
+            </msItem>
+            <msItem n="124">
+              <locus from="55">f. 55</locus>
+              <title type="incipit">Ite missa est</title>
+              <idno type="dokumenten_id">Ut 417-55-2b</idno>
+            </msItem>
+            <msItem n="125">
+              <locus from="55">f. 55</locus>
+              <title type="incipit">Ite missa est</title>
+              <idno type="dokumenten_id">Ut 417-55-2c</idno>
+            </msItem>
+            <msItem n="126">
+              <locus from="55">f. 55</locus>
+              <title type="incipit">Ite missa est</title>
+              <idno type="dokumenten_id">Ut 417-55-3a</idno>
+            </msItem>
+            <msItem n="127">
+              <locus from="55">f. 55</locus>
+              <title type="incipit">Ite missa est</title>
+              <idno type="dokumenten_id">Ut 417-55-3b</idno>
+            </msItem>
+            <msItem n="128">
+              <locus from="55">f. 55</locus>
+              <title type="incipit">Ite missa est</title>
+              <idno type="dokumenten_id">Ut 417-55-3c</idno>
+            </msItem>
+            <msItem n="129">
+              <locus from="55">f. 55</locus>
+              <title type="incipit">Cantemus cuncti</title>
+              <idno type="dokumenten_id">Ut 417-55-5</idno>
+            </msItem>
+            <msItem n="130">
+              <locus from="55v">f. 55v</locus>
+              <title type="incipit">Mariae praeconio</title>
+              <idno type="dokumenten_id">Ut 417-55v-11</idno>
+            </msItem>
+            <msItem n="131">
+              <locus from="56">f. 56</locus>
+              <title type="incipit">Ave mundi spes</title>
+              <idno type="dokumenten_id">Ut 417-56-10</idno>
+            </msItem>
+            <msItem n="132">
+              <locus from="5v">f. 5v</locus>
+              <title type="incipit">Virginis venerandae</title>
+              <idno type="dokumenten_id">Ut 417-5v-13</idno>
+            </msItem>
+            <msItem n="133">
+              <locus from="5v">f. 5v</locus>
+              <title type="incipit">Laetabundus exsultet</title>
+              <idno type="dokumenten_id">Ut 417-5v-3</idno>
+            </msItem>
+            <msItem n="134">
+              <locus from="6">f. 6</locus>
+              <title type="incipit">Dixit dominus ex Basan</title>
+              <idno type="dokumenten_id">Ut 417-6-6</idno>
+            </msItem>
+            <msItem n="135">
+              <locus from="6v">f. 6v</locus>
+              <title type="incipit">Concentu parili hic te</title>
+              <idno type="dokumenten_id">Ut 417-6v-9</idno>
+            </msItem>
+            <msItem n="136">
+              <locus from="7v">f. 7v</locus>
+              <title type="incipit">Laudes salvatori</title>
+              <idno type="dokumenten_id">Ut 417-7v-4</idno>
+            </msItem>
+            <msItem n="137">
+              <locus from="8v">f. 8v</locus>
+              <title type="incipit">Laudes Christo redempti</title>
+              <idno type="dokumenten_id">Ut 417-8v-4</idno>
+            </msItem>
+            <msItem n="138">
+              <locus from="9">f. 9</locus>
+              <title type="incipit">Christe domine laetifica</title>
+              <idno type="dokumenten_id">Ut 417-9-5</idno>
+            </msItem>
+            <msItem n="139">
+              <locus from="9">f. 9</locus>
+              <title type="incipit">Agni paschalis esu</title>
+              <idno type="dokumenten_id">Ut 417-9-9</idno>
+            </msItem>
+            <msItem n="140">
+              <locus from="9v">f. 9v</locus>
+              <title type="incipit">Grates salvatori</title>
+              <idno type="dokumenten_id">Ut 417-9v-5</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Utrecht</settlement>
+                <region>Quellen deutscher Herkunft</region>
+                <orgName>Stift Sankt Marien</orgName>
+              </origPlace>
+              <origDate>13. Jh Mitte</origDate>
+            </origin>
+          </history>
+          <additional>
+            <adminInfo>
+              <note type="description">
+                <ref target="Ut_417.description.md">Source description</ref>
+              </note>
+            </adminInfo>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

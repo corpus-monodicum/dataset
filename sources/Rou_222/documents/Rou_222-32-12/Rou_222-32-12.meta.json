@@ -1,0 +1,41 @@
+{
+  "id": "7c14f723-ff6d-4d23-9a4b-c419bb7bc238",
+  "quelle_id": "Rou 222",
+  "dokumenten_id": "Rou 222-32-12",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Feria VI in Parasceve",
+  "feier": "Depositio crucis",
+  "textinitium": "Adoremus crucis signaculum",
+  "bibliographischerverweis": "Lowe 292",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "12",
+  "foliostart": "32",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "32v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Rou 222-30v-23S",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Good Friday / Deposition of the cross",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

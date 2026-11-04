@@ -1,0 +1,25 @@
+{
+  "id": "Wo 491",
+  "quellensigle": "Wo 491",
+  "herkunftsregion": "Quellen deutscher Herkunft",
+  "herkunftsort": "Hildesheim (Diözese)",
+  "herkunftsinstitution": "möglicherweise Sankt Marien vor Gandersheim",
+  "ordenstradition": "",
+  "quellentyp": "Graduale mit Tropen, Kyriale, Sequentiar",
+  "bibliotheksort": "Wolfenbüttel",
+  "bibliothek": "Herzog August Bibliothek",
+  "bibliothekssignatur": "Cod. Guelf. 491 Helmst.",
+  "kommentar": "",
+  "datierung": "14. Jh 1. Hälfte",
+  "status": "",
+  "jahrhundert": "14.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Wo 491",
+  "cantus_century": "14.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Wo_491.description.md"
+  }
+}

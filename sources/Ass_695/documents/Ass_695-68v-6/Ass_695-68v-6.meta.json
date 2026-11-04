@@ -1,0 +1,41 @@
+{
+  "id": "ac6568f9-6687-46b2-bbe5-3b21f484b3f8",
+  "quelle_id": "Ass 695",
+  "dokumenten_id": "Ass 695-68v-6",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Epiphania",
+  "feier": "Messe",
+  "textinitium": "Festa Christi",
+  "bibliographischerverweis": "AH 53, 29",
+  "druckausgabe": "CM III",
+  "zeilenstart": "6",
+  "foliostart": "68v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "69v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Trinitas (A)",
+    "Überlieferungszustand": "Abschnitt im Inneren fehlt; Ende fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3afe7257-1fd9-4be7-ba6a-f84e3f6dd275",
+  "quelle_id": "Pia 65",
+  "dokumenten_id": "Pia 65-232b-14",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Nativitas domini",
+  "feier": "3. Messe",
+  "textinitium": "Quem nasci",
+  "bibliographischerverweis": "Nat III intr 53 A 54 B 55 C D E 34 A (CT I)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "14",
+  "foliostart": "232b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Puer natus",
+    "Endseite": "232b",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "19",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Nat III intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

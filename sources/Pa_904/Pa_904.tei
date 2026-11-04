@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pa 904: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Edition (Spiele)</resp>
+          <persName>Elaine Stratton Hild</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Hanna Zühlke</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="Pa_904">
+          <msIdentifier>
+            <settlement>Paris</settlement>
+            <repository>Bibliothèque nationale de France</repository>
+            <idno type="shelfmark">Lat. 904</idno>
+            <altIdentifier type="siglum">
+              <idno>Pa 904</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>Pa 904</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <term type="quellentyp">Graduale mit Prozessionsgesängen, Sequenzen und liturgischen Spielen</term>
+            </summary>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="101v">f. 101v</locus>
+              <title type="incipit">Quis revolvet nobis lapidem</title>
+              <idno type="dokumenten_id">Pa 904-101v-10</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="101v">f. 101v</locus>
+              <title type="incipit">Quem quaeritis in sepulchro</title>
+              <idno type="dokumenten_id">Pa 904-101v-16</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="101v">f. 101v</locus>
+              <title type="incipit">Non est hic surrexit enim</title>
+              <idno type="dokumenten_id">Pa 904-101v-19</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="101v">f. 101v</locus>
+              <title type="incipit">Mulier quid ploras</title>
+              <idno type="dokumenten_id">Pa 904-101v-24</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="101v">f. 101v</locus>
+              <title type="incipit">Quia tulerunt dominum</title>
+              <idno type="dokumenten_id">Pa 904-101v-25</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="101v">f. 101v</locus>
+              <title type="incipit">Quem quaeritis viventem</title>
+              <idno type="dokumenten_id">Pa 904-101v-28</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="101v">f. 101v</locus>
+              <title type="incipit">Te deum laudamus*</title>
+              <idno type="dokumenten_id">Pa 904-101v-8</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="102">f. 102</locus>
+              <title type="incipit">Maria</title>
+              <idno type="dokumenten_id">Pa 904-102-12a</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="102">f. 102</locus>
+              <title type="incipit">Rabboni</title>
+              <idno type="dokumenten_id">Pa 904-102-12b</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="102">f. 102</locus>
+              <title type="incipit">Noli me tangere</title>
+              <idno type="dokumenten_id">Pa 904-102-13</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="102">f. 102</locus>
+              <title type="incipit">Alleluia resurrexit dominus</title>
+              <idno type="dokumenten_id">Pa 904-102-22a</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="102">f. 102</locus>
+              <title type="incipit">Hodie resurrexit leo fortis</title>
+              <idno type="dokumenten_id">Pa 904-102-22b</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="102">f. 102</locus>
+              <title type="incipit">Mulier quid ploras quem quaeris</title>
+              <idno type="dokumenten_id">Pa 904-102-8</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="102">f. 102</locus>
+              <title type="incipit">Domine si tu</title>
+              <idno type="dokumenten_id">Pa 904-102-9</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="102v">f. 102v</locus>
+              <title type="incipit">Christus resurgens</title>
+              <idno type="dokumenten_id">Pa 904-102v-14</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="102v">f. 102v</locus>
+              <title type="incipit">Te deum laudamus*</title>
+              <idno type="dokumenten_id">Pa 904-102v-3a</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="102v">f. 102v</locus>
+              <title type="incipit">Resurgente dominorum domino</title>
+              <idno type="dokumenten_id">Pa 904-102v-3b</idno>
+            </msItem>
+            <msItem n="18">
+              <locus from="103">f. 103</locus>
+              <title type="incipit">Dei genitrix intercede</title>
+              <idno type="dokumenten_id">Pa 904-103-10</idno>
+            </msItem>
+            <msItem n="19">
+              <locus from="103">f. 103</locus>
+              <title type="incipit">Gratiam tuam quaesumus</title>
+              <idno type="dokumenten_id">Pa 904-103-11</idno>
+            </msItem>
+            <msItem n="20">
+              <locus from="103">f. 103</locus>
+              <title type="incipit">Lux perpetua lucebit</title>
+              <idno type="dokumenten_id">Pa 904-103-14</idno>
+            </msItem>
+            <msItem n="21">
+              <locus from="103">f. 103</locus>
+              <title type="incipit">Si diligeretis me</title>
+              <idno type="dokumenten_id">Pa 904-103-16</idno>
+            </msItem>
+            <msItem n="22">
+              <locus from="103">f. 103</locus>
+              <title type="incipit">Vox laetitiae</title>
+              <idno type="dokumenten_id">Pa 904-103-18</idno>
+            </msItem>
+            <msItem n="23">
+              <locus from="103">f. 103</locus>
+              <title type="incipit">Infirmitatem nostram quaesumus</title>
+              <idno type="dokumenten_id">Pa 904-103-19</idno>
+            </msItem>
+            <msItem n="24">
+              <locus from="103">f. 103</locus>
+              <title type="incipit">Dicite in nationibus</title>
+              <idno type="dokumenten_id">Pa 904-103-2</idno>
+            </msItem>
+            <msItem n="25">
+              <locus from="103">f. 103</locus>
+              <title type="incipit">Deus qui pro nobis</title>
+              <idno type="dokumenten_id">Pa 904-103-5</idno>
+            </msItem>
+            <msItem n="26">
+              <locus from="103">f. 103</locus>
+              <title type="incipit">Paradisi porta per Evam</title>
+              <idno type="dokumenten_id">Pa 904-103-8</idno>
+            </msItem>
+            <msItem n="27">
+              <locus from="103">f. 103</locus>
+              <title type="incipit">Post partum virgo inviolata</title>
+              <idno type="dokumenten_id">Pa 904-103-9</idno>
+            </msItem>
+            <msItem n="28">
+              <locus from="10v">f. 10v</locus>
+              <title type="incipit">Dominus vobiscum</title>
+              <idno type="dokumenten_id">Pa 904-10v-9</idno>
+            </msItem>
+            <msItem n="29">
+              <locus from="11v">f. 11v</locus>
+              <title type="incipit">Nolite timere ecce</title>
+              <idno type="dokumenten_id">Pa 904-11v-11</idno>
+            </msItem>
+            <msItem n="30">
+              <locus from="11v">f. 11v</locus>
+              <title type="incipit">Te deum laudamus*</title>
+              <idno type="dokumenten_id">Pa 904-11v-8</idno>
+            </msItem>
+            <msItem n="31">
+              <locus from="12">f. 12</locus>
+              <title type="incipit">Transeamus usque</title>
+              <idno type="dokumenten_id">Pa 904-12-16</idno>
+            </msItem>
+            <msItem n="32">
+              <locus from="12">f. 12</locus>
+              <title type="incipit">Quem quaeritis in praesepe</title>
+              <idno type="dokumenten_id">Pa 904-12-19</idno>
+            </msItem>
+            <msItem n="33">
+              <locus from="12">f. 12</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Pa 904-12-3</idno>
+            </msItem>
+            <msItem n="34">
+              <locus from="12">f. 12</locus>
+              <title type="incipit">Pax in terris</title>
+              <idno type="dokumenten_id">Pa 904-12-7</idno>
+            </msItem>
+            <msItem n="35">
+              <locus from="12v">f. 12v</locus>
+              <title type="incipit">Salve virgo singularis</title>
+              <idno type="dokumenten_id">Pa 904-12v-12</idno>
+            </msItem>
+            <msItem n="36">
+              <locus from="12v">f. 12v</locus>
+              <title type="incipit">Alleluia alleluia iam vere</title>
+              <idno type="dokumenten_id">Pa 904-12v-19</idno>
+            </msItem>
+            <msItem n="37">
+              <locus from="12v">f. 12v</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pa 904-12v-22</idno>
+            </msItem>
+            <msItem n="38">
+              <locus from="12v">f. 12v</locus>
+              <idno type="dokumenten_id">Pa 904-12v-23</idno>
+            </msItem>
+            <msItem n="39">
+              <locus from="12v">f. 12v</locus>
+              <title type="incipit">Populus gentium*</title>
+              <idno type="dokumenten_id">Pa 904-12v-24</idno>
+            </msItem>
+            <msItem n="40">
+              <locus from="12v">f. 12v</locus>
+              <idno type="dokumenten_id">Pa 904-12v-25a</idno>
+            </msItem>
+            <msItem n="41">
+              <locus from="12v">f. 12v</locus>
+              <title type="incipit">Tecum principium*</title>
+              <idno type="dokumenten_id">Pa 904-12v-25b</idno>
+            </msItem>
+            <msItem n="42">
+              <locus from="12v">f. 12v</locus>
+              <title type="incipit">Alleluia Dominus dixit*</title>
+              <idno type="dokumenten_id">Pa 904-12v-26</idno>
+            </msItem>
+            <msItem n="43">
+              <locus from="12v">f. 12v</locus>
+              <title type="incipit">Quem vidistis pastores dicite*</title>
+              <idno type="dokumenten_id">Pa 904-12v-27</idno>
+            </msItem>
+            <msItem n="44">
+              <locus from="12v">f. 12v</locus>
+              <title type="incipit">Dominus dixit</title>
+              <idno type="dokumenten_id">Pa 904-12v-28</idno>
+            </msItem>
+            <msItem n="45">
+              <locus from="12v">f. 12v</locus>
+              <title type="incipit">Deus qui hanc sacratissimam*</title>
+              <idno type="dokumenten_id">Pa 904-12v-29</idno>
+            </msItem>
+            <msItem n="46">
+              <locus from="12v">f. 12v</locus>
+              <title type="incipit">Deus qui salutis*</title>
+              <idno type="dokumenten_id">Pa 904-12v-31a</idno>
+            </msItem>
+            <msItem n="47">
+              <locus from="12v">f. 12v</locus>
+              <title type="incipit">Populus gentium*</title>
+              <idno type="dokumenten_id">Pa 904-12v-31b</idno>
+            </msItem>
+            <msItem n="48">
+              <locus from="12v">f. 12v</locus>
+              <title type="incipit">Apparuit gratia*</title>
+              <idno type="dokumenten_id">Pa 904-12v-32a</idno>
+            </msItem>
+            <msItem n="49">
+              <locus from="12v">f. 12v</locus>
+              <title type="incipit">Tecum principium</title>
+              <idno type="dokumenten_id">Pa 904-12v-32b</idno>
+            </msItem>
+            <msItem n="50">
+              <locus from="13">f. 13</locus>
+              <title type="incipit">Alleluia Dominus dixit</title>
+              <idno type="dokumenten_id">Pa 904-13-6</idno>
+            </msItem>
+            <msItem n="51">
+              <locus from="13">f. 13</locus>
+              <title type="incipit">Nato canunt omnia</title>
+              <idno type="dokumenten_id">Pa 904-13-9</idno>
+            </msItem>
+            <msItem n="52">
+              <locus from="13v">f. 13v</locus>
+              <title type="incipit">In splendoribus sanctorum</title>
+              <idno type="dokumenten_id">Pa 904-13v-11</idno>
+            </msItem>
+            <msItem n="53">
+              <locus from="13v">f. 13v</locus>
+              <title type="incipit">Quem vidistis pastores dicite</title>
+              <idno type="dokumenten_id">Pa 904-13v-12</idno>
+            </msItem>
+            <msItem n="54">
+              <locus from="13v">f. 13v</locus>
+              <title type="incipit">Laetentur caeli</title>
+              <idno type="dokumenten_id">Pa 904-13v-8a</idno>
+            </msItem>
+            <msItem n="55">
+              <locus from="13v">f. 13v</locus>
+              <title type="incipit">Exiit edictum a Caesare*</title>
+              <idno type="dokumenten_id">Pa 904-13v-8b</idno>
+            </msItem>
+            <msItem n="56">
+              <locus from="14">f. 14</locus>
+              <title type="incipit">Verbum patris hodie</title>
+              <idno type="dokumenten_id">Pa 904-14-1</idno>
+            </msItem>
+            <msItem n="57">
+              <locus from="14">f. 14</locus>
+              <title type="incipit">Ecce completa sunt</title>
+              <idno type="dokumenten_id">Pa 904-14-10</idno>
+            </msItem>
+            <msItem n="58">
+              <locus from="14">f. 14</locus>
+              <title type="incipit">Deus qui salutis*</title>
+              <idno type="dokumenten_id">Pa 904-14-8</idno>
+            </msItem>
+            <msItem n="59">
+              <locus from="29">f. 29</locus>
+              <title type="incipit">Magi veniunt</title>
+              <idno type="dokumenten_id">Pa 904-29-11</idno>
+            </msItem>
+            <msItem n="60">
+              <locus from="29">f. 29</locus>
+              <title type="incipit">Ecce stella in oriente ... haec inquam</title>
+              <idno type="dokumenten_id">Pa 904-29-21</idno>
+            </msItem>
+            <msItem n="61">
+              <locus from="29">f. 29</locus>
+              <title type="incipit">Stella fulgore</title>
+              <idno type="dokumenten_id">Pa 904-29-2a</idno>
+            </msItem>
+            <msItem n="62">
+              <locus from="29">f. 29</locus>
+              <title type="incipit">Quae regem regum</title>
+              <idno type="dokumenten_id">Pa 904-29-2b</idno>
+            </msItem>
+            <msItem n="63">
+              <locus from="29">f. 29</locus>
+              <title type="incipit">Quem venturum</title>
+              <idno type="dokumenten_id">Pa 904-29-4</idno>
+            </msItem>
+            <msItem n="64">
+              <locus from="29">f. 29</locus>
+              <title type="incipit">Eamus ergo</title>
+              <idno type="dokumenten_id">Pa 904-29-7</idno>
+            </msItem>
+            <msItem n="65">
+              <locus from="29v">f. 29v</locus>
+              <title type="incipit">Ecce puer adest</title>
+              <idno type="dokumenten_id">Pa 904-29v-14</idno>
+            </msItem>
+            <msItem n="66">
+              <locus from="29v">f. 29v</locus>
+              <title type="incipit">Salve princeps saeculorum</title>
+              <idno type="dokumenten_id">Pa 904-29v-17</idno>
+            </msItem>
+            <msItem n="67">
+              <locus from="29v">f. 29v</locus>
+              <title type="incipit">Impleta sunt omnia</title>
+              <idno type="dokumenten_id">Pa 904-29v-26</idno>
+            </msItem>
+            <msItem n="68">
+              <locus from="29v">f. 29v</locus>
+              <title type="incipit">Qui sunt hi qui stella</title>
+              <idno type="dokumenten_id">Pa 904-29v-6</idno>
+            </msItem>
+            <msItem n="69">
+              <locus from="29v">f. 29v</locus>
+              <title type="incipit">Nos sumus quos</title>
+              <idno type="dokumenten_id">Pa 904-29v-9</idno>
+            </msItem>
+            <msItem n="70">
+              <locus from="30">f. 30</locus>
+              <title type="incipit">Kyrie fons bonitatis*</title>
+              <idno type="dokumenten_id">Pa 904-30-12a</idno>
+            </msItem>
+            <msItem n="71">
+              <locus from="30">f. 30</locus>
+              <title type="incipit">Alleluia*</title>
+              <idno type="dokumenten_id">Pa 904-30-12b</idno>
+            </msItem>
+            <msItem n="72">
+              <locus from="30">f. 30</locus>
+              <title type="incipit">Agnus dei*</title>
+              <idno type="dokumenten_id">Pa 904-30-12c</idno>
+            </msItem>
+            <msItem n="73">
+              <locus from="30">f. 30</locus>
+              <title type="incipit">Sanctus ... dominus deus*</title>
+              <idno type="dokumenten_id">Pa 904-30-12d</idno>
+            </msItem>
+            <msItem n="74">
+              <locus from="30">f. 30</locus>
+              <title type="incipit">Ecce advenit</title>
+              <idno type="dokumenten_id">Pa 904-30-14</idno>
+            </msItem>
+            <msItem n="75">
+              <locus from="30">f. 30</locus>
+              <title type="incipit">Deus qui hodierna*</title>
+              <idno type="dokumenten_id">Pa 904-30-16a</idno>
+            </msItem>
+            <msItem n="76">
+              <locus from="30">f. 30</locus>
+              <title type="incipit">Kyrie fons bonitatis</title>
+              <idno type="dokumenten_id">Pa 904-30-16b</idno>
+            </msItem>
+            <msItem n="77">
+              <locus from="30">f. 30</locus>
+              <title type="incipit">Tria sunt munera</title>
+              <idno type="dokumenten_id">Pa 904-30-4</idno>
+            </msItem>
+            <msItem n="78">
+              <locus from="31">f. 31</locus>
+              <title type="incipit">Alleluia Vidimus stellam</title>
+              <idno type="dokumenten_id">Pa 904-31-12</idno>
+            </msItem>
+            <msItem n="79">
+              <locus from="31">f. 31</locus>
+              <title type="incipit">Deus qui hodierna*</title>
+              <idno type="dokumenten_id">Pa 904-31-7</idno>
+            </msItem>
+            <msItem n="80">
+              <locus from="31">f. 31</locus>
+              <title type="incipit">Surge inluminare*</title>
+              <idno type="dokumenten_id">Pa 904-31-8a</idno>
+            </msItem>
+            <msItem n="81">
+              <locus from="31">f. 31</locus>
+              <title type="incipit">Omnes de Saba</title>
+              <idno type="dokumenten_id">Pa 904-31-8b</idno>
+            </msItem>
+            <msItem n="82">
+              <locus from="31v">f. 31v</locus>
+              <title type="incipit">Epiphaniam domino</title>
+              <idno type="dokumenten_id">Pa 904-31v-2</idno>
+            </msItem>
+            <msItem n="83">
+              <locus from="32">f. 32</locus>
+              <title type="incipit">Credo in unum deum*</title>
+              <idno type="dokumenten_id">Pa 904-32-10</idno>
+            </msItem>
+            <msItem n="84">
+              <locus from="32">f. 32</locus>
+              <title type="incipit">Quia cum unigenitus*</title>
+              <idno type="dokumenten_id">Pa 904-32-11a</idno>
+            </msItem>
+            <msItem n="85">
+              <locus from="32">f. 32</locus>
+              <title type="incipit">Reges Tharsis</title>
+              <idno type="dokumenten_id">Pa 904-32-11b</idno>
+            </msItem>
+            <msItem n="86">
+              <locus from="32">f. 32</locus>
+              <title type="incipit">Vidimus stellam</title>
+              <idno type="dokumenten_id">Pa 904-32-14</idno>
+            </msItem>
+            <msItem n="87">
+              <locus from="32">f. 32</locus>
+              <title type="incipit">Cum natus esset*</title>
+              <idno type="dokumenten_id">Pa 904-32-9</idno>
+            </msItem>
+            <msItem n="88">
+              <locus from="90v">f. 90v</locus>
+              <title type="incipit">Popule meus</title>
+              <idno type="dokumenten_id">Pa 904-90v-10</idno>
+            </msItem>
+            <msItem n="89">
+              <locus from="90v">f. 90v</locus>
+              <title type="incipit">Agios o theos</title>
+              <idno type="dokumenten_id">Pa 904-90v-14</idno>
+            </msItem>
+            <msItem n="90">
+              <locus from="90v">f. 90v</locus>
+              <title type="incipit">Quia eduxi te</title>
+              <idno type="dokumenten_id">Pa 904-90v-26</idno>
+            </msItem>
+            <msItem n="91">
+              <locus from="91">f. 91</locus>
+              <title type="incipit">Agios o theos*</title>
+              <idno type="dokumenten_id">Pa 904-91-1</idno>
+            </msItem>
+            <msItem n="92">
+              <locus from="91">f. 91</locus>
+              <title type="incipit">Crucem tuam adoramus</title>
+              <idno type="dokumenten_id">Pa 904-91-16</idno>
+            </msItem>
+            <msItem n="93">
+              <locus from="91">f. 91</locus>
+              <title type="incipit">Tuam crucem adoramus</title>
+              <idno type="dokumenten_id">Pa 904-91-20</idno>
+            </msItem>
+            <msItem n="94">
+              <locus from="91">f. 91</locus>
+              <title type="incipit">Quid ultra debui</title>
+              <idno type="dokumenten_id">Pa 904-91-3</idno>
+            </msItem>
+            <msItem n="95">
+              <locus from="91">f. 91</locus>
+              <title type="incipit">Agios o theos*</title>
+              <idno type="dokumenten_id">Pa 904-91-7</idno>
+            </msItem>
+            <msItem n="96">
+              <locus from="91">f. 91</locus>
+              <title type="incipit">Ecce lignum crucis</title>
+              <idno type="dokumenten_id">Pa 904-91-9</idno>
+            </msItem>
+            <msItem n="97">
+              <locus from="91v">f. 91v</locus>
+              <title type="incipit">Adoremus crucis signaculum</title>
+              <idno type="dokumenten_id">Pa 904-91v-1</idno>
+            </msItem>
+            <msItem n="98">
+              <locus from="91v">f. 91v</locus>
+              <title type="incipit">Dum fabricator mundi</title>
+              <idno type="dokumenten_id">Pa 904-91v-9</idno>
+            </msItem>
+            <msItem n="99">
+              <locus from="92">f. 92</locus>
+              <title type="incipit">Crux fidelis</title>
+              <idno type="dokumenten_id">Pa 904-92-7</idno>
+            </msItem>
+            <msItem n="100">
+              <locus from="92v">f. 92v</locus>
+              <title type="incipit">Super omnia ligna</title>
+              <idno type="dokumenten_id">Pa 904-92v-22</idno>
+            </msItem>
+            <msItem n="101">
+              <locus from="92v">f. 92v</locus>
+              <title type="incipit">Sicut ovis ad occisionem</title>
+              <idno type="dokumenten_id">Pa 904-92v-30</idno>
+            </msItem>
+            <msItem n="102">
+              <locus from="93">f. 93</locus>
+              <title type="incipit">Sepulto domino</title>
+              <idno type="dokumenten_id">Pa 904-93-11</idno>
+            </msItem>
+            <msItem n="103">
+              <locus from="93">f. 93</locus>
+              <title type="incipit">In pace in idipsum</title>
+              <idno type="dokumenten_id">Pa 904-93-8</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Rouen</settlement>
+                <region>Quellen normannischer Herkunft</region>
+                <orgName>Kathedrale Notre-Dame de l´ Assomption</orgName>
+              </origPlace>
+              <origDate>13. Jh 1. Hälfte</origDate>
+            </origin>
+          </history>
+          <additional>
+            <adminInfo>
+              <note type="description">
+                <ref target="Pa_904.description.md">Source description</ref>
+              </note>
+            </adminInfo>
+            <surrogates>
+              <bibl>
+                <ref type="iiif-manifest" target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b84324657/manifest.json" />
+              </bibl>
+            </surrogates>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

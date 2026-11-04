@@ -1,0 +1,41 @@
+{
+  "id": "37c7ceb5-a118-420b-b9c8-919e0242e100",
+  "quelle_id": "SCan 7",
+  "dokumenten_id": "SCan 7-270v-9",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Katharina",
+  "feier": "Messe",
+  "textinitium": "Ave praesignis martyr",
+  "bibliographischerverweis": "AH 54, 56",
+  "druckausgabe": "",
+  "zeilenstart": "9",
+  "foliostart": "270v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Gionata Brusa",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "272",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "-",
+    "Überlieferungszustand": "Ende fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "fe130ec6-ae30-45e9-a150-31025eb1b353",
+  "quelle_id": "Nvr G3",
+  "dokumenten_id": "Nvr G3-15-2",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Nativitas domini",
+  "feier": "3. Messe",
+  "textinitium": "Archangeli laetantur",
+  "bibliographischerverweis": "Nat III intr 120 A (CT I)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "2",
+  "foliostart": "15",
+  "kommentar": "Nachtrag zwischen den Zeilen: \"Cantate dominum canticum novum\"",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Puer natus",
+    "Endseite": "15",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Nat III intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

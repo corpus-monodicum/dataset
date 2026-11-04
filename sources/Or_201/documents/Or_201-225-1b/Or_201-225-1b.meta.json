@@ -1,0 +1,41 @@
+{
+  "id": "9d16a5d5-0bf1-41ff-8814-29fff63bc36e",
+  "quelle_id": "Or 201",
+  "dokumenten_id": "Or 201-225-1b",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "Pascha",
+  "feier": "Matutin",
+  "textinitium": "Ite nuntiate fratribus",
+  "bibliographischerverweis": "CAO 3462",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "1",
+  "foliostart": "225",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "225",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "Or 201-220-16S",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Easter play / Osterspiel",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

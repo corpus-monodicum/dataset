@@ -1,0 +1,41 @@
+{
+  "id": "4c743bd7-65ab-483c-965d-d66830047d10",
+  "quelle_id": "Ass 695",
+  "dokumenten_id": "Ass 695-218v-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Angeli",
+  "feier": "Messe",
+  "textinitium": "O alma trinitas deus",
+  "bibliographischerverweis": "AH 7, 219",
+  "druckausgabe": "CM III",
+  "zeilenstart": "1",
+  "foliostart": "218v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "219v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "O alma maior",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "04bc98b2-85e5-40ec-8093-7b77080c8aef",
+  "quelle_id": "SCan 7",
+  "dokumenten_id": "SCan 7-243-8",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Feria V post Pascha",
+  "feier": "Messe",
+  "textinitium": "Laudes deo concinat orbis",
+  "bibliographischerverweis": "AH 53, 53",
+  "druckausgabe": "",
+  "zeilenstart": "8",
+  "foliostart": "243",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Gionata Brusa",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "244",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Organa (A)",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0688f8b4-4751-4e0b-b9f7-ec74b888f478",
+  "quelle_id": "Pa 14452",
+  "dokumenten_id": "Pa 14452-209v-6",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Sancti",
+  "feier": "Messe",
+  "textinitium": "Supernae matris",
+  "bibliographischerverweis": "AH 55, 37",
+  "druckausgabe": "CM III",
+  "zeilenstart": "6",
+  "foliostart": "209v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "210v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

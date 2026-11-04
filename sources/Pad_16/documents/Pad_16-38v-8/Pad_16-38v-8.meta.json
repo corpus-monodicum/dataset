@@ -1,0 +1,41 @@
+{
+  "id": "b87e7362-83cd-480c-ac97-f6ffc196ffbb",
+  "quelle_id": "Pad 16",
+  "dokumenten_id": "Pad 16-38v-8",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Agatha",
+  "feier": "Messe",
+  "textinitium": "Gaudeamus omnes ... Agathae",
+  "bibliographischerverweis": "vgl. AMS 30",
+  "druckausgabe": "II-4",
+  "zeilenstart": "8",
+  "foliostart": "38v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "39",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

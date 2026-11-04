@@ -1,0 +1,103 @@
+{
+  "type": "cm-manuscript-export",
+  "schemaVersion": 2,
+  "exportedAt": "2026-11-02T18:13:45.443Z",
+  "exportedManuscripts": [
+    "Abb 7"
+  ],
+  "data": {
+    "personalTables": [
+      {
+        "id": "t_46ca8672-1359-4010-996b-e4a2f0a74d91",
+        "name": "Abb 7",
+        "source": "Abb 7",
+        "notes": "",
+        "patterns": [],
+        "rows": [
+          {
+            "pattern": "*",
+            "customId": "10",
+            "notes": ""
+          },
+          {
+            "pattern": "*e",
+            "customId": "11",
+            "notes": ""
+          },
+          {
+            "pattern": "*ee",
+            "customId": "12",
+            "notes": ""
+          },
+          {
+            "pattern": "*[ed]",
+            "customId": "13",
+            "notes": ""
+          },
+          {
+            "pattern": "[*d]",
+            "customId": "20",
+            "notes": ""
+          },
+          {
+            "pattern": "[*du]dd",
+            "customId": "21",
+            "notes": ""
+          },
+          {
+            "pattern": "[*dd]",
+            "customId": "22",
+            "notes": ""
+          },
+          {
+            "pattern": "*dd",
+            "customId": "30",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u]",
+            "customId": "40",
+            "notes": ""
+          },
+          {
+            "pattern": "[*ud]",
+            "customId": "41",
+            "notes": ""
+          },
+          {
+            "pattern": "[*udud]",
+            "customId": "42",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u]dd",
+            "customId": "43",
+            "notes": ""
+          },
+          {
+            "pattern": "[*uu]",
+            "customId": "44",
+            "notes": ""
+          },
+          {
+            "pattern": "[*dL]",
+            "customId": "10+/20-",
+            "notes": ""
+          },
+          {
+            "pattern": "*[edL]",
+            "customId": "11+/13-",
+            "notes": ""
+          }
+        ],
+        "isPublished": true
+      }
+    ],
+    "regions": {},
+    "regionItems": {},
+    "manualLines": {},
+    "iiifLinks": {
+      "Abb 7": "https://api.irht.cnrs.fr/ark:/63955/fj2uwtcwtj87/manifest.json"
+    }
+  }
+}

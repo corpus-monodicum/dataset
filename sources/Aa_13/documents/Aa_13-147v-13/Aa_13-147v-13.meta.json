@@ -1,0 +1,41 @@
+{
+  "id": "6ac9617f-e726-4e47-91b2-6e95d3e4d1b1",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-147v-13",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Katharina",
+  "feier": "Messe",
+  "textinitium": "Iucundare plebs fidelis nam praeclara",
+  "bibliographischerverweis": "AH 9, 270",
+  "druckausgabe": "CM III",
+  "zeilenstart": "13",
+  "foliostart": "147v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "148v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

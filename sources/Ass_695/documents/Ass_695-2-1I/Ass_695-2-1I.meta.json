@@ -1,0 +1,41 @@
+{
+  "id": "92f9d147-93d3-4736-bf08-5c4e2e981402",
+  "quelle_id": "Ass 695",
+  "dokumenten_id": "Ass 695-2-1I",
+  "gattung1": "Agnus",
+  "gattung2": "tropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Factus homo sumpta",
+  "bibliographischerverweis": "AH 47, 393",
+  "druckausgabe": "",
+  "zeilenstart": "1",
+  "foliostart": "2",
+  "kommentar": "1. zweistimmiger Nachtrag (Primärgesang-Abschnitte einstimmig).",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Charles M. Atkinson",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "2",
+    "Startposition": "I",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "Schildbach 114",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509505",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "Nachtrag",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

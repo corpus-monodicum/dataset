@@ -1,0 +1,41 @@
+{
+  "id": "b631b1dd-5391-4d17-a27a-18b223b43c2d",
+  "quelle_id": "Or 201",
+  "dokumenten_id": "Or 201-206-7",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Tropus",
+  "festtag": "Epiphania",
+  "feier": "Matutin",
+  "textinitium": "Quem quaeritis in praesepe",
+  "bibliographischerverweis": "CT I (Nat III intr 62)",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "7",
+  "foliostart": "206",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "206",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Or 201-205-9S",
+    "Endzeile": "17",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Magi play",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

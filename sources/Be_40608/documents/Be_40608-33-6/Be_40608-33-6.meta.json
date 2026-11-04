@@ -1,0 +1,41 @@
+{
+  "id": "3ce20e0f-a7d9-40cd-bc11-5133377c14f1",
+  "quelle_id": "Be 40608",
+  "dokumenten_id": "Be 40608-33-6",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Epiphania",
+  "feier": "Messe",
+  "textinitium": "Ecce advenit",
+  "bibliographischerverweis": "AMS 18",
+  "druckausgabe": "",
+  "zeilenstart": "6",
+  "foliostart": "33",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "33",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0ca6580b-5a80-41f3-a6e4-efa2fb4b4f46",
+  "quelle_id": "Ba 12",
+  "dokumenten_id": "Ba 12-25-4",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Michael",
+  "feier": "Messe",
+  "textinitium": "Summi regis archangele",
+  "bibliographischerverweis": "AH 53, 192",
+  "druckausgabe": "CM III",
+  "zeilenstart": "4",
+  "foliostart": "25",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "25v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

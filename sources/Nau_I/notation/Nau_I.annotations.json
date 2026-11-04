@@ -1,0 +1,533 @@
+{
+  "type": "cm-manuscript-export",
+  "schemaVersion": 2,
+  "exportedAt": "2026-10-23T19:52:02.571Z",
+  "exportedManuscripts": [
+    "Nau I"
+  ],
+  "data": {
+    "personalTables": [
+      {
+        "id": "1788463704700",
+        "name": "Nau I",
+        "source": "Nau I",
+        "notes": "Zur Paginierung siehe gedruckte Fassung. ",
+        "patterns": [],
+        "rows": [
+          {
+            "pattern": "*",
+            "customId": "10",
+            "notes": ""
+          },
+          {
+            "pattern": "*e",
+            "customId": "11",
+            "notes": ""
+          },
+          {
+            "pattern": "*ee",
+            "customId": "12",
+            "notes": ""
+          },
+          {
+            "pattern": "*dee",
+            "customId": "13",
+            "notes": ""
+          },
+          {
+            "pattern": "[*d]",
+            "customId": "20",
+            "notes": ""
+          },
+          {
+            "pattern": "[*du]",
+            "customId": "21",
+            "notes": ""
+          },
+          {
+            "pattern": "[*dud]",
+            "customId": "22",
+            "notes": ""
+          },
+          {
+            "pattern": "[*d]e",
+            "customId": "23",
+            "notes": ""
+          },
+          {
+            "pattern": "*dd",
+            "customId": "30",
+            "notes": ""
+          },
+          {
+            "pattern": "*ddu",
+            "customId": "31",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u]",
+            "customId": "40",
+            "notes": ""
+          },
+          {
+            "pattern": "[*ud]",
+            "customId": "41",
+            "notes": ""
+          },
+          {
+            "pattern": "[*udu]",
+            "customId": "42",
+            "notes": ""
+          },
+          {
+            "pattern": "[*ud]e",
+            "customId": "43",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u]dd",
+            "customId": "44",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u]edd",
+            "customId": "45",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u]u",
+            "customId": "46",
+            "notes": ""
+          },
+          {
+            "pattern": "*uu",
+            "customId": "50",
+            "notes": ""
+          },
+          {
+            "pattern": "*u[ud]",
+            "customId": "51",
+            "notes": ""
+          },
+          {
+            "pattern": "[*dL]",
+            "customId": "10+/20-",
+            "notes": ""
+          },
+          {
+            "pattern": "[*ddL]",
+            "customId": "20+",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u][udL]",
+            "customId": "46+",
+            "notes": ""
+          }
+        ],
+        "isPublished": true
+      }
+    ],
+    "regions": {
+      "Nau I_13r": [
+        {
+          "id": "r_547a9f50-f4a5-493b-b2d9-4d9a824bdd6f",
+          "name": "Line 3",
+          "points": "10.67,21.74 82.43,21.74 82.43,29.22 10.67,29.22",
+          "canvas": {
+            "index": 32,
+            "label": "phys_Chorbuch_0025"
+          }
+        }
+      ],
+      "Nau I_13v": [
+        {
+          "id": "r_5bc5816d-554f-40fe-ac2c-32444452767f",
+          "name": "Line 9",
+          "points": "17.04,62.72 88.05,62.72 88.05,69.91 17.04,69.91",
+          "canvas": {
+            "index": 33,
+            "label": "phys_Chorbuch_0026"
+          }
+        }
+      ],
+      "Nau I_14v": [
+        {
+          "id": "r_3a21194a-cc66-4463-98aa-8f38a72a9434",
+          "name": "Line 7",
+          "points": "16.93,49.32 88.42,49.32 88.42,56.90 16.93,56.90",
+          "canvas": {
+            "index": 35,
+            "label": "phys_Chorbuch_0028"
+          }
+        },
+        {
+          "id": "r_01176c9c-877b-4b18-ad78-c2fceb9576fc",
+          "name": "Line 9",
+          "points": "16.67,62.67 89.53,62.67 89.53,70.54 16.67,70.54",
+          "canvas": {
+            "index": 35,
+            "label": "phys_Chorbuch_0028"
+          }
+        }
+      ],
+      "Nau I_18v": [
+        {
+          "id": "r_775d91cd-575b-47e5-8f14-74ffe1e1238e",
+          "name": "Line 3",
+          "points": "17.22,22.57 89.63,22.57 89.63,29.53 17.22,29.53",
+          "canvas": {
+            "index": 43,
+            "label": "phys_Chorbuch_0036"
+          }
+        },
+        {
+          "id": "r_590843bd-74c8-4cfa-a151-1062eef84a12",
+          "name": "Line 9",
+          "points": "17.35,62.88 90.14,62.88 90.14,70.57 17.35,70.57",
+          "canvas": {
+            "index": 43,
+            "label": "phys_Chorbuch_0036"
+          }
+        }
+      ],
+      "Nau I_77v": [
+        {
+          "id": "r_03235b4d-d435-4a39-98c8-1d9237ea7574",
+          "name": "Line 1",
+          "points": "19.97,8.24 91.59,8.24 91.59,15.99 19.97,15.99",
+          "canvas": {
+            "index": 161,
+            "label": "phys_Chorbuch_0154"
+          }
+        },
+        {
+          "id": "r_b0601d2f-9d63-474c-8186-470e3833420b",
+          "name": "Line 5",
+          "points": "19.34,35.58 92.35,35.58 92.35,43.37 19.34,43.37",
+          "canvas": {
+            "index": 161,
+            "label": "phys_Chorbuch_0154"
+          }
+        },
+        {
+          "id": "r_48d763e6-1348-4116-8bb2-6cb6ed245337",
+          "name": "Line 7",
+          "points": "19.19,49.04 92.54,49.04 92.54,56.29 19.19,56.29",
+          "canvas": {
+            "index": 161,
+            "label": "phys_Chorbuch_0154"
+          }
+        }
+      ],
+      "Nau I_78r": [
+        {
+          "id": "r_81316291-b99c-492a-a516-e468f64b08da",
+          "name": "Line 2",
+          "points": "11.41,16.19 80.83,16.19 80.83,24.10 11.41,24.10",
+          "canvas": {
+            "index": 162,
+            "label": "phys_Chorbuch_0155"
+          }
+        },
+        {
+          "id": "r_79c1bf3e-d2c0-41bc-9793-337e28f44486",
+          "name": "Line 4",
+          "points": "10.37,29.26 80.73,29.26 80.73,37.06 10.37,37.06",
+          "canvas": {
+            "index": 162,
+            "label": "phys_Chorbuch_0155"
+          }
+        },
+        {
+          "id": "r_bdc72923-19df-49fb-b0bf-ab2152982ced",
+          "name": "Line 5",
+          "points": "10.69,36.77 80.83,36.77 80.83,44.12 10.69,44.12",
+          "canvas": {
+            "index": 162,
+            "label": "phys_Chorbuch_0155"
+          }
+        }
+      ]
+    },
+    "regionItems": {
+      "r_547a9f50-f4a5-493b-b2d9-4d9a824bdd6f": [
+        {
+          "id": "i_4b004581-a44c-4db2-bb7e-fe4d78b6289f",
+          "pattern": "[*u][udL]",
+          "points": "30.96,21.72 36.77,21.72 36.77,25.63 30.96,25.63",
+          "linkData": {
+            "sysId": "Nau I-13-1|13r|3|mul-|F4-A4-C5-G4"
+          },
+          "variant": ""
+        }
+      ],
+      "r_5bc5816d-554f-40fe-ac2c-32444452767f": [
+        {
+          "id": "i_a1e59797-02f9-4f44-b15c-9163b22d6dbd",
+          "pattern": "[*ud]",
+          "points": "27.94,64.27 32.66,64.27 32.66,66.92 27.94,66.92",
+          "linkData": {
+            "sysId": "Nau I-13v-7|13v|9|mi-|G4-A4-G4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_ceebf796-bb95-47da-a4a6-376d1ec622ee",
+          "pattern": "[*ud]",
+          "points": "32.41,64.91 36.30,64.91 36.30,67.07 32.41,67.07",
+          "linkData": {
+            "sysId": "Nau I-13v-7|13v|9|ne|F4-G4-F4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_ab9ae76f-956e-4f8f-b077-c28ab5213500",
+          "pattern": "*u[ud]",
+          "points": "41.91,63.09 47.35,63.09 47.35,66.72 41.91,66.72",
+          "linkData": {
+            "sysId": "Nau I-13v-7|13v|9|me-|G4-A4-C5-A4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_6bf0baeb-fb24-4079-a8c4-bda5df14ffae",
+          "pattern": "*",
+          "points": "58.74,63.96 62.07,63.96 62.07,66.25 58.74,66.25",
+          "linkData": {
+            "sysId": "Nau I-13v-7|13v|9|ser-|A4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_ae179cf3-3052-42db-b463-f71ec43a078f",
+          "pattern": "[*u]dd",
+          "points": "66.56,63.62 72.25,63.62 72.25,66.81 66.56,66.81",
+          "linkData": {
+            "sysId": "Nau I-13v-7|13v|9|tu-|G4-B4-A4-G4"
+          },
+          "variant": ""
+        }
+      ],
+      "r_3a21194a-cc66-4463-98aa-8f38a72a9434": [
+        {
+          "id": "i_71648af8-2b40-4aa5-8b0a-0c6a19b9fedc",
+          "pattern": "[*dL]",
+          "points": "68.94,50.48 73.53,50.48 73.53,53.55 68.94,53.55",
+          "linkData": {
+            "sysId": "Nau I-14v-7|14v|7|san-|F4-C4"
+          },
+          "variant": "c"
+        }
+      ],
+      "r_01176c9c-877b-4b18-ad78-c2fceb9576fc": [
+        {
+          "id": "i_8ef87ad3-1768-4b08-8a24-99131bef4455",
+          "pattern": "[*dL]",
+          "points": "26.24,65.52 29.66,65.52 29.66,67.47 26.24,67.47",
+          "linkData": {
+            "sysId": "Nau I-14v-7|14v|9|In|D4-C4"
+          },
+          "variant": "b"
+        },
+        {
+          "id": "i_418e7763-07fa-4b7c-8293-a9634c90e665",
+          "pattern": "[*du]",
+          "points": "40.19,63.72 44.86,63.72 44.86,66.83 40.19,66.83",
+          "linkData": {
+            "sysId": "Nau I-14v-7|14v|9|cle-|G4-F4-G4"
+          },
+          "variant": "b"
+        },
+        {
+          "id": "i_ab8b235b-9b84-4891-80c8-11f450f3f32c",
+          "pattern": "[*u]",
+          "points": "50.15,64.29 53.36,64.29 53.36,67.36 50.15,67.36",
+          "linkData": {
+            "sysId": "Nau I-14v-7|14v|9|a-|D4-F4"
+          },
+          "variant": ""
+        }
+      ],
+      "r_775d91cd-575b-47e5-8f14-74ffe1e1238e": [
+        {
+          "id": "i_429c8969-865d-4c1d-bbe8-3fb44cd73dde",
+          "pattern": "[*u]edd",
+          "points": "30.46,22.68 37.54,22.68 37.54,25.90 30.46,25.90",
+          "linkData": {
+            "sysId": "Nau I-18v-1|18v|3|red-|F4-G4-G4-F4-E4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_f1b6e1a5-123b-406f-8a18-e791f83c3859",
+          "pattern": "[*dL]",
+          "points": "37.52,22.90 40.06,22.90 40.06,25.21 37.52,25.21",
+          "linkData": {
+            "sysId": "Nau I-18v-1|18v|3|em-|F4-E4"
+          },
+          "variant": "a"
+        }
+      ],
+      "r_590843bd-74c8-4cfa-a151-1062eef84a12": [
+        {
+          "id": "i_c9ab800e-c377-4bcd-bd32-67d779e17a0d",
+          "pattern": "[*u]u",
+          "points": "62.75,64.17 67.88,64.17 67.88,67.61 62.75,67.61",
+          "linkData": {
+            "sysId": "Nau I-18v-1|18v|9|et|D4-F4-G4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_54e87fc2-b19a-4886-90d7-3538985240af",
+          "pattern": "[*ud]e",
+          "points": "69.94,64.10 75.26,64.10 75.26,67.17 69.94,67.17",
+          "linkData": {
+            "sysId": "Nau I-18v-1|18v|9|pe-|F4-G4-F4-F4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_12e12b76-1e6f-42d2-9171-633d6442bfa2",
+          "pattern": "[*d]",
+          "points": "82.40,64.44 85.91,64.44 85.91,67.57 82.40,67.57",
+          "linkData": {
+            "sysId": "Nau I-18v-1|18v|9|um|F4-D4"
+          },
+          "variant": ""
+        }
+      ],
+      "r_03235b4d-d435-4a39-98c8-1d9237ea7574": [
+        {
+          "id": "i_a24ce8b2-0899-4831-994a-85d1b4710ada",
+          "pattern": "[*ddL]",
+          "points": "55.00,9.67 59.61,9.67 59.61,13.52 55.00,13.52",
+          "linkData": {
+            "sysId": "Nau I-77-11|77v|1|in|D4-C4-A3"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_e5f1ad1f-923c-4e88-b518-f5b4cb46e12d",
+          "pattern": "[*dud]",
+          "points": "76.19,8.21 81.66,8.21 81.66,12.55 76.19,12.55",
+          "linkData": {
+            "sysId": "Nau I-77-11|77v|1|mor-|A4-E4-F4-E4"
+          },
+          "variant": ""
+        }
+      ],
+      "r_b0601d2f-9d63-474c-8186-470e3833420b": [
+        {
+          "id": "i_bff28c8f-582f-4257-b45b-a055b427d022",
+          "pattern": "[*d]e",
+          "points": "58.16,36.26 62.57,36.26 62.57,40.06 58.16,40.06",
+          "linkData": {
+            "sysId": "Nau I-77-11|77v|5|su-|G4-F4-F4"
+          },
+          "variant": "b"
+        },
+        {
+          "id": "i_824a2f42-3bc3-43a4-806e-72f8d4876252",
+          "pattern": "[*d]e",
+          "points": "65.30,36.35 70.00,36.35 70.00,39.77 65.30,39.77",
+          "linkData": {
+            "sysId": "Nau I-77-11|77v|5|per|G4-F4-F4"
+          },
+          "variant": "a"
+        }
+      ],
+      "r_48d763e6-1348-4116-8bb2-6cb6ed245337": [
+        {
+          "id": "i_4f21a6cd-e29a-4c72-94f5-d37bc0712b7d",
+          "pattern": "[*udu]",
+          "points": "25.78,51.15 31.87,51.15 31.87,54.42 25.78,54.42",
+          "linkData": {
+            "sysId": "Nau I-77-11|77v|7|lo-|D4-E4-D4-E4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_dc77519b-9735-4481-a8f0-e9b40fdbd839",
+          "pattern": "*dd",
+          "points": "40.16,49.94 44.67,49.94 44.67,53.86 40.16,53.86",
+          "linkData": {
+            "sysId": "Nau I-77-11|77v|7|qui|G4-F4-E4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_05172d0d-7024-4484-99cb-4a7d5db72c1d",
+          "pattern": "*ddu",
+          "points": "63.91,50.50 70.18,50.50 70.18,54.36 63.91,54.36",
+          "linkData": {
+            "sysId": "Nau I-77-11|77v|7|dant|F4-E4-D4-F4"
+          },
+          "variant": ""
+        },
+        {
+          "id": "i_5601e83f-9830-420b-bae5-250d69cd7dee",
+          "pattern": "[*du]",
+          "points": "85.08,50.93 89.42,50.93 89.42,54.30 85.08,54.30",
+          "linkData": {
+            "sysId": "Nau I-77-11|77v|7|ne|F4-E4-F4"
+          },
+          "variant": "a"
+        }
+      ],
+      "r_81316291-b99c-492a-a516-e468f64b08da": [
+        {
+          "id": "i_13e447e4-12f6-4664-ab99-abae94ed55e0",
+          "pattern": "*dee",
+          "points": "59.21,17.20 65.18,17.20 65.18,21.20 59.21,21.20",
+          "linkData": {},
+          "variant": ""
+        },
+        {
+          "id": "i_9e3a7f4d-6a99-431d-8186-1930742466f6",
+          "pattern": "*e",
+          "points": "75.05,17.98 78.40,17.98 78.40,20.65 75.05,20.65",
+          "linkData": {},
+          "variant": ""
+        }
+      ],
+      "r_79c1bf3e-d2c0-41bc-9793-337e28f44486": [
+        {
+          "id": "i_40e0605a-f82a-4ca8-9348-868e44fe9df4",
+          "pattern": "*e",
+          "points": "25.11,30.69 29.15,30.69 29.15,33.43 25.11,33.43",
+          "linkData": {},
+          "variant": ""
+        },
+        {
+          "id": "i_25a38d88-e3ef-48c3-bf72-440517381d63",
+          "pattern": "*ee",
+          "points": "29.76,30.77 34.61,30.77 34.61,33.08 29.76,33.08",
+          "linkData": {},
+          "variant": ""
+        }
+      ],
+      "r_bdc72923-19df-49fb-b0bf-ab2152982ced": [
+        {
+          "id": "i_5625eb79-107c-4da2-ae18-fcc58d343762",
+          "pattern": "[*dL]",
+          "points": "47.54,37.37 50.65,37.37 50.65,39.70 47.54,39.70",
+          "linkData": {},
+          "variant": "a"
+        },
+        {
+          "id": "i_5ffca290-590e-478b-b270-f57c686d6a7e",
+          "pattern": "*uu",
+          "points": "53.49,37.57 57.98,37.57 57.98,40.81 53.49,40.81",
+          "linkData": {},
+          "variant": ""
+        }
+      ]
+    },
+    "manualLines": {},
+    "iiifLinks": {
+      "Nau I": "https://archive.thulb.uni-jena.de/korax/api/iiif/presentation/v2/Korax_derivate_00002026/manifest"
+    }
+  }
+}

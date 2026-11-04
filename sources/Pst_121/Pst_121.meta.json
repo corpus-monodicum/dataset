@@ -1,0 +1,25 @@
+{
+  "id": "Pst 121",
+  "quellensigle": "Pst 121",
+  "herkunftsregion": "Quellen italienischer Herkunft",
+  "herkunftsort": "Pistoia (möglicherweise)",
+  "herkunftsinstitution": "",
+  "ordenstradition": "",
+  "quellentyp": "Tropar",
+  "bibliotheksort": "Pistoia",
+  "bibliothek": "Biblioteca Capitolare",
+  "bibliothekssignatur": "C 121",
+  "kommentar": "",
+  "datierung": "11. Jh – 12. Jh",
+  "status": "",
+  "jahrhundert": "11., 12.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Pst 121",
+  "cantus_century": "11., 12.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Pst_121.description.md"
+  }
+}

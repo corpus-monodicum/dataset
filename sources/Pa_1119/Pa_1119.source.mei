@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Pa 1119: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Ordinariumsgesänge)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="Pa_1119">
+        <identifier type="siglum">Pa 1119</identifier>
+        <identifier type="cantus">Pa 1119</identifier>
+        <titleStmt>
+          <title>Pa 1119</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Limoges</geogName>
+          <geogName role="origin-region">Quellen aquitanischer Herkunft</geogName>
+          <corpName role="origin-institution">Abtei Saint-Martial</corpName>
+          <date>11. Jh Mitte</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="101">f. 101</locus>
+            <title type="incipit">Rerum creator</title>
+            <identifier type="dokumenten_id">Pa 1119-101-6</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="103v">f. 103v</locus>
+            <title type="incipit">Omnipotens pie rex</title>
+            <identifier type="dokumenten_id">Pa 1119-103v-3</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="104v">f. 104v</locus>
+            <title type="incipit">Rex tibi laus</title>
+            <identifier type="dokumenten_id">Pa 1119-104v-1</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="105">f. 105</locus>
+            <title type="incipit">Rector ab arce</title>
+            <identifier type="dokumenten_id">Pa 1119-105-4</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="105v">f. 105v</locus>
+            <title type="incipit">Laus tibi domine</title>
+            <identifier type="dokumenten_id">Pa 1119-105v-6</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="107">f. 107</locus>
+            <title type="incipit">Prudentia prudentium</title>
+            <identifier type="dokumenten_id">Pa 1119-107-9</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="108">f. 108</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Pa 1119-108-6</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="109">f. 109</locus>
+            <title type="incipit">Decus eterne</title>
+            <identifier type="dokumenten_id">Pa 1119-109-3</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="110">f. 110</locus>
+            <title type="incipit">Quem patris ad dextram</title>
+            <identifier type="dokumenten_id">Pa 1119-110-2</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="110v">f. 110v</locus>
+            <title type="incipit">Sit tibi laus tria</title>
+            <identifier type="dokumenten_id">Pa 1119-110v-8</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus from="111">f. 111</locus>
+            <title type="incipit">Angelico affatu</title>
+            <identifier type="dokumenten_id">Pa 1119-111-6</identifier>
+          </contentItem>
+          <contentItem n="12">
+            <locus from="112">f. 112</locus>
+            <title type="incipit">Laus tibi summe</title>
+            <identifier type="dokumenten_id">Pa 1119-112-4</identifier>
+          </contentItem>
+          <contentItem n="13">
+            <locus from="113v">f. 113v</locus>
+            <title type="incipit">Laus tua deus</title>
+            <identifier type="dokumenten_id">Pa 1119-113v-5</identifier>
+          </contentItem>
+          <contentItem n="14">
+            <locus from="120">f. 120</locus>
+            <title type="incipit">Laus angelorum</title>
+            <identifier type="dokumenten_id">Pa 1119-120-1</identifier>
+          </contentItem>
+          <contentItem n="15">
+            <locus from="122">f. 122</locus>
+            <title type="incipit">Ave deus summa</title>
+            <identifier type="dokumenten_id">Pa 1119-122-1</identifier>
+          </contentItem>
+          <contentItem n="16">
+            <locus from="123">f. 123</locus>
+            <title type="incipit">Angelica iam pater</title>
+            <identifier type="dokumenten_id">Pa 1119-123-1</identifier>
+          </contentItem>
+          <contentItem n="17">
+            <locus from="124">f. 124</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Pa 1119-124-1</identifier>
+          </contentItem>
+          <contentItem n="18">
+            <locus from="124">f. 124</locus>
+            <title type="incipit">Ave deus summa</title>
+            <identifier type="dokumenten_id">Pa 1119-124-9</identifier>
+          </contentItem>
+          <contentItem n="19">
+            <locus from="125v">f. 125v</locus>
+            <title type="incipit">Quem glorificant sancti</title>
+            <identifier type="dokumenten_id">Pa 1119-125v-1</identifier>
+          </contentItem>
+          <contentItem n="20">
+            <locus from="126">f. 126</locus>
+            <title type="incipit">Qua iugi voce</title>
+            <identifier type="dokumenten_id">Pa 1119-126-6</identifier>
+          </contentItem>
+          <contentItem n="21">
+            <locus from="127">f. 127</locus>
+            <title type="incipit">Quem cives celestes</title>
+            <identifier type="dokumenten_id">Pa 1119-127-5</identifier>
+          </contentItem>
+          <contentItem n="22">
+            <locus from="128v">f. 128v</locus>
+            <title type="incipit">Qui deus et rector</title>
+            <identifier type="dokumenten_id">Pa 1119-128v-1</identifier>
+          </contentItem>
+          <contentItem n="23">
+            <locus from="130">f. 130</locus>
+            <title type="incipit">Credimus te</title>
+            <identifier type="dokumenten_id">Pa 1119-130-4</identifier>
+          </contentItem>
+          <contentItem n="24">
+            <locus from="131v">f. 131v</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Pa 1119-131v-8</identifier>
+          </contentItem>
+          <contentItem n="25">
+            <locus from="132v">f. 132v</locus>
+            <title type="incipit">Regnum ... O summe</title>
+            <identifier type="dokumenten_id">Pa 1119-132v-6</identifier>
+          </contentItem>
+          <contentItem n="26">
+            <locus from="133">f. 133</locus>
+            <title type="incipit">Regnum ... Conditor</title>
+            <identifier type="dokumenten_id">Pa 1119-133-4</identifier>
+          </contentItem>
+          <contentItem n="27">
+            <locus from="133v">f. 133v</locus>
+            <title type="incipit">Regnum eius magnum</title>
+            <identifier type="dokumenten_id">Pa 1119-133v-4</identifier>
+          </contentItem>
+          <contentItem n="28">
+            <locus from="134">f. 134</locus>
+            <title type="incipit">Celsi clemens</title>
+            <identifier type="dokumenten_id">Pa 1119-134-1</identifier>
+          </contentItem>
+          <contentItem n="29">
+            <locus from="134">f. 134</locus>
+            <title type="incipit">Regnum ... Per te Christe</title>
+            <identifier type="dokumenten_id">Pa 1119-134-6</identifier>
+          </contentItem>
+          <contentItem n="30">
+            <locus from="134v">f. 134v</locus>
+            <title type="incipit">Regnum ... Lumen eterne</title>
+            <identifier type="dokumenten_id">Pa 1119-134v-2</identifier>
+          </contentItem>
+          <contentItem n="31">
+            <locus from="134v">f. 134v</locus>
+            <title type="incipit">Regnum ... O rex gloriae</title>
+            <identifier type="dokumenten_id">Pa 1119-134v-7</identifier>
+          </contentItem>
+          <contentItem n="32">
+            <locus from="135">f. 135</locus>
+            <title type="incipit">Sceptrum regni nobile</title>
+            <identifier type="dokumenten_id">Pa 1119-135-3</identifier>
+          </contentItem>
+          <contentItem n="33">
+            <locus from="135v">f. 135v</locus>
+            <title type="incipit">Alma cuius potestas</title>
+            <identifier type="dokumenten_id">Pa 1119-135v-3</identifier>
+          </contentItem>
+          <contentItem n="34">
+            <locus from="135v">f. 135v</locus>
+            <title type="incipit">Regnum ... Decus virginum</title>
+            <identifier type="dokumenten_id">Pa 1119-135v-8</identifier>
+          </contentItem>
+          <contentItem n="35">
+            <locus from="136">f. 136</locus>
+            <title type="incipit">Salve virgo virginum</title>
+            <identifier type="dokumenten_id">Pa 1119-136-6</identifier>
+          </contentItem>
+          <contentItem n="36">
+            <locus from="136v">f. 136v</locus>
+            <title type="incipit">Regnum ... Apostolorum</title>
+            <identifier type="dokumenten_id">Pa 1119-136v-2</identifier>
+          </contentItem>
+          <contentItem n="37">
+            <locus from="136v">f. 136v</locus>
+            <title type="incipit">Rex caelorum maris</title>
+            <identifier type="dokumenten_id">Pa 1119-136v-9</identifier>
+          </contentItem>
+          <contentItem n="38">
+            <locus from="137">f. 137</locus>
+            <title type="incipit">Sceptrum gloria</title>
+            <identifier type="dokumenten_id">Pa 1119-137-6</identifier>
+          </contentItem>
+          <contentItem n="39">
+            <locus from="137v">f. 137v</locus>
+            <title type="incipit">Sceptrum cuius nobile</title>
+            <identifier type="dokumenten_id">Pa 1119-137v-6</identifier>
+          </contentItem>
+          <contentItem n="40">
+            <locus from="138">f. 138</locus>
+            <title type="incipit">Regnum ... Unigenite</title>
+            <identifier type="dokumenten_id">Pa 1119-138-4</identifier>
+          </contentItem>
+          <contentItem n="41">
+            <locus from="138v">f. 138v</locus>
+            <title type="incipit">Rex omnis gratiae</title>
+            <identifier type="dokumenten_id">Pa 1119-138v-1</identifier>
+          </contentItem>
+          <contentItem n="42">
+            <locus from="138v">f. 138v</locus>
+            <title type="incipit">Omnipotens rex sabaoth</title>
+            <identifier type="dokumenten_id">Pa 1119-138v-6</identifier>
+          </contentItem>
+          <contentItem n="43">
+            <locus from="2">f. 2</locus>
+            <title type="incipit">Kyrie rex saeclorum</title>
+            <identifier type="dokumenten_id">Pa 1119-2-1</identifier>
+          </contentItem>
+          <contentItem n="44">
+            <locus from="239v">f. 239v</locus>
+            <title type="incipit">Rerum creator</title>
+            <identifier type="dokumenten_id">Pa 1119-239v-3</identifier>
+          </contentItem>
+          <contentItem n="45">
+            <locus from="244">f. 244</locus>
+            <title type="incipit">Admirabilis splendor</title>
+            <identifier type="dokumenten_id">Pa 1119-244-1</identifier>
+          </contentItem>
+          <contentItem n="46">
+            <locus from="244v">f. 244v</locus>
+            <title type="incipit">Ante saecula</title>
+            <identifier type="dokumenten_id">Pa 1119-244v-1</identifier>
+          </contentItem>
+          <contentItem n="47">
+            <locus from="244v">f. 244v</locus>
+            <title type="incipit">Pater ingenitus ... Orbis</title>
+            <identifier type="dokumenten_id">Pa 1119-244v-8</identifier>
+          </contentItem>
+          <contentItem n="48">
+            <locus from="245">f. 245</locus>
+            <title type="incipit">Sanctus deus omnipotens</title>
+            <identifier type="dokumenten_id">Pa 1119-245-6</identifier>
+          </contentItem>
+          <contentItem n="49">
+            <locus from="245v">f. 245v</locus>
+            <title type="incipit">Pater lumen aeternum</title>
+            <identifier type="dokumenten_id">Pa 1119-245v-8</identifier>
+          </contentItem>
+          <contentItem n="50">
+            <locus from="246">f. 246</locus>
+            <title type="incipit">O lux indeficiens</title>
+            <identifier type="dokumenten_id">Pa 1119-246-5</identifier>
+          </contentItem>
+          <contentItem n="51">
+            <locus from="246v">f. 246v</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Pa 1119-246v-7</identifier>
+          </contentItem>
+          <contentItem n="52">
+            <locus from="247">f. 247</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Pa 1119-247-4</identifier>
+          </contentItem>
+          <contentItem n="53">
+            <locus from="247">f. 247</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Pa 1119-247-9</identifier>
+          </contentItem>
+          <contentItem n="54">
+            <locus from="247v">f. 247v</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Pa 1119-247v-3</identifier>
+          </contentItem>
+          <contentItem n="55">
+            <locus from="247v">f. 247v</locus>
+            <title type="incipit">Deus pater ingenitus</title>
+            <identifier type="dokumenten_id">Pa 1119-247v-7</identifier>
+          </contentItem>
+          <contentItem n="56">
+            <locus from="248">f. 248</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Pa 1119-248-5</identifier>
+          </contentItem>
+          <contentItem n="57">
+            <locus from="248v">f. 248v</locus>
+            <title type="incipit">Omnipotens aeterna</title>
+            <identifier type="dokumenten_id">Pa 1119-248v-2</identifier>
+          </contentItem>
+          <contentItem n="58">
+            <locus from="248v">f. 248v</locus>
+            <title type="incipit">Miserere super nos</title>
+            <identifier type="dokumenten_id">Pa 1119-248v-8</identifier>
+          </contentItem>
+          <contentItem n="59">
+            <locus from="249">f. 249</locus>
+            <title type="incipit">Qui patris in solio</title>
+            <identifier type="dokumenten_id">Pa 1119-249-5</identifier>
+          </contentItem>
+          <contentItem n="60">
+            <locus from="249v">f. 249v</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Pa 1119-249v-2</identifier>
+          </contentItem>
+          <contentItem n="61">
+            <locus from="249v">f. 249v</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Pa 1119-249v-5</identifier>
+          </contentItem>
+          <contentItem n="62">
+            <locus from="249v">f. 249v</locus>
+            <title type="incipit">Dulcis est cantica</title>
+            <identifier type="dokumenten_id">Pa 1119-249v-7</identifier>
+          </contentItem>
+          <contentItem n="63">
+            <locus from="24v">f. 24v</locus>
+            <title type="incipit">Pro cunctis deductus</title>
+            <identifier type="dokumenten_id">Pa 1119-24v-7</identifier>
+          </contentItem>
+          <contentItem n="64">
+            <locus from="251v">f. 251v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Pa 1119-251v-7</identifier>
+          </contentItem>
+          <contentItem n="65">
+            <locus from="46v">f. 46v</locus>
+            <title type="incipit">Agios agios agios</title>
+            <identifier type="dokumenten_id">Pa 1119-46v-1</identifier>
+          </contentItem>
+          <contentItem n="66">
+            <locus from="46v">f. 46v</locus>
+            <title type="incipit">O amnos tu theu</title>
+            <identifier type="dokumenten_id">Pa 1119-46v-5</identifier>
+          </contentItem>
+          <contentItem n="67">
+            <locus from="46v">f. 46v</locus>
+            <title type="incipit">Fili patris</title>
+            <identifier type="dokumenten_id">Pa 1119-46v-7</identifier>
+          </contentItem>
+          <contentItem n="68">
+            <locus from="50">f. 50</locus>
+            <title type="incipit">Quem Iohannes in Iordane</title>
+            <identifier type="dokumenten_id">Pa 1119-50-4</identifier>
+          </contentItem>
+          <contentItem n="69">
+            <locus from="60">f. 60</locus>
+            <title type="incipit">Rex apostolorum</title>
+            <identifier type="dokumenten_id">Pa 1119-60-1</identifier>
+          </contentItem>
+          <contentItem n="70">
+            <locus from="7">f. 7</locus>
+            <title type="incipit">Redemptor mundi</title>
+            <identifier type="dokumenten_id">Pa 1119-7-3</identifier>
+          </contentItem>
+          <contentItem n="71">
+            <locus from="82">f. 82</locus>
+            <title type="incipit">Orbis factor</title>
+            <identifier type="dokumenten_id">Pa 1119-82-4</identifier>
+          </contentItem>
+          <contentItem n="72">
+            <locus from="84">f. 84</locus>
+            <title type="incipit">Christe redemptor</title>
+            <identifier type="dokumenten_id">Pa 1119-84-2</identifier>
+          </contentItem>
+          <contentItem n="73">
+            <locus from="84">f. 84</locus>
+            <title type="incipit">Te Christe rex</title>
+            <identifier type="dokumenten_id">Pa 1119-84-8</identifier>
+          </contentItem>
+          <contentItem n="74">
+            <locus from="85">f. 85</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Pa 1119-85-7</identifier>
+          </contentItem>
+          <contentItem n="75">
+            <locus from="85v">f. 85v</locus>
+            <title type="incipit">Rex regum domine</title>
+            <identifier type="dokumenten_id">Pa 1119-85v-1</identifier>
+          </contentItem>
+          <contentItem n="76">
+            <locus from="86">f. 86</locus>
+            <title type="incipit">Clemens rector</title>
+            <identifier type="dokumenten_id">Pa 1119-86-1</identifier>
+          </contentItem>
+          <contentItem n="77">
+            <locus from="87">f. 87</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Pa 1119-87-1</identifier>
+          </contentItem>
+          <contentItem n="78">
+            <locus from="87">f. 87</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Pa 1119-87-7</identifier>
+          </contentItem>
+          <contentItem n="79">
+            <locus from="87v">f. 87v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Pa 1119-87v-3</identifier>
+          </contentItem>
+          <contentItem n="80">
+            <locus from="87v">f. 87v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Pa 1119-87v-8</identifier>
+          </contentItem>
+          <contentItem n="81">
+            <locus from="88">f. 88</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Pa 1119-88-5</identifier>
+          </contentItem>
+          <contentItem n="82">
+            <locus from="88">f. 88</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Pa 1119-88-9</identifier>
+          </contentItem>
+          <contentItem n="83">
+            <locus from="88v">f. 88v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Pa 1119-88v-2</identifier>
+          </contentItem>
+          <contentItem n="84">
+            <locus from="90">f. 90</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Pa 1119-90-2</identifier>
+          </contentItem>
+          <contentItem n="85">
+            <locus from="90v">f. 90v</locus>
+            <title type="incipit">Omnipotens altissime</title>
+            <identifier type="dokumenten_id">Pa 1119-90v-7</identifier>
+          </contentItem>
+          <contentItem n="86">
+            <locus from="92v">f. 92v</locus>
+            <title type="incipit">Laus tua deus</title>
+            <identifier type="dokumenten_id">Pa 1119-92v-2</identifier>
+          </contentItem>
+          <contentItem n="87">
+            <locus from="93v">f. 93v</locus>
+            <title type="incipit">O laudabilis rex domine</title>
+            <identifier type="dokumenten_id">Pa 1119-93v-9</identifier>
+          </contentItem>
+          <contentItem n="88">
+            <locus from="95">f. 95</locus>
+            <title type="incipit">O gloria sanctorum</title>
+            <identifier type="dokumenten_id">Pa 1119-95-6</identifier>
+          </contentItem>
+          <contentItem n="89">
+            <locus from="95v">f. 95v</locus>
+            <title type="incipit">Qui indiges nullius</title>
+            <identifier type="dokumenten_id">Pa 1119-95v-6</identifier>
+          </contentItem>
+          <contentItem n="90">
+            <locus from="97">f. 97</locus>
+            <title type="incipit">Laudat in excelsis</title>
+            <identifier type="dokumenten_id">Pa 1119-97-5</identifier>
+          </contentItem>
+          <contentItem n="91">
+            <locus from="99">f. 99</locus>
+            <title type="incipit">Christe salus mundi</title>
+            <identifier type="dokumenten_id">Pa 1119-99-3</identifier>
+          </contentItem>
+        </contents>
+        <notesStmt>
+          <annot type="notation-documentation">
+            <ref target="notation/Pa_1119.notation.md">Notation documentation</ref>
+          </annot>
+          <annot type="description">
+            <ref target="Pa_1119.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <classification>
+          <termList>
+            <term type="quellentyp">Tropar, Sequentiar</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">Lat. 1119</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">Paris</geogName>
+                <corpName>Bibliothèque nationale de France</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+        <relationList>
+          <relation rel="hasReproduction" target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/manifest.json" label="IIIF manifest" />
+        </relationList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

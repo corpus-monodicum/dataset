@@ -1,0 +1,25 @@
+{
+  "id": "Pa 905",
+  "quellensigle": "Pa 905",
+  "herkunftsregion": "Quellen französischer Herkunft",
+  "herkunftsort": "Rouen",
+  "herkunftsinstitution": "",
+  "ordenstradition": "",
+  "quellentyp": "Graduale, Kyriale",
+  "bibliotheksort": "Paris",
+  "bibliothek": "Bibliothèque nationale de France",
+  "bibliothekssignatur": "Lat. 905",
+  "kommentar": "",
+  "datierung": "15. Jh",
+  "status": "",
+  "jahrhundert": "15.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Pa 905",
+  "cantus_century": "15.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Pa_905.description.md"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "acd2e293-09ae-4561-b83c-e029d58ee030",
+  "quelle_id": "Pia 65",
+  "dokumenten_id": "Pia 65-212v-a-19",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Laurentius",
+  "feier": "Messe",
+  "textinitium": "Confessio",
+  "bibliographischerverweis": "AMS 44",
+  "druckausgabe": "II-4",
+  "zeilenstart": "19",
+  "foliostart": "212v-a",
+  "kommentar": "Festangabe vor \"in primo mane\", evtl. Vigilia auf f. 212",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "212v-b",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

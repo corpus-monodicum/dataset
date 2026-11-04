@@ -1,0 +1,41 @@
+{
+  "id": "14cdf308-d0ee-4511-a434-ddc2b5a0c93b",
+  "quelle_id": "Pa 903",
+  "dokumenten_id": "Pa 903-150-23",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Epiphania",
+  "feier": "Messe",
+  "textinitium": "Haec est praeclara dies",
+  "bibliographischerverweis": "Epiph intr 79 A 89 B 81 C 82 E F [mel II B var1] 63 A 64 C 65 D [mel II E] G 72 A 74 C 75 D (CT I)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "23",
+  "foliostart": "150",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "Ecce advenit)",
+    "Endseite": "150v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Epiph intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

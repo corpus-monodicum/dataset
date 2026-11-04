@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lo 23935: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Edition (Ordinariumsgesänge)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="Lo_23935">
+          <msIdentifier>
+            <settlement>London</settlement>
+            <repository>British Library</repository>
+            <idno type="shelfmark">Add. 23935</idno>
+            <altIdentifier type="siglum">
+              <idno>Lo 23935</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>Lo 23935</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <term type="quellentyp">Totum</term>
+              <term type="ordenstradition">Dominikaner</term>
+            </summary>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="402v-a">f. 402v-a</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Lo 23935-402v-a-1</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="402v-a">f. 402v-a</locus>
+              <title type="incipit">Sanctus ... dominus deus*</title>
+              <idno type="dokumenten_id">Lo 23935-402v-a-10</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="402v-a">f. 402v-a</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Lo 23935-402v-a-3</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="432v-b">f. 432v-b</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Lo 23935-432v-b-13</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="432v-b">f. 432v-b</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Lo 23935-432v-b-19</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="433b">f. 433b</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Lo 23935-433b-12</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="433b">f. 433b</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Lo 23935-433b-16</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="433v-a">f. 433v-a</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Lo 23935-433v-a-16</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="433v-a">f. 433v-a</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Lo 23935-433v-a-19</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="433v-a">f. 433v-a</locus>
+              <title type="incipit">Ite missa est</title>
+              <idno type="dokumenten_id">Lo 23935-433v-a-6</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="433v-b">f. 433v-b</locus>
+              <title type="incipit">Credo in unum deum</title>
+              <idno type="dokumenten_id">Lo 23935-433v-b-8</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="434a">f. 434a</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Lo 23935-434a-12</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="434a">f. 434a</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Lo 23935-434a-17</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="434b">f. 434b</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Lo 23935-434b-10</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="434b">f. 434b</locus>
+              <title type="incipit">Ite missa est</title>
+              <idno type="dokumenten_id">Lo 23935-434b-4</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="434b">f. 434b</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Lo 23935-434b-7</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="434v-a">f. 434v-a</locus>
+              <title type="incipit">Ite missa est</title>
+              <idno type="dokumenten_id">Lo 23935-434v-a-14</idno>
+            </msItem>
+            <msItem n="18">
+              <locus from="434v-a">f. 434v-a</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Lo 23935-434v-a-17</idno>
+            </msItem>
+            <msItem n="19">
+              <locus from="434v-a">f. 434v-a</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Lo 23935-434v-a-19</idno>
+            </msItem>
+            <msItem n="20">
+              <locus from="434v-a">f. 434v-a</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Lo 23935-434v-a-4</idno>
+            </msItem>
+            <msItem n="21">
+              <locus from="434v-a">f. 434v-a</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Lo 23935-434v-a-8</idno>
+            </msItem>
+            <msItem n="22">
+              <locus from="434v-b">f. 434v-b</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Lo 23935-434v-b-15</idno>
+            </msItem>
+            <msItem n="23">
+              <locus from="435a">f. 435a</locus>
+              <title type="incipit">Benedicamus domino</title>
+              <idno type="dokumenten_id">Lo 23935-435a-13</idno>
+            </msItem>
+            <msItem n="24">
+              <locus from="435a">f. 435a</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Lo 23935-435a-16</idno>
+            </msItem>
+            <msItem n="25">
+              <locus from="435a">f. 435a</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Lo 23935-435a-18</idno>
+            </msItem>
+            <msItem n="26">
+              <locus from="435a">f. 435a</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Lo 23935-435a-2</idno>
+            </msItem>
+            <msItem n="27">
+              <locus from="435a">f. 435a</locus>
+              <title type="incipit">Ite missa est</title>
+              <idno type="dokumenten_id">Lo 23935-435a-6</idno>
+            </msItem>
+            <msItem n="28">
+              <locus from="435b">f. 435b</locus>
+              <title type="incipit">Kyrie eleyson*</title>
+              <idno type="dokumenten_id">Lo 23935-435b-11</idno>
+            </msItem>
+            <msItem n="29">
+              <locus from="435b">f. 435b</locus>
+              <title type="incipit">Sanctus ... dominus deus*</title>
+              <idno type="dokumenten_id">Lo 23935-435b-12a</idno>
+            </msItem>
+            <msItem n="30">
+              <locus from="435b">f. 435b</locus>
+              <title type="incipit">Agnus dei*</title>
+              <idno type="dokumenten_id">Lo 23935-435b-12b</idno>
+            </msItem>
+            <msItem n="31">
+              <locus from="435b">f. 435b</locus>
+              <title type="incipit">Benedicamus domino</title>
+              <idno type="dokumenten_id">Lo 23935-435b-12c</idno>
+            </msItem>
+            <msItem n="32">
+              <locus from="435b">f. 435b</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Lo 23935-435b-18</idno>
+            </msItem>
+            <msItem n="33">
+              <locus from="435b">f. 435b</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Lo 23935-435b-19</idno>
+            </msItem>
+            <msItem n="34">
+              <locus from="435b">f. 435b</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Lo 23935-435b-23</idno>
+            </msItem>
+            <msItem n="35">
+              <locus from="435b">f. 435b</locus>
+              <title type="incipit">Sanctus ... dominus deus*</title>
+              <idno type="dokumenten_id">Lo 23935-435b-7</idno>
+            </msItem>
+            <msItem n="36">
+              <locus from="435b">f. 435b</locus>
+              <title type="incipit">Agnus dei*</title>
+              <idno type="dokumenten_id">Lo 23935-435b-8a</idno>
+            </msItem>
+            <msItem n="37">
+              <locus from="435b">f. 435b</locus>
+              <title type="incipit">Ite missa est</title>
+              <idno type="dokumenten_id">Lo 23935-435b-8b</idno>
+            </msItem>
+            <msItem n="38">
+              <locus from="435v-a">f. 435v-a</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Lo 23935-435v-a-10</idno>
+            </msItem>
+            <msItem n="39">
+              <locus from="435v-a">f. 435v-a</locus>
+              <title type="incipit">Sanctus ... dominus deus*</title>
+              <idno type="dokumenten_id">Lo 23935-435v-a-11</idno>
+            </msItem>
+            <msItem n="40">
+              <locus from="435v-a">f. 435v-a</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Lo 23935-435v-a-12</idno>
+            </msItem>
+            <msItem n="41">
+              <locus from="435v-a">f. 435v-a</locus>
+              <title type="incipit">Requiescant</title>
+              <idno type="dokumenten_id">Lo 23935-435v-a-17</idno>
+            </msItem>
+            <msItem n="42">
+              <locus from="435v-a">f. 435v-a</locus>
+              <title type="incipit">Benedicamus domino</title>
+              <idno type="dokumenten_id">Lo 23935-435v-a-4</idno>
+            </msItem>
+            <msItem n="43">
+              <locus from="435v-a">f. 435v-a</locus>
+              <title type="incipit">Humiliate vos</title>
+              <idno type="dokumenten_id">Lo 23935-435v-a-7</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>unbekannt</settlement>
+                <region>Quellen aus Ordenstraditionen</region>
+              </origPlace>
+              <origDate>13. Jh. (um 1260–1262)</origDate>
+            </origin>
+          </history>
+          <additional>
+            <adminInfo>
+              <note type="description">
+                <ref target="Lo_23935.description.md">Source description</ref>
+              </note>
+            </adminInfo>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

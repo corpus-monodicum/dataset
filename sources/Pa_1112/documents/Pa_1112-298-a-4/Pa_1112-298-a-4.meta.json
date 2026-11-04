@@ -1,0 +1,41 @@
+{
+  "id": "7c03c57c-515f-4f96-8a54-d201426cb470",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-298-a-4",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Feria VI post nativitatem Mariae",
+  "feier": "Messe",
+  "textinitium": "Ave virgo singularis mater*",
+  "bibliographischerverweis": "AH 54, 204",
+  "druckausgabe": "CM III",
+  "zeilenstart": "4",
+  "foliostart": "298-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "298a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

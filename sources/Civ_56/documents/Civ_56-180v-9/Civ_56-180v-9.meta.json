@@ -1,0 +1,41 @@
+{
+  "id": "e946ae39-242c-4ebe-9278-0bf74dcc425f",
+  "quelle_id": "Civ 56",
+  "dokumenten_id": "Civ 56-180v-9",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Assumptio Mariae",
+  "feier": "Messe",
+  "textinitium": "Hodie sanctissima virgo virginum",
+  "bibliographischerverweis": "V(ultum) t(uum) 9 A1 A2 (CT IX)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "9",
+  "foliostart": "180v",
+  "kommentar": "zwei Querverweise (in CT Tropus als Gaud 140 und Vt 9 geführt) - beide CT-Nummern aufnehmen?",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Gaudeamus",
+    "Endseite": "180v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "13",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

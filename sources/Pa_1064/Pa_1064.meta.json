@@ -1,0 +1,25 @@
+{
+  "id": "Pa 1064",
+  "quellensigle": "Pa 1064",
+  "herkunftsregion": "Quellen französischer Herkunft",
+  "herkunftsort": "Beauvais",
+  "herkunftsinstitution": "Kathedrale Saint-Pierre",
+  "ordenstradition": "",
+  "quellentyp": "Liturgisches Spiel, Prozessionar",
+  "bibliotheksort": "Paris",
+  "bibliothek": "Bibliothèque nationale de France",
+  "bibliothekssignatur": "Nouv. acq. lat. 1064",
+  "kommentar": "",
+  "datierung": "12. Jh",
+  "status": "",
+  "jahrhundert": "12.",
+  "manifest": "",
+  "foliooffset": "pageNr+7",
+  "publish": "all",
+  "cantus_siglum": "Pa 1064",
+  "cantus_century": "12.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Pa_1064.description.md"
+  }
+}

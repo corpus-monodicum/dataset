@@ -1,0 +1,41 @@
+{
+  "id": "d1b92539-7ea8-4a7a-8b54-18434a11ac4f",
+  "quelle_id": "Pa 904",
+  "dokumenten_id": "Pa 904-93-11",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Responsorium",
+  "festtag": "Feria VI in Parasceve",
+  "feier": "Officium adorande crucis",
+  "textinitium": "Sepulto domino",
+  "bibliographischerverweis": "CAO 7640",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "11",
+  "foliostart": "93",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "93",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Pa 904-90v-10S",
+    "Endzeile": "17",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Good Friday / Adoration of the Cross",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

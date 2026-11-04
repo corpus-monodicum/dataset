@@ -1,0 +1,41 @@
+{
+  "id": "f74e6ebd-cf55-47f8-a976-35fe3a50517d",
+  "quelle_id": "Mod 7",
+  "dokumenten_id": "Mod 7-40-12",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Vincentius",
+  "feier": "Messe",
+  "textinitium": "Laetabitur iustus",
+  "bibliographischerverweis": "AMS 27",
+  "druckausgabe": "II-4",
+  "zeilenstart": "12",
+  "foliostart": "40",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "40v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "Abschnitt im Inneren fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

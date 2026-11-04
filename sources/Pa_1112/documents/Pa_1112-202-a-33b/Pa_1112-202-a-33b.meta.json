@@ -1,0 +1,41 @@
+{
+  "id": "4450fb77-22fb-45c7-ab6f-648e91b78c96",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-202-a-33b",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Caecilia",
+  "feier": "Messe",
+  "textinitium": "Virgines egregiae*",
+  "bibliographischerverweis": "AH 55, 24",
+  "druckausgabe": "",
+  "zeilenstart": "33",
+  "foliostart": "202-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "202a",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "33",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

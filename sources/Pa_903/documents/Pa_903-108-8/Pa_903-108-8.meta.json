@@ -1,0 +1,41 @@
+{
+  "id": "306b02b8-0aa7-4001-a4de-904ae29a0d98",
+  "quelle_id": "Pa 903",
+  "dokumenten_id": "Pa 903-108-8",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Assumptio Mariae",
+  "feier": "Messe",
+  "textinitium": "Gaudeamus omnes ... Mariae ... assumptione",
+  "bibliographischerverweis": "vgl. AMS 30, [mel I B]",
+  "druckausgabe": "II-3",
+  "zeilenstart": "8",
+  "foliostart": "108",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "108",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

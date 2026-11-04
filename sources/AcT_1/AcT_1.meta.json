@@ -1,0 +1,25 @@
+{
+  "id": "AcT 1",
+  "quellensigle": "AcT 1",
+  "herkunftsregion": "Quellen italienischer Herkunft",
+  "herkunftsort": "Pavia",
+  "herkunftsinstitution": "",
+  "ordenstradition": "",
+  "quellentyp": "Graduale mit Tropen, Kyriale, Sequentiar",
+  "bibliotheksort": "Acqui Terme",
+  "bibliothek": "Biblioteca del Seminario",
+  "bibliothekssignatur": "I",
+  "kommentar": "",
+  "datierung": "12. Jh – 13. Jh",
+  "status": "",
+  "jahrhundert": "12., 13.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "",
+  "cantus_century": "12., 13.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "AcT_1.description.md"
+  }
+}

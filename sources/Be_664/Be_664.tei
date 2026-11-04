@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Be 664: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Edition (Ordinariumsgesänge)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="Be_664">
+          <msIdentifier>
+            <settlement>Berlin</settlement>
+            <repository>Staatsbibliothek PKB</repository>
+            <idno type="shelfmark">Ms. lat. 4° 664</idno>
+            <altIdentifier type="siglum">
+              <idno>Be 664</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>Be 664</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <term type="quellentyp">Graduale, Kyriale, Sequentiar</term>
+            </summary>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="154v">f. 154v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Be 664-154v-9</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="155">f. 155</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Be 664-155-1</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="159">f. 159</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Be 664-159-12</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="159">f. 159</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Be 664-159-2</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="159">f. 159</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Be 664-159-5</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="159">f. 159</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Be 664-159-7</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="159v">f. 159v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Be 664-159v-10</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="160">f. 160</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Be 664-160-3</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="160">f. 160</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Be 664-160-6</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="160v">f. 160v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Be 664-160v-5</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="160v">f. 160v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Be 664-160v-9</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="161">f. 161</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Be 664-161-1</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="161v">f. 161v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Be 664-161v-1</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="161v">f. 161v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Be 664-161v-4</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="161v">f. 161v</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Be 664-161v-8</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="162">f. 162</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Be 664-162-9</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="162v">f. 162v</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Be 664-162v-1</idno>
+            </msItem>
+            <msItem n="18">
+              <locus from="163">f. 163</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Be 664-163-1</idno>
+            </msItem>
+            <msItem n="19">
+              <locus from="163">f. 163</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Be 664-163-4</idno>
+            </msItem>
+            <msItem n="20">
+              <locus from="163v">f. 163v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Be 664-163v-4</idno>
+            </msItem>
+            <msItem n="21">
+              <locus from="163v">f. 163v</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Be 664-163v-6</idno>
+            </msItem>
+            <msItem n="22">
+              <locus from="164">f. 164</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Be 664-164-10</idno>
+            </msItem>
+            <msItem n="23">
+              <locus from="164">f. 164</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Be 664-164-7</idno>
+            </msItem>
+            <msItem n="24">
+              <locus from="164">f. 164</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Be 664-164-9</idno>
+            </msItem>
+            <msItem n="25">
+              <locus from="164v">f. 164v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Be 664-164v-2</idno>
+            </msItem>
+            <msItem n="26">
+              <locus from="164v">f. 164v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Be 664-164v-3</idno>
+            </msItem>
+            <msItem n="27">
+              <locus from="164v">f. 164v</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Be 664-164v-4</idno>
+            </msItem>
+            <msItem n="28">
+              <locus from="165">f. 165</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Be 664-165-12</idno>
+            </msItem>
+            <msItem n="29">
+              <locus from="165">f. 165</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Be 664-165-5</idno>
+            </msItem>
+            <msItem n="30">
+              <locus from="165">f. 165</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Be 664-165-8</idno>
+            </msItem>
+            <msItem n="31">
+              <locus from="165v">f. 165v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Be 664-165v-10</idno>
+            </msItem>
+            <msItem n="32">
+              <locus from="165v">f. 165v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Be 664-165v-12</idno>
+            </msItem>
+            <msItem n="33">
+              <locus from="165v">f. 165v</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Be 664-165v-3</idno>
+            </msItem>
+            <msItem n="34">
+              <locus from="165v">f. 165v</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Be 664-165v-6</idno>
+            </msItem>
+            <msItem n="35">
+              <locus from="166">f. 166</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Be 664-166-2</idno>
+            </msItem>
+            <msItem n="36">
+              <locus from="166">f. 166</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Be 664-166-4</idno>
+            </msItem>
+            <msItem n="37">
+              <locus from="166">f. 166</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Be 664-166-5</idno>
+            </msItem>
+            <msItem n="38">
+              <locus from="166">f. 166</locus>
+              <title type="incipit">Credo in unum deum</title>
+              <idno type="dokumenten_id">Be 664-166-7</idno>
+            </msItem>
+            <msItem n="39">
+              <locus from="207v">f. 207v</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">Be 664-207v-5</idno>
+            </msItem>
+            <msItem n="40">
+              <locus from="207v">f. 207v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Be 664-207v-8</idno>
+            </msItem>
+            <msItem n="41">
+              <locus from="208">f. 208</locus>
+              <title type="incipit">Spiritus et alme</title>
+              <idno type="dokumenten_id">Be 664-208-11</idno>
+            </msItem>
+            <msItem n="42">
+              <locus from="208">f. 208</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Be 664-208-7</idno>
+            </msItem>
+            <msItem n="43">
+              <locus from="209">f. 209</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Be 664-209-1</idno>
+            </msItem>
+            <msItem n="44">
+              <locus from="209">f. 209</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Be 664-209-2</idno>
+            </msItem>
+            <msItem n="45">
+              <locus from="209">f. 209</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Be 664-209-5</idno>
+            </msItem>
+            <msItem n="46">
+              <locus from="227v">f. 227v</locus>
+              <title type="incipit">Mariae filius</title>
+              <idno type="dokumenten_id">Be 664-227v-7</idno>
+            </msItem>
+            <msItem n="47">
+              <locus from="228">f. 228</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Be 664-228-10</idno>
+            </msItem>
+            <msItem n="48">
+              <locus from="228">f. 228</locus>
+              <title type="incipit">Mariae fili</title>
+              <idno type="dokumenten_id">Be 664-228-2</idno>
+            </msItem>
+            <msItem n="49">
+              <locus from="228">f. 228</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Be 664-228-7</idno>
+            </msItem>
+            <msItem n="50">
+              <locus from="228v">f. 228v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Be 664-228v-1</idno>
+            </msItem>
+            <msItem n="51">
+              <locus from="232">f. 232</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Be 664-232-9</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Stuben (Mosel)</settlement>
+                <region>Quellen deutscher Herkunft</region>
+                <orgName>Augustinerinnenstift</orgName>
+              </origPlace>
+              <origDate>12. Jh, 2. Hälfte</origDate>
+            </origin>
+          </history>
+          <additional>
+            <adminInfo>
+              <note type="description">
+                <ref target="Be_664.description.md">Source description</ref>
+              </note>
+            </adminInfo>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

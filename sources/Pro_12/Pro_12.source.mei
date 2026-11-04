@@ -1,0 +1,1261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Pro 12: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Sequenzen)</resp>
+          <persName>Maria Dorofeev</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Elaine Stratton Hild</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Hanna Zühlke</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Gunilla Iversen</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Ritva Maria Jacobsson</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="Pro_12">
+        <identifier type="siglum">Pro 12</identifier>
+        <identifier type="cantus">Pro 12</identifier>
+        <titleStmt>
+          <title>Pro 12</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Chartres</geogName>
+          <geogName role="origin-region">Quellen französischer Herkunft</geogName>
+          <corpName role="origin-institution">Kathedrale Notre-Dame</corpName>
+          <date>13. Jh 1. Hälfte</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="1">f. 1</locus>
+            <title type="incipit">Gregorius praesul</title>
+            <identifier type="dokumenten_id">Pro 12-1-1</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="1">f. 1</locus>
+            <title type="incipit">Ad te levavi</title>
+            <identifier type="dokumenten_id">Pro 12-1-5</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="11v">f. 11v</locus>
+            <title type="incipit">Iubilemus omnes una*</title>
+            <identifier type="dokumenten_id">Pro 12-11v-4a</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="12v">f. 12v</locus>
+            <title type="incipit">Nostra tuba nunc tua*</title>
+            <identifier type="dokumenten_id">Pro 12-12v-9a</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="14">f. 14</locus>
+            <title type="incipit">Salus aeterna indeficiens*</title>
+            <identifier type="dokumenten_id">Pro 12-14-2a</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="142">f. 142</locus>
+            <title type="incipit">Paschale carmen</title>
+            <identifier type="dokumenten_id">Pro 12-142-2</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="142v">f. 142v</locus>
+            <title type="incipit">Resurrexi</title>
+            <identifier type="dokumenten_id">Pro 12-142v-1</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="142v">f. 142v</locus>
+            <title type="incipit">Filius ad patrem</title>
+            <identifier type="dokumenten_id">Pro 12-142v-8</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="143v">f. 143v</locus>
+            <title type="incipit">Fulgens praeclara*</title>
+            <identifier type="dokumenten_id">Pro 12-143v-7</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="144">f. 144</locus>
+            <title type="incipit">Ab increpatione</title>
+            <identifier type="dokumenten_id">Pro 12-144-10</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus from="144v">f. 144v</locus>
+            <title type="incipit">Terra tremuit ... dum resurgeret</title>
+            <identifier type="dokumenten_id">Pro 12-144v-7</identifier>
+          </contentItem>
+          <contentItem n="12">
+            <locus from="145">f. 145</locus>
+            <title type="incipit">Laus honor … regi nostro</title>
+            <identifier type="dokumenten_id">Pro 12-145-8</identifier>
+          </contentItem>
+          <contentItem n="13">
+            <locus from="145v">f. 145v</locus>
+            <title type="incipit">Pascha nostrum ... alleluia</title>
+            <identifier type="dokumenten_id">Pro 12-145v-4</identifier>
+          </contentItem>
+          <contentItem n="14">
+            <locus from="145v">f. 145v</locus>
+            <title type="incipit">Introduxit</title>
+            <identifier type="dokumenten_id">Pro 12-145v-7</identifier>
+          </contentItem>
+          <contentItem n="15">
+            <locus from="146">f. 146</locus>
+            <title type="incipit">Promissionis suae</title>
+            <identifier type="dokumenten_id">Pro 12-146-2</identifier>
+          </contentItem>
+          <contentItem n="16">
+            <locus from="146v">f. 146v</locus>
+            <title type="incipit">Dic nobis quibus*</title>
+            <identifier type="dokumenten_id">Pro 12-146v-7a</identifier>
+          </contentItem>
+          <contentItem n="17">
+            <locus from="148v">f. 148v</locus>
+            <title type="incipit">Ecce vicit radix*</title>
+            <identifier type="dokumenten_id">Pro 12-148v-1a</identifier>
+          </contentItem>
+          <contentItem n="18">
+            <locus from="15">f. 15</locus>
+            <title type="incipit">Sonent regi*</title>
+            <identifier type="dokumenten_id">Pro 12-15-2</identifier>
+          </contentItem>
+          <contentItem n="19">
+            <locus from="150">f. 150</locus>
+            <title type="incipit">Prome casta*</title>
+            <identifier type="dokumenten_id">Pro 12-150-4a</identifier>
+          </contentItem>
+          <contentItem n="20">
+            <locus from="151">f. 151</locus>
+            <title type="incipit">Dic nobis quibus*</title>
+            <identifier type="dokumenten_id">Pro 12-151-8a</identifier>
+          </contentItem>
+          <contentItem n="21">
+            <locus from="152">f. 152</locus>
+            <title type="incipit">Prome casta*</title>
+            <identifier type="dokumenten_id">Pro 12-152-9a</identifier>
+          </contentItem>
+          <contentItem n="22">
+            <locus from="153v">f. 153v</locus>
+            <title type="incipit">Qui regis sceptra*</title>
+            <identifier type="dokumenten_id">Pro 12-153v-1a</identifier>
+          </contentItem>
+          <contentItem n="23">
+            <locus from="154">f. 154</locus>
+            <title type="incipit">Dic nobis quibus*</title>
+            <identifier type="dokumenten_id">Pro 12-154-10</identifier>
+          </contentItem>
+          <contentItem n="24">
+            <locus from="154v">f. 154v</locus>
+            <title type="incipit">Ecce vicit radix*</title>
+            <identifier type="dokumenten_id">Pro 12-154v-10a</identifier>
+          </contentItem>
+          <contentItem n="25">
+            <locus from="155">f. 155</locus>
+            <title type="incipit">Dic nobis quibus*</title>
+            <identifier type="dokumenten_id">Pro 12-155-8b</identifier>
+          </contentItem>
+          <contentItem n="26">
+            <locus from="155">f. 155</locus>
+            <title type="incipit">Prome casta*</title>
+            <identifier type="dokumenten_id">Pro 12-155-8c</identifier>
+          </contentItem>
+          <contentItem n="27">
+            <locus from="155v">f. 155v</locus>
+            <title type="incipit">Prome casta*</title>
+            <identifier type="dokumenten_id">Pro 12-155v-7a</identifier>
+          </contentItem>
+          <contentItem n="28">
+            <locus from="156">f. 156</locus>
+            <title type="incipit">Iubilemus omnes una*</title>
+            <identifier type="dokumenten_id">Pro 12-156-10a</identifier>
+          </contentItem>
+          <contentItem n="29">
+            <locus from="157">f. 157</locus>
+            <title type="incipit">Dic nobis quibus*</title>
+            <identifier type="dokumenten_id">Pro 12-157-4a</identifier>
+          </contentItem>
+          <contentItem n="30">
+            <locus from="159">f. 159</locus>
+            <title type="incipit">Sonent regi*</title>
+            <identifier type="dokumenten_id">Pro 12-159-10a</identifier>
+          </contentItem>
+          <contentItem n="31">
+            <locus from="159">f. 159</locus>
+            <title type="incipit">Mirabilis deus in sanctis*</title>
+            <identifier type="dokumenten_id">Pro 12-159-10b</identifier>
+          </contentItem>
+          <contentItem n="32">
+            <locus from="16">f. 16</locus>
+            <title type="incipit">Gaudeamus hodie</title>
+            <identifier type="dokumenten_id">Pro 12-16-5</identifier>
+          </contentItem>
+          <contentItem n="33">
+            <locus from="160">f. 160</locus>
+            <title type="incipit">Alte vox psallat*</title>
+            <identifier type="dokumenten_id">Pro 12-160-6a</identifier>
+          </contentItem>
+          <contentItem n="34">
+            <locus from="16v">f. 16v</locus>
+            <title type="incipit">Puer natus est nobis</title>
+            <identifier type="dokumenten_id">Pro 12-16v-2</identifier>
+          </contentItem>
+          <contentItem n="35">
+            <locus from="16v">f. 16v</locus>
+            <title type="incipit">Vera dei</title>
+            <identifier type="dokumenten_id">Pro 12-16v-8</identifier>
+          </contentItem>
+          <contentItem n="36">
+            <locus from="172v">f. 172v</locus>
+            <title type="incipit">Hodie redemptor</title>
+            <identifier type="dokumenten_id">Pro 12-172v-2</identifier>
+          </contentItem>
+          <contentItem n="37">
+            <locus from="172v">f. 172v</locus>
+            <title type="incipit">Viri Galilaei</title>
+            <identifier type="dokumenten_id">Pro 12-172v-5</identifier>
+          </contentItem>
+          <contentItem n="38">
+            <locus from="173">f. 173</locus>
+            <title type="incipit">Elevatus est</title>
+            <identifier type="dokumenten_id">Pro 12-173-1</identifier>
+          </contentItem>
+          <contentItem n="39">
+            <locus from="173v">f. 173v</locus>
+            <title type="incipit">Rex omnipotens*</title>
+            <identifier type="dokumenten_id">Pro 12-173v-1a</identifier>
+          </contentItem>
+          <contentItem n="40">
+            <locus from="174v">f. 174v</locus>
+            <title type="incipit">Hac clara die*</title>
+            <identifier type="dokumenten_id">Pro 12-174v-5a</identifier>
+          </contentItem>
+          <contentItem n="41">
+            <locus from="175v">f. 175v</locus>
+            <title type="incipit">Spiritus domini</title>
+            <identifier type="dokumenten_id">Pro 12-175v-3</identifier>
+          </contentItem>
+          <contentItem n="42">
+            <locus from="175v">f. 175v</locus>
+            <title type="incipit">Fomes sensificans</title>
+            <identifier type="dokumenten_id">Pro 12-175v-9</identifier>
+          </contentItem>
+          <contentItem n="43">
+            <locus from="176v">f. 176v</locus>
+            <title type="incipit">Fulgens praeclara*</title>
+            <identifier type="dokumenten_id">Pro 12-176v-2a</identifier>
+          </contentItem>
+          <contentItem n="44">
+            <locus from="177">f. 177</locus>
+            <title type="incipit">Iubilemus omnes una*</title>
+            <identifier type="dokumenten_id">Pro 12-177-5b</identifier>
+          </contentItem>
+          <contentItem n="45">
+            <locus from="178">f. 178</locus>
+            <title type="incipit">Qui regis sceptra*</title>
+            <identifier type="dokumenten_id">Pro 12-178-7a</identifier>
+          </contentItem>
+          <contentItem n="46">
+            <locus from="17v">f. 17v</locus>
+            <title type="incipit">Lux fulget hodierna*</title>
+            <identifier type="dokumenten_id">Pro 12-17v-5a</identifier>
+          </contentItem>
+          <contentItem n="47">
+            <locus from="17v">f. 17v</locus>
+            <title type="incipit">Qui es sine</title>
+            <identifier type="dokumenten_id">Pro 12-17v-9</identifier>
+          </contentItem>
+          <contentItem n="48">
+            <locus from="18">f. 18</locus>
+            <title type="incipit">Tui sunt caeli ... orbem</title>
+            <identifier type="dokumenten_id">Pro 12-18-2</identifier>
+          </contentItem>
+          <contentItem n="49">
+            <locus from="18">f. 18</locus>
+            <title type="incipit">Radix Iesse</title>
+            <identifier type="dokumenten_id">Pro 12-18-6</identifier>
+          </contentItem>
+          <contentItem n="50">
+            <locus from="182v">f. 182v</locus>
+            <title type="incipit">De ventre</title>
+            <identifier type="dokumenten_id">Pro 12-182v-9</identifier>
+          </contentItem>
+          <contentItem n="51">
+            <locus from="183">f. 183</locus>
+            <title type="incipit">Iohannes est hic ... cui in laude</title>
+            <identifier type="dokumenten_id">Pro 12-183-5</identifier>
+          </contentItem>
+          <contentItem n="52">
+            <locus from="184">f. 184</locus>
+            <title type="incipit">Organicis ... qui in suis*</title>
+            <identifier type="dokumenten_id">Pro 12-184-2a</identifier>
+          </contentItem>
+          <contentItem n="53">
+            <locus from="185">f. 185</locus>
+            <title type="incipit">Mirabilis deus in sanctis*</title>
+            <identifier type="dokumenten_id">Pro 12-185-4a</identifier>
+          </contentItem>
+          <contentItem n="54">
+            <locus from="186">f. 186</locus>
+            <title type="incipit">Nunc scio vere</title>
+            <identifier type="dokumenten_id">Pro 12-186-10</identifier>
+          </contentItem>
+          <contentItem n="55">
+            <locus from="186v">f. 186v</locus>
+            <title type="incipit">Angelico fretus</title>
+            <identifier type="dokumenten_id">Pro 12-186v-4</identifier>
+          </contentItem>
+          <contentItem n="56">
+            <locus from="187v">f. 187v</locus>
+            <title type="incipit">Laude iucunda*</title>
+            <identifier type="dokumenten_id">Pro 12-187v-4a</identifier>
+          </contentItem>
+          <contentItem n="57">
+            <locus from="188">f. 188</locus>
+            <title type="incipit">Organicis ... qui in suis*</title>
+            <identifier type="dokumenten_id">Pro 12-188-9</identifier>
+          </contentItem>
+          <contentItem n="58">
+            <locus from="188v">f. 188v</locus>
+            <title type="incipit">Organicis ... qui in suis*</title>
+            <identifier type="dokumenten_id">Pro 12-188v-2a</identifier>
+          </contentItem>
+          <contentItem n="59">
+            <locus from="188v">f. 188v</locus>
+            <title type="incipit">Laude iucunda*</title>
+            <identifier type="dokumenten_id">Pro 12-188v-5b</identifier>
+          </contentItem>
+          <contentItem n="60">
+            <locus from="18v">f. 18v</locus>
+            <title type="incipit">Viderunt omnes</title>
+            <identifier type="dokumenten_id">Pro 12-18v-1</identifier>
+          </contentItem>
+          <contentItem n="61">
+            <locus from="18v">f. 18v</locus>
+            <title type="incipit">Hodie inclitus</title>
+            <identifier type="dokumenten_id">Pro 12-18v-3</identifier>
+          </contentItem>
+          <contentItem n="62">
+            <locus from="18v">f. 18v</locus>
+            <title type="incipit">Etenim sederunt</title>
+            <identifier type="dokumenten_id">Pro 12-18v-9</identifier>
+          </contentItem>
+          <contentItem n="63">
+            <locus from="19">f. 19</locus>
+            <title type="incipit">Qui primus meruit</title>
+            <identifier type="dokumenten_id">Pro 12-19-3</identifier>
+          </contentItem>
+          <contentItem n="64">
+            <locus from="195v">f. 195v</locus>
+            <title type="incipit">Gaudeamus omnes ... Mariae ... assumptione</title>
+            <identifier type="dokumenten_id">Pro 12-195v-4</identifier>
+          </contentItem>
+          <contentItem n="65">
+            <locus from="196">f. 196</locus>
+            <title type="incipit">Hodie mundo festivus … Mariae virginis</title>
+            <identifier type="dokumenten_id">Pro 12-196-1</identifier>
+          </contentItem>
+          <contentItem n="66">
+            <locus from="197">f. 197</locus>
+            <title type="incipit">Aurea virga primae*</title>
+            <identifier type="dokumenten_id">Pro 12-197-7a</identifier>
+          </contentItem>
+          <contentItem n="67">
+            <locus from="199v">f. 199v</locus>
+            <title type="incipit">Tripudians martyr*</title>
+            <identifier type="dokumenten_id">Pro 12-199v-10b</identifier>
+          </contentItem>
+          <contentItem n="68">
+            <locus from="19v">f. 19v</locus>
+            <title type="incipit">Magnus deus in universa*</title>
+            <identifier type="dokumenten_id">Pro 12-19v-9</identifier>
+          </contentItem>
+          <contentItem n="69">
+            <locus from="2">f. 2</locus>
+            <title type="incipit">Salus aeterna indeficiens*</title>
+            <identifier type="dokumenten_id">Pro 12-2-1a</identifier>
+          </contentItem>
+          <contentItem n="70">
+            <locus from="20">f. 20</locus>
+            <title type="incipit">Almo dei Stephano</title>
+            <identifier type="dokumenten_id">Pro 12-20-5</identifier>
+          </contentItem>
+          <contentItem n="71">
+            <locus from="20">f. 20</locus>
+            <title type="incipit">Elegerunt apostoli</title>
+            <identifier type="dokumenten_id">Pro 12-20-8</identifier>
+          </contentItem>
+          <contentItem n="72">
+            <locus from="200">f. 200</locus>
+            <title type="incipit">Organicis ... qui in suis*</title>
+            <identifier type="dokumenten_id">Pro 12-200-1b</identifier>
+          </contentItem>
+          <contentItem n="73">
+            <locus from="201">f. 201</locus>
+            <title type="incipit">Hodie mundo festivus ... nativitatis Mariae*</title>
+            <identifier type="dokumenten_id">Pro 12-201-6b</identifier>
+          </contentItem>
+          <contentItem n="74">
+            <locus from="201v">f. 201v</locus>
+            <title type="incipit">Alle caeleste necnon*</title>
+            <identifier type="dokumenten_id">Pro 12-201v-2a</identifier>
+          </contentItem>
+          <contentItem n="75">
+            <locus from="202">f. 202</locus>
+            <title type="incipit">Alte vox psallat*</title>
+            <identifier type="dokumenten_id">Pro 12-202-6a</identifier>
+          </contentItem>
+          <contentItem n="76">
+            <locus from="204v">f. 204v</locus>
+            <title type="incipit">Ad celebres rex*</title>
+            <identifier type="dokumenten_id">Pro 12-204v-3a</identifier>
+          </contentItem>
+          <contentItem n="77">
+            <locus from="205">f. 205</locus>
+            <title type="incipit">Hanc divina</title>
+            <identifier type="dokumenten_id">Pro 12-205-17</identifier>
+          </contentItem>
+          <contentItem n="78">
+            <locus from="205">f. 205</locus>
+            <title type="incipit">Mirabilis deus in sanctis*</title>
+            <identifier type="dokumenten_id">Pro 12-205-5a</identifier>
+          </contentItem>
+          <contentItem n="79">
+            <locus from="205">f. 205</locus>
+            <title type="incipit">Tripudians martyr*</title>
+            <identifier type="dokumenten_id">Pro 12-205-7</identifier>
+          </contentItem>
+          <contentItem n="80">
+            <locus from="205v">f. 205v</locus>
+            <title type="incipit">Terribilis est locus iste</title>
+            <identifier type="dokumenten_id">Pro 12-205v-3</identifier>
+          </contentItem>
+          <contentItem n="81">
+            <locus from="205v">f. 205v</locus>
+            <title type="incipit">Celebremus ovanter</title>
+            <identifier type="dokumenten_id">Pro 12-205v-8</identifier>
+          </contentItem>
+          <contentItem n="82">
+            <locus from="206v">f. 206v</locus>
+            <title type="incipit">Claris vocibus inclita*</title>
+            <identifier type="dokumenten_id">Pro 12-206v-2a</identifier>
+          </contentItem>
+          <contentItem n="83">
+            <locus from="207v">f. 207v</locus>
+            <title type="incipit">Gaudeamus omnes ... sanctorum omnium</title>
+            <identifier type="dokumenten_id">Pro 12-207v-10</identifier>
+          </contentItem>
+          <contentItem n="84">
+            <locus from="207v">f. 207v</locus>
+            <title type="incipit">Mirabilis deus in sanctis*</title>
+            <identifier type="dokumenten_id">Pro 12-207v-2b</identifier>
+          </contentItem>
+          <contentItem n="85">
+            <locus from="208">f. 208</locus>
+            <title type="incipit">Hodie mundo festivus ... omnium sanctorum</title>
+            <identifier type="dokumenten_id">Pro 12-208-5</identifier>
+          </contentItem>
+          <contentItem n="86">
+            <locus from="208v">f. 208v</locus>
+            <title type="incipit">Ecce pulchra*</title>
+            <identifier type="dokumenten_id">Pro 12-208v-7a</identifier>
+          </contentItem>
+          <contentItem n="87">
+            <locus from="209">f. 209</locus>
+            <title type="incipit">Os iereos</title>
+            <identifier type="dokumenten_id">Pro 12-209-1</identifier>
+          </contentItem>
+          <contentItem n="88">
+            <locus from="209v">f. 209v</locus>
+            <title type="incipit">Convenite melico*</title>
+            <identifier type="dokumenten_id">Pro 12-209v-8a</identifier>
+          </contentItem>
+          <contentItem n="89">
+            <locus from="20v">f. 20v</locus>
+            <title type="incipit">Grandine lapidum</title>
+            <identifier type="dokumenten_id">Pro 12-20v-3</identifier>
+          </contentItem>
+          <contentItem n="90">
+            <locus from="20v">f. 20v</locus>
+            <title type="incipit">Video caelos apertos</title>
+            <identifier type="dokumenten_id">Pro 12-20v-6</identifier>
+          </contentItem>
+          <contentItem n="91">
+            <locus from="214v">f. 214v</locus>
+            <title type="incipit">Regnantem sempiterna*</title>
+            <identifier type="dokumenten_id">Pro 12-214v-3a</identifier>
+          </contentItem>
+          <contentItem n="92">
+            <locus from="215">f. 215</locus>
+            <title type="incipit">Qui regis sceptra*</title>
+            <identifier type="dokumenten_id">Pro 12-215-7a</identifier>
+          </contentItem>
+          <contentItem n="93">
+            <locus from="217v">f. 217v</locus>
+            <title type="incipit">Iubilemus omnes una*</title>
+            <identifier type="dokumenten_id">Pro 12-217v-5b</identifier>
+          </contentItem>
+          <contentItem n="94">
+            <locus from="218">f. 218</locus>
+            <title type="incipit">Magnus deus in universa*</title>
+            <identifier type="dokumenten_id">Pro 12-218-4a</identifier>
+          </contentItem>
+          <contentItem n="95">
+            <locus from="219v">f. 219v</locus>
+            <title type="incipit">Regnantem sempiterna*</title>
+            <identifier type="dokumenten_id">Pro 12-219v-10</identifier>
+          </contentItem>
+          <contentItem n="96">
+            <locus from="21v">f. 21v</locus>
+            <title type="incipit">Caelica caelestem</title>
+            <identifier type="dokumenten_id">Pro 12-21v-6</identifier>
+          </contentItem>
+          <contentItem n="97">
+            <locus from="22">f. 22</locus>
+            <title type="incipit">In medio ecclesiae</title>
+            <identifier type="dokumenten_id">Pro 12-22-1</identifier>
+          </contentItem>
+          <contentItem n="98">
+            <locus from="22">f. 22</locus>
+            <title type="incipit">Fons et origo</title>
+            <identifier type="dokumenten_id">Pro 12-22-4</identifier>
+          </contentItem>
+          <contentItem n="99">
+            <locus from="220">f. 220</locus>
+            <title type="incipit">Qui regis sceptra*</title>
+            <identifier type="dokumenten_id">Pro 12-220-10a</identifier>
+          </contentItem>
+          <contentItem n="100">
+            <locus from="221">f. 221</locus>
+            <title type="incipit">Salve porta*</title>
+            <identifier type="dokumenten_id">Pro 12-221-1a</identifier>
+          </contentItem>
+          <contentItem n="101">
+            <locus from="221v">f. 221v</locus>
+            <title type="incipit">Sonent regi*</title>
+            <identifier type="dokumenten_id">Pro 12-221v-8</identifier>
+          </contentItem>
+          <contentItem n="102">
+            <locus from="222v">f. 222v</locus>
+            <title type="incipit">Salus aeterna indeficiens*</title>
+            <identifier type="dokumenten_id">Pro 12-222v-2a</identifier>
+          </contentItem>
+          <contentItem n="103">
+            <locus from="223">f. 223</locus>
+            <title type="incipit">Iubilemus omnes una*</title>
+            <identifier type="dokumenten_id">Pro 12-223-7a</identifier>
+          </contentItem>
+          <contentItem n="104">
+            <locus from="223v">f. 223v</locus>
+            <title type="incipit">Regnantem sempiterna*</title>
+            <identifier type="dokumenten_id">Pro 12-223v-10a</identifier>
+          </contentItem>
+          <contentItem n="105">
+            <locus from="224v">f. 224v</locus>
+            <title type="incipit">Magnus deus in universa*</title>
+            <identifier type="dokumenten_id">Pro 12-224v-2a</identifier>
+          </contentItem>
+          <contentItem n="106">
+            <locus from="225">f. 225</locus>
+            <title type="incipit">Iubilemus omnes una*</title>
+            <identifier type="dokumenten_id">Pro 12-225-3a</identifier>
+          </contentItem>
+          <contentItem n="107">
+            <locus from="227v">f. 227v</locus>
+            <title type="incipit">Alte vox psallat*</title>
+            <identifier type="dokumenten_id">Pro 12-227v-6a</identifier>
+          </contentItem>
+          <contentItem n="108">
+            <locus from="228">f. 228</locus>
+            <title type="incipit">Salve porta*</title>
+            <identifier type="dokumenten_id">Pro 12-228-7a</identifier>
+          </contentItem>
+          <contentItem n="109">
+            <locus from="228v">f. 228v</locus>
+            <title type="incipit">Hac clara die*</title>
+            <identifier type="dokumenten_id">Pro 12-228v-5</identifier>
+          </contentItem>
+          <contentItem n="110">
+            <locus from="229">f. 229</locus>
+            <title type="incipit">Qui regis sceptra*</title>
+            <identifier type="dokumenten_id">Pro 12-229-7</identifier>
+          </contentItem>
+          <contentItem n="111">
+            <locus from="23">f. 23</locus>
+            <title type="incipit">Iustitiae quoniam</title>
+            <identifier type="dokumenten_id">Pro 12-23-10</identifier>
+          </contentItem>
+          <contentItem n="112">
+            <locus from="23">f. 23</locus>
+            <title type="incipit">Claris vocibus inclita*</title>
+            <identifier type="dokumenten_id">Pro 12-23-4a</identifier>
+          </contentItem>
+          <contentItem n="113">
+            <locus from="23">f. 23</locus>
+            <title type="incipit">Organicis ... qui in suis*</title>
+            <identifier type="dokumenten_id">Pro 12-23-4b</identifier>
+          </contentItem>
+          <contentItem n="114">
+            <locus from="230">f. 230</locus>
+            <title type="incipit">Sonent regi*</title>
+            <identifier type="dokumenten_id">Pro 12-230-6</identifier>
+          </contentItem>
+          <contentItem n="115">
+            <locus from="231v">f. 231v</locus>
+            <title type="incipit">Iubilemus omnes una*</title>
+            <identifier type="dokumenten_id">Pro 12-231v-2a</identifier>
+          </contentItem>
+          <contentItem n="116">
+            <locus from="23v">f. 23v</locus>
+            <title type="incipit">Iustus ut palma</title>
+            <identifier type="dokumenten_id">Pro 12-23v-3</identifier>
+          </contentItem>
+          <contentItem n="117">
+            <locus from="23v">f. 23v</locus>
+            <title type="incipit">Corda fratrum</title>
+            <identifier type="dokumenten_id">Pro 12-23v-6</identifier>
+          </contentItem>
+          <contentItem n="118">
+            <locus from="23v">f. 23v</locus>
+            <title type="incipit">Exiit sermo</title>
+            <identifier type="dokumenten_id">Pro 12-23v-8</identifier>
+          </contentItem>
+          <contentItem n="119">
+            <locus from="24">f. 24</locus>
+            <title type="incipit">Dicite nunc</title>
+            <identifier type="dokumenten_id">Pro 12-24-1</identifier>
+          </contentItem>
+          <contentItem n="120">
+            <locus from="24">f. 24</locus>
+            <title type="incipit">Ex ore infantium</title>
+            <identifier type="dokumenten_id">Pro 12-24-4</identifier>
+          </contentItem>
+          <contentItem n="121">
+            <locus from="24">f. 24</locus>
+            <title type="incipit">Filii carissimi</title>
+            <identifier type="dokumenten_id">Pro 12-24-8</identifier>
+          </contentItem>
+          <contentItem n="122">
+            <locus from="25">f. 25</locus>
+            <title type="incipit">Pangite iam pueri</title>
+            <identifier type="dokumenten_id">Pro 12-25-10</identifier>
+          </contentItem>
+          <contentItem n="123">
+            <locus from="25">f. 25</locus>
+            <title type="incipit">Mirabilis deus in sanctis*</title>
+            <identifier type="dokumenten_id">Pro 12-25-5a</identifier>
+          </contentItem>
+          <contentItem n="124">
+            <locus from="253">f. 253</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pro 12-253-3</identifier>
+          </contentItem>
+          <contentItem n="125">
+            <locus from="253">f. 253</locus>
+            <title type="incipit">Salus aeterna indeficiens</title>
+            <identifier type="dokumenten_id">Pro 12-253-4</identifier>
+          </contentItem>
+          <contentItem n="126">
+            <locus from="253v">f. 253v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pro 12-253v-7</identifier>
+          </contentItem>
+          <contentItem n="127">
+            <locus from="253v">f. 253v</locus>
+            <title type="incipit">Regnantem sempiterna</title>
+            <identifier type="dokumenten_id">Pro 12-253v-8</identifier>
+          </contentItem>
+          <contentItem n="128">
+            <locus from="254v">f. 254v</locus>
+            <title type="incipit">Qui regis sceptra</title>
+            <identifier type="dokumenten_id">Pro 12-254v-1</identifier>
+          </contentItem>
+          <contentItem n="129">
+            <locus from="254v">f. 254v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pro 12-254v-6</identifier>
+          </contentItem>
+          <contentItem n="130">
+            <locus from="254v">f. 254v</locus>
+            <title type="incipit">Sonent regi</title>
+            <identifier type="dokumenten_id">Pro 12-254v-7</identifier>
+          </contentItem>
+          <contentItem n="131">
+            <locus from="255v">f. 255v</locus>
+            <title type="incipit">Lux fulget hodierna</title>
+            <identifier type="dokumenten_id">Pro 12-255v-1</identifier>
+          </contentItem>
+          <contentItem n="132">
+            <locus from="256v">f. 256v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pro 12-256v-7</identifier>
+          </contentItem>
+          <contentItem n="133">
+            <locus from="256v">f. 256v</locus>
+            <title type="incipit">Magnus deus in universa</title>
+            <identifier type="dokumenten_id">Pro 12-256v-8</identifier>
+          </contentItem>
+          <contentItem n="134">
+            <locus from="257v">f. 257v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pro 12-257v-10</identifier>
+          </contentItem>
+          <contentItem n="135">
+            <locus from="258">f. 258</locus>
+            <title type="incipit">Gloriosa dies ... processit</title>
+            <identifier type="dokumenten_id">Pro 12-258-1</identifier>
+          </contentItem>
+          <contentItem n="136">
+            <locus from="258v">f. 258v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pro 12-258v-10</identifier>
+          </contentItem>
+          <contentItem n="137">
+            <locus from="259">f. 259</locus>
+            <title type="incipit">Organicis ... qui in suis</title>
+            <identifier type="dokumenten_id">Pro 12-259-1</identifier>
+          </contentItem>
+          <contentItem n="138">
+            <locus from="259v">f. 259v</locus>
+            <title type="incipit">Mirabilis deus in sanctis</title>
+            <identifier type="dokumenten_id">Pro 12-259v-10</identifier>
+          </contentItem>
+          <contentItem n="139">
+            <locus from="259v">f. 259v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pro 12-259v-9</identifier>
+          </contentItem>
+          <contentItem n="140">
+            <locus from="25v">f. 25v</locus>
+            <title type="incipit">Anima nostra</title>
+            <identifier type="dokumenten_id">Pro 12-25v-3</identifier>
+          </contentItem>
+          <contentItem n="141">
+            <locus from="25v">f. 25v</locus>
+            <title type="incipit">Psallite sanctorum</title>
+            <identifier type="dokumenten_id">Pro 12-25v-6</identifier>
+          </contentItem>
+          <contentItem n="142">
+            <locus from="25v">f. 25v</locus>
+            <title type="incipit">Vox in Rama</title>
+            <identifier type="dokumenten_id">Pro 12-25v-9</identifier>
+          </contentItem>
+          <contentItem n="143">
+            <locus from="260v">f. 260v</locus>
+            <title type="incipit">Epiphaniam domino</title>
+            <identifier type="dokumenten_id">Pro 12-260v-1</identifier>
+          </contentItem>
+          <contentItem n="144">
+            <locus from="261v">f. 261v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pro 12-261v-8</identifier>
+          </contentItem>
+          <contentItem n="145">
+            <locus from="261v">f. 261v</locus>
+            <title type="incipit">Claris vocibus inclita</title>
+            <identifier type="dokumenten_id">Pro 12-261v-9</identifier>
+          </contentItem>
+          <contentItem n="146">
+            <locus from="263">f. 263</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pro 12-263-6</identifier>
+          </contentItem>
+          <contentItem n="147">
+            <locus from="263">f. 263</locus>
+            <title type="incipit">Fulgens praeclara</title>
+            <identifier type="dokumenten_id">Pro 12-263-7</identifier>
+          </contentItem>
+          <contentItem n="148">
+            <locus from="265">f. 265</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pro 12-265-8</identifier>
+          </contentItem>
+          <contentItem n="149">
+            <locus from="265">f. 265</locus>
+            <title type="incipit">Dic nobis quibus</title>
+            <identifier type="dokumenten_id">Pro 12-265-9</identifier>
+          </contentItem>
+          <contentItem n="150">
+            <locus from="266">f. 266</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pro 12-266-5</identifier>
+          </contentItem>
+          <contentItem n="151">
+            <locus from="266">f. 266</locus>
+            <title type="incipit">Ecce vicit radix</title>
+            <identifier type="dokumenten_id">Pro 12-266-6</identifier>
+          </contentItem>
+          <contentItem n="152">
+            <locus from="267v">f. 267v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pro 12-267v-3</identifier>
+          </contentItem>
+          <contentItem n="153">
+            <locus from="267v">f. 267v</locus>
+            <title type="incipit">Prome casta</title>
+            <identifier type="dokumenten_id">Pro 12-267v-4</identifier>
+          </contentItem>
+          <contentItem n="154">
+            <locus from="268">f. 268</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pro 12-268-10</identifier>
+          </contentItem>
+          <contentItem n="155">
+            <locus from="268v">f. 268v</locus>
+            <title type="incipit">Rex omnipotens</title>
+            <identifier type="dokumenten_id">Pro 12-268v-1</identifier>
+          </contentItem>
+          <contentItem n="156">
+            <locus from="270">f. 270</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pro 12-270-1</identifier>
+          </contentItem>
+          <contentItem n="157">
+            <locus from="270">f. 270</locus>
+            <title type="incipit">Alma chorus domini</title>
+            <identifier type="dokumenten_id">Pro 12-270-2</identifier>
+          </contentItem>
+          <contentItem n="158">
+            <locus from="270v">f. 270v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pro 12-270v-6</identifier>
+          </contentItem>
+          <contentItem n="159">
+            <locus from="270v">f. 270v</locus>
+            <title type="incipit">Benedicta sit beata</title>
+            <identifier type="dokumenten_id">Pro 12-270v-7</identifier>
+          </contentItem>
+          <contentItem n="160">
+            <locus from="272">f. 272</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pro 12-272-2</identifier>
+          </contentItem>
+          <contentItem n="161">
+            <locus from="272">f. 272</locus>
+            <title type="incipit">Laude iucunda</title>
+            <identifier type="dokumenten_id">Pro 12-272-3</identifier>
+          </contentItem>
+          <contentItem n="162">
+            <locus from="273">f. 273</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pro 12-273-5</identifier>
+          </contentItem>
+          <contentItem n="163">
+            <locus from="273">f. 273</locus>
+            <title type="incipit">Mane prima sabbati</title>
+            <identifier type="dokumenten_id">Pro 12-273-6</identifier>
+          </contentItem>
+          <contentItem n="164">
+            <locus from="274v">f. 274v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pro 12-274v-3</identifier>
+          </contentItem>
+          <contentItem n="165">
+            <locus from="274v">f. 274v</locus>
+            <title type="incipit">Convenite melico</title>
+            <identifier type="dokumenten_id">Pro 12-274v-4</identifier>
+          </contentItem>
+          <contentItem n="166">
+            <locus from="275v">f. 275v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pro 12-275v-5</identifier>
+          </contentItem>
+          <contentItem n="167">
+            <locus from="275v">f. 275v</locus>
+            <title type="incipit">Aurea virga primae</title>
+            <identifier type="dokumenten_id">Pro 12-275v-6</identifier>
+          </contentItem>
+          <contentItem n="168">
+            <locus from="277v">f. 277v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pro 12-277v-1</identifier>
+          </contentItem>
+          <contentItem n="169">
+            <locus from="277v">f. 277v</locus>
+            <title type="incipit">Hac clara die</title>
+            <identifier type="dokumenten_id">Pro 12-277v-2</identifier>
+          </contentItem>
+          <contentItem n="170">
+            <locus from="278">f. 278</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pro 12-278-8</identifier>
+          </contentItem>
+          <contentItem n="171">
+            <locus from="278">f. 278</locus>
+            <title type="incipit">Salve porta</title>
+            <identifier type="dokumenten_id">Pro 12-278-9</identifier>
+          </contentItem>
+          <contentItem n="172">
+            <locus from="279">f. 279</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pro 12-279-6</identifier>
+          </contentItem>
+          <contentItem n="173">
+            <locus from="279">f. 279</locus>
+            <title type="incipit">Alle caeleste necnon</title>
+            <identifier type="dokumenten_id">Pro 12-279-7</identifier>
+          </contentItem>
+          <contentItem n="174">
+            <locus from="27v">f. 27v</locus>
+            <title type="incipit">Sonent regi*</title>
+            <identifier type="dokumenten_id">Pro 12-27v-1a</identifier>
+          </contentItem>
+          <contentItem n="175">
+            <locus from="27v">f. 27v</locus>
+            <title type="incipit">Lux fulget hodierna*</title>
+            <identifier type="dokumenten_id">Pro 12-27v-9</identifier>
+          </contentItem>
+          <contentItem n="176">
+            <locus from="281">f. 281</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pro 12-281-2</identifier>
+          </contentItem>
+          <contentItem n="177">
+            <locus from="281">f. 281</locus>
+            <title type="incipit">Alte vox psallat</title>
+            <identifier type="dokumenten_id">Pro 12-281-3</identifier>
+          </contentItem>
+          <contentItem n="178">
+            <locus from="281v">f. 281v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pro 12-281v-2</identifier>
+          </contentItem>
+          <contentItem n="179">
+            <locus from="281v">f. 281v</locus>
+            <title type="incipit">Ad celebres rex</title>
+            <identifier type="dokumenten_id">Pro 12-281v-3</identifier>
+          </contentItem>
+          <contentItem n="180">
+            <locus from="283">f. 283</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pro 12-283-7</identifier>
+          </contentItem>
+          <contentItem n="181">
+            <locus from="283">f. 283</locus>
+            <title type="incipit">Ecce pulchra</title>
+            <identifier type="dokumenten_id">Pro 12-283-8</identifier>
+          </contentItem>
+          <contentItem n="182">
+            <locus from="284v">f. 284v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pro 12-284v-1</identifier>
+          </contentItem>
+          <contentItem n="183">
+            <locus from="284v">f. 284v</locus>
+            <title type="incipit">Iubilemus omnes una</title>
+            <identifier type="dokumenten_id">Pro 12-284v-2</identifier>
+          </contentItem>
+          <contentItem n="184">
+            <locus from="285">f. 285</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pro 12-285-6</identifier>
+          </contentItem>
+          <contentItem n="185">
+            <locus from="285">f. 285</locus>
+            <title type="incipit">Stans a longe qui plurima</title>
+            <identifier type="dokumenten_id">Pro 12-285-7</identifier>
+          </contentItem>
+          <contentItem n="186">
+            <locus from="285v">f. 285v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pro 12-285v-8</identifier>
+          </contentItem>
+          <contentItem n="187">
+            <locus from="285v">f. 285v</locus>
+            <title type="incipit">Congaudentes exsultemus vocali</title>
+            <identifier type="dokumenten_id">Pro 12-285v-9</identifier>
+          </contentItem>
+          <contentItem n="188">
+            <locus from="287v">f. 287v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pro 12-287v-2</identifier>
+          </contentItem>
+          <contentItem n="189">
+            <locus from="287v">f. 287v</locus>
+            <title type="incipit">Fons praeclarissimus</title>
+            <identifier type="dokumenten_id">Pro 12-287v-3</identifier>
+          </contentItem>
+          <contentItem n="190">
+            <locus from="289">f. 289</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pro 12-289-10</identifier>
+          </contentItem>
+          <contentItem n="191">
+            <locus from="289v">f. 289v</locus>
+            <title type="incipit">Supernae matris</title>
+            <identifier type="dokumenten_id">Pro 12-289v-1</identifier>
+          </contentItem>
+          <contentItem n="192">
+            <locus from="28v">f. 28v</locus>
+            <title type="incipit">Organicis ... qui in suis*</title>
+            <identifier type="dokumenten_id">Pro 12-28v-2a</identifier>
+          </contentItem>
+          <contentItem n="193">
+            <locus from="29">f. 29</locus>
+            <title type="incipit">Mirabilis deus in sanctis*</title>
+            <identifier type="dokumenten_id">Pro 12-29-1a</identifier>
+          </contentItem>
+          <contentItem n="194">
+            <locus from="29">f. 29</locus>
+            <title type="incipit">Descendens ab aetherei</title>
+            <identifier type="dokumenten_id">Pro 12-29-5</identifier>
+          </contentItem>
+          <contentItem n="195">
+            <locus from="29">f. 29</locus>
+            <title type="incipit">Ecce advenit</title>
+            <identifier type="dokumenten_id">Pro 12-29-9</identifier>
+          </contentItem>
+          <contentItem n="196">
+            <locus from="290v">f. 290v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pro 12-290v-11</identifier>
+          </contentItem>
+          <contentItem n="197">
+            <locus from="291">f. 291</locus>
+            <title type="incipit">Salve mater salvatoris vas electum</title>
+            <identifier type="dokumenten_id">Pro 12-291-1</identifier>
+          </contentItem>
+          <contentItem n="198">
+            <locus from="293">f. 293</locus>
+            <title type="incipit">Hodiernae lux diei</title>
+            <identifier type="dokumenten_id">Pro 12-293-2</identifier>
+          </contentItem>
+          <contentItem n="199">
+            <locus from="293v">f. 293v</locus>
+            <title type="incipit">Pangat chorus</title>
+            <identifier type="dokumenten_id">Pro 12-293v-8</identifier>
+          </contentItem>
+          <contentItem n="200">
+            <locus from="295v">f. 295v</locus>
+            <title type="incipit">Veni sancte spiritus et emitte</title>
+            <identifier type="dokumenten_id">Pro 12-295v-3</identifier>
+          </contentItem>
+          <contentItem n="201">
+            <locus from="296">f. 296</locus>
+            <title type="incipit">Ecce dies praeoptata</title>
+            <identifier type="dokumenten_id">Pro 12-296-9</identifier>
+          </contentItem>
+          <contentItem n="202">
+            <locus from="298v">f. 298v</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Pro 12-298v-7</identifier>
+          </contentItem>
+          <contentItem n="203">
+            <locus from="298v">f. 298v</locus>
+            <title type="incipit">Interni festi</title>
+            <identifier type="dokumenten_id">Pro 12-298v-8</identifier>
+          </contentItem>
+          <contentItem n="204">
+            <locus from="29v">f. 29v</locus>
+            <title type="incipit">Adveniente Christo</title>
+            <identifier type="dokumenten_id">Pro 12-29v-2</identifier>
+          </contentItem>
+          <contentItem n="205">
+            <locus from="2v">f. 2v</locus>
+            <title type="incipit">Congaudentes exsultemus vocali*</title>
+            <identifier type="dokumenten_id">Pro 12-2v-8a</identifier>
+          </contentItem>
+          <contentItem n="206">
+            <locus from="300v">f. 300v</locus>
+            <title type="incipit">Mater matris domini</title>
+            <identifier type="dokumenten_id">Pro 12-300v-1</identifier>
+          </contentItem>
+          <contentItem n="207">
+            <locus from="301v">f. 301v</locus>
+            <title type="incipit">Laetabundus exsultet</title>
+            <identifier type="dokumenten_id">Pro 12-301v-7</identifier>
+          </contentItem>
+          <contentItem n="208">
+            <locus from="302v">f. 302v</locus>
+            <title type="incipit">Gaude caterva</title>
+            <identifier type="dokumenten_id">Pro 12-302v-3</identifier>
+          </contentItem>
+          <contentItem n="209">
+            <locus from="304v">f. 304v</locus>
+            <title type="incipit">Gaude prole Graecia</title>
+            <identifier type="dokumenten_id">Pro 12-304v-3</identifier>
+          </contentItem>
+          <contentItem n="210">
+            <locus from="306v">f. 306v</locus>
+            <title type="incipit">Martyris eximii</title>
+            <identifier type="dokumenten_id">Pro 12-306v-1</identifier>
+          </contentItem>
+          <contentItem n="211">
+            <locus from="307v">f. 307v</locus>
+            <title type="incipit">Per unius casum</title>
+            <identifier type="dokumenten_id">Pro 12-307v-7</identifier>
+          </contentItem>
+          <contentItem n="212">
+            <locus from="30v">f. 30v</locus>
+            <title type="incipit">Laetetur omnis</title>
+            <identifier type="dokumenten_id">Pro 12-30v-1</identifier>
+          </contentItem>
+          <contentItem n="213">
+            <locus from="30v">f. 30v</locus>
+            <title type="incipit">Epiphaniam domino*</title>
+            <identifier type="dokumenten_id">Pro 12-30v-1a</identifier>
+          </contentItem>
+          <contentItem n="214">
+            <locus from="30v">f. 30v</locus>
+            <title type="incipit">Reges Tharsis</title>
+            <identifier type="dokumenten_id">Pro 12-30v-3</identifier>
+          </contentItem>
+          <contentItem n="215">
+            <locus from="36v">f. 36v</locus>
+            <title type="incipit">Statuit ei dominus</title>
+            <identifier type="dokumenten_id">Pro 12-36v-8</identifier>
+          </contentItem>
+          <contentItem n="216">
+            <locus from="39">f. 39</locus>
+            <title type="incipit">Organicis ... qui in suis*</title>
+            <identifier type="dokumenten_id">Pro 12-39-7b</identifier>
+          </contentItem>
+          <contentItem n="217">
+            <locus from="3v">f. 3v</locus>
+            <title type="incipit">Regnantem sempiterna*</title>
+            <identifier type="dokumenten_id">Pro 12-3v-5</identifier>
+          </contentItem>
+          <contentItem n="218">
+            <locus from="40">f. 40</locus>
+            <title type="incipit">Mirabilis deus in sanctis*</title>
+            <identifier type="dokumenten_id">Pro 12-40-9b</identifier>
+          </contentItem>
+          <contentItem n="219">
+            <locus from="41v">f. 41v</locus>
+            <title type="incipit">Tripudians martyr</title>
+            <identifier type="dokumenten_id">Pro 12-41v-4</identifier>
+          </contentItem>
+          <contentItem n="220">
+            <locus from="41v">f. 41v</locus>
+            <title type="incipit">Laetabitur iustus</title>
+            <identifier type="dokumenten_id">Pro 12-41v-8</identifier>
+          </contentItem>
+          <contentItem n="221">
+            <locus from="45">f. 45</locus>
+            <title type="incipit">O nova res</title>
+            <identifier type="dokumenten_id">Pro 12-45-6</identifier>
+          </contentItem>
+          <contentItem n="222">
+            <locus from="45v">f. 45v</locus>
+            <title type="incipit">Suscepimus</title>
+            <identifier type="dokumenten_id">Pro 12-45v-1</identifier>
+          </contentItem>
+          <contentItem n="223">
+            <locus from="45v">f. 45v</locus>
+            <title type="incipit">Ecce venit ad templum</title>
+            <identifier type="dokumenten_id">Pro 12-45v-6</identifier>
+          </contentItem>
+          <contentItem n="224">
+            <locus from="46v">f. 46v</locus>
+            <title type="incipit">Diffusa est gratia</title>
+            <identifier type="dokumenten_id">Pro 12-46v-10</identifier>
+          </contentItem>
+          <contentItem n="225">
+            <locus from="46v">f. 46v</locus>
+            <title type="incipit">Claris vocibus inclita*</title>
+            <identifier type="dokumenten_id">Pro 12-46v-6</identifier>
+          </contentItem>
+          <contentItem n="226">
+            <locus from="46v">f. 46v</locus>
+            <title type="incipit">Salve sancta dei</title>
+            <identifier type="dokumenten_id">Pro 12-46v-7</identifier>
+          </contentItem>
+          <contentItem n="227">
+            <locus from="47">f. 47</locus>
+            <title type="incipit">Felix qui meruit</title>
+            <identifier type="dokumenten_id">Pro 12-47-2</identifier>
+          </contentItem>
+          <contentItem n="228">
+            <locus from="47">f. 47</locus>
+            <title type="incipit">Responsum accepit ... Christum domini</title>
+            <identifier type="dokumenten_id">Pro 12-47-4</identifier>
+          </contentItem>
+          <contentItem n="229">
+            <locus from="4v">f. 4v</locus>
+            <title type="incipit">Sonent regi*</title>
+            <identifier type="dokumenten_id">Pro 12-4v-10a</identifier>
+          </contentItem>
+          <contentItem n="230">
+            <locus from="51v">f. 51v</locus>
+            <title type="incipit">Hac clara die*</title>
+            <identifier type="dokumenten_id">Pro 12-51v-4</identifier>
+          </contentItem>
+          <contentItem n="231">
+            <locus from="5v">f. 5v</locus>
+            <title type="incipit">Qui regis sceptra*</title>
+            <identifier type="dokumenten_id">Pro 12-5v-9</identifier>
+          </contentItem>
+        </contents>
+        <notesStmt>
+          <annot type="description">
+            <ref target="Pro_12.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <classification>
+          <termList>
+            <term type="quellentyp">Graduale mit Tropen, Kyriale mit Tropen, Sequentiar</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">Ms. 12 (24)</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">Provins</geogName>
+                <corpName>Bibliothèque municipale</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+        <relationList>
+          <relation rel="hasReproduction" target="https://api.irht.cnrs.fr/ark:/63955/f6e4z87mubaf/manifest.json" label="IIIF manifest" />
+        </relationList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

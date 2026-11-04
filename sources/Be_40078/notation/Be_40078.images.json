@@ -1,0 +1,30 @@
+{
+  "source": "Be_40078",
+  "images": [
+    {
+      "file": "patterns/patterns.svg",
+      "kind": "patterns",
+      "media_type": "image/svg+xml",
+      "sha256": "83df8a30410d7a899bb8f107c99db1d8e3f8b3fe11e0e8f09a2a1a36e8d42f85",
+      "bytes": 42105,
+      "shows": "Be 40078: Muster &amp; Entsprechungen",
+      "embeds_raster_image": false,
+      "source": {
+        "siglum": "Be 40078",
+        "library": "Staatsbibliothek PKB",
+        "place": "Berlin",
+        "shelfmark": "Mus. ms. 40078",
+        "iiif_manifests": [
+          "https://content.staatsbibliothek-berlin.de/dc/782404677/manifest"
+        ],
+        "online_catalogue": []
+      },
+      "rights": {
+        "status": "not checked",
+        "library_terms_url": null,
+        "statement": null,
+        "note": "The images are crops of manuscript images of the library named under `source`; the rights of the library are not settled by the licence of this dataset (see docs/LICENCE-DECISION.md)."
+      }
+    }
+  ]
+}

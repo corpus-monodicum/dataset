@@ -1,0 +1,41 @@
+{
+  "id": "3cb21965-bb24-46bc-a2dc-20a71e1f54a5",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-161-9",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Divisio apostolorum",
+  "feier": "Messe",
+  "textinitium": "Caeli enarrant",
+  "bibliographischerverweis": "AH 50, 267",
+  "druckausgabe": "CM III",
+  "zeilenstart": "9",
+  "foliostart": "161",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "161v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "14",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "A",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

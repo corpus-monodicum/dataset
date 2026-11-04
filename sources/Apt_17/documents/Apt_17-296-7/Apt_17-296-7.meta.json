@@ -1,0 +1,41 @@
+{
+  "id": "252f5602-544e-4c8e-95b5-f120d58c8817",
+  "quelle_id": "Apt 17",
+  "dokumenten_id": "Apt 17-296-7",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Castor",
+  "feier": "Messe",
+  "textinitium": "Carmen nunc nobile",
+  "bibliographischerverweis": "CT V, S. 377",
+  "druckausgabe": "",
+  "zeilenstart": "7",
+  "foliostart": "296",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "300",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Alle boans",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

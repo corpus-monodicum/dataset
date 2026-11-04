@@ -1,0 +1,41 @@
+{
+  "id": "4e8214a3-185d-453e-a40f-ad6d86af6112",
+  "quelle_id": "Pad 47",
+  "dokumenten_id": "Pad 47-214v-17",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Michael",
+  "feier": "Messe",
+  "textinitium": "Qui patris in caelo",
+  "bibliographischerverweis": "Benedicite dominum intr 60 A 61 B 62 C D (CT X)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "17",
+  "foliostart": "214v",
+  "kommentar": "Bsp. Für Zeilenzählung",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Benedicite",
+    "Endseite": "215",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Benedicite dominum intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

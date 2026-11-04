@@ -1,0 +1,25 @@
+{
+  "id": "GeB 74",
+  "quellensigle": "GeB 74",
+  "herkunftsregion": "Quellen italienischer Herkunft",
+  "herkunftsort": "Rom",
+  "herkunftsinstitution": "S. Cecilia",
+  "ordenstradition": "",
+  "quellentyp": "Graduale mit Tropen, Kyriale",
+  "bibliotheksort": "Cologny bei Genf",
+  "bibliothek": "Bibliotheca Bodmeriana",
+  "bibliothekssignatur": "74",
+  "kommentar": "",
+  "datierung": "11. Jh (1071)",
+  "status": "",
+  "jahrhundert": "11.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "GeB 74",
+  "cantus_century": "11.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "GeB_74.description.md"
+  }
+}

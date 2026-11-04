@@ -1,0 +1,30 @@
+{
+  "source": "Nau_I",
+  "images": [
+    {
+      "file": "patterns/patterns.svg",
+      "kind": "patterns",
+      "media_type": "image/svg+xml",
+      "sha256": "8f3c8d5e319e6a476b631fc45a1f607fc3e895cd432109b121135dc2002f78e6",
+      "bytes": 34591,
+      "shows": "Nau I: Muster &amp; Entsprechungen",
+      "embeds_raster_image": false,
+      "source": {
+        "siglum": "Nau I",
+        "library": "Domstiftsbibliothek",
+        "place": "Naumburg",
+        "shelfmark": "Chorbuch I",
+        "iiif_manifests": [
+          "https://archive.thulb.uni-jena.de/korax/api/iiif/presentation/v2/Korax_derivate_00002026/manifest"
+        ],
+        "online_catalogue": []
+      },
+      "rights": {
+        "status": "not checked",
+        "library_terms_url": null,
+        "statement": null,
+        "note": "The images are crops of manuscript images of the library named under `source`; the rights of the library are not settled by the licence of this dataset (see docs/LICENCE-DECISION.md)."
+      }
+    }
+  ]
+}

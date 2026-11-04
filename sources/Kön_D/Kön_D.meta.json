@@ -1,0 +1,25 @@
+{
+  "id": "Kön D",
+  "quellensigle": "Kön D",
+  "herkunftsregion": "Quellen deutscher Herkunft",
+  "herkunftsort": "Kölner Raum, möglicherweise Bonn",
+  "herkunftsinstitution": "Stift Sankt Cassius",
+  "ordenstradition": "",
+  "quellentyp": "Missale, Tropar (Fragment), Kyriale, Sequentiar",
+  "bibliotheksort": "Königswinter",
+  "bibliothek": "Katholische Pfarrei Sankt Remigius",
+  "bibliothekssignatur": "ohne Signatur (\"Drachenfels-Missale\")",
+  "kommentar": "",
+  "datierung": "13. Jh 1. Hälfte (und 15. Jh)",
+  "status": "",
+  "jahrhundert": "13., 15.",
+  "manifest": "",
+  "foliooffset": "pageNr+1",
+  "publish": "all",
+  "cantus_siglum": "Kön D",
+  "cantus_century": "13., 15.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Kön_D.description.md"
+  }
+}

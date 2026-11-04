@@ -1,0 +1,41 @@
+{
+  "id": "46e8c8b8-159c-4170-acd2-f4305a441eef",
+  "quelle_id": "Ma 20-4",
+  "dokumenten_id": "Ma 20-4-106-5",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "Pascha; Feria II post Pascha",
+  "feier": "Vesper",
+  "textinitium": "O stulti et tardi",
+  "bibliographischerverweis": "vgl. CAO 3491",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "5",
+  "foliostart": "106",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "106",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Ma 20-4-105v-3S",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Journey to Emmaus",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "c3c2fff1-0060-4cda-919f-6497a2c87fee",
+  "quelle_id": "Rou 222",
+  "dokumenten_id": "Rou 222-43v-13",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Psalmus",
+  "festtag": "Feria II post Pascha",
+  "feier": "Vesper",
+  "textinitium": "In exitu*",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "13",
+  "foliostart": "43v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "43v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Rou 222-43-19S",
+    "Endzeile": "14",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Journey to Emmaus",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>RoV 52: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Edition (Ordinariumsgesänge)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Sequenzen)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="RoV_52">
+          <msIdentifier>
+            <settlement>Rom</settlement>
+            <repository>Biblioteca Vallicelliana</repository>
+            <idno type="shelfmark">C 52</idno>
+            <altIdentifier type="siglum">
+              <idno>RoV 52</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>RoV 52</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <term type="quellentyp">Graduale, Kyriale mit Tropen, Sequentiar</term>
+            </summary>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="145v">f. 145v</locus>
+              <title type="incipit">Christe redemptor</title>
+              <idno type="dokumenten_id">RoV 52-145v-4</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="146v">f. 146v</locus>
+              <title type="incipit">Christe cui decus</title>
+              <idno type="dokumenten_id">RoV 52-146v-1</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="148">f. 148</locus>
+              <title type="incipit">Omnipotens genitor</title>
+              <idno type="dokumenten_id">RoV 52-148-7</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="148v">f. 148v</locus>
+              <title type="incipit">Kyrie o theos</title>
+              <idno type="dokumenten_id">RoV 52-148v-4</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="149">f. 149</locus>
+              <title type="incipit">Canamus cuncti</title>
+              <idno type="dokumenten_id">RoV 52-149-10</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="149v">f. 149v</locus>
+              <title type="incipit">Lux et origo</title>
+              <idno type="dokumenten_id">RoV 52-149v-12</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="150">f. 150</locus>
+              <title type="incipit">Auctor caelorum</title>
+              <idno type="dokumenten_id">RoV 52-150-11</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="150v">f. 150v</locus>
+              <title type="incipit">Rex magne domine</title>
+              <idno type="dokumenten_id">RoV 52-150v-7</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="151">f. 151</locus>
+              <title type="incipit">Rex regum deus celsa</title>
+              <idno type="dokumenten_id">RoV 52-151-9</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="151v">f. 151v</locus>
+              <title type="incipit">Deus pater maiestatis</title>
+              <idno type="dokumenten_id">RoV 52-151v-8</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="152">f. 152</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">RoV 52-152-11</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="152v">f. 152v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">RoV 52-152v-1</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="152v">f. 152v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">RoV 52-152v-3</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="152v">f. 152v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">RoV 52-152v-5</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="152v">f. 152v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">RoV 52-152v-6</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="152v">f. 152v</locus>
+              <title type="incipit">Dominator deus</title>
+              <idno type="dokumenten_id">RoV 52-152v-8</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="153">f. 153</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">RoV 52-153-6</idno>
+            </msItem>
+            <msItem n="18">
+              <locus from="153">f. 153</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">RoV 52-153-7</idno>
+            </msItem>
+            <msItem n="19">
+              <locus from="153v">f. 153v</locus>
+              <title type="incipit">Laus tua deus</title>
+              <idno type="dokumenten_id">RoV 52-153v-1</idno>
+            </msItem>
+            <msItem n="20">
+              <locus from="154v">f. 154v</locus>
+              <title type="incipit">Laudat in excelsis</title>
+              <idno type="dokumenten_id">RoV 52-154v-5</idno>
+            </msItem>
+            <msItem n="21">
+              <locus from="155v">f. 155v</locus>
+              <title type="incipit">Quem novitate</title>
+              <idno type="dokumenten_id">RoV 52-155v-9</idno>
+            </msItem>
+            <msItem n="22">
+              <locus from="156v">f. 156v</locus>
+              <title type="incipit">O alma virgo</title>
+              <idno type="dokumenten_id">RoV 52-156v-5</idno>
+            </msItem>
+            <msItem n="23">
+              <locus from="157">f. 157</locus>
+              <title type="incipit">Laus tibi domine</title>
+              <idno type="dokumenten_id">RoV 52-157-3</idno>
+            </msItem>
+            <msItem n="24">
+              <locus from="157v">f. 157v</locus>
+              <title type="incipit">Laudabilis rex</title>
+              <idno type="dokumenten_id">RoV 52-157v-4</idno>
+            </msItem>
+            <msItem n="25">
+              <locus from="158">f. 158</locus>
+              <title type="incipit">Que celicolas</title>
+              <idno type="dokumenten_id">RoV 52-158-4</idno>
+            </msItem>
+            <msItem n="26">
+              <locus from="159">f. 159</locus>
+              <title type="incipit">Hic est sonus</title>
+              <idno type="dokumenten_id">RoV 52-159-1</idno>
+            </msItem>
+            <msItem n="27">
+              <locus from="159">f. 159</locus>
+              <title type="incipit">Laudemus Christum Dominum</title>
+              <idno type="dokumenten_id">RoV 52-159-9</idno>
+            </msItem>
+            <msItem n="28">
+              <locus from="159v">f. 159v</locus>
+              <title type="incipit">Virginis venerandae</title>
+              <idno type="dokumenten_id">RoV 52-159v-2</idno>
+            </msItem>
+            <msItem n="29">
+              <locus from="159v">f. 159v</locus>
+              <title type="incipit">Alma chorus domini</title>
+              <idno type="dokumenten_id">RoV 52-159v-25</idno>
+            </msItem>
+            <msItem n="30">
+              <locus from="160">f. 160</locus>
+              <title type="incipit">Stans a longe publicanus lavit se</title>
+              <idno type="dokumenten_id">RoV 52-160-12</idno>
+            </msItem>
+            <msItem n="31">
+              <locus from="160v">f. 160v</locus>
+              <title type="incipit">Benedicta semper sancta</title>
+              <idno type="dokumenten_id">RoV 52-160v-9</idno>
+            </msItem>
+            <msItem n="32">
+              <locus from="161v">f. 161v</locus>
+              <title type="incipit">Rex aeterne dominator</title>
+              <idno type="dokumenten_id">RoV 52-161v-5</idno>
+            </msItem>
+            <msItem n="33">
+              <locus from="162">f. 162</locus>
+              <title type="incipit">Laudans caterva</title>
+              <idno type="dokumenten_id">RoV 52-162-2</idno>
+            </msItem>
+            <msItem n="34">
+              <locus from="162v">f. 162v</locus>
+              <title type="incipit">Psallat ecclesia mater illibata</title>
+              <idno type="dokumenten_id">RoV 52-162v-15</idno>
+            </msItem>
+            <msItem n="35">
+              <locus from="162v">f. 162v</locus>
+              <title type="incipit">Exsultet tellus cuncta</title>
+              <idno type="dokumenten_id">RoV 52-162v-4</idno>
+            </msItem>
+            <msItem n="36">
+              <locus from="163v">f. 163v</locus>
+              <title type="incipit">Mundi fabricator</title>
+              <idno type="dokumenten_id">RoV 52-163v-1</idno>
+            </msItem>
+            <msItem n="37">
+              <locus from="163v">f. 163v</locus>
+              <title type="incipit">Deus fortis ... Filius</title>
+              <idno type="dokumenten_id">RoV 52-163v-9</idno>
+            </msItem>
+            <msItem n="38">
+              <locus from="164">f. 164</locus>
+              <title type="incipit">Cuius in laude</title>
+              <idno type="dokumenten_id">RoV 52-164-8</idno>
+            </msItem>
+            <msItem n="39">
+              <locus from="164v">f. 164v</locus>
+              <title type="incipit">Admirabilis splendor</title>
+              <idno type="dokumenten_id">RoV 52-164v-5</idno>
+            </msItem>
+            <msItem n="40">
+              <locus from="165">f. 165</locus>
+              <title type="incipit">Quem cherubim atque seraphim</title>
+              <idno type="dokumenten_id">RoV 52-165-1</idno>
+            </msItem>
+            <msItem n="41">
+              <locus from="165">f. 165</locus>
+              <title type="incipit">Laudatur trina maiestas</title>
+              <idno type="dokumenten_id">RoV 52-165-11</idno>
+            </msItem>
+            <msItem n="42">
+              <locus from="165v">f. 165v</locus>
+              <title type="incipit">Immortalis et verus</title>
+              <idno type="dokumenten_id">RoV 52-165v-9</idno>
+            </msItem>
+            <msItem n="43">
+              <locus from="166">f. 166</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">RoV 52-166-13</idno>
+            </msItem>
+            <msItem n="44">
+              <locus from="166">f. 166</locus>
+              <title type="incipit">Deus pater ingenitus</title>
+              <idno type="dokumenten_id">RoV 52-166-3</idno>
+            </msItem>
+            <msItem n="45">
+              <locus from="166">f. 166</locus>
+              <title type="incipit">Sanctus ... dominus deus</title>
+              <idno type="dokumenten_id">RoV 52-166-9</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Arezzo (Region, möglicherweise)</settlement>
+                <region>Quellen italienischer Herkunft</region>
+              </origPlace>
+              <origDate>11. Jh – 12. Jh</origDate>
+            </origin>
+          </history>
+          <additional>
+            <adminInfo>
+              <note type="description">
+                <ref target="RoV_52.description.md">Source description</ref>
+              </note>
+            </adminInfo>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

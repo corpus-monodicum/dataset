@@ -1,0 +1,41 @@
+{
+  "id": "180ac8ca-2e26-43f8-b18d-ae088faa2a61",
+  "quelle_id": "Apt 17",
+  "dokumenten_id": "Apt 17-177-1",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Philippus et Iacobus",
+  "feier": "Messe",
+  "textinitium": "Mortificando",
+  "bibliographischerverweis": "Exclamaverunt intr 6 A 7 B 8 C 9 A 10 B 11 C D 12 A 13 B 14 C (CT X)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "1",
+  "foliostart": "177",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "(Exclamaverunt)",
+    "Endseite": "178",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Exclamaverunt intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

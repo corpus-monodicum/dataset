@@ -1,0 +1,41 @@
+{
+  "id": "57a05678-bcbd-4674-9f4f-686fcdb4a31f",
+  "quelle_id": "MüU 156",
+  "dokumenten_id": "MüU 156-252-8",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Purificatio Mariae",
+  "feier": "Messe",
+  "textinitium": "Gaudeat trium",
+  "bibliographischerverweis": "Susc 241 A B C 242 A (CT IX)",
+  "druckausgabe": "II-2",
+  "zeilenstart": "8",
+  "foliostart": "252",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "MüU 156-24-2",
+    "Endseite": "252",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "13",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

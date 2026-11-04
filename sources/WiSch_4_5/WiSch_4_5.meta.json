@@ -1,0 +1,25 @@
+{
+  "id": "WiSch 4/5",
+  "quellensigle": "WiSch 4/5",
+  "herkunftsregion": "Quellen deutscher Herkunft",
+  "herkunftsort": "Wien",
+  "herkunftsinstitution": "Schottenstift",
+  "ordenstradition": "",
+  "quellentyp": "Tropar (Fragment)",
+  "bibliotheksort": "Wien",
+  "bibliothek": "Archiv des Schottenstiftes",
+  "bibliothekssignatur": "Fragm. liturg. 4 und Fragm. liturg. 5",
+  "kommentar": "",
+  "datierung": "13. Jh Mitte",
+  "status": "",
+  "jahrhundert": "13.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "WiSch 4/5",
+  "cantus_century": "13.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "WiSch_4_5.description.md"
+  }
+}

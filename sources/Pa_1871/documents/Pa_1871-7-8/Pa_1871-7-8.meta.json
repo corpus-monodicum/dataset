@@ -1,0 +1,41 @@
+{
+  "id": "8a583f51-4120-4c0a-acbe-fc7117b4584a",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-7-8",
+  "gattung1": "Tropus",
+  "gattung2": "Communio-Tropus",
+  "festtag": "Stephanus",
+  "feier": "Messe",
+  "textinitium": "Intuitus caelum",
+  "bibliographischerverweis": "Steph com 6 A (CT I)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "8",
+  "foliostart": "7",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "(Video caelum)",
+    "Endseite": "7",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Steph com",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

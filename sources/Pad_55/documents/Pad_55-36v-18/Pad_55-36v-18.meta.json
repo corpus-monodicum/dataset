@@ -1,0 +1,41 @@
+{
+  "id": "a32a4315-bfb2-4462-ba40-fe29328665dd",
+  "quelle_id": "Pad 55",
+  "dokumenten_id": "Pad 55-36v-18",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "Annuntiatio Mariae",
+  "feier": "",
+  "textinitium": "Ave Maria gratia plena ... benedicta",
+  "bibliographischerverweis": "CAO 1539",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "18",
+  "foliostart": "36v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "36v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Pad 55-36v-13S",
+    "Endzeile": "24",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Annunciation",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

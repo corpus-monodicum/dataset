@@ -1,0 +1,41 @@
+{
+  "id": "46cdc467-840e-4c21-aa0c-02005d34f768",
+  "quelle_id": "Int 5",
+  "dokumenten_id": "Int 5-94-1",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Trinitas",
+  "feier": "Messe",
+  "textinitium": "Cunctipotens genitor",
+  "bibliographischerverweis": "Trin intr 13 A 14 B 15 C (CT III)",
+  "druckausgabe": "",
+  "zeilenstart": "1",
+  "foliostart": "94",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "94v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Trin intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

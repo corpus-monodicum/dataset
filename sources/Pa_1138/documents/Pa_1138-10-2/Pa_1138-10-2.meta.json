@@ -1,0 +1,41 @@
+{
+  "id": "b23db4d6-aaec-4c2b-9d11-655a08fa2a18",
+  "quelle_id": "Pa 1138",
+  "dokumenten_id": "Pa 1138-10-2",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "",
+  "feier": "",
+  "textinitium": "Qui regis sceptra",
+  "bibliographischerverweis": "AH 7, 9; AH 53, 3",
+  "druckausgabe": "",
+  "zeilenstart": "2",
+  "foliostart": "10",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "10v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Excita",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "Excita",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

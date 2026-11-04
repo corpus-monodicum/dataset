@@ -1,0 +1,41 @@
+{
+  "id": "76a46779-dd8c-4425-a7e2-471d2a1a8ac1",
+  "quelle_id": "Ma 289",
+  "dokumenten_id": "Ma 289-107v-9",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Te deum",
+  "festtag": "Epiphania",
+  "feier": "Matutin",
+  "textinitium": "Te deum laudamus*",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "9",
+  "foliostart": "107v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "107v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Ma 289-107-1S",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "Beginn fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Magi play",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

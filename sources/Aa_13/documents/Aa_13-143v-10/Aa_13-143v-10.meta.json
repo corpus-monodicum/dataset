@@ -1,0 +1,41 @@
+{
+  "id": "3bee55fb-cd5f-4a5f-871e-d4afe2ce5cc0",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-143v-10",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Matthaeus; Evangelistae",
+  "feier": "Messe",
+  "textinitium": "Plausu chorus laetabundo",
+  "bibliographischerverweis": "AH 55, 6",
+  "druckausgabe": "CM III",
+  "zeilenstart": "10",
+  "foliostart": "143v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "144",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

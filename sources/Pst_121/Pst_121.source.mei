@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Pst 121: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Sequenzen)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Gunilla Iversen</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Ritva Maria Jacobsson</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="Pst_121">
+        <identifier type="siglum">Pst 121</identifier>
+        <identifier type="cantus">Pst 121</identifier>
+        <titleStmt>
+          <title>Pst 121</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Pistoia (möglicherweise)</geogName>
+          <geogName role="origin-region">Quellen italienischer Herkunft</geogName>
+          <date>11. Jh – 12. Jh</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="10">f. 10</locus>
+            <title type="incipit">Ecce veniet deus</title>
+            <identifier type="dokumenten_id">Pst 121-10-1</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="10v">f. 10v</locus>
+            <title type="incipit">Olim propheta</title>
+            <identifier type="dokumenten_id">Pst 121-10v-4</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="12">f. 12</locus>
+            <title type="incipit">Cunctum orbem</title>
+            <identifier type="dokumenten_id">Pst 121-12-7</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="12v">f. 12v</locus>
+            <title type="incipit">Iam fulget</title>
+            <identifier type="dokumenten_id">Pst 121-12v-9</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="13">f. 13</locus>
+            <title type="incipit">Benignissima domini</title>
+            <identifier type="dokumenten_id">Pst 121-13-9</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="15">f. 15</locus>
+            <title type="incipit">Deus pater filium</title>
+            <identifier type="dokumenten_id">Pst 121-15-5</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="18">f. 18</locus>
+            <title type="incipit">Christi hodiernae ... voce</title>
+            <identifier type="dokumenten_id">Pst 121-18-8</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="19v">f. 19v</locus>
+            <title type="incipit">Hodie puer natus</title>
+            <identifier type="dokumenten_id">Pst 121-19v-1</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="20v">f. 20v</locus>
+            <title type="incipit">Christum natum nova</title>
+            <identifier type="dokumenten_id">Pst 121-20v-1</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="21v">f. 21v</locus>
+            <title type="incipit">Ecce annuntio</title>
+            <identifier type="dokumenten_id">Pst 121-21v-6</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus from="22v">f. 22v</locus>
+            <title type="incipit">Gaudeat cunctus</title>
+            <identifier type="dokumenten_id">Pst 121-22v-12</identifier>
+          </contentItem>
+          <contentItem n="12">
+            <locus from="23">f. 23</locus>
+            <title type="incipit">Hodie inclitus</title>
+            <identifier type="dokumenten_id">Pst 121-23-6</identifier>
+          </contentItem>
+          <contentItem n="13">
+            <locus from="23v">f. 23v</locus>
+            <title type="incipit">Hanc concordi</title>
+            <identifier type="dokumenten_id">Pst 121-23v-3</identifier>
+          </contentItem>
+          <contentItem n="14">
+            <locus from="24">f. 24</locus>
+            <title type="incipit">Dilectus iste</title>
+            <identifier type="dokumenten_id">Pst 121-24-11</identifier>
+          </contentItem>
+          <contentItem n="15">
+            <locus from="24v">f. 24v</locus>
+            <title type="incipit">Iohannes Iesu Christo</title>
+            <identifier type="dokumenten_id">Pst 121-24v-8</identifier>
+          </contentItem>
+          <contentItem n="16">
+            <locus from="25v">f. 25v</locus>
+            <title type="incipit">Dicite nunc</title>
+            <identifier type="dokumenten_id">Pst 121-25v-3</identifier>
+          </contentItem>
+          <contentItem n="17">
+            <locus from="25v">f. 25v</locus>
+            <title type="incipit">Quid tu virgo</title>
+            <identifier type="dokumenten_id">Pst 121-25v-7</identifier>
+          </contentItem>
+          <contentItem n="18">
+            <locus from="26">f. 26</locus>
+            <title type="incipit">Hodie salvator</title>
+            <identifier type="dokumenten_id">Pst 121-26-8</identifier>
+          </contentItem>
+          <contentItem n="19">
+            <locus from="26v">f. 26v</locus>
+            <title type="incipit">Eia recolamus ... piis</title>
+            <identifier type="dokumenten_id">Pst 121-26v-11</identifier>
+          </contentItem>
+          <contentItem n="20">
+            <locus from="28">f. 28</locus>
+            <title type="incipit">Ecclesiae sponsus</title>
+            <identifier type="dokumenten_id">Pst 121-28-2</identifier>
+          </contentItem>
+          <contentItem n="21">
+            <locus from="28v">f. 28v</locus>
+            <title type="incipit">Stella sita</title>
+            <identifier type="dokumenten_id">Pst 121-28v-6</identifier>
+          </contentItem>
+          <contentItem n="22">
+            <locus from="29v">f. 29v</locus>
+            <title type="incipit">Hanc diem tribus</title>
+            <identifier type="dokumenten_id">Pst 121-29v-9</identifier>
+          </contentItem>
+          <contentItem n="23">
+            <locus from="31">f. 31</locus>
+            <title type="incipit">Virgo Maria gaudia</title>
+            <identifier type="dokumenten_id">Pst 121-31-12</identifier>
+          </contentItem>
+          <contentItem n="24">
+            <locus from="31">f. 31</locus>
+            <title type="incipit">Hodie mundo festivus ... Mariae virginis</title>
+            <identifier type="dokumenten_id">Pst 121-31-5</identifier>
+          </contentItem>
+          <contentItem n="25">
+            <locus from="32v">f. 32v</locus>
+            <title type="incipit">Eia organica cantica</title>
+            <identifier type="dokumenten_id">Pst 121-32v-5</identifier>
+          </contentItem>
+          <contentItem n="26">
+            <locus from="33v">f. 33v</locus>
+            <title type="incipit">Eia carissimi</title>
+            <identifier type="dokumenten_id">Pst 121-33v-12</identifier>
+          </contentItem>
+          <contentItem n="27">
+            <locus from="35v">f. 35v</locus>
+            <title type="incipit">Nunc exsultet</title>
+            <identifier type="dokumenten_id">Pst 121-35v-9</identifier>
+          </contentItem>
+          <contentItem n="28">
+            <locus from="37v">f. 37v</locus>
+            <title type="incipit">Dic nobis quibus</title>
+            <identifier type="dokumenten_id">Pst 121-37v-2</identifier>
+          </contentItem>
+          <contentItem n="29">
+            <locus from="38">f. 38</locus>
+            <title type="incipit">Ecce vicit radix</title>
+            <identifier type="dokumenten_id">Pst 121-38-9</identifier>
+          </contentItem>
+          <contentItem n="30">
+            <locus from="39v">f. 39v</locus>
+            <title type="incipit">Clara gaudia</title>
+            <identifier type="dokumenten_id">Pst 121-39v-1</identifier>
+          </contentItem>
+          <contentItem n="31">
+            <locus from="40">f. 40</locus>
+            <title type="incipit">Promissionis suae</title>
+            <identifier type="dokumenten_id">Pst 121-40-8</identifier>
+          </contentItem>
+          <contentItem n="32">
+            <locus from="40v">f. 40v</locus>
+            <title type="incipit">Hodie redemptor</title>
+            <identifier type="dokumenten_id">Pst 121-40v-3</identifier>
+          </contentItem>
+          <contentItem n="33">
+            <locus from="42">f. 42</locus>
+            <title type="incipit">Rex omnipotens</title>
+            <identifier type="dokumenten_id">Pst 121-42-6</identifier>
+          </contentItem>
+          <contentItem n="34">
+            <locus from="43v">f. 43v</locus>
+            <title type="incipit">Ascendit deus in iubilo</title>
+            <identifier type="dokumenten_id">Pst 121-43v-6</identifier>
+          </contentItem>
+          <contentItem n="35">
+            <locus from="44">f. 44</locus>
+            <title type="incipit">Hodie spiritus sanctus procedens</title>
+            <identifier type="dokumenten_id">Pst 121-44-11</identifier>
+          </contentItem>
+          <contentItem n="36">
+            <locus from="44v">f. 44v</locus>
+            <title type="incipit">Ecce dies venerandus</title>
+            <identifier type="dokumenten_id">Pst 121-44v-8</identifier>
+          </contentItem>
+          <contentItem n="37">
+            <locus from="46">f. 46</locus>
+            <title type="incipit">Fulgens praeclara</title>
+            <identifier type="dokumenten_id">Pst 121-46-4</identifier>
+          </contentItem>
+          <contentItem n="38">
+            <locus from="48">f. 48</locus>
+            <title type="incipit">Sancti spiritus … Quae corda</title>
+            <identifier type="dokumenten_id">Pst 121-48-4</identifier>
+          </contentItem>
+          <contentItem n="39">
+            <locus from="49v">f. 49v</locus>
+            <title type="incipit">Eia musa</title>
+            <identifier type="dokumenten_id">Pst 121-49v-1</identifier>
+          </contentItem>
+          <contentItem n="40">
+            <locus from="50v">f. 50v</locus>
+            <title type="incipit">Quidam magna</title>
+            <identifier type="dokumenten_id">Pst 121-50v-5</identifier>
+          </contentItem>
+          <contentItem n="41">
+            <locus from="51">f. 51</locus>
+            <title type="incipit">Stans a longe publicanus lavit se</title>
+            <identifier type="dokumenten_id">Pst 121-51-4</identifier>
+          </contentItem>
+          <contentItem n="42">
+            <locus from="51v">f. 51v</locus>
+            <title type="incipit">Alma chorus domini</title>
+            <identifier type="dokumenten_id">Pst 121-51v-5</identifier>
+          </contentItem>
+          <contentItem n="43">
+            <locus from="52">f. 52</locus>
+            <title type="incipit">Cunctipotens genitor</title>
+            <identifier type="dokumenten_id">Pst 121-52-9</identifier>
+          </contentItem>
+          <contentItem n="44">
+            <locus from="52v">f. 52v</locus>
+            <title type="incipit">Benedicta semper sancta</title>
+            <identifier type="dokumenten_id">Pst 121-52v-3</identifier>
+          </contentItem>
+          <contentItem n="45">
+            <locus from="53v">f. 53v</locus>
+            <title type="incipit">Iohannes est hic ... cui in laude</title>
+            <identifier type="dokumenten_id">Pst 121-53v-6</identifier>
+          </contentItem>
+          <contentItem n="46">
+            <locus from="54v">f. 54v</locus>
+            <title type="incipit">Nativitas praecursoris</title>
+            <identifier type="dokumenten_id">Pst 121-54v-9</identifier>
+          </contentItem>
+          <contentItem n="47">
+            <locus from="55v">f. 55v</locus>
+            <title type="incipit">Alme mundi rex</title>
+            <identifier type="dokumenten_id">Pst 121-55v-11</identifier>
+          </contentItem>
+          <contentItem n="48">
+            <locus from="56v">f. 56v</locus>
+            <title type="incipit">Sancti Baptistae Christi</title>
+            <identifier type="dokumenten_id">Pst 121-56v-8</identifier>
+          </contentItem>
+          <contentItem n="49">
+            <locus from="57v">f. 57v</locus>
+            <title type="incipit">Ingressus angelus</title>
+            <identifier type="dokumenten_id">Pst 121-57v-5</identifier>
+          </contentItem>
+          <contentItem n="50">
+            <locus from="58">f. 58</locus>
+            <title type="incipit">Petre summe Christi</title>
+            <identifier type="dokumenten_id">Pst 121-58-10</identifier>
+          </contentItem>
+          <contentItem n="51">
+            <locus from="59">f. 59</locus>
+            <title type="incipit">Haec est sancta sollemnitas cunctis</title>
+            <identifier type="dokumenten_id">Pst 121-59-7</identifier>
+          </contentItem>
+          <contentItem n="52">
+            <locus from="59v">f. 59v</locus>
+            <title type="incipit">Quem superne</title>
+            <identifier type="dokumenten_id">Pst 121-59v-10</identifier>
+          </contentItem>
+          <contentItem n="53">
+            <locus from="62">f. 62</locus>
+            <title type="incipit">Laurenti David</title>
+            <identifier type="dokumenten_id">Pst 121-62-13</identifier>
+          </contentItem>
+          <contentItem n="54">
+            <locus from="62">f. 62</locus>
+            <title type="incipit">Lauream regni</title>
+            <identifier type="dokumenten_id">Pst 121-62-8</identifier>
+          </contentItem>
+          <contentItem n="55">
+            <locus from="63">f. 63</locus>
+            <title type="incipit">Congaudent angelorum chori</title>
+            <identifier type="dokumenten_id">Pst 121-63-12</identifier>
+          </contentItem>
+          <contentItem n="56">
+            <locus from="63">f. 63</locus>
+            <title type="incipit">Nos sinus ecclesiae matris</title>
+            <identifier type="dokumenten_id">Pst 121-63-8</identifier>
+          </contentItem>
+          <contentItem n="57">
+            <locus from="64v">f. 64v</locus>
+            <title type="incipit">Aurea virga primae</title>
+            <identifier type="dokumenten_id">Pst 121-64v-3</identifier>
+          </contentItem>
+          <contentItem n="58">
+            <locus from="66">f. 66</locus>
+            <title type="incipit">Egregius maneat</title>
+            <identifier type="dokumenten_id">Pst 121-66-5</identifier>
+          </contentItem>
+          <contentItem n="59">
+            <locus from="66v">f. 66v</locus>
+            <title type="incipit">Clare sanctorum</title>
+            <identifier type="dokumenten_id">Pst 121-66v-1</identifier>
+          </contentItem>
+          <contentItem n="60">
+            <locus from="67">f. 67</locus>
+            <title type="incipit">Alle caeleste necnon</title>
+            <identifier type="dokumenten_id">Pst 121-67-6</identifier>
+          </contentItem>
+          <contentItem n="61">
+            <locus from="68v">f. 68v</locus>
+            <title type="incipit">Vitae diro</title>
+            <identifier type="dokumenten_id">Pst 121-68v-9</identifier>
+          </contentItem>
+          <contentItem n="62">
+            <locus from="69">f. 69</locus>
+            <title type="incipit">Alma fulgens</title>
+            <identifier type="dokumenten_id">Pst 121-69-3</identifier>
+          </contentItem>
+          <contentItem n="63">
+            <locus from="69v">f. 69v</locus>
+            <title type="incipit">Discipulis flammas</title>
+            <identifier type="dokumenten_id">Pst 121-69v-2</identifier>
+          </contentItem>
+          <contentItem n="64">
+            <locus from="69v">f. 69v</locus>
+            <title type="incipit">Summi regis archangele</title>
+            <identifier type="dokumenten_id">Pst 121-69v-7</identifier>
+          </contentItem>
+          <contentItem n="65">
+            <locus from="70v">f. 70v</locus>
+            <title type="incipit">Ad celebres rex</title>
+            <identifier type="dokumenten_id">Pst 121-70v-6</identifier>
+          </contentItem>
+          <contentItem n="66">
+            <locus from="72">f. 72</locus>
+            <title type="incipit">Sanctorum sancto</title>
+            <identifier type="dokumenten_id">Pst 121-72-6</identifier>
+          </contentItem>
+          <contentItem n="67">
+            <locus from="72v">f. 72v</locus>
+            <title type="incipit">Omnes sancti seraphin</title>
+            <identifier type="dokumenten_id">Pst 121-72v-1</identifier>
+          </contentItem>
+          <contentItem n="68">
+            <locus from="73">f. 73</locus>
+            <title type="incipit">Christo inclita</title>
+            <identifier type="dokumenten_id">Pst 121-73-6</identifier>
+          </contentItem>
+          <contentItem n="69">
+            <locus from="74">f. 74</locus>
+            <title type="incipit">Chori sanctorum ... fratri</title>
+            <identifier type="dokumenten_id">Pst 121-74-1</identifier>
+          </contentItem>
+          <contentItem n="70">
+            <locus from="74">f. 74</locus>
+            <title type="incipit">Haec sunt sacra festa</title>
+            <identifier type="dokumenten_id">Pst 121-74-5</identifier>
+          </contentItem>
+          <contentItem n="71">
+            <locus from="75">f. 75</locus>
+            <title type="incipit">Rex caelorum</title>
+            <identifier type="dokumenten_id">Pst 121-75-10</identifier>
+          </contentItem>
+          <contentItem n="72">
+            <locus from="75">f. 75</locus>
+            <title type="incipit">Egregius maneat*</title>
+            <identifier type="dokumenten_id">Pst 121-75-8</identifier>
+          </contentItem>
+          <contentItem n="73">
+            <locus from="75">f. 75</locus>
+            <title type="incipit">Clare sanctorum*</title>
+            <identifier type="dokumenten_id">Pst 121-75-9</identifier>
+          </contentItem>
+          <contentItem n="74">
+            <locus from="75v">f. 75v</locus>
+            <title type="incipit">Venite pusilli</title>
+            <identifier type="dokumenten_id">Pst 121-75v-4</identifier>
+          </contentItem>
+          <contentItem n="75">
+            <locus from="77">f. 77</locus>
+            <title type="incipit">Inclitus ... tegmate sanctus*</title>
+            <identifier type="dokumenten_id">Pst 121-77-2a</identifier>
+          </contentItem>
+          <contentItem n="76">
+            <locus from="77">f. 77</locus>
+            <title type="incipit">Gentis linguae*</title>
+            <identifier type="dokumenten_id">Pst 121-77-2b</identifier>
+          </contentItem>
+          <contentItem n="77">
+            <locus from="77">f. 77</locus>
+            <title type="incipit">Hodiernus sacratior*</title>
+            <identifier type="dokumenten_id">Pst 121-77-3a</identifier>
+          </contentItem>
+          <contentItem n="78">
+            <locus from="77">f. 77</locus>
+            <title type="incipit">Haec sunt sacra festa*</title>
+            <identifier type="dokumenten_id">Pst 121-77-3b</identifier>
+          </contentItem>
+          <contentItem n="79">
+            <locus from="77">f. 77</locus>
+            <title type="incipit">Quid tu virgo*</title>
+            <identifier type="dokumenten_id">Pst 121-77-6</identifier>
+          </contentItem>
+          <contentItem n="80">
+            <locus from="77">f. 77</locus>
+            <title type="incipit">Haec est sancta sollemnitas cunctis*</title>
+            <identifier type="dokumenten_id">Pst 121-77-7</identifier>
+          </contentItem>
+          <contentItem n="81">
+            <locus from="77">f. 77</locus>
+            <title type="incipit">Invisibilis deus</title>
+            <identifier type="dokumenten_id">Pst 121-77-9</identifier>
+          </contentItem>
+          <contentItem n="82">
+            <locus from="77v">f. 77v</locus>
+            <title type="incipit">Ad templi ... devota persultat</title>
+            <identifier type="dokumenten_id">Pst 121-77v-3</identifier>
+          </contentItem>
+          <contentItem n="83">
+            <locus from="8v">f. 8v</locus>
+            <title type="incipit">Gregorius praesul</title>
+            <identifier type="dokumenten_id">Pst 121-8v-9</identifier>
+          </contentItem>
+          <contentItem n="84">
+            <locus from="9">f. 9</locus>
+            <title type="incipit">Salus aeterna indeficiens</title>
+            <identifier type="dokumenten_id">Pst 121-9-10</identifier>
+          </contentItem>
+          <contentItem n="85">
+            <locus from="90">f. 90</locus>
+            <title type="incipit">Eia carissimi</title>
+            <identifier type="dokumenten_id">Pst 121-90-6</identifier>
+          </contentItem>
+          <contentItem n="86">
+            <locus from="90v">f. 90v</locus>
+            <title type="incipit">Dic nobis quibus</title>
+            <identifier type="dokumenten_id">Pst 121-90v-1</identifier>
+          </contentItem>
+          <contentItem n="87">
+            <locus from="91">f. 91</locus>
+            <title type="incipit">Ecce vicit radix</title>
+            <identifier type="dokumenten_id">Pst 121-91-3</identifier>
+          </contentItem>
+          <contentItem n="88">
+            <locus from="91v">f. 91v</locus>
+            <title type="incipit">Clara gaudia</title>
+            <identifier type="dokumenten_id">Pst 121-91v-12</identifier>
+          </contentItem>
+        </contents>
+        <notesStmt>
+          <annot type="description">
+            <ref target="Pst_121.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <classification>
+          <termList>
+            <term type="quellentyp">Tropar</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">C 121</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">Pistoia</geogName>
+                <corpName>Biblioteca Capitolare</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

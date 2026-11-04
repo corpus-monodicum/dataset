@@ -1,0 +1,41 @@
+{
+  "id": "26d8bdd1-5198-4aba-b6e5-19981fd9b95e",
+  "quelle_id": "Pa 1119",
+  "dokumenten_id": "Pa 1119-99-3",
+  "gattung1": "Gloria",
+  "gattung2": "tropiert",
+  "festtag": "Pascha",
+  "feier": "Messe",
+  "textinitium": "Christe salus mundi",
+  "bibliographischerverweis": "CT XII, 12: 1 2 3 4 5 6 7 8 9 10 11 12 13",
+  "druckausgabe": "",
+  "zeilenstart": "3",
+  "foliostart": "99",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "101",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "Bosse 39",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509502",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

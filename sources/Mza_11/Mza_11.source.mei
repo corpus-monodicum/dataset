@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Mza 11: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Michael Klaper</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Sequenzen)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Gunilla Iversen</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Ritva Maria Jacobsson</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="Mza_11">
+        <identifier type="siglum">Mza 11</identifier>
+        <identifier type="cantus">Mza 11</identifier>
+        <titleStmt>
+          <title>Mza 11</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Monza (möglicherweise)</geogName>
+          <geogName role="origin-region">Quellen italienischer Herkunft</geogName>
+          <date>13. Jh</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="10v">f. 10v</locus>
+            <title type="incipit">Ecce adest</title>
+            <identifier type="dokumenten_id">Mza 11-10v-3</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="10v">f. 10v</locus>
+            <title type="incipit">Puer natus est nobis</title>
+            <identifier type="dokumenten_id">Mza 11-10v-6</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="112">f. 112</locus>
+            <title type="incipit">Audite insulae</title>
+            <identifier type="dokumenten_id">Mza 11-112-6</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="112">f. 112</locus>
+            <title type="incipit">De ventre</title>
+            <identifier type="dokumenten_id">Mza 11-112-8</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="114v">f. 114v</locus>
+            <title type="incipit">Hodie Simon</title>
+            <identifier type="dokumenten_id">Mza 11-114v-2</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="114v">f. 114v</locus>
+            <title type="incipit">Nunc scio vere</title>
+            <identifier type="dokumenten_id">Mza 11-114v-5</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="12">f. 12</locus>
+            <title type="incipit">Hodie descendit Christus</title>
+            <identifier type="dokumenten_id">Mza 11-12-9</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="12v">f. 12v</locus>
+            <title type="incipit">Ecce advenit</title>
+            <identifier type="dokumenten_id">Mza 11-12v-1</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="138v">f. 138v</locus>
+            <title type="incipit">Nativitatis colamus</title>
+            <identifier type="dokumenten_id">Mza 11-138v-10</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="139v">f. 139v</locus>
+            <title type="incipit">Petre summe Christi</title>
+            <identifier type="dokumenten_id">Mza 11-139v-9</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus from="140v">f. 140v</locus>
+            <title type="incipit">Felix valde o Maria</title>
+            <identifier type="dokumenten_id">Mza 11-140v-5</identifier>
+          </contentItem>
+          <contentItem n="12">
+            <locus from="141">f. 141</locus>
+            <title type="incipit">Omnes sancti seraphin</title>
+            <identifier type="dokumenten_id">Mza 11-141-5</identifier>
+          </contentItem>
+          <contentItem n="13">
+            <locus from="60v">f. 60v</locus>
+            <title type="incipit">Hodie resurrexit leo fortis</title>
+            <identifier type="dokumenten_id">Mza 11-60v-6</identifier>
+          </contentItem>
+          <contentItem n="14">
+            <locus from="61">f. 61</locus>
+            <title type="incipit">Resurrexi</title>
+            <identifier type="dokumenten_id">Mza 11-61-1</identifier>
+          </contentItem>
+          <contentItem n="15">
+            <locus from="69v">f. 69v</locus>
+            <title type="incipit">Hodie redemptor</title>
+            <identifier type="dokumenten_id">Mza 11-69v-11</identifier>
+          </contentItem>
+          <contentItem n="16">
+            <locus from="70">f. 70</locus>
+            <title type="incipit">Viri Galilaei</title>
+            <identifier type="dokumenten_id">Mza 11-70-1</identifier>
+          </contentItem>
+          <contentItem n="17">
+            <locus from="71v">f. 71v</locus>
+            <title type="incipit">Hodie spiritus sanctus procedens</title>
+            <identifier type="dokumenten_id">Mza 11-71v-6</identifier>
+          </contentItem>
+          <contentItem n="18">
+            <locus from="71v">f. 71v</locus>
+            <title type="incipit">Spiritus domini</title>
+            <identifier type="dokumenten_id">Mza 11-71v-8</identifier>
+          </contentItem>
+          <contentItem n="19">
+            <locus from="81">f. 81</locus>
+            <title type="incipit">Benedicta semper sancta</title>
+            <identifier type="dokumenten_id">Mza 11-81-6</identifier>
+          </contentItem>
+          <contentItem n="20">
+            <locus from="82">f. 82</locus>
+            <title type="incipit">Natus ante saecula</title>
+            <identifier type="dokumenten_id">Mza 11-82-8</identifier>
+          </contentItem>
+          <contentItem n="21">
+            <locus from="83">f. 83</locus>
+            <title type="incipit">Exsultet omnis caro</title>
+            <identifier type="dokumenten_id">Mza 11-83-9</identifier>
+          </contentItem>
+          <contentItem n="22">
+            <locus from="83v">f. 83v</locus>
+            <title type="incipit">Ecce vicit radix</title>
+            <identifier type="dokumenten_id">Mza 11-83v-7</identifier>
+          </contentItem>
+          <contentItem n="23">
+            <locus from="85">f. 85</locus>
+            <title type="incipit">Clara gaudia</title>
+            <identifier type="dokumenten_id">Mza 11-85-1</identifier>
+          </contentItem>
+          <contentItem n="24">
+            <locus from="85v">f. 85v</locus>
+            <title type="incipit">Dic nobis quibus</title>
+            <identifier type="dokumenten_id">Mza 11-85v-8</identifier>
+          </contentItem>
+          <contentItem n="25">
+            <locus from="86v">f. 86v</locus>
+            <title type="incipit">Rex omnipotens</title>
+            <identifier type="dokumenten_id">Mza 11-86v-4</identifier>
+          </contentItem>
+          <contentItem n="26">
+            <locus from="88">f. 88</locus>
+            <title type="incipit">Sancti spiritus … Quae corda</title>
+            <identifier type="dokumenten_id">Mza 11-88-3</identifier>
+          </contentItem>
+          <contentItem n="27">
+            <locus from="9v">f. 9v</locus>
+            <title type="incipit">Hora est iam</title>
+            <identifier type="dokumenten_id">Mza 11-9v-5</identifier>
+          </contentItem>
+          <contentItem n="28">
+            <locus from="9v">f. 9v</locus>
+            <title type="incipit">Lux fulgebit</title>
+            <identifier type="dokumenten_id">Mza 11-9v-7</identifier>
+          </contentItem>
+        </contents>
+        <notesStmt>
+          <annot type="description">
+            <ref target="Mza_11.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <classification>
+          <termList>
+            <term type="quellentyp">Graduale, Kyriale, Tropar, Sequentiar</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">Ms. K 11</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">Monza</geogName>
+                <corpName>Biblioteca Capitolare</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

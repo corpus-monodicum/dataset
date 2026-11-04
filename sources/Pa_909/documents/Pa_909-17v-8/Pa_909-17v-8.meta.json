@@ -1,0 +1,41 @@
+{
+  "id": "29f1b914-cc36-45a6-85de-1d0c98f9ecd9",
+  "quelle_id": "Pa 909",
+  "dokumenten_id": "Pa 909-17v-8",
+  "gattung1": "Tropus",
+  "gattung2": "Communio-Tropus",
+  "festtag": "Innocentes",
+  "feier": "Messe",
+  "textinitium": "Sancta Ieremiae",
+  "bibliographischerverweis": "Innoc com 8 A 4 A 9 B 10 A (CT I)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "8",
+  "foliostart": "17v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "Vox in Rama",
+    "Endseite": "17v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "15",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Innoc com",
+    "Zusatz_zu_Textinitium": "3 Tropenelemente ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

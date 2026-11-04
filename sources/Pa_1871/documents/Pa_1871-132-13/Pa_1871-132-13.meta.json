@@ -1,0 +1,41 @@
+{
+  "id": "a70ca7bf-4b0e-4041-97d8-3ef3832f6ab8",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-132-13",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Pontius",
+  "feier": "Messe",
+  "textinitium": "Celsa personet",
+  "bibliographischerverweis": "AH 7, 189",
+  "druckausgabe": "",
+  "zeilenstart": "13",
+  "foliostart": "132",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "133",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Fulgens praeclara",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

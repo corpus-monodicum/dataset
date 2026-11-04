@@ -1,0 +1,30 @@
+{
+  "source": "Gr_807",
+  "images": [
+    {
+      "file": "patterns/patterns.svg",
+      "kind": "patterns",
+      "media_type": "image/svg+xml",
+      "sha256": "0ae8656b0b05d02d0f5a3ae88aa8441d25329b1fb2e7260959b184137fd14791",
+      "bytes": 55589,
+      "shows": "Gr 807: Muster &amp; Entsprechungen",
+      "embeds_raster_image": false,
+      "source": {
+        "siglum": "Gr 807",
+        "library": "Universitätsbibliothek",
+        "place": "Graz",
+        "shelfmark": "Ms. 807",
+        "iiif_manifests": [
+          "https://unipub.uni-graz.at/i3f/v20/5564576/manifest"
+        ],
+        "online_catalogue": []
+      },
+      "rights": {
+        "status": "not checked",
+        "library_terms_url": null,
+        "statement": null,
+        "note": "The images are crops of manuscript images of the library named under `source`; the rights of the library are not settled by the licence of this dataset (see docs/LICENCE-DECISION.md)."
+      }
+    }
+  ]
+}

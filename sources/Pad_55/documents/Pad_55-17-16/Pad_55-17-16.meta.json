@@ -1,0 +1,41 @@
+{
+  "id": "348dcb54-c0bd-421b-8471-dac72310a8f5",
+  "quelle_id": "Pad 55",
+  "dokumenten_id": "Pad 55-17-16",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Purificatio Mariae",
+  "feier": "Prozession",
+  "textinitium": "Suscipiens Symeon",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "16",
+  "foliostart": "17",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "17v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Pad 55-12v-4S",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Presentation of Jesus",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

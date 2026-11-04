@@ -1,0 +1,1699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pa 1235: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Edition (Ordinariumsgesänge)</resp>
+          <persName>Charles M. Atkinson</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Sequenzen)</resp>
+          <persName>Anna Sanda</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Elaine Stratton Hild</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Spiele)</resp>
+          <persName>Elaine Stratton Hild</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Hanna Zühlke</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Gunilla Iversen</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Ritva Maria Jacobsson</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="Pa_1235">
+          <msIdentifier>
+            <settlement>Paris</settlement>
+            <repository>Bibliothèque nationale de France</repository>
+            <idno type="shelfmark">Nouv. acq. lat. 1235</idno>
+            <altIdentifier type="siglum">
+              <idno>Pa 1235</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>Pa 1235</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <term type="quellentyp">Graduale mit Tropus, Prozessionar, Tonar, Hymnar, Tropar-Sequentiar</term>
+            </summary>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="102v">f. 102v</locus>
+              <title type="incipit">Gaudeamus omnes ... Mariae ... assumptione</title>
+              <idno type="dokumenten_id">Pa 1235-102v-10</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="106">f. 106</locus>
+              <title type="incipit">Benedicite dominum</title>
+              <idno type="dokumenten_id">Pa 1235-106-2</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="106v">f. 106v</locus>
+              <title type="incipit">Benedicite omnes angeli</title>
+              <idno type="dokumenten_id">Pa 1235-106v-10</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="106v">f. 106v</locus>
+              <title type="incipit">Stetit angelus</title>
+              <idno type="dokumenten_id">Pa 1235-106v-4</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="119v">f. 119v</locus>
+              <title type="incipit">Terribilis est locus iste</title>
+              <idno type="dokumenten_id">Pa 1235-119v-7</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="146">f. 146</locus>
+              <title type="incipit">Clemens rector</title>
+              <idno type="dokumenten_id">Pa 1235-146-18</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="147">f. 147</locus>
+              <title type="incipit">Cunctipotens genitor</title>
+              <idno type="dokumenten_id">Pa 1235-147-1</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="147">f. 147</locus>
+              <title type="incipit">O lucis splendor</title>
+              <idno type="dokumenten_id">Pa 1235-147-11</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="164">f. 164</locus>
+              <title type="incipit">Qui scandis</title>
+              <idno type="dokumenten_id">Pa 1235-164-4</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="165v">f. 165v</locus>
+              <title type="incipit">Alma chorus domini</title>
+              <idno type="dokumenten_id">Pa 1235-165v-4</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="177v">f. 177v</locus>
+              <title type="incipit">Gregorius praesul</title>
+              <idno type="dokumenten_id">Pa 1235-177v-13</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="178">f. 178</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 1235-178-4b</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="178">f. 178</locus>
+              <title type="incipit">Salus aeterna indeficiens</title>
+              <idno type="dokumenten_id">Pa 1235-178-8</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="178v">f. 178v</locus>
+              <title type="incipit">Regnantem sempiterna</title>
+              <idno type="dokumenten_id">Pa 1235-178v-10</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="178v">f. 178v</locus>
+              <title type="incipit">Ante saecula</title>
+              <idno type="dokumenten_id">Pa 1235-178v-3b</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="179">f. 179</locus>
+              <title type="incipit">Qui regis sceptra</title>
+              <idno type="dokumenten_id">Pa 1235-179-10</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="179">f. 179</locus>
+              <title type="incipit">Sanctus … dominus deus</title>
+              <idno type="dokumenten_id">Pa 1235-179-13</idno>
+            </msItem>
+            <msItem n="18">
+              <locus from="179">f. 179</locus>
+              <title type="incipit">Sanctus … dominus deus</title>
+              <idno type="dokumenten_id">Pa 1235-179-5</idno>
+            </msItem>
+            <msItem n="19">
+              <locus from="179">f. 179</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Pa 1235-179-7</idno>
+            </msItem>
+            <msItem n="20">
+              <locus from="179v">f. 179v</locus>
+              <title type="incipit">Iubilemus omnes una</title>
+              <idno type="dokumenten_id">Pa 1235-179v-5</idno>
+            </msItem>
+            <msItem n="21">
+              <locus from="18">f. 18</locus>
+              <title type="incipit">Tui sunt caeli ... orbem</title>
+              <idno type="dokumenten_id">Pa 1235-18-13</idno>
+            </msItem>
+            <msItem n="22">
+              <locus from="18">f. 18</locus>
+              <title type="incipit">Puer natus est nobis</title>
+              <idno type="dokumenten_id">Pa 1235-18-3</idno>
+            </msItem>
+            <msItem n="23">
+              <locus from="180">f. 180</locus>
+              <title type="incipit">Angelica reboat</title>
+              <idno type="dokumenten_id">Pa 1235-180-10</idno>
+            </msItem>
+            <msItem n="24">
+              <locus from="180">f. 180</locus>
+              <title type="incipit">Praefulgida dicito</title>
+              <idno type="dokumenten_id">Pa 1235-180-3</idno>
+            </msItem>
+            <msItem n="25">
+              <locus from="180v">f. 180v</locus>
+              <title type="incipit">Congaudentes exsultemus vocali</title>
+              <idno type="dokumenten_id">Pa 1235-180v-6</idno>
+            </msItem>
+            <msItem n="26">
+              <locus from="181v">f. 181v</locus>
+              <title type="incipit">Kyrie eleyson*</title>
+              <idno type="dokumenten_id">Pa 1235-181v-6a</idno>
+            </msItem>
+            <msItem n="27">
+              <locus from="181v">f. 181v</locus>
+              <title type="incipit">Letentur celi celorum</title>
+              <idno type="dokumenten_id">Pa 1235-181v-6b</idno>
+            </msItem>
+            <msItem n="28">
+              <locus from="182v">f. 182v</locus>
+              <title type="incipit">Nato canunt omnia</title>
+              <idno type="dokumenten_id">Pa 1235-182v-4</idno>
+            </msItem>
+            <msItem n="29">
+              <locus from="183">f. 183</locus>
+              <title type="incipit">Nostra tuba nunc tua</title>
+              <idno type="dokumenten_id">Pa 1235-183-13</idno>
+            </msItem>
+            <msItem n="30">
+              <locus from="183">f. 183</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 1235-183-3b</idno>
+            </msItem>
+            <msItem n="31">
+              <locus from="183">f. 183</locus>
+              <title type="incipit">Sit tibi laus tria</title>
+              <idno type="dokumenten_id">Pa 1235-183-4</idno>
+            </msItem>
+            <msItem n="32">
+              <locus from="183v">f. 183v</locus>
+              <title type="incipit">Quem quaeritis in praesepe</title>
+              <idno type="dokumenten_id">Pa 1235-183v-10a</idno>
+            </msItem>
+            <msItem n="33">
+              <locus from="183v">f. 183v</locus>
+              <title type="incipit">Sanctus … dominus deus*</title>
+              <idno type="dokumenten_id">Pa 1235-183v-10b</idno>
+            </msItem>
+            <msItem n="34">
+              <locus from="184v">f. 184v</locus>
+              <title type="incipit">Te Christe rex</title>
+              <idno type="dokumenten_id">Pa 1235-184v-9</idno>
+            </msItem>
+            <msItem n="35">
+              <locus from="185">f. 185</locus>
+              <title type="incipit">Cives superni</title>
+              <idno type="dokumenten_id">Pa 1235-185-10</idno>
+            </msItem>
+            <msItem n="36">
+              <locus from="186">f. 186</locus>
+              <title type="incipit">Caelica resonant</title>
+              <idno type="dokumenten_id">Pa 1235-186-7</idno>
+            </msItem>
+            <msItem n="37">
+              <locus from="186v">f. 186v</locus>
+              <title type="incipit">Qui es sine</title>
+              <idno type="dokumenten_id">Pa 1235-186v-9</idno>
+            </msItem>
+            <msItem n="38">
+              <locus from="187">f. 187</locus>
+              <title type="incipit">Summe pater de quo</title>
+              <idno type="dokumenten_id">Pa 1235-187-5</idno>
+            </msItem>
+            <msItem n="39">
+              <locus from="187">f. 187</locus>
+              <title type="incipit">Quem Iohannes in deserto</title>
+              <idno type="dokumenten_id">Pa 1235-187-9</idno>
+            </msItem>
+            <msItem n="40">
+              <locus from="187v">f. 187v</locus>
+              <title type="incipit">Radix Iesse</title>
+              <idno type="dokumenten_id">Pa 1235-187v-2</idno>
+            </msItem>
+            <msItem n="41">
+              <locus from="187v">f. 187v</locus>
+              <title type="incipit">Cui astat</title>
+              <idno type="dokumenten_id">Pa 1235-187v-5</idno>
+            </msItem>
+            <msItem n="42">
+              <locus from="188">f. 188</locus>
+              <title type="incipit">Clemens rector</title>
+              <idno type="dokumenten_id">Pa 1235-188-9</idno>
+            </msItem>
+            <msItem n="43">
+              <locus from="188v">f. 188v</locus>
+              <title type="incipit">Laus honor Christe</title>
+              <idno type="dokumenten_id">Pa 1235-188v-10</idno>
+            </msItem>
+            <msItem n="44">
+              <locus from="189v">f. 189v</locus>
+              <title type="incipit">Enharmonica voce</title>
+              <idno type="dokumenten_id">Pa 1235-189v-12</idno>
+            </msItem>
+            <msItem n="45">
+              <locus from="19">f. 19</locus>
+              <title type="incipit">Viderunt omnes</title>
+              <idno type="dokumenten_id">Pa 1235-19-3</idno>
+            </msItem>
+            <msItem n="46">
+              <locus from="19">f. 19</locus>
+              <title type="incipit">Etenim sederunt</title>
+              <idno type="dokumenten_id">Pa 1235-19-4</idno>
+            </msItem>
+            <msItem n="47">
+              <locus from="190v">f. 190v</locus>
+              <title type="incipit">Magnus deus in universa</title>
+              <idno type="dokumenten_id">Pa 1235-190v-1</idno>
+            </msItem>
+            <msItem n="48">
+              <locus from="191">f. 191</locus>
+              <title type="incipit">Intuitus caelum</title>
+              <idno type="dokumenten_id">Pa 1235-191-11</idno>
+            </msItem>
+            <msItem n="49">
+              <locus from="191">f. 191</locus>
+              <title type="incipit">Munere namque tuo Stephanum</title>
+              <idno type="dokumenten_id">Pa 1235-191-2</idno>
+            </msItem>
+            <msItem n="50">
+              <locus from="191">f. 191</locus>
+              <title type="incipit">Sanctus … dominus deus</title>
+              <idno type="dokumenten_id">Pa 1235-191-4</idno>
+            </msItem>
+            <msItem n="51">
+              <locus from="191">f. 191</locus>
+              <title type="incipit">Qui patris in solio</title>
+              <idno type="dokumenten_id">Pa 1235-191-7</idno>
+            </msItem>
+            <msItem n="52">
+              <locus from="191v">f. 191v</locus>
+              <title type="incipit">Ecce iam Iohannis</title>
+              <idno type="dokumenten_id">Pa 1235-191v-1</idno>
+            </msItem>
+            <msItem n="53">
+              <locus from="191v">f. 191v</locus>
+              <title type="incipit">Miserere domine kyrie</title>
+              <idno type="dokumenten_id">Pa 1235-191v-9</idno>
+            </msItem>
+            <msItem n="54">
+              <locus from="192">f. 192</locus>
+              <title type="incipit">Laudat in excelsis</title>
+              <idno type="dokumenten_id">Pa 1235-192-2</idno>
+            </msItem>
+            <msItem n="55">
+              <locus from="193">f. 193</locus>
+              <title type="incipit">Ecce pulchra</title>
+              <idno type="dokumenten_id">Pa 1235-193-1</idno>
+            </msItem>
+            <msItem n="56">
+              <locus from="193v">f. 193v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 1235-193v-12</idno>
+            </msItem>
+            <msItem n="57">
+              <locus from="193v">f. 193v</locus>
+              <title type="incipit">Pater lumen aeternum</title>
+              <idno type="dokumenten_id">Pa 1235-193v-4</idno>
+            </msItem>
+            <msItem n="58">
+              <locus from="193v">f. 193v</locus>
+              <title type="incipit">Nunc pueri</title>
+              <idno type="dokumenten_id">Pa 1235-193v-8</idno>
+            </msItem>
+            <msItem n="59">
+              <locus from="194">f. 194</locus>
+              <title type="incipit">Nulla laude qui</title>
+              <idno type="dokumenten_id">Pa 1235-194-2</idno>
+            </msItem>
+            <msItem n="60">
+              <locus from="194v">f. 194v</locus>
+              <title type="incipit">Perpetuo numine</title>
+              <idno type="dokumenten_id">Pa 1235-194v-10</idno>
+            </msItem>
+            <msItem n="61">
+              <locus from="194v">f. 194v</locus>
+              <title type="incipit">Agmina tibi sonora</title>
+              <idno type="dokumenten_id">Pa 1235-194v-5</idno>
+            </msItem>
+            <msItem n="62">
+              <locus from="195">f. 195</locus>
+              <title type="incipit">Splendificum</title>
+              <idno type="dokumenten_id">Pa 1235-195-2</idno>
+            </msItem>
+            <msItem n="63">
+              <locus from="195v">f. 195v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 1235-195v-2</idno>
+            </msItem>
+            <msItem n="64">
+              <locus from="195v">f. 195v</locus>
+              <title type="incipit">Quem patris ad dextram</title>
+              <idno type="dokumenten_id">Pa 1235-195v-5</idno>
+            </msItem>
+            <msItem n="65">
+              <locus from="196">f. 196</locus>
+              <title type="incipit">Candida contio melos</title>
+              <idno type="dokumenten_id">Pa 1235-196-4</idno>
+            </msItem>
+            <msItem n="66">
+              <locus from="196v">f. 196v</locus>
+              <title type="incipit">Sanctus ... dominus deus*</title>
+              <idno type="dokumenten_id">Pa 1235-196v-1</idno>
+            </msItem>
+            <msItem n="67">
+              <locus from="196v">f. 196v</locus>
+              <title type="incipit">Pater creator</title>
+              <idno type="dokumenten_id">Pa 1235-196v-11</idno>
+            </msItem>
+            <msItem n="68">
+              <locus from="196v">f. 196v</locus>
+              <title type="incipit">Hodie cantandus est</title>
+              <idno type="dokumenten_id">Pa 1235-196v-2</idno>
+            </msItem>
+            <msItem n="69">
+              <locus from="197">f. 197</locus>
+              <title type="incipit">Laus tua deus</title>
+              <idno type="dokumenten_id">Pa 1235-197-10</idno>
+            </msItem>
+            <msItem n="70">
+              <locus from="197v">f. 197v</locus>
+              <title type="incipit">Nato canunt omnia*</title>
+              <idno type="dokumenten_id">Pa 1235-197v-12</idno>
+            </msItem>
+            <msItem n="71">
+              <locus from="197v">f. 197v</locus>
+              <title type="incipit">Laudes deo ore pio</title>
+              <idno type="dokumenten_id">Pa 1235-197v-13</idno>
+            </msItem>
+            <msItem n="72">
+              <locus from="198">f. 198</locus>
+              <title type="incipit">Credimus immensum regem</title>
+              <idno type="dokumenten_id">Pa 1235-198-11</idno>
+            </msItem>
+            <msItem n="73">
+              <locus from="198">f. 198</locus>
+              <title type="incipit">Regia vos mandata</title>
+              <idno type="dokumenten_id">Pa 1235-198-13a</idno>
+            </msItem>
+            <msItem n="74">
+              <locus from="198">f. 198</locus>
+              <title type="incipit">Hunc regnare</title>
+              <idno type="dokumenten_id">Pa 1235-198-13b</idno>
+            </msItem>
+            <msItem n="75">
+              <locus from="198">f. 198</locus>
+              <title type="incipit">Rex mandat vobis</title>
+              <idno type="dokumenten_id">Pa 1235-198-15</idno>
+            </msItem>
+            <msItem n="76">
+              <locus from="198">f. 198</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Pa 1235-198-6</idno>
+            </msItem>
+            <msItem n="77">
+              <locus from="198">f. 198</locus>
+              <title type="incipit">Cernere quod verbum</title>
+              <idno type="dokumenten_id">Pa 1235-198-7</idno>
+            </msItem>
+            <msItem n="78">
+              <locus from="198v">f. 198v</locus>
+              <title type="incipit">Nunc venerande</title>
+              <idno type="dokumenten_id">Pa 1235-198v-1</idno>
+            </msItem>
+            <msItem n="79">
+              <locus from="198v">f. 198v</locus>
+              <title type="incipit">Ite et de puero*</title>
+              <idno type="dokumenten_id">Pa 1235-198v-10a</idno>
+            </msItem>
+            <msItem n="80">
+              <locus from="198v">f. 198v</locus>
+              <title type="incipit">Ecce stella in oriente*</title>
+              <idno type="dokumenten_id">Pa 1235-198v-10b</idno>
+            </msItem>
+            <msItem n="81">
+              <locus from="198v">f. 198v</locus>
+              <title type="incipit">Stella fulgore</title>
+              <idno type="dokumenten_id">Pa 1235-198v-11a</idno>
+            </msItem>
+            <msItem n="82">
+              <locus from="198v">f. 198v</locus>
+              <title type="incipit">Quae regem regum</title>
+              <idno type="dokumenten_id">Pa 1235-198v-11b</idno>
+            </msItem>
+            <msItem n="83">
+              <locus from="198v">f. 198v</locus>
+              <title type="incipit">Quem venturum</title>
+              <idno type="dokumenten_id">Pa 1235-198v-12</idno>
+            </msItem>
+            <msItem n="84">
+              <locus from="198v">f. 198v</locus>
+              <title type="incipit">Eamus ergo</title>
+              <idno type="dokumenten_id">Pa 1235-198v-13</idno>
+            </msItem>
+            <msItem n="85">
+              <locus from="198v">f. 198v</locus>
+              <title type="incipit">Huc symmystae mei</title>
+              <idno type="dokumenten_id">Pa 1235-198v-2</idno>
+            </msItem>
+            <msItem n="86">
+              <locus from="198v">f. 198v</locus>
+              <title type="incipit">O legis periti</title>
+              <idno type="dokumenten_id">Pa 1235-198v-3</idno>
+            </msItem>
+            <msItem n="87">
+              <locus from="198v">f. 198v</locus>
+              <title type="incipit">O vos scribae</title>
+              <idno type="dokumenten_id">Pa 1235-198v-4</idno>
+            </msItem>
+            <msItem n="88">
+              <locus from="198v">f. 198v</locus>
+              <title type="incipit">Vidimus domine</title>
+              <idno type="dokumenten_id">Pa 1235-198v-5</idno>
+            </msItem>
+            <msItem n="89">
+              <locus from="198v">f. 198v</locus>
+              <title type="incipit">Bethlehem non es minima</title>
+              <idno type="dokumenten_id">Pa 1235-198v-6</idno>
+            </msItem>
+            <msItem n="90">
+              <locus from="198v">f. 198v</locus>
+              <title type="incipit">Regem quem quaeritis*</title>
+              <idno type="dokumenten_id">Pa 1235-198v-9a</idno>
+            </msItem>
+            <msItem n="91">
+              <locus from="198v">f. 198v</locus>
+              <title type="incipit">Illum natum esse*</title>
+              <idno type="dokumenten_id">Pa 1235-198v-9b</idno>
+            </msItem>
+            <msItem n="92">
+              <locus from="198v">f. 198v</locus>
+              <title type="incipit">Si illum regnare*</title>
+              <idno type="dokumenten_id">Pa 1235-198v-9c</idno>
+            </msItem>
+            <msItem n="93">
+              <locus from="199">f. 199</locus>
+              <title type="incipit">En magi veniunt</title>
+              <idno type="dokumenten_id">Pa 1235-199-1</idno>
+            </msItem>
+            <msItem n="94">
+              <locus from="199">f. 199</locus>
+              <title type="incipit">Qui sunt hi qui stella</title>
+              <idno type="dokumenten_id">Pa 1235-199-10</idno>
+            </msItem>
+            <msItem n="95">
+              <locus from="199">f. 199</locus>
+              <title type="incipit">Nos sumus quos</title>
+              <idno type="dokumenten_id">Pa 1235-199-11</idno>
+            </msItem>
+            <msItem n="96">
+              <locus from="199">f. 199</locus>
+              <title type="incipit">Ecce puer adest</title>
+              <idno type="dokumenten_id">Pa 1235-199-13</idno>
+            </msItem>
+            <msItem n="97">
+              <locus from="199">f. 199</locus>
+              <title type="incipit">Ante venire</title>
+              <idno type="dokumenten_id">Pa 1235-199-2</idno>
+            </msItem>
+            <msItem n="98">
+              <locus from="199">f. 199</locus>
+              <title type="incipit">Regia vos mandata*</title>
+              <idno type="dokumenten_id">Pa 1235-199-4a</idno>
+            </msItem>
+            <msItem n="99">
+              <locus from="199">f. 199</locus>
+              <title type="incipit">Nunc venerande*</title>
+              <idno type="dokumenten_id">Pa 1235-199-4b</idno>
+            </msItem>
+            <msItem n="100">
+              <locus from="199">f. 199</locus>
+              <title type="incipit">Regem quem quaeritis</title>
+              <idno type="dokumenten_id">Pa 1235-199-4c</idno>
+            </msItem>
+            <msItem n="101">
+              <locus from="199">f. 199</locus>
+              <title type="incipit">Illum natum esse</title>
+              <idno type="dokumenten_id">Pa 1235-199-5</idno>
+            </msItem>
+            <msItem n="102">
+              <locus from="199">f. 199</locus>
+              <title type="incipit">Si illum regnare</title>
+              <idno type="dokumenten_id">Pa 1235-199-6</idno>
+            </msItem>
+            <msItem n="103">
+              <locus from="199">f. 199</locus>
+              <title type="incipit">Huc symmystae mei*</title>
+              <idno type="dokumenten_id">Pa 1235-199-7a</idno>
+            </msItem>
+            <msItem n="104">
+              <locus from="199">f. 199</locus>
+              <title type="incipit">Ite et de puero</title>
+              <idno type="dokumenten_id">Pa 1235-199-7b</idno>
+            </msItem>
+            <msItem n="105">
+              <locus from="199">f. 199</locus>
+              <title type="incipit">Ecce stella in oriente</title>
+              <idno type="dokumenten_id">Pa 1235-199-8</idno>
+            </msItem>
+            <msItem n="106">
+              <locus from="199v">f. 199v</locus>
+              <title type="incipit">Salve rex saeculorum</title>
+              <idno type="dokumenten_id">Pa 1235-199v-1</idno>
+            </msItem>
+            <msItem n="107">
+              <locus from="199v">f. 199v</locus>
+              <title type="incipit">Psalle turba canora</title>
+              <idno type="dokumenten_id">Pa 1235-199v-12</idno>
+            </msItem>
+            <msItem n="108">
+              <locus from="199v">f. 199v</locus>
+              <title type="incipit">Impleta sunt omnia</title>
+              <idno type="dokumenten_id">Pa 1235-199v-4</idno>
+            </msItem>
+            <msItem n="109">
+              <locus from="199v">f. 199v</locus>
+              <title type="incipit">Deo gratias</title>
+              <idno type="dokumenten_id">Pa 1235-199v-5a</idno>
+            </msItem>
+            <msItem n="110">
+              <locus from="199v">f. 199v</locus>
+              <title type="incipit">Te deum laudamus*</title>
+              <idno type="dokumenten_id">Pa 1235-199v-5b</idno>
+            </msItem>
+            <msItem n="111">
+              <locus from="199v">f. 199v</locus>
+              <title type="incipit">Ecclesiae sponsus</title>
+              <idno type="dokumenten_id">Pa 1235-199v-6</idno>
+            </msItem>
+            <msItem n="112">
+              <locus from="19v">f. 19v</locus>
+              <title type="incipit">Posuisti domine</title>
+              <idno type="dokumenten_id">Pa 1235-19v-1</idno>
+            </msItem>
+            <msItem n="113">
+              <locus from="19v">f. 19v</locus>
+              <title type="incipit">Video caelos apertos</title>
+              <idno type="dokumenten_id">Pa 1235-19v-10</idno>
+            </msItem>
+            <msItem n="114">
+              <locus from="19v">f. 19v</locus>
+              <title type="incipit">In medio ecclesiae</title>
+              <idno type="dokumenten_id">Pa 1235-19v-13</idno>
+            </msItem>
+            <msItem n="115">
+              <locus from="200">f. 200</locus>
+              <title type="incipit">Epiphaniam domino</title>
+              <idno type="dokumenten_id">Pa 1235-200-12</idno>
+            </msItem>
+            <msItem n="116">
+              <locus from="201">f. 201</locus>
+              <title type="incipit">O nova res</title>
+              <idno type="dokumenten_id">Pa 1235-201-13</idno>
+            </msItem>
+            <msItem n="117">
+              <locus from="201">f. 201</locus>
+              <title type="incipit">Clemens verbisator</title>
+              <idno type="dokumenten_id">Pa 1235-201-3</idno>
+            </msItem>
+            <msItem n="118">
+              <locus from="201">f. 201</locus>
+              <title type="incipit">Agnus dei*</title>
+              <idno type="dokumenten_id">Pa 1235-201-7</idno>
+            </msItem>
+            <msItem n="119">
+              <locus from="201">f. 201</locus>
+              <title type="incipit">Lux lucis</title>
+              <idno type="dokumenten_id">Pa 1235-201-8</idno>
+            </msItem>
+            <msItem n="120">
+              <locus from="201v">f. 201v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 1235-201v-12</idno>
+            </msItem>
+            <msItem n="121">
+              <locus from="202">f. 202</locus>
+              <title type="incipit">Prudentia prudentium</title>
+              <idno type="dokumenten_id">Pa 1235-202-1</idno>
+            </msItem>
+            <msItem n="122">
+              <locus from="202v">f. 202v</locus>
+              <title type="incipit">Rex laudes Christe</title>
+              <idno type="dokumenten_id">Pa 1235-202v-6</idno>
+            </msItem>
+            <msItem n="123">
+              <locus from="203">f. 203</locus>
+              <title type="incipit">Claris vocibus inclita</title>
+              <idno type="dokumenten_id">Pa 1235-203-9</idno>
+            </msItem>
+            <msItem n="124">
+              <locus from="203v">f. 203v</locus>
+              <title type="incipit">Salve sancta dei</title>
+              <idno type="dokumenten_id">Pa 1235-203v-12</idno>
+            </msItem>
+            <msItem n="125">
+              <locus from="204">f. 204</locus>
+              <title type="incipit">Aurea virga primae</title>
+              <idno type="dokumenten_id">Pa 1235-204-13</idno>
+            </msItem>
+            <msItem n="126">
+              <locus from="204">f. 204</locus>
+              <title type="incipit">Salve porta</title>
+              <idno type="dokumenten_id">Pa 1235-204-2</idno>
+            </msItem>
+            <msItem n="127">
+              <locus from="205">f. 205</locus>
+              <title type="incipit">Alleluia resurrexit dominus</title>
+              <idno type="dokumenten_id">Pa 1235-205-11</idno>
+            </msItem>
+            <msItem n="128">
+              <locus from="205">f. 205</locus>
+              <title type="incipit">Hodie resurrexit leo fortis</title>
+              <idno type="dokumenten_id">Pa 1235-205-12</idno>
+            </msItem>
+            <msItem n="129">
+              <locus from="205">f. 205</locus>
+              <title type="incipit">Te deum laudamus*</title>
+              <idno type="dokumenten_id">Pa 1235-205-13</idno>
+            </msItem>
+            <msItem n="130">
+              <locus from="205">f. 205</locus>
+              <title type="incipit">Quem quaeritis in sepulchro</title>
+              <idno type="dokumenten_id">Pa 1235-205-8</idno>
+            </msItem>
+            <msItem n="131">
+              <locus from="205v">f. 205v</locus>
+              <title type="incipit">Dormivi pater</title>
+              <idno type="dokumenten_id">Pa 1235-205v-1</idno>
+            </msItem>
+            <msItem n="132">
+              <locus from="206">f. 206</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 1235-206-10</idno>
+            </msItem>
+            <msItem n="133">
+              <locus from="206">f. 206</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 1235-206-12</idno>
+            </msItem>
+            <msItem n="134">
+              <locus from="206">f. 206</locus>
+              <title type="incipit">Christe redemptor</title>
+              <idno type="dokumenten_id">Pa 1235-206-4</idno>
+            </msItem>
+            <msItem n="135">
+              <locus from="206">f. 206</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 1235-206-6</idno>
+            </msItem>
+            <msItem n="136">
+              <locus from="206v">f. 206v</locus>
+              <title type="incipit">Kyrie rex saeclorum</title>
+              <idno type="dokumenten_id">Pa 1235-206v-2</idno>
+            </msItem>
+            <msItem n="137">
+              <locus from="207">f. 207</locus>
+              <title type="incipit">Kyrie deus sempiterne</title>
+              <idno type="dokumenten_id">Pa 1235-207-4</idno>
+            </msItem>
+            <msItem n="138">
+              <locus from="207v">f. 207v</locus>
+              <title type="incipit">Cunctipotens genitor</title>
+              <idno type="dokumenten_id">Pa 1235-207v-4</idno>
+            </msItem>
+            <msItem n="139">
+              <locus from="208">f. 208</locus>
+              <title type="incipit">Cives superni</title>
+              <idno type="dokumenten_id">Pa 1235-208-3</idno>
+            </msItem>
+            <msItem n="140">
+              <locus from="209">f. 209</locus>
+              <title type="incipit">Fulgens praeclara</title>
+              <idno type="dokumenten_id">Pa 1235-209-3</idno>
+            </msItem>
+            <msItem n="141">
+              <locus from="20v">f. 20v</locus>
+              <title type="incipit">Ex ore infantium</title>
+              <idno type="dokumenten_id">Pa 1235-20v-13</idno>
+            </msItem>
+            <msItem n="142">
+              <locus from="210">f. 210</locus>
+              <title type="incipit">Ab increpatione</title>
+              <idno type="dokumenten_id">Pa 1235-210-4</idno>
+            </msItem>
+            <msItem n="143">
+              <locus from="210">f. 210</locus>
+              <title type="incipit">Omnes tua gratia</title>
+              <idno type="dokumenten_id">Pa 1235-210-9</idno>
+            </msItem>
+            <msItem n="144">
+              <locus from="210v">f. 210v</locus>
+              <title type="incipit">Laus honor … regi nostro</title>
+              <idno type="dokumenten_id">Pa 1235-210v-10</idno>
+            </msItem>
+            <msItem n="145">
+              <locus from="210v">f. 210v</locus>
+              <title type="incipit">Sanctus … dominus deus*</title>
+              <idno type="dokumenten_id">Pa 1235-210v-4</idno>
+            </msItem>
+            <msItem n="146">
+              <locus from="210v">f. 210v</locus>
+              <title type="incipit">Pro cunctis deductus</title>
+              <idno type="dokumenten_id">Pa 1235-210v-5</idno>
+            </msItem>
+            <msItem n="147">
+              <locus from="211">f. 211</locus>
+              <title type="incipit">Promissionis suae</title>
+              <idno type="dokumenten_id">Pa 1235-211-3</idno>
+            </msItem>
+            <msItem n="148">
+              <locus from="211">f. 211</locus>
+              <title type="incipit">Dic nobis quibus</title>
+              <idno type="dokumenten_id">Pa 1235-211-8</idno>
+            </msItem>
+            <msItem n="149">
+              <locus from="211v">f. 211v</locus>
+              <title type="incipit">Kyrie eleyson*</title>
+              <idno type="dokumenten_id">Pa 1235-211v-10b</idno>
+            </msItem>
+            <msItem n="150">
+              <locus from="211v">f. 211v</locus>
+              <title type="incipit">Prome casta</title>
+              <idno type="dokumenten_id">Pa 1235-211v-11</idno>
+            </msItem>
+            <msItem n="151">
+              <locus from="211v">f. 211v</locus>
+              <title type="incipit">Sanctorum populum</title>
+              <idno type="dokumenten_id">Pa 1235-211v-6</idno>
+            </msItem>
+            <msItem n="152">
+              <locus from="212">f. 212</locus>
+              <title type="incipit">Adest namque</title>
+              <idno type="dokumenten_id">Pa 1235-212-12</idno>
+            </msItem>
+            <msItem n="153">
+              <locus from="212">f. 212</locus>
+              <title type="incipit">Christus ab arce</title>
+              <idno type="dokumenten_id">Pa 1235-212-8</idno>
+            </msItem>
+            <msItem n="154">
+              <locus from="212v">f. 212v</locus>
+              <title type="incipit">Angelica reboat</title>
+              <idno type="dokumenten_id">Pa 1235-212v-11</idno>
+            </msItem>
+            <msItem n="155">
+              <locus from="213">f. 213</locus>
+              <title type="incipit">Ecce vicit radix</title>
+              <idno type="dokumenten_id">Pa 1235-213-6</idno>
+            </msItem>
+            <msItem n="156">
+              <locus from="213v">f. 213v</locus>
+              <title type="incipit">Dormivi pater*</title>
+              <idno type="dokumenten_id">Pa 1235-213v-11</idno>
+            </msItem>
+            <msItem n="157">
+              <locus from="213v">f. 213v</locus>
+              <title type="incipit">Christus surrexit</title>
+              <idno type="dokumenten_id">Pa 1235-213v-12</idno>
+            </msItem>
+            <msItem n="158">
+              <locus from="214v">f. 214v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 1235-214v-11</idno>
+            </msItem>
+            <msItem n="159">
+              <locus from="214v">f. 214v</locus>
+              <title type="incipit">Hanc quesumus</title>
+              <idno type="dokumenten_id">Pa 1235-214v-12</idno>
+            </msItem>
+            <msItem n="160">
+              <locus from="214v">f. 214v</locus>
+              <title type="incipit">Glorientur cuncti fideles</title>
+              <idno type="dokumenten_id">Pa 1235-214v-3</idno>
+            </msItem>
+            <msItem n="161">
+              <locus from="215">f. 215</locus>
+              <title type="incipit">Laudamus te</title>
+              <idno type="dokumenten_id">Pa 1235-215-11</idno>
+            </msItem>
+            <msItem n="162">
+              <locus from="215v">f. 215v</locus>
+              <title type="incipit">Sanctus … dominus deus*</title>
+              <idno type="dokumenten_id">Pa 1235-215v-6</idno>
+            </msItem>
+            <msItem n="163">
+              <locus from="215v">f. 215v</locus>
+              <title type="incipit">Quem creditis super astra</title>
+              <idno type="dokumenten_id">Pa 1235-215v-7</idno>
+            </msItem>
+            <msItem n="164">
+              <locus from="216">f. 216</locus>
+              <title type="incipit">O deus immense</title>
+              <idno type="dokumenten_id">Pa 1235-216-6</idno>
+            </msItem>
+            <msItem n="165">
+              <locus from="216v">f. 216v</locus>
+              <title type="incipit">Kyrie deus sempiterne*</title>
+              <idno type="dokumenten_id">Pa 1235-216v-4</idno>
+            </msItem>
+            <msItem n="166">
+              <locus from="216v">f. 216v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 1235-216v-5</idno>
+            </msItem>
+            <msItem n="167">
+              <locus from="216v">f. 216v</locus>
+              <title type="incipit">Cives superni</title>
+              <idno type="dokumenten_id">Pa 1235-216v-7</idno>
+            </msItem>
+            <msItem n="168">
+              <locus from="217v">f. 217v</locus>
+              <title type="incipit">Rex omnipotens</title>
+              <idno type="dokumenten_id">Pa 1235-217v-4</idno>
+            </msItem>
+            <msItem n="169">
+              <locus from="218">f. 218</locus>
+              <title type="incipit">Pater ingenitus … Orbis</title>
+              <idno type="dokumenten_id">Pa 1235-218-12</idno>
+            </msItem>
+            <msItem n="170">
+              <locus from="218">f. 218</locus>
+              <title type="incipit">Hodie redemptor</title>
+              <idno type="dokumenten_id">Pa 1235-218-9</idno>
+            </msItem>
+            <msItem n="171">
+              <locus from="218v">f. 218v</locus>
+              <title type="incipit">Qui scandis</title>
+              <idno type="dokumenten_id">Pa 1235-218v-10</idno>
+            </msItem>
+            <msItem n="172">
+              <locus from="218v">f. 218v</locus>
+              <title type="incipit">Lux lucis</title>
+              <idno type="dokumenten_id">Pa 1235-218v-4</idno>
+            </msItem>
+            <msItem n="173">
+              <locus from="218v">f. 218v</locus>
+              <title type="incipit">Nuntii superni</title>
+              <idno type="dokumenten_id">Pa 1235-218v-8</idno>
+            </msItem>
+            <msItem n="174">
+              <locus from="219">f. 219</locus>
+              <title type="incipit">Inclita refulget</title>
+              <idno type="dokumenten_id">Pa 1235-219-3</idno>
+            </msItem>
+            <msItem n="175">
+              <locus from="219v">f. 219v</locus>
+              <title type="incipit">Theoricam practicamque</title>
+              <idno type="dokumenten_id">Pa 1235-219v-1</idno>
+            </msItem>
+            <msItem n="176">
+              <locus from="219v">f. 219v</locus>
+              <title type="incipit">Almiphona iam gaudia</title>
+              <idno type="dokumenten_id">Pa 1235-219v-12</idno>
+            </msItem>
+            <msItem n="177">
+              <locus from="220">f. 220</locus>
+              <title type="incipit">Resonet sacrata</title>
+              <idno type="dokumenten_id">Pa 1235-220-13</idno>
+            </msItem>
+            <msItem n="178">
+              <locus from="221">f. 221</locus>
+              <title type="incipit">Sancti spiritus … Quae corda</title>
+              <idno type="dokumenten_id">Pa 1235-221-5</idno>
+            </msItem>
+            <msItem n="179">
+              <locus from="221v">f. 221v</locus>
+              <title type="incipit">Alma chorus domini</title>
+              <idno type="dokumenten_id">Pa 1235-221v-9</idno>
+            </msItem>
+            <msItem n="180">
+              <locus from="222">f. 222</locus>
+              <title type="incipit">Agnus dei*</title>
+              <idno type="dokumenten_id">Pa 1235-222-10a</idno>
+            </msItem>
+            <msItem n="181">
+              <locus from="222">f. 222</locus>
+              <title type="incipit">Pangite iam socii</title>
+              <idno type="dokumenten_id">Pa 1235-222-10b</idno>
+            </msItem>
+            <msItem n="182">
+              <locus from="222">f. 222</locus>
+              <title type="incipit">Cunctipotens genitor</title>
+              <idno type="dokumenten_id">Pa 1235-222-12</idno>
+            </msItem>
+            <msItem n="183">
+              <locus from="222">f. 222</locus>
+              <title type="incipit">Laudes almo</title>
+              <idno type="dokumenten_id">Pa 1235-222-4</idno>
+            </msItem>
+            <msItem n="184">
+              <locus from="222">f. 222</locus>
+              <title type="incipit">Deus pater ingenitus</title>
+              <idno type="dokumenten_id">Pa 1235-222-6</idno>
+            </msItem>
+            <msItem n="185">
+              <locus from="222v">f. 222v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 1235-222v-4</idno>
+            </msItem>
+            <msItem n="186">
+              <locus from="222v">f. 222v</locus>
+              <title type="incipit">Ingenitum geniti</title>
+              <idno type="dokumenten_id">Pa 1235-222v-5</idno>
+            </msItem>
+            <msItem n="187">
+              <locus from="223">f. 223</locus>
+              <title type="incipit">Benedicta sit beata</title>
+              <idno type="dokumenten_id">Pa 1235-223-6</idno>
+            </msItem>
+            <msItem n="188">
+              <locus from="223v">f. 223v</locus>
+              <title type="incipit">Festivum socii</title>
+              <idno type="dokumenten_id">Pa 1235-223v-12</idno>
+            </msItem>
+            <msItem n="189">
+              <locus from="223v">f. 223v</locus>
+              <title type="incipit">Deus fortis … Filius</title>
+              <idno type="dokumenten_id">Pa 1235-223v-8</idno>
+            </msItem>
+            <msItem n="190">
+              <locus from="224">f. 224</locus>
+              <title type="incipit">Kyrie eleyson*</title>
+              <idno type="dokumenten_id">Pa 1235-224-12</idno>
+            </msItem>
+            <msItem n="191">
+              <locus from="224">f. 224</locus>
+              <title type="incipit">Laus tua deus*</title>
+              <idno type="dokumenten_id">Pa 1235-224-13</idno>
+            </msItem>
+            <msItem n="192">
+              <locus from="224v">f. 224v</locus>
+              <title type="incipit">Qui deus et rector</title>
+              <idno type="dokumenten_id">Pa 1235-224v-1</idno>
+            </msItem>
+            <msItem n="193">
+              <locus from="225">f. 225</locus>
+              <title type="incipit">Deus quoniam</title>
+              <idno type="dokumenten_id">Pa 1235-225-6</idno>
+            </msItem>
+            <msItem n="194">
+              <locus from="225v">f. 225v</locus>
+              <title type="incipit">Organicis ... qui in suis</title>
+              <idno type="dokumenten_id">Pa 1235-225v-10</idno>
+            </msItem>
+            <msItem n="195">
+              <locus from="226">f. 226</locus>
+              <title type="incipit">Lux lucis*</title>
+              <idno type="dokumenten_id">Pa 1235-226-12</idno>
+            </msItem>
+            <msItem n="196">
+              <locus from="226">f. 226</locus>
+              <title type="incipit">Praecursor dilectus</title>
+              <idno type="dokumenten_id">Pa 1235-226-13</idno>
+            </msItem>
+            <msItem n="197">
+              <locus from="226">f. 226</locus>
+              <title type="incipit">Gloriosus est rex</title>
+              <idno type="dokumenten_id">Pa 1235-226-8</idno>
+            </msItem>
+            <msItem n="198">
+              <locus from="226">f. 226</locus>
+              <title type="incipit">Sanctus … dominus deus</title>
+              <idno type="dokumenten_id">Pa 1235-226-9b</idno>
+            </msItem>
+            <msItem n="199">
+              <locus from="226v">f. 226v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 1235-226v-7</idno>
+            </msItem>
+            <msItem n="200">
+              <locus from="226v">f. 226v</locus>
+              <title type="incipit">Quem cuncta laudant</title>
+              <idno type="dokumenten_id">Pa 1235-226v-9</idno>
+            </msItem>
+            <msItem n="201">
+              <locus from="227v">f. 227v</locus>
+              <title type="incipit">Gloriosa dies ... processit</title>
+              <idno type="dokumenten_id">Pa 1235-227v-2</idno>
+            </msItem>
+            <msItem n="202">
+              <locus from="228">f. 228</locus>
+              <title type="incipit">Gaude caterva</title>
+              <idno type="dokumenten_id">Pa 1235-228-1</idno>
+            </msItem>
+            <msItem n="203">
+              <locus from="228v">f. 228v</locus>
+              <title type="incipit">Petrus apostolico</title>
+              <idno type="dokumenten_id">Pa 1235-228v-12</idno>
+            </msItem>
+            <msItem n="204">
+              <locus from="229">f. 229</locus>
+              <title type="incipit">Prudentia prudentium*</title>
+              <idno type="dokumenten_id">Pa 1235-229-8</idno>
+            </msItem>
+            <msItem n="205">
+              <locus from="229">f. 229</locus>
+              <title type="incipit">Laude iucunda</title>
+              <idno type="dokumenten_id">Pa 1235-229-9</idno>
+            </msItem>
+            <msItem n="206">
+              <locus from="229v">f. 229v</locus>
+              <title type="incipit">Adest sacrificandi</title>
+              <idno type="dokumenten_id">Pa 1235-229v-10</idno>
+            </msItem>
+            <msItem n="207">
+              <locus from="229v">f. 229v</locus>
+              <title type="incipit">Sanctus … dominus deus*</title>
+              <idno type="dokumenten_id">Pa 1235-229v-13b</idno>
+            </msItem>
+            <msItem n="208">
+              <locus from="230">f. 230</locus>
+              <title type="incipit">Agnus dei*</title>
+              <idno type="dokumenten_id">Pa 1235-230-1a</idno>
+            </msItem>
+            <msItem n="209">
+              <locus from="230">f. 230</locus>
+              <title type="incipit">Lauream regni</title>
+              <idno type="dokumenten_id">Pa 1235-230-1b</idno>
+            </msItem>
+            <msItem n="210">
+              <locus from="230">f. 230</locus>
+              <title type="incipit">Quem cives celestes</title>
+              <idno type="dokumenten_id">Pa 1235-230-6</idno>
+            </msItem>
+            <msItem n="211">
+              <locus from="230v">f. 230v</locus>
+              <title type="incipit">Gloriosa dies ... processit*</title>
+              <idno type="dokumenten_id">Pa 1235-230v-6</idno>
+            </msItem>
+            <msItem n="212">
+              <locus from="230v">f. 230v</locus>
+              <title type="incipit">Vocibus altisonis</title>
+              <idno type="dokumenten_id">Pa 1235-230v-7</idno>
+            </msItem>
+            <msItem n="213">
+              <locus from="231">f. 231</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 1235-231-12</idno>
+            </msItem>
+            <msItem n="214">
+              <locus from="231v">f. 231v</locus>
+              <title type="incipit">Hac clara die</title>
+              <idno type="dokumenten_id">Pa 1235-231v-1</idno>
+            </msItem>
+            <msItem n="215">
+              <locus from="231v">f. 231v</locus>
+              <title type="incipit">Sanctus … dominus deus</title>
+              <idno type="dokumenten_id">Pa 1235-231v-10</idno>
+            </msItem>
+            <msItem n="216">
+              <locus from="231v">f. 231v</locus>
+              <title type="incipit">Virginis et matris</title>
+              <idno type="dokumenten_id">Pa 1235-231v-13</idno>
+            </msItem>
+            <msItem n="217">
+              <locus from="232">f. 232</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pa 1235-232-10</idno>
+            </msItem>
+            <msItem n="218">
+              <locus from="232">f. 232</locus>
+              <title type="incipit">Alle caeleste necnon</title>
+              <idno type="dokumenten_id">Pa 1235-232-11</idno>
+            </msItem>
+            <msItem n="219">
+              <locus from="232">f. 232</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 1235-232-8</idno>
+            </msItem>
+            <msItem n="220">
+              <locus from="233">f. 233</locus>
+              <title type="incipit">Gloria martyrum</title>
+              <idno type="dokumenten_id">Pa 1235-233-10</idno>
+            </msItem>
+            <msItem n="221">
+              <locus from="233">f. 233</locus>
+              <title type="incipit">Pater lumen aeternum*</title>
+              <idno type="dokumenten_id">Pa 1235-233-5</idno>
+            </msItem>
+            <msItem n="222">
+              <locus from="233">f. 233</locus>
+              <title type="incipit">Omnipotens altissime</title>
+              <idno type="dokumenten_id">Pa 1235-233-6</idno>
+            </msItem>
+            <msItem n="223">
+              <locus from="233v">f. 233v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 1235-233v-3</idno>
+            </msItem>
+            <msItem n="224">
+              <locus from="233v">f. 233v</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pa 1235-233v-4</idno>
+            </msItem>
+            <msItem n="225">
+              <locus from="233v">f. 233v</locus>
+              <title type="incipit">Alludat laetus ordo</title>
+              <idno type="dokumenten_id">Pa 1235-233v-5</idno>
+            </msItem>
+            <msItem n="226">
+              <locus from="234">f. 234</locus>
+              <title type="incipit">Hodie regi archangelorum</title>
+              <idno type="dokumenten_id">Pa 1235-234-10</idno>
+            </msItem>
+            <msItem n="227">
+              <locus from="234v">f. 234v</locus>
+              <title type="incipit">Kyrie eleyson*</title>
+              <idno type="dokumenten_id">Pa 1235-234v-3</idno>
+            </msItem>
+            <msItem n="228">
+              <locus from="234v">f. 234v</locus>
+              <title type="incipit">Quem vere pia laus</title>
+              <idno type="dokumenten_id">Pa 1235-234v-4</idno>
+            </msItem>
+            <msItem n="229">
+              <locus from="235">f. 235</locus>
+              <title type="incipit">Ad celebres rex</title>
+              <idno type="dokumenten_id">Pa 1235-235-3</idno>
+            </msItem>
+            <msItem n="230">
+              <locus from="235v">f. 235v</locus>
+              <title type="incipit">Salus deo nostro</title>
+              <idno type="dokumenten_id">Pa 1235-235v-9</idno>
+            </msItem>
+            <msItem n="231">
+              <locus from="236">f. 236</locus>
+              <title type="incipit">Felices nimium</title>
+              <idno type="dokumenten_id">Pa 1235-236-1</idno>
+            </msItem>
+            <msItem n="232">
+              <locus from="236">f. 236</locus>
+              <title type="incipit">Sanctus evigilans</title>
+              <idno type="dokumenten_id">Pa 1235-236-11</idno>
+            </msItem>
+            <msItem n="233">
+              <locus from="236">f. 236</locus>
+              <title type="incipit">Gloria martyrum*</title>
+              <idno type="dokumenten_id">Pa 1235-236-2</idno>
+            </msItem>
+            <msItem n="234">
+              <locus from="236">f. 236</locus>
+              <title type="incipit">Mirabilis deus in sanctis</title>
+              <idno type="dokumenten_id">Pa 1235-236-4</idno>
+            </msItem>
+            <msItem n="235">
+              <locus from="236v">f. 236v</locus>
+              <title type="incipit">Observanda abunde</title>
+              <idno type="dokumenten_id">Pa 1235-236v-11</idno>
+            </msItem>
+            <msItem n="236">
+              <locus from="236v">f. 236v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 1235-236v-7</idno>
+            </msItem>
+            <msItem n="237">
+              <locus from="236v">f. 236v</locus>
+              <title type="incipit">Rex tibi laus*</title>
+              <idno type="dokumenten_id">Pa 1235-236v-9</idno>
+            </msItem>
+            <msItem n="238">
+              <locus from="237v">f. 237v</locus>
+              <title type="incipit">Ad templi ... devota persultat</title>
+              <idno type="dokumenten_id">Pa 1235-237v-3</idno>
+            </msItem>
+            <msItem n="239">
+              <locus from="238">f. 238</locus>
+              <title type="incipit">Hodie mundo festivus ... omnium sanctorum</title>
+              <idno type="dokumenten_id">Pa 1235-238-6</idno>
+            </msItem>
+            <msItem n="240">
+              <locus from="238v">f. 238v</locus>
+              <title type="incipit">O alma trinitas deus</title>
+              <idno type="dokumenten_id">Pa 1235-238v-8</idno>
+            </msItem>
+            <msItem n="241">
+              <locus from="239v">f. 239v</locus>
+              <title type="incipit">Christo inclita</title>
+              <idno type="dokumenten_id">Pa 1235-239v-1</idno>
+            </msItem>
+            <msItem n="242">
+              <locus from="240">f. 240</locus>
+              <title type="incipit">Gloriosus est rex</title>
+              <idno type="dokumenten_id">Pa 1235-240-4</idno>
+            </msItem>
+            <msItem n="243">
+              <locus from="240">f. 240</locus>
+              <title type="incipit">Sanctus … dominus deus*</title>
+              <idno type="dokumenten_id">Pa 1235-240-5</idno>
+            </msItem>
+            <msItem n="244">
+              <locus from="240">f. 240</locus>
+              <title type="incipit">Agnus dei*</title>
+              <idno type="dokumenten_id">Pa 1235-240-6</idno>
+            </msItem>
+            <msItem n="245">
+              <locus from="240">f. 240</locus>
+              <title type="incipit">Martinus meritis</title>
+              <idno type="dokumenten_id">Pa 1235-240-7</idno>
+            </msItem>
+            <msItem n="246">
+              <locus from="240v">f. 240v</locus>
+              <title type="incipit">O gloria sanctorum</title>
+              <idno type="dokumenten_id">Pa 1235-240v-10</idno>
+            </msItem>
+            <msItem n="247">
+              <locus from="240v">f. 240v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 1235-240v-8</idno>
+            </msItem>
+            <msItem n="248">
+              <locus from="241v">f. 241v</locus>
+              <title type="incipit">Exsultet nunc</title>
+              <idno type="dokumenten_id">Pa 1235-241v-3</idno>
+            </msItem>
+            <msItem n="249">
+              <locus from="242">f. 242</locus>
+              <title type="incipit">Ecce pulchra*</title>
+              <idno type="dokumenten_id">Pa 1235-242-10</idno>
+            </msItem>
+            <msItem n="250">
+              <locus from="242">f. 242</locus>
+              <title type="incipit">Laude iucunda*</title>
+              <idno type="dokumenten_id">Pa 1235-242-11</idno>
+            </msItem>
+            <msItem n="251">
+              <locus from="242">f. 242</locus>
+              <title type="incipit">Praecelsa saeclis colitur</title>
+              <idno type="dokumenten_id">Pa 1235-242-12</idno>
+            </msItem>
+            <msItem n="252">
+              <locus from="242">f. 242</locus>
+              <title type="incipit">Nobile apostolici</title>
+              <idno type="dokumenten_id">Pa 1235-242-2</idno>
+            </msItem>
+            <msItem n="253">
+              <locus from="242">f. 242</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 1235-242-8</idno>
+            </msItem>
+            <msItem n="254">
+              <locus from="243">f. 243</locus>
+              <title type="incipit">Sonent regi</title>
+              <idno type="dokumenten_id">Pa 1235-243-4</idno>
+            </msItem>
+            <msItem n="255">
+              <locus from="245">f. 245</locus>
+              <title type="incipit">Puer natus est Cyricus</title>
+              <idno type="dokumenten_id">Pa 1235-245-5</idno>
+            </msItem>
+            <msItem n="256">
+              <locus from="245v">f. 245v</locus>
+              <title type="incipit">Christi sponsa Katherina</title>
+              <idno type="dokumenten_id">Pa 1235-245v-1</idno>
+            </msItem>
+            <msItem n="257">
+              <locus from="245v">f. 245v</locus>
+              <title type="incipit">Veni sancte spiritus Katharinae coelitus</title>
+              <idno type="dokumenten_id">Pa 1235-245v-12</idno>
+            </msItem>
+            <msItem n="258">
+              <locus from="25">f. 25</locus>
+              <title type="incipit">Ecce advenit</title>
+              <idno type="dokumenten_id">Pa 1235-25-7</idno>
+            </msItem>
+            <msItem n="259">
+              <locus from="250">f. 250</locus>
+              <title type="incipit">Mater matris domini</title>
+              <idno type="dokumenten_id">Pa 1235-250-5</idno>
+            </msItem>
+            <msItem n="260">
+              <locus from="251">f. 251</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 1235-251-1</idno>
+            </msItem>
+            <msItem n="261">
+              <locus from="251">f. 251</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pa 1235-251-10</idno>
+            </msItem>
+            <msItem n="262">
+              <locus from="251">f. 251</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pa 1235-251-3</idno>
+            </msItem>
+            <msItem n="263">
+              <locus from="251">f. 251</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 1235-251-4</idno>
+            </msItem>
+            <msItem n="264">
+              <locus from="251">f. 251</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pa 1235-251-6</idno>
+            </msItem>
+            <msItem n="265">
+              <locus from="251">f. 251</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Pa 1235-251-7</idno>
+            </msItem>
+            <msItem n="266">
+              <locus from="251v">f. 251v</locus>
+              <title type="incipit">Pater noster</title>
+              <idno type="dokumenten_id">Pa 1235-251v-8</idno>
+            </msItem>
+            <msItem n="267">
+              <locus from="252">f. 252</locus>
+              <title type="incipit">Alabastrum frangitur</title>
+              <idno type="dokumenten_id">Pa 1235-252-9</idno>
+            </msItem>
+            <msItem n="268">
+              <locus from="253">f. 253</locus>
+              <title type="incipit">Lux advenit</title>
+              <idno type="dokumenten_id">Pa 1235-253-1</idno>
+            </msItem>
+            <msItem n="269">
+              <locus from="259v">f. 259v</locus>
+              <title type="incipit">Lauda Sion</title>
+              <idno type="dokumenten_id">Pa 1235-259v-8</idno>
+            </msItem>
+            <msItem n="270">
+              <locus from="29">f. 29</locus>
+              <title type="incipit">Statuit ei dominus</title>
+              <idno type="dokumenten_id">Pa 1235-29-1</idno>
+            </msItem>
+            <msItem n="271">
+              <locus from="31v">f. 31v</locus>
+              <title type="incipit">Intret in conspectu</title>
+              <idno type="dokumenten_id">Pa 1235-31v-3</idno>
+            </msItem>
+            <msItem n="272">
+              <locus from="32">f. 32</locus>
+              <title type="incipit">Laetamini in domino</title>
+              <idno type="dokumenten_id">Pa 1235-32-3</idno>
+            </msItem>
+            <msItem n="273">
+              <locus from="33v">f. 33v</locus>
+              <title type="incipit">Diffusa est gratia</title>
+              <idno type="dokumenten_id">Pa 1235-33v-13</idno>
+            </msItem>
+            <msItem n="274">
+              <locus from="35v">f. 35v</locus>
+              <title type="incipit">Suscepimus</title>
+              <idno type="dokumenten_id">Pa 1235-35v-2</idno>
+            </msItem>
+            <msItem n="275">
+              <locus from="36">f. 36</locus>
+              <title type="incipit">Gaudeamus omnes ... Agathae</title>
+              <idno type="dokumenten_id">Pa 1235-36-6</idno>
+            </msItem>
+            <msItem n="276">
+              <locus from="37">f. 37</locus>
+              <title type="incipit">Mihi autem</title>
+              <idno type="dokumenten_id">Pa 1235-37-13</idno>
+            </msItem>
+            <msItem n="277">
+              <locus from="37v">f. 37v</locus>
+              <title type="incipit">Constitues eos</title>
+              <idno type="dokumenten_id">Pa 1235-37v-10</idno>
+            </msItem>
+            <msItem n="278">
+              <locus from="48">f. 48</locus>
+              <title type="incipit">Confessio</title>
+              <idno type="dokumenten_id">Pa 1235-48-11</idno>
+            </msItem>
+            <msItem n="279">
+              <locus from="6">f. 6</locus>
+              <title type="incipit">Puer natus est Cyricus</title>
+              <idno type="dokumenten_id">Pa 1235-6-5</idno>
+            </msItem>
+            <msItem n="280">
+              <locus from="69v">f. 69v</locus>
+              <title type="incipit">Nos autem gloriari</title>
+              <idno type="dokumenten_id">Pa 1235-69v-6</idno>
+            </msItem>
+            <msItem n="281">
+              <locus from="75v">f. 75v</locus>
+              <title type="incipit">Resurrexi</title>
+              <idno type="dokumenten_id">Pa 1235-75v-11</idno>
+            </msItem>
+            <msItem n="282">
+              <locus from="75v">f. 75v</locus>
+              <title type="incipit">Kyrie eleyson*</title>
+              <idno type="dokumenten_id">Pa 1235-75v-8a</idno>
+            </msItem>
+            <msItem n="283">
+              <locus from="75v">f. 75v</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pa 1235-75v-8b</idno>
+            </msItem>
+            <msItem n="284">
+              <locus from="76">f. 76</locus>
+              <title type="incipit">Terra tremuit ... dum resurgeret</title>
+              <idno type="dokumenten_id">Pa 1235-76-6</idno>
+            </msItem>
+            <msItem n="285">
+              <locus from="76v">f. 76v</locus>
+              <title type="incipit">Pascha nostrum ... alleluia</title>
+              <idno type="dokumenten_id">Pa 1235-76v-2</idno>
+            </msItem>
+            <msItem n="286">
+              <locus from="77">f. 77</locus>
+              <title type="incipit">Introduxit</title>
+              <idno type="dokumenten_id">Pa 1235-77-2</idno>
+            </msItem>
+            <msItem n="287">
+              <locus from="77v">f. 77v</locus>
+              <title type="incipit">Aqua sapientiae</title>
+              <idno type="dokumenten_id">Pa 1235-77v-5</idno>
+            </msItem>
+            <msItem n="288">
+              <locus from="78">f. 78</locus>
+              <title type="incipit">Venite benedicti</title>
+              <idno type="dokumenten_id">Pa 1235-78-9</idno>
+            </msItem>
+            <msItem n="289">
+              <locus from="8">f. 8</locus>
+              <title type="incipit">Ave maris stella dei*</title>
+              <idno type="dokumenten_id">Pa 1235-8-1</idno>
+            </msItem>
+            <msItem n="290">
+              <locus from="8">f. 8</locus>
+              <title type="incipit">Ave maris stella mellis*</title>
+              <idno type="dokumenten_id">Pa 1235-8-2</idno>
+            </msItem>
+            <msItem n="291">
+              <locus from="8">f. 8</locus>
+              <title type="incipit">Ab arce siderea*</title>
+              <idno type="dokumenten_id">Pa 1235-8-3</idno>
+            </msItem>
+            <msItem n="292">
+              <locus from="8">f. 8</locus>
+              <title type="incipit">Vergente mundi*</title>
+              <idno type="dokumenten_id">Pa 1235-8-4</idno>
+            </msItem>
+            <msItem n="293">
+              <locus from="8">f. 8</locus>
+              <title type="incipit">Veneremur virginem per cuius*</title>
+              <idno type="dokumenten_id">Pa 1235-8-5</idno>
+            </msItem>
+            <msItem n="294">
+              <locus from="8">f. 8</locus>
+              <title type="incipit">Mundamini mundamini*</title>
+              <idno type="dokumenten_id">Pa 1235-8-6</idno>
+            </msItem>
+            <msItem n="295">
+              <locus from="8">f. 8</locus>
+              <title type="incipit">Laudes claras*</title>
+              <idno type="dokumenten_id">Pa 1235-8-7a</idno>
+            </msItem>
+            <msItem n="296">
+              <locus from="8">f. 8</locus>
+              <title type="incipit">Memoria*</title>
+              <idno type="dokumenten_id">Pa 1235-8-7b</idno>
+            </msItem>
+            <msItem n="297">
+              <locus from="8">f. 8</locus>
+              <title type="incipit">Res est admirabilis*</title>
+              <idno type="dokumenten_id">Pa 1235-8-8</idno>
+            </msItem>
+            <msItem n="298">
+              <locus from="8">f. 8</locus>
+              <title type="incipit">Tibi cordis*</title>
+              <idno type="dokumenten_id">Pa 1235-8-9</idno>
+            </msItem>
+            <msItem n="299">
+              <locus from="86v">f. 86v</locus>
+              <title type="incipit">Mirabilis deus in sanctis</title>
+              <idno type="dokumenten_id">Pa 1235-86v-13</idno>
+            </msItem>
+            <msItem n="300">
+              <locus from="88">f. 88</locus>
+              <title type="incipit">Viri Galilaei</title>
+              <idno type="dokumenten_id">Pa 1235-88-5</idno>
+            </msItem>
+            <msItem n="301">
+              <locus from="88v">f. 88v</locus>
+              <title type="incipit">Viri Galilaei</title>
+              <idno type="dokumenten_id">Pa 1235-88v-1</idno>
+            </msItem>
+            <msItem n="302">
+              <locus from="88v">f. 88v</locus>
+              <title type="incipit">Psallite domino</title>
+              <idno type="dokumenten_id">Pa 1235-88v-8</idno>
+            </msItem>
+            <msItem n="303">
+              <locus from="89">f. 89</locus>
+              <title type="incipit">Kyrie eleyson*</title>
+              <idno type="dokumenten_id">Pa 1235-89-7</idno>
+            </msItem>
+            <msItem n="304">
+              <locus from="89">f. 89</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">Pa 1235-89-8a</idno>
+            </msItem>
+            <msItem n="305">
+              <locus from="89v">f. 89v</locus>
+              <title type="incipit">Spiritus domini</title>
+              <idno type="dokumenten_id">Pa 1235-89v-9</idno>
+            </msItem>
+            <msItem n="306">
+              <locus from="8v">f. 8v</locus>
+              <title type="incipit">Ave virgo virginum*</title>
+              <idno type="dokumenten_id">Pa 1235-8v-1</idno>
+            </msItem>
+            <msItem n="307">
+              <locus from="8v">f. 8v</locus>
+              <title type="incipit">Gaude prole Gallia*</title>
+              <idno type="dokumenten_id">Pa 1235-8v-10</idno>
+            </msItem>
+            <msItem n="308">
+              <locus from="8v">f. 8v</locus>
+              <title type="incipit">Ave virgo regia*</title>
+              <idno type="dokumenten_id">Pa 1235-8v-2</idno>
+            </msItem>
+            <msItem n="309">
+              <locus from="8v">f. 8v</locus>
+              <title type="incipit">Ave virgo singularis mater*</title>
+              <idno type="dokumenten_id">Pa 1235-8v-3</idno>
+            </msItem>
+            <msItem n="310">
+              <locus from="8v">f. 8v</locus>
+              <title type="incipit">Salve sancta puritas*</title>
+              <idno type="dokumenten_id">Pa 1235-8v-4</idno>
+            </msItem>
+            <msItem n="311">
+              <locus from="8v">f. 8v</locus>
+              <title type="incipit">Salve sancta verbi*</title>
+              <idno type="dokumenten_id">Pa 1235-8v-5</idno>
+            </msItem>
+            <msItem n="312">
+              <locus from="8v">f. 8v</locus>
+              <title type="incipit">Gaude Sion quae*</title>
+              <idno type="dokumenten_id">Pa 1235-8v-7</idno>
+            </msItem>
+            <msItem n="313">
+              <locus from="9">f. 9</locus>
+              <title type="incipit">Gregorius praesul</title>
+              <idno type="dokumenten_id">Pa 1235-9-1</idno>
+            </msItem>
+            <msItem n="314">
+              <locus from="9">f. 9</locus>
+              <title type="incipit">Ad te levavi</title>
+              <idno type="dokumenten_id">Pa 1235-9-6</idno>
+            </msItem>
+            <msItem n="315">
+              <locus from="90">f. 90</locus>
+              <title type="incipit">Factus est repente ... advenientis</title>
+              <idno type="dokumenten_id">Pa 1235-90-13</idno>
+            </msItem>
+            <msItem n="316">
+              <locus from="90">f. 90</locus>
+              <title type="incipit">Confirma hoc ... a templo</title>
+              <idno type="dokumenten_id">Pa 1235-90-3</idno>
+            </msItem>
+            <msItem n="317">
+              <locus from="92">f. 92</locus>
+              <title type="incipit">Benedicta sit sancta</title>
+              <idno type="dokumenten_id">Pa 1235-92-4</idno>
+            </msItem>
+            <msItem n="318">
+              <locus from="96">f. 96</locus>
+              <title type="incipit">De ventre</title>
+              <idno type="dokumenten_id">Pa 1235-96-1</idno>
+            </msItem>
+            <msItem n="319">
+              <locus from="97v">f. 97v</locus>
+              <title type="incipit">Nunc scio vere</title>
+              <idno type="dokumenten_id">Pa 1235-97v-3</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Nevers</settlement>
+                <region>Quellen französischer Herkunft</region>
+                <orgName>Kathedrale Saint-Cyr</orgName>
+              </origPlace>
+              <origDate>12. Jh (um 1150)</origDate>
+            </origin>
+          </history>
+          <additional>
+            <adminInfo>
+              <note type="description">
+                <ref target="Pa_1235.description.md">Source description</ref>
+              </note>
+            </adminInfo>
+            <surrogates>
+              <bibl>
+                <ref type="iiif-manifest" target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432301z/manifest.json" />
+              </bibl>
+            </surrogates>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

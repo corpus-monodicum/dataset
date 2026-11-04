@@ -1,0 +1,41 @@
+{
+  "id": "22b09a98-a0cb-4cad-b50f-e2fb38e84de6",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-157-b-29b",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Thomas Cantuariensis",
+  "feier": "Messe",
+  "textinitium": "Gaude Sion et*",
+  "bibliographischerverweis": "AH 55, 328",
+  "druckausgabe": "",
+  "zeilenstart": "29",
+  "foliostart": "157-b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "157b",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "29",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

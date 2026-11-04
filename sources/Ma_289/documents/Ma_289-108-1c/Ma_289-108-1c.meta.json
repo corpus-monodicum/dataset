@@ -1,0 +1,41 @@
+{
+  "id": "5ef2e65f-83be-4b0d-a1e4-168e5d4d8152",
+  "quelle_id": "Ma 289",
+  "dokumenten_id": "Ma 289-108-1c",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "Epiphania",
+  "feier": "Matutin",
+  "textinitium": "Venite adoremus",
+  "bibliographischerverweis": "CAO 5348",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "1",
+  "foliostart": "108",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "108",
+    "Startposition": "c",
+    "Referenz_auf_Spiel": "Ma 289-107-1S",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "Beginn fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Magi play",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

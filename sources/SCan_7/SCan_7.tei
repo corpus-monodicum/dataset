@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>SCan 7: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Edition (Sequenzen)</resp>
+          <persName>Gionata Brusa</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Isabel Kraft</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Hanna Zühlke</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Gunilla Iversen</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Ritva Maria Jacobsson</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="SCan_7">
+          <msIdentifier>
+            <settlement>Innichen (San Candido)</settlement>
+            <repository>Bibliothek des Kollegiatstiftes</repository>
+            <idno type="shelfmark">VII a 7</idno>
+            <altIdentifier type="siglum">
+              <idno>SCan 7</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>SCan 7</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <term type="quellentyp">Graduale mit Tropen, Kyriale mit Tropen, Sequentiar, Tropar</term>
+            </summary>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="111">f. 111</locus>
+              <title type="incipit">Resurrexi</title>
+              <idno type="dokumenten_id">SCan 7-111-4</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="120v">f. 120v</locus>
+              <title type="incipit">Hodiernae festum lucis et</title>
+              <idno type="dokumenten_id">SCan 7-120v-5</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="126v">f. 126v</locus>
+              <title type="incipit">Viri Galilaei</title>
+              <idno type="dokumenten_id">SCan 7-126v-4</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="135">f. 135</locus>
+              <title type="incipit">Spiritus domini</title>
+              <idno type="dokumenten_id">SCan 7-135-4</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="13v">f. 13v</locus>
+              <title type="incipit">Hodie cantandus est</title>
+              <idno type="dokumenten_id">SCan 7-13v-9</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="14">f. 14</locus>
+              <title type="incipit">Puer natus est nobis</title>
+              <idno type="dokumenten_id">SCan 7-14-8</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="15v">f. 15v</locus>
+              <title type="incipit">Etenim sederunt</title>
+              <idno type="dokumenten_id">SCan 7-15v-1</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="17v">f. 17v</locus>
+              <title type="incipit">In medio ecclesiae</title>
+              <idno type="dokumenten_id">SCan 7-17v-4</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="18v">f. 18v</locus>
+              <title type="incipit">Ex ore infantium</title>
+              <idno type="dokumenten_id">SCan 7-18v-3</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="223v">f. 223v</locus>
+              <title type="incipit">Veni praecelsa domina</title>
+              <idno type="dokumenten_id">SCan 7-223v-4</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="225">f. 225</locus>
+              <title type="incipit">Grates nunc omnes</title>
+              <idno type="dokumenten_id">SCan 7-225-1</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="225">f. 225</locus>
+              <title type="incipit">Eia recolamus ... piis</title>
+              <idno type="dokumenten_id">SCan 7-225-6</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="226v">f. 226v</locus>
+              <title type="incipit">Natus ante saecula</title>
+              <idno type="dokumenten_id">SCan 7-226v-1</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="227v">f. 227v</locus>
+              <title type="incipit">Hanc concordi</title>
+              <idno type="dokumenten_id">SCan 7-227v-4</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="228v">f. 228v</locus>
+              <title type="incipit">Iohannes Iesu Christo</title>
+              <idno type="dokumenten_id">SCan 7-228v-2</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="229">f. 229</locus>
+              <title type="incipit">Laus tibi Christe patris</title>
+              <idno type="dokumenten_id">SCan 7-229-9</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="22v">f. 22v</locus>
+              <title type="incipit">Haec est praeclara dies</title>
+              <idno type="dokumenten_id">SCan 7-22v-5</idno>
+            </msItem>
+            <msItem n="18">
+              <locus from="23">f. 23</locus>
+              <title type="incipit">Ecce advenit</title>
+              <idno type="dokumenten_id">SCan 7-23-4</idno>
+            </msItem>
+            <msItem n="19">
+              <locus from="230">f. 230</locus>
+              <title type="incipit">Festa Christi</title>
+              <idno type="dokumenten_id">SCan 7-230-6</idno>
+            </msItem>
+            <msItem n="20">
+              <locus from="231v">f. 231v</locus>
+              <title type="incipit">Laus sit regi gloriae</title>
+              <idno type="dokumenten_id">SCan 7-231v-1</idno>
+            </msItem>
+            <msItem n="21">
+              <locus from="232v">f. 232v</locus>
+              <title type="incipit">Dixit dominus ex Basan</title>
+              <idno type="dokumenten_id">SCan 7-232v-7</idno>
+            </msItem>
+            <msItem n="22">
+              <locus from="234">f. 234</locus>
+              <title type="incipit">Concentu parili hic te</title>
+              <idno type="dokumenten_id">SCan 7-234-3</idno>
+            </msItem>
+            <msItem n="23">
+              <locus from="235v">f. 235v</locus>
+              <title type="incipit">Innoventur hac in die</title>
+              <idno type="dokumenten_id">SCan 7-235v-3</idno>
+            </msItem>
+            <msItem n="24">
+              <locus from="237">f. 237</locus>
+              <title type="incipit">Psallat concors symphonia</title>
+              <idno type="dokumenten_id">SCan 7-237-7</idno>
+            </msItem>
+            <msItem n="25">
+              <locus from="238v">f. 238v</locus>
+              <title type="incipit">Laudes salvatori</title>
+              <idno type="dokumenten_id">SCan 7-238v-7</idno>
+            </msItem>
+            <msItem n="26">
+              <locus from="240v">f. 240v</locus>
+              <title type="incipit">Pangamus creatoris</title>
+              <idno type="dokumenten_id">SCan 7-240v-7</idno>
+            </msItem>
+            <msItem n="27">
+              <locus from="242">f. 242</locus>
+              <title type="incipit">Agni paschalis esu</title>
+              <idno type="dokumenten_id">SCan 7-242-1</idno>
+            </msItem>
+            <msItem n="28">
+              <locus from="242v">f. 242v</locus>
+              <title type="incipit">Grates salvatori</title>
+              <idno type="dokumenten_id">SCan 7-242v-4</idno>
+            </msItem>
+            <msItem n="29">
+              <locus from="243">f. 243</locus>
+              <title type="incipit">Laudes deo concinat orbis</title>
+              <idno type="dokumenten_id">SCan 7-243-8</idno>
+            </msItem>
+            <msItem n="30">
+              <locus from="244">f. 244</locus>
+              <title type="incipit">Haec est sancta sollemnitas sollemnitatum</title>
+              <idno type="dokumenten_id">SCan 7-244-4</idno>
+            </msItem>
+            <msItem n="31">
+              <locus from="244v">f. 244v</locus>
+              <title type="incipit">Carmen suo dilecto</title>
+              <idno type="dokumenten_id">SCan 7-244v-6</idno>
+            </msItem>
+            <msItem n="32">
+              <locus from="245">f. 245</locus>
+              <title type="incipit">Victimae paschali laudes</title>
+              <idno type="dokumenten_id">SCan 7-245-8</idno>
+            </msItem>
+            <msItem n="33">
+              <locus from="245v">f. 245v</locus>
+              <title type="incipit">Mundi renovatio nova</title>
+              <idno type="dokumenten_id">SCan 7-245v-9</idno>
+            </msItem>
+            <msItem n="34">
+              <locus from="246v">f. 246v</locus>
+              <title type="incipit">Virgini Mariae … Eva tristis</title>
+              <idno type="dokumenten_id">SCan 7-246v-5</idno>
+            </msItem>
+            <msItem n="35">
+              <locus from="247">f. 247</locus>
+              <title type="incipit">Surgit Christus cum tropaeo … Dic Maria</title>
+              <idno type="dokumenten_id">SCan 7-247-7</idno>
+            </msItem>
+            <msItem n="36">
+              <locus from="248v">f. 248v</locus>
+              <title type="incipit">Summi triumphum</title>
+              <idno type="dokumenten_id">SCan 7-248v-1</idno>
+            </msItem>
+            <msItem n="37">
+              <locus from="249v">f. 249v</locus>
+              <title type="incipit">Sancti spiritus … Quae corda</title>
+              <idno type="dokumenten_id">SCan 7-249v-6</idno>
+            </msItem>
+            <msItem n="38">
+              <locus from="251">f. 251</locus>
+              <title type="incipit">Veni sancte spiritus et emitte</title>
+              <idno type="dokumenten_id">SCan 7-251-7</idno>
+            </msItem>
+            <msItem n="39">
+              <locus from="251v">f. 251v</locus>
+              <title type="incipit">Benedicta semper sancta</title>
+              <idno type="dokumenten_id">SCan 7-251v-7</idno>
+            </msItem>
+            <msItem n="40">
+              <locus from="253">f. 253</locus>
+              <title type="incipit">Lauda Sion</title>
+              <idno type="dokumenten_id">SCan 7-253-1</idno>
+            </msItem>
+            <msItem n="41">
+              <locus from="255">f. 255</locus>
+              <title type="incipit">Verbum dei deo</title>
+              <idno type="dokumenten_id">SCan 7-255-5</idno>
+            </msItem>
+            <msItem n="42">
+              <locus from="257">f. 257</locus>
+              <title type="incipit">Nostri chori melodia</title>
+              <idno type="dokumenten_id">SCan 7-257-4</idno>
+            </msItem>
+            <msItem n="43">
+              <locus from="259">f. 259</locus>
+              <title type="incipit">Hodiernae festum lucis est</title>
+              <idno type="dokumenten_id">SCan 7-259-2</idno>
+            </msItem>
+            <msItem n="44">
+              <locus from="259v">f. 259v</locus>
+              <title type="incipit">Sancti Baptistae Christi</title>
+              <idno type="dokumenten_id">SCan 7-259v-8</idno>
+            </msItem>
+            <msItem n="45">
+              <locus from="260v">f. 260v</locus>
+              <title type="incipit">Petre summe Christi</title>
+              <idno type="dokumenten_id">SCan 7-260v-7</idno>
+            </msItem>
+            <msItem n="46">
+              <locus from="261v">f. 261v</locus>
+              <title type="incipit">Ave dulcis et iocosa</title>
+              <idno type="dokumenten_id">SCan 7-261v-9</idno>
+            </msItem>
+            <msItem n="47">
+              <locus from="262">f. 262</locus>
+              <title type="incipit">Psallite regi nostro</title>
+              <idno type="dokumenten_id">SCan 7-262-1</idno>
+            </msItem>
+            <msItem n="48">
+              <locus from="262v">f. 262v</locus>
+              <title type="incipit">Deus deorum vera</title>
+              <idno type="dokumenten_id">SCan 7-262v-2</idno>
+            </msItem>
+            <msItem n="49">
+              <locus from="264">f. 264</locus>
+              <title type="incipit">Stirpe Maria</title>
+              <idno type="dokumenten_id">SCan 7-264-4</idno>
+            </msItem>
+            <msItem n="50">
+              <locus from="264v">f. 264v</locus>
+              <title type="incipit">Laudes crucis</title>
+              <idno type="dokumenten_id">SCan 7-264v-6</idno>
+            </msItem>
+            <msItem n="51">
+              <locus from="265">f. 265</locus>
+              <title type="incipit">Ad celebres rex</title>
+              <idno type="dokumenten_id">SCan 7-265-1</idno>
+            </msItem>
+            <msItem n="52">
+              <locus from="266">f. 266</locus>
+              <title type="incipit">Omnes sancti seraphin</title>
+              <idno type="dokumenten_id">SCan 7-266-8</idno>
+            </msItem>
+            <msItem n="53">
+              <locus from="267">f. 267</locus>
+              <title type="incipit">Veneremur hac die</title>
+              <idno type="dokumenten_id">SCan 7-267-3</idno>
+            </msItem>
+            <msItem n="54">
+              <locus from="267v">f. 267v</locus>
+              <title type="incipit">Sacerdotem Christi</title>
+              <idno type="dokumenten_id">SCan 7-267v-9</idno>
+            </msItem>
+            <msItem n="55">
+              <locus from="268">f. 268</locus>
+              <title type="incipit">Gaude Sion quod egressus</title>
+              <idno type="dokumenten_id">SCan 7-268-3</idno>
+            </msItem>
+            <msItem n="56">
+              <locus from="269">f. 269</locus>
+              <title type="incipit">Congaudentes iubilemus</title>
+              <idno type="dokumenten_id">SCan 7-269-8</idno>
+            </msItem>
+            <msItem n="57">
+              <locus from="270v">f. 270v</locus>
+              <title type="incipit">Ave praesignis martyr</title>
+              <idno type="dokumenten_id">SCan 7-270v-9</idno>
+            </msItem>
+            <msItem n="58">
+              <locus from="271">f. 271</locus>
+              <title type="incipit">Sanctissimae virginis votiva</title>
+              <idno type="dokumenten_id">SCan 7-271-1</idno>
+            </msItem>
+            <msItem n="59">
+              <locus from="271v">f. 271v</locus>
+              <title type="incipit">Ad honorem superni</title>
+              <idno type="dokumenten_id">SCan 7-271v-1</idno>
+            </msItem>
+            <msItem n="60">
+              <locus from="272">f. 272</locus>
+              <title type="incipit">Deus in tua virtute</title>
+              <idno type="dokumenten_id">SCan 7-272-6</idno>
+            </msItem>
+            <msItem n="61">
+              <locus from="273">f. 273</locus>
+              <title type="incipit">Gloriosa fulget dies</title>
+              <idno type="dokumenten_id">SCan 7-273-1</idno>
+            </msItem>
+            <msItem n="62">
+              <locus from="274">f. 274</locus>
+              <title type="incipit">Laude Christo debita</title>
+              <idno type="dokumenten_id">SCan 7-274-8</idno>
+            </msItem>
+            <msItem n="63">
+              <locus from="276">f. 276</locus>
+              <title type="incipit">Congaudentes exsultemus vocali</title>
+              <idno type="dokumenten_id">SCan 7-276-6</idno>
+            </msItem>
+            <msItem n="64">
+              <locus from="277v">f. 277v</locus>
+              <title type="incipit">Psallat ecclesia mater illibata</title>
+              <idno type="dokumenten_id">SCan 7-277v-10</idno>
+            </msItem>
+            <msItem n="65">
+              <locus from="278v">f. 278v</locus>
+              <title type="incipit">Plausu chorus laetabundo</title>
+              <idno type="dokumenten_id">SCan 7-278v-2</idno>
+            </msItem>
+            <msItem n="66">
+              <locus from="280">f. 280</locus>
+              <title type="incipit">Dum suprema melodia</title>
+              <idno type="dokumenten_id">SCan 7-280-1</idno>
+            </msItem>
+            <msItem n="67">
+              <locus from="281">f. 281</locus>
+              <title type="incipit">Clare sanctorum</title>
+              <idno type="dokumenten_id">SCan 7-281-2</idno>
+            </msItem>
+            <msItem n="68">
+              <locus from="281v">f. 281v</locus>
+              <title type="incipit">Agone triumphali</title>
+              <idno type="dokumenten_id">SCan 7-281v-6</idno>
+            </msItem>
+            <msItem n="69">
+              <locus from="282v">f. 282v</locus>
+              <title type="incipit">O beata beatorum martyrum</title>
+              <idno type="dokumenten_id">SCan 7-282v-3</idno>
+            </msItem>
+            <msItem n="70">
+              <locus from="283">f. 283</locus>
+              <title type="incipit">Spe mercedis</title>
+              <idno type="dokumenten_id">SCan 7-283-9</idno>
+            </msItem>
+            <msItem n="71">
+              <locus from="284">f. 284</locus>
+              <title type="incipit">Ad laudes salvatoris</title>
+              <idno type="dokumenten_id">SCan 7-284-6</idno>
+            </msItem>
+            <msItem n="72">
+              <locus from="285">f. 285</locus>
+              <title type="incipit">Dilectus deo et hominibus</title>
+              <idno type="dokumenten_id">SCan 7-285-10</idno>
+            </msItem>
+            <msItem n="73">
+              <locus from="286">f. 286</locus>
+              <title type="incipit">Mundi restauratio fit</title>
+              <idno type="dokumenten_id">SCan 7-286-1</idno>
+            </msItem>
+            <msItem n="74">
+              <locus from="286">f. 286</locus>
+              <title type="incipit">Ave Maria gratia plena ... benedicta … gratiam</title>
+              <idno type="dokumenten_id">SCan 7-286-10</idno>
+            </msItem>
+            <msItem n="75">
+              <locus from="287v">f. 287v</locus>
+              <title type="incipit">Ave praeclara maris stella</title>
+              <idno type="dokumenten_id">SCan 7-287v-1</idno>
+            </msItem>
+            <msItem n="76">
+              <locus from="289v">f. 289v</locus>
+              <title type="incipit">Verbum bonum</title>
+              <idno type="dokumenten_id">SCan 7-289v-1</idno>
+            </msItem>
+            <msItem n="77">
+              <locus from="290">f. 290</locus>
+              <title type="incipit">Imperatrix angelorum</title>
+              <idno type="dokumenten_id">SCan 7-290-4</idno>
+            </msItem>
+            <msItem n="78">
+              <locus from="290v">f. 290v</locus>
+              <title type="incipit">Ave virginalis forma</title>
+              <idno type="dokumenten_id">SCan 7-290v-5</idno>
+            </msItem>
+            <msItem n="79">
+              <locus from="293">f. 293</locus>
+              <title type="incipit">Mater dei salus rei</title>
+              <idno type="dokumenten_id">SCan 7-293-7</idno>
+            </msItem>
+            <msItem n="80">
+              <locus from="294">f. 294</locus>
+              <title type="incipit">Nativitatem venerandam</title>
+              <idno type="dokumenten_id">SCan 7-294-10</idno>
+            </msItem>
+            <msItem n="81">
+              <locus from="295">f. 295</locus>
+              <title type="incipit">Gratuletur orbis totus</title>
+              <idno type="dokumenten_id">SCan 7-295-6</idno>
+            </msItem>
+            <msItem n="82">
+              <locus from="296">f. 296</locus>
+              <title type="incipit">Ave martyr gloriosa</title>
+              <idno type="dokumenten_id">SCan 7-296-7</idno>
+            </msItem>
+            <msItem n="83">
+              <locus from="296v">f. 296v</locus>
+              <title type="incipit">Domine Iesu Christe</title>
+              <idno type="dokumenten_id">SCan 7-296v-7</idno>
+            </msItem>
+            <msItem n="84">
+              <locus from="297v">f. 297v</locus>
+              <title type="incipit">Quoniam dominus</title>
+              <idno type="dokumenten_id">SCan 7-297v-3</idno>
+            </msItem>
+            <msItem n="85">
+              <locus from="298">f. 298</locus>
+              <title type="incipit">Forma speciosissimus</title>
+              <idno type="dokumenten_id">SCan 7-298-10</idno>
+            </msItem>
+            <msItem n="86">
+              <locus from="298">f. 298</locus>
+              <title type="incipit">Hodie parvulorum</title>
+              <idno type="dokumenten_id">SCan 7-298-6</idno>
+            </msItem>
+            <msItem n="87">
+              <locus from="298v">f. 298v</locus>
+              <title type="incipit">Consubstantialis patri</title>
+              <idno type="dokumenten_id">SCan 7-298v-11</idno>
+            </msItem>
+            <msItem n="88">
+              <locus from="298v">f. 298v</locus>
+              <title type="incipit">Sollemnitatem venerandam</title>
+              <idno type="dokumenten_id">SCan 7-298v-14</idno>
+            </msItem>
+            <msItem n="89">
+              <locus from="298v">f. 298v</locus>
+              <title type="incipit">Postquam factus</title>
+              <idno type="dokumenten_id">SCan 7-298v-2</idno>
+            </msItem>
+            <msItem n="90">
+              <locus from="298v">f. 298v</locus>
+              <title type="incipit">Ex numero</title>
+              <idno type="dokumenten_id">SCan 7-298v-8</idno>
+            </msItem>
+            <msItem n="91">
+              <locus from="301">f. 301</locus>
+              <title type="incipit">Luce lucens in aeterna</title>
+              <idno type="dokumenten_id">SCan 7-301-5</idno>
+            </msItem>
+            <msItem n="92">
+              <locus from="35v">f. 35v</locus>
+              <title type="incipit">Gaudeamus omnes ... Agathae</title>
+              <idno type="dokumenten_id">SCan 7-35v-5</idno>
+            </msItem>
+            <msItem n="93">
+              <locus from="A">f. A</locus>
+              <title type="incipit">Uterus virgineus</title>
+              <idno type="dokumenten_id">SCan 7-A-2</idno>
+            </msItem>
+            <msItem n="94">
+              <locus from="Av">f. Av</locus>
+              <title type="incipit">Gaude Maria templum</title>
+              <idno type="dokumenten_id">SCan 7-Av-10</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Innichen (San Candido)</settlement>
+                <region>Quellen deutscher Herkunft</region>
+                <orgName>Kollegiatstift</orgName>
+              </origPlace>
+              <origDate>15. Jh 2. Hälfte</origDate>
+            </origin>
+          </history>
+          <additional>
+            <adminInfo>
+              <note type="description">
+                <ref target="SCan_7.description.md">Source description</ref>
+              </note>
+            </adminInfo>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

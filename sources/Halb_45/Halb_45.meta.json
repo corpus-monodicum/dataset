@@ -1,0 +1,25 @@
+{
+  "id": "Halb 45",
+  "quellensigle": "Halb 45",
+  "herkunftsregion": "Quellen deutscher Herkunft",
+  "herkunftsort": "Halberstadt",
+  "herkunftsinstitution": "Dom",
+  "ordenstradition": "",
+  "quellentyp": "Cantatorium mit Tropen, Sequenzen",
+  "bibliotheksort": "Halberstadt",
+  "bibliothek": "Domschatz",
+  "bibliothekssignatur": "Inv.-Nr. 45",
+  "kommentar": "",
+  "datierung": "13. Jh 1. Hälfte, 14. Jh 1. Hälfte",
+  "status": "",
+  "jahrhundert": "13., 14.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Halb 45",
+  "cantus_century": "13., 14.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Halb_45.description.md"
+  }
+}

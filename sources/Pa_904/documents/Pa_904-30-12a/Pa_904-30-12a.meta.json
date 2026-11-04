@@ -1,0 +1,41 @@
+{
+  "id": "f2c9534f-4be9-4e16-903a-9025e0e3c6f0",
+  "quelle_id": "Pa 904",
+  "dokumenten_id": "Pa 904-30-12a",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Kyrie",
+  "festtag": "Epiphania",
+  "feier": "Messe",
+  "textinitium": "Kyrie fons bonitatis*",
+  "bibliographischerverweis": "AH 47, 5",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "12",
+  "foliostart": "30",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "30",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "Pa 904-29-2-aS",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Magi play",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

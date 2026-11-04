@@ -1,0 +1,41 @@
+{
+  "id": "5b7dc8e6-f016-4ca6-90dd-0110f6583e92",
+  "quelle_id": "Pa 1138",
+  "dokumenten_id": "Pa 1138-34-6",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Iulianus",
+  "feier": "Messe",
+  "textinitium": "Summatim una",
+  "bibliographischerverweis": "AH 7, 154",
+  "druckausgabe": "",
+  "zeilenstart": "6",
+  "foliostart": "34",
+  "kommentar": "zur Melodie vgl. Stäblein, Zur Frühgeschichte der Sequenz 24-26.",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "35v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Caelica caterva",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

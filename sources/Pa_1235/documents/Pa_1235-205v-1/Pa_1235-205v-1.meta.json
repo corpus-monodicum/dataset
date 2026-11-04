@@ -1,0 +1,41 @@
+{
+  "id": "138f4098-f4f1-4f01-a441-b9c1c589f314",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-205v-1",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Pascha",
+  "feier": "Messe",
+  "textinitium": "Dormivi pater",
+  "bibliographischerverweis": "Resurr intr 46 A 47 C 48 D G A H 58 A 59 B 60 C 61 D 62 E 63 F G 64 A 65 C 66 D G (CT III)",
+  "druckausgabe": "II-1",
+  "zeilenstart": "1",
+  "foliostart": "205v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "Pa 1235-75v-11-",
+    "Endseite": "206",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Resurr intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

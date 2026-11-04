@@ -1,0 +1,41 @@
+{
+  "id": "654f7a01-aadb-451a-af2e-5d147f1ac2fb",
+  "quelle_id": "Rhe 2",
+  "dokumenten_id": "Rhe 2-133v-b-17",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "",
+  "feier": "",
+  "textinitium": "Tu nescis",
+  "bibliographischerverweis": "",
+  "druckausgabe": "",
+  "zeilenstart": "17",
+  "foliostart": "133v-b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "133v-b",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Rhe 2-132v-a-38S",
+    "Endzeile": "18",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "Exhortatio virtutum, Scivias Book III Vision 13",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

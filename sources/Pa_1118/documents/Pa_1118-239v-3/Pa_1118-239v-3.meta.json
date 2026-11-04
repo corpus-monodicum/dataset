@@ -1,0 +1,41 @@
+{
+  "id": "7a4febff-a395-448e-8c14-4ac6d223b548",
+  "quelle_id": "Pa 1118",
+  "dokumenten_id": "Pa 1118-239v-3",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominicae dies",
+  "feier": "",
+  "textinitium": "Adest nempe",
+  "bibliographischerverweis": "AH 7, 229",
+  "druckausgabe": "",
+  "zeilenstart": "3",
+  "foliostart": "239v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "240v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Verba mea",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "Verba",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

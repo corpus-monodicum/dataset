@@ -1,0 +1,41 @@
+{
+  "id": "d6be1f7e-a7d7-409b-955b-ced70388b168",
+  "quelle_id": "Apt 17",
+  "dokumenten_id": "Apt 17-209-6",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Pentecoste",
+  "feier": "Messe",
+  "textinitium": "Inclita refulget",
+  "bibliographischerverweis": "Pent intr 43 A 62 A 20 B 21 C 22 E 27 F 41 G H 48 A 49 B 50 C 51 E 52 G 23 A 25 C 24 G I [mel VIII B var2] K 53 A 54 B 55 C 56 D L [mel VIII A] 63 A 34 C 35 E 26 A 15 B 16 C 17 D 64 E 65 G 58 A 66 C 37 G 67 A 68 C 69 E 70 G (CT III)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "6",
+  "foliostart": "209",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "(Spiritus)",
+    "Endseite": "214",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Pent intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

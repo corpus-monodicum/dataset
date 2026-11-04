@@ -1,0 +1,41 @@
+{
+  "id": "7b172394-2c64-4769-a14a-c81c41f774e2",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-41v-7",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Virgines",
+  "feier": "Messe",
+  "textinitium": "Sol alma",
+  "bibliographischerverweis": "Vultum tuum intr 10 A 11 B 12 C 13 A 14 B 15 D (CT X)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "7",
+  "foliostart": "41v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "(Vultum tuum)",
+    "Endseite": "41v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Vultum tuum intr",
+    "Zusatz_zu_Textinitium": "Teilweise ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "b8b2381b-1a1c-43c6-9ee4-28fc8c005d74",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-254v-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominica III adventus",
+  "feier": "Messe",
+  "textinitium": "Qui regis sceptra",
+  "bibliographischerverweis": "AH 53, 3",
+  "druckausgabe": "CM III",
+  "zeilenstart": "1",
+  "foliostart": "254v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "254v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Excita",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

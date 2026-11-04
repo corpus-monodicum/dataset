@@ -1,0 +1,41 @@
+{
+  "id": "fc3359e5-bd61-467b-a2d7-85f6a8ce1898",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-186v-4",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Petrus et Paulus",
+  "feier": "Messe",
+  "textinitium": "Angelico fretus",
+  "bibliographischerverweis": "Nunc scio vere intr 25 A 14 B 15 C 16 D 17 E (CT X)",
+  "druckausgabe": "II-1",
+  "zeilenstart": "4",
+  "foliostart": "186v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "Pro 12 186-10-",
+    "Endseite": "186v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Nunc scio vere intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

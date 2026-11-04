@@ -1,0 +1,25 @@
+{
+  "id": "Pa 1138",
+  "quellensigle": "Pa 1138",
+  "herkunftsregion": "Quellen aquitanischer Herkunft",
+  "herkunftsort": "Aquitanien",
+  "herkunftsinstitution": "",
+  "ordenstradition": "",
+  "quellentyp": "Sequentiar",
+  "bibliotheksort": "Paris",
+  "bibliothek": "Bibliothèque nationale de France",
+  "bibliothekssignatur": "Lat. 1138",
+  "kommentar": "",
+  "datierung": "11. Jh",
+  "status": "",
+  "jahrhundert": "11.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Pa 1138",
+  "cantus_century": "11.",
+  "dataset_external_files": {
+    "beschreibung": "Pa_1138.description.md",
+    "notationsdokumentation": "notation/Pa_1138.notation.md"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "b8dfbae9-75e7-4779-9564-ecb038311909",
+  "quelle_id": "Pa 14452",
+  "dokumenten_id": "Pa 14452-184v-5",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Transfiguratio domini",
+  "feier": "Messe",
+  "textinitium": "Laetabundi iubilemus ac devote",
+  "bibliographischerverweis": "AH 54, 106",
+  "druckausgabe": "CM III",
+  "zeilenstart": "5",
+  "foliostart": "184v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "186",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

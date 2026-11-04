@@ -1,0 +1,41 @@
+{
+  "id": "a71d5901-a8b6-49d6-a542-c91840ade696",
+  "quelle_id": "Pa 903",
+  "dokumenten_id": "Pa 903-90v-7",
+  "gattung1": "Antiphon",
+  "gattung2": "Offertorium",
+  "festtag": "Ascensio domini",
+  "feier": "Messe",
+  "textinitium": "Viri Galilaei",
+  "bibliographischerverweis": "AMS 102",
+  "druckausgabe": "II-3",
+  "zeilenstart": "7",
+  "foliostart": "90v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "90v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

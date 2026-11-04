@@ -1,0 +1,41 @@
+{
+  "id": "1f69c656-ec6c-4492-9ebf-e755916cc604",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-151v-11",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Martyres",
+  "feier": "Messe",
+  "textinitium": "O beata beatorum martyrum",
+  "bibliographischerverweis": "AH 55, 14",
+  "druckausgabe": "CM III",
+  "zeilenstart": "11",
+  "foliostart": "151v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "152",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

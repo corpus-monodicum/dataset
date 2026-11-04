@@ -1,0 +1,41 @@
+{
+  "id": "6b52e13d-6b7d-49f0-9f0c-8f07d0cf86a0",
+  "quelle_id": "Ver 10",
+  "dokumenten_id": "Ver 10-155v-1",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Nativitas domini",
+  "feier": "3. Messe",
+  "textinitium": "Hodie cantandus est",
+  "bibliographischerverweis": "Nat III intr 25 A (CT I)",
+  "druckausgabe": "II-1",
+  "zeilenstart": "1",
+  "foliostart": "155v",
+  "kommentar": "25.12. IK: Aufzeichnung zVischen Zeile 5 155v und Zeile 1, 156, durch Beginn des Tropenkomplexes \"Cui astat\" unterbrochen.",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "(Puer natus)",
+    "Endseite": "156",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "Aufzeichnung unterbrochen",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Nat III intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

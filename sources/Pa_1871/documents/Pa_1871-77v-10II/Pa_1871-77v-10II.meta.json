@@ -1,0 +1,41 @@
+{
+  "id": "09decaad-da49-4e75-a189-996803ecd5ef",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-77v-10II",
+  "gattung1": "Sequenz",
+  "gattung2": "Teiltextiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Suscitat proelia",
+  "bibliographischerverweis": "cf. AH 49, 529",
+  "druckausgabe": "",
+  "zeilenstart": "10",
+  "foliostart": "77v",
+  "kommentar": "Alternativtextierung, über der Zeile zugefügt, aber vermutlich von erster Hand.",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "78",
+    "Startposition": "II",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Celsa polorum",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "Celsa polorum",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

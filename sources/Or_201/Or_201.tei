@@ -1,0 +1,1497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Or 201: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Edition (Spiele)</resp>
+          <persName>Elaine Stratton Hild</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="Or_201">
+          <msIdentifier>
+            <settlement>Orléans</settlement>
+            <repository>Bibliothèque municipale</repository>
+            <idno type="shelfmark">Ms. 201</idno>
+            <altIdentifier type="siglum">
+              <idno>Or 201</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>Or 201</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="176">f. 176</locus>
+              <title type="incipit">In lamentum</title>
+              <idno type="dokumenten_id">Or 201-176-1</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="177">f. 177</locus>
+              <title type="incipit">Care pater</title>
+              <idno type="dokumenten_id">Or 201-177-11</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="177">f. 177</locus>
+              <title type="incipit">Cara mihi</title>
+              <idno type="dokumenten_id">Or 201-177-3</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="178">f. 178</locus>
+              <title type="incipit">Iam iam mecum</title>
+              <idno type="dokumenten_id">Or 201-178-10</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="179">f. 179</locus>
+              <title type="incipit">Gratiarum ergo</title>
+              <idno type="dokumenten_id">Or 201-179-1</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="179">f. 179</locus>
+              <title type="incipit">In te mea</title>
+              <idno type="dokumenten_id">Or 201-179-13</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="179">f. 179</locus>
+              <title type="incipit">Ergo tuae committo</title>
+              <idno type="dokumenten_id">Or 201-179-17</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="179">f. 179</locus>
+              <title type="incipit">Cara mihi*</title>
+              <idno type="dokumenten_id">Or 201-179-26a</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="179">f. 179</locus>
+              <title type="incipit">Noli pater</title>
+              <idno type="dokumenten_id">Or 201-179-26b</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="179">f. 179</locus>
+              <title type="incipit">Homo fame</title>
+              <idno type="dokumenten_id">Or 201-179-5</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="179">f. 179</locus>
+              <title type="incipit">Dic filia</title>
+              <idno type="dokumenten_id">Or 201-179-9</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="180">f. 180</locus>
+              <title type="incipit">Iam iam mecum*</title>
+              <idno type="dokumenten_id">Or 201-180-10a</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="180">f. 180</locus>
+              <title type="incipit">Gratiarum ergo*</title>
+              <idno type="dokumenten_id">Or 201-180-10b</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="180">f. 180</locus>
+              <title type="incipit">Homo fame*</title>
+              <idno type="dokumenten_id">Or 201-180-15a</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="180">f. 180</locus>
+              <title type="incipit">Dic filia*</title>
+              <idno type="dokumenten_id">Or 201-180-15b</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="180">f. 180</locus>
+              <title type="incipit">In te mea*</title>
+              <idno type="dokumenten_id">Or 201-180-19a</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="180">f. 180</locus>
+              <title type="incipit">Istam tuae committo</title>
+              <idno type="dokumenten_id">Or 201-180-19b</idno>
+            </msItem>
+            <msItem n="18">
+              <locus from="181">f. 181</locus>
+              <title type="incipit">Carum mihi</title>
+              <idno type="dokumenten_id">Or 201-181-1</idno>
+            </msItem>
+            <msItem n="19">
+              <locus from="181">f. 181</locus>
+              <title type="incipit">Meum quoque</title>
+              <idno type="dokumenten_id">Or 201-181-7</idno>
+            </msItem>
+            <msItem n="20">
+              <locus from="182">f. 182</locus>
+              <title type="incipit">Nicolaum me</title>
+              <idno type="dokumenten_id">Or 201-182-11</idno>
+            </msItem>
+            <msItem n="21">
+              <locus from="182">f. 182</locus>
+              <title type="incipit">Nata tibi*</title>
+              <idno type="dokumenten_id">Or 201-182-17</idno>
+            </msItem>
+            <msItem n="22">
+              <locus from="182">f. 182</locus>
+              <title type="incipit">Gratiarum ergo*</title>
+              <idno type="dokumenten_id">Or 201-182-27a</idno>
+            </msItem>
+            <msItem n="23">
+              <locus from="182">f. 182</locus>
+              <title type="incipit">Homo fame*</title>
+              <idno type="dokumenten_id">Or 201-182-27b</idno>
+            </msItem>
+            <msItem n="24">
+              <locus from="182">f. 182</locus>
+              <title type="incipit">Dic filia*</title>
+              <idno type="dokumenten_id">Or 201-182-32a</idno>
+            </msItem>
+            <msItem n="25">
+              <locus from="182">f. 182</locus>
+              <title type="incipit">In te mea*</title>
+              <idno type="dokumenten_id">Or 201-182-32b</idno>
+            </msItem>
+            <msItem n="26">
+              <locus from="182">f. 182</locus>
+              <title type="incipit">Istam tuae committo*</title>
+              <idno type="dokumenten_id">Or 201-182-32c</idno>
+            </msItem>
+            <msItem n="27">
+              <locus from="182">f. 182</locus>
+              <title type="incipit">O Christi pietas*</title>
+              <idno type="dokumenten_id">Or 201-182-37</idno>
+            </msItem>
+            <msItem n="28">
+              <locus from="182">f. 182</locus>
+              <title type="incipit">Siste gradum</title>
+              <idno type="dokumenten_id">Or 201-182-7</idno>
+            </msItem>
+            <msItem n="29">
+              <locus from="183">f. 183</locus>
+              <title type="incipit">Nos quos causa</title>
+              <idno type="dokumenten_id">Or 201-183-1</idno>
+            </msItem>
+            <msItem n="30">
+              <locus from="183">f. 183</locus>
+              <title type="incipit">Senem quemdam</title>
+              <idno type="dokumenten_id">Or 201-183-14</idno>
+            </msItem>
+            <msItem n="31">
+              <locus from="183">f. 183</locus>
+              <title type="incipit">Hospes care</title>
+              <idno type="dokumenten_id">Or 201-183-20</idno>
+            </msItem>
+            <msItem n="32">
+              <locus from="183">f. 183</locus>
+              <title type="incipit">Iam sol equos</title>
+              <idno type="dokumenten_id">Or 201-183-8</idno>
+            </msItem>
+            <msItem n="33">
+              <locus from="184">f. 184</locus>
+              <title type="incipit">Nos his dare</title>
+              <idno type="dokumenten_id">Or 201-184-14</idno>
+            </msItem>
+            <msItem n="34">
+              <locus from="184">f. 184</locus>
+              <title type="incipit">Acquiescam tuo</title>
+              <idno type="dokumenten_id">Or 201-184-16</idno>
+            </msItem>
+            <msItem n="35">
+              <locus from="184">f. 184</locus>
+              <title type="incipit">Hospitetur vos</title>
+              <idno type="dokumenten_id">Or 201-184-2</idno>
+            </msItem>
+            <msItem n="36">
+              <locus from="184">f. 184</locus>
+              <title type="incipit">Accedatis scholares</title>
+              <idno type="dokumenten_id">Or 201-184-21</idno>
+            </msItem>
+            <msItem n="37">
+              <locus from="184">f. 184</locus>
+              <title type="incipit">Per te cara</title>
+              <idno type="dokumenten_id">Or 201-184-9</idno>
+            </msItem>
+            <msItem n="38">
+              <locus from="185">f. 185</locus>
+              <title type="incipit">Peregrinus fessus</title>
+              <idno type="dokumenten_id">Or 201-185-14</idno>
+            </msItem>
+            <msItem n="39">
+              <locus from="185">f. 185</locus>
+              <title type="incipit">Nonne vides quanta</title>
+              <idno type="dokumenten_id">Or 201-185-5</idno>
+            </msItem>
+            <msItem n="40">
+              <locus from="185">f. 185</locus>
+              <title type="incipit">Paupertatis honus</title>
+              <idno type="dokumenten_id">Or 201-185-7</idno>
+            </msItem>
+            <msItem n="41">
+              <locus from="186">f. 186</locus>
+              <title type="incipit">An dignabor</title>
+              <idno type="dokumenten_id">Or 201-186-1</idno>
+            </msItem>
+            <msItem n="42">
+              <locus from="186">f. 186</locus>
+              <title type="incipit">Dabo tibi carnem</title>
+              <idno type="dokumenten_id">Or 201-186-10</idno>
+            </msItem>
+            <msItem n="43">
+              <locus from="186">f. 186</locus>
+              <title type="incipit">Nunc dixisti plane</title>
+              <idno type="dokumenten_id">Or 201-186-15</idno>
+            </msItem>
+            <msItem n="44">
+              <locus from="186">f. 186</locus>
+              <title type="incipit">Hunc personam</title>
+              <idno type="dokumenten_id">Or 201-186-2</idno>
+            </msItem>
+            <msItem n="45">
+              <locus from="186">f. 186</locus>
+              <title type="incipit">Peregrine accede</title>
+              <idno type="dokumenten_id">Or 201-186-3</idno>
+            </msItem>
+            <msItem n="46">
+              <locus from="186">f. 186</locus>
+              <title type="incipit">Nihil ex his</title>
+              <idno type="dokumenten_id">Or 201-186-8</idno>
+            </msItem>
+            <msItem n="47">
+              <locus from="187">f. 187</locus>
+              <title type="incipit">Mortuorum afferte</title>
+              <idno type="dokumenten_id">Or 201-187-10</idno>
+            </msItem>
+            <msItem n="48">
+              <locus from="187">f. 187</locus>
+              <title type="incipit">Pie deus</title>
+              <idno type="dokumenten_id">Or 201-187-16</idno>
+            </msItem>
+            <msItem n="49">
+              <locus from="187">f. 187</locus>
+              <title type="incipit">Te deum laudamus*</title>
+              <idno type="dokumenten_id">Or 201-187-22</idno>
+            </msItem>
+            <msItem n="50">
+              <locus from="187">f. 187</locus>
+              <title type="incipit">Miserere nostri te</title>
+              <idno type="dokumenten_id">Or 201-187-5</idno>
+            </msItem>
+            <msItem n="51">
+              <locus from="188">f. 188</locus>
+              <title type="incipit">Si quae dicta</title>
+              <idno type="dokumenten_id">Or 201-188-8</idno>
+            </msItem>
+            <msItem n="52">
+              <locus from="190">f. 190</locus>
+              <title type="incipit">Audite socii</title>
+              <idno type="dokumenten_id">Or 201-190-14</idno>
+            </msItem>
+            <msItem n="53">
+              <locus from="190">f. 190</locus>
+              <title type="incipit">Quid agemus</title>
+              <idno type="dokumenten_id">Or 201-190-8</idno>
+            </msItem>
+            <msItem n="54">
+              <locus from="191">f. 191</locus>
+              <title type="incipit">Nos oportet</title>
+              <idno type="dokumenten_id">Or 201-191-14</idno>
+            </msItem>
+            <msItem n="55">
+              <locus from="191">f. 191</locus>
+              <title type="incipit">O quanta exsultatio</title>
+              <idno type="dokumenten_id">Or 201-191-20</idno>
+            </msItem>
+            <msItem n="56">
+              <locus from="191">f. 191</locus>
+              <title type="incipit">Vah perii</title>
+              <idno type="dokumenten_id">Or 201-191-25</idno>
+            </msItem>
+            <msItem n="57">
+              <locus from="191">f. 191</locus>
+              <title type="incipit">Arcam istam</title>
+              <idno type="dokumenten_id">Or 201-191-8</idno>
+            </msItem>
+            <msItem n="58">
+              <locus from="193">f. 193</locus>
+              <title type="incipit">Quid profani</title>
+              <idno type="dokumenten_id">Or 201-193-12</idno>
+            </msItem>
+            <msItem n="59">
+              <locus from="195">f. 195</locus>
+              <title type="incipit">Est melius haec</title>
+              <idno type="dokumenten_id">Or 201-195-12</idno>
+            </msItem>
+            <msItem n="60">
+              <locus from="195">f. 195</locus>
+              <title type="incipit">Redeamus et</title>
+              <idno type="dokumenten_id">Or 201-195-24a</idno>
+            </msItem>
+            <msItem n="61">
+              <locus from="195">f. 195</locus>
+              <title type="incipit">Congaudete mihi</title>
+              <idno type="dokumenten_id">Or 201-195-24b</idno>
+            </msItem>
+            <msItem n="62">
+              <locus from="195">f. 195</locus>
+              <title type="incipit">Quanta mors es</title>
+              <idno type="dokumenten_id">Or 201-195-6</idno>
+            </msItem>
+            <msItem n="63">
+              <locus from="195">f. 195</locus>
+              <title type="incipit">In isto negotio</title>
+              <idno type="dokumenten_id">Or 201-195-7</idno>
+            </msItem>
+            <msItem n="64">
+              <locus from="196">f. 196</locus>
+              <title type="incipit">Statuit ei dominus*</title>
+              <idno type="dokumenten_id">Or 201-196-10</idno>
+            </msItem>
+            <msItem n="65">
+              <locus from="196">f. 196</locus>
+              <title type="incipit">Salve princeps salve</title>
+              <idno type="dokumenten_id">Or 201-196-16</idno>
+            </msItem>
+            <msItem n="66">
+              <locus from="196">f. 196</locus>
+              <title type="incipit">Ite ergo ne</title>
+              <idno type="dokumenten_id">Or 201-196-29</idno>
+            </msItem>
+            <msItem n="67">
+              <locus from="196">f. 196</locus>
+              <title type="incipit">Quod iussisti</title>
+              <idno type="dokumenten_id">Or 201-196-40</idno>
+            </msItem>
+            <msItem n="68">
+              <locus from="197">f. 197</locus>
+              <title type="incipit">Excorande principans</title>
+              <idno type="dokumenten_id">Or 201-197-16</idno>
+            </msItem>
+            <msItem n="69">
+              <locus from="197">f. 197</locus>
+              <title type="incipit">Deus meus Apollo</title>
+              <idno type="dokumenten_id">Or 201-197-18</idno>
+            </msItem>
+            <msItem n="70">
+              <locus from="197">f. 197</locus>
+              <title type="incipit">Apolloni qui</title>
+              <idno type="dokumenten_id">Or 201-197-7</idno>
+            </msItem>
+            <msItem n="71">
+              <locus from="198">f. 198</locus>
+              <title type="incipit">Heu heu heu ... misere quid</title>
+              <idno type="dokumenten_id">Or 201-198-12</idno>
+            </msItem>
+            <msItem n="72">
+              <locus from="198">f. 198</locus>
+              <title type="incipit">Deus tuus mendax</title>
+              <idno type="dokumenten_id">Or 201-198-2</idno>
+            </msItem>
+            <msItem n="73">
+              <locus from="198">f. 198</locus>
+              <title type="incipit">Noli puer talia</title>
+              <idno type="dokumenten_id">Or 201-198-4</idno>
+            </msItem>
+            <msItem n="74">
+              <locus from="200">f. 200</locus>
+              <title type="incipit">Cara soror lugere</title>
+              <idno type="dokumenten_id">Or 201-200-10</idno>
+            </msItem>
+            <msItem n="75">
+              <locus from="201">f. 201</locus>
+              <title type="incipit">Summe regum rex</title>
+              <idno type="dokumenten_id">Or 201-201-14</idno>
+            </msItem>
+            <msItem n="76">
+              <locus from="202">f. 202</locus>
+              <title type="incipit">Ad praeceptum</title>
+              <idno type="dokumenten_id">Or 201-202-17</idno>
+            </msItem>
+            <msItem n="77">
+              <locus from="202">f. 202</locus>
+              <title type="incipit">Dico vobis mei</title>
+              <idno type="dokumenten_id">Or 201-202-9</idno>
+            </msItem>
+            <msItem n="78">
+              <locus from="203">f. 203</locus>
+              <title type="incipit">Esurivi et modo</title>
+              <idno type="dokumenten_id">Or 201-203-1</idno>
+            </msItem>
+            <msItem n="79">
+              <locus from="203">f. 203</locus>
+              <title type="incipit">Recordatus meae</title>
+              <idno type="dokumenten_id">Or 201-203-10</idno>
+            </msItem>
+            <msItem n="80">
+              <locus from="203">f. 203</locus>
+              <title type="incipit">Heu miselle</title>
+              <idno type="dokumenten_id">Or 201-203-13</idno>
+            </msItem>
+            <msItem n="81">
+              <locus from="203">f. 203</locus>
+              <title type="incipit">Heu heu heu ... misero</title>
+              <idno type="dokumenten_id">Or 201-203-7</idno>
+            </msItem>
+            <msItem n="82">
+              <locus from="203">f. 203</locus>
+              <title type="incipit">Pro qua causa</title>
+              <idno type="dokumenten_id">Or 201-203-9</idno>
+            </msItem>
+            <msItem n="83">
+              <locus from="204">f. 204</locus>
+              <title type="incipit">Gaude Getron</title>
+              <idno type="dokumenten_id">Or 201-204-15</idno>
+            </msItem>
+            <msItem n="84">
+              <locus from="204">f. 204</locus>
+              <title type="incipit">Deo nostro sit laus</title>
+              <idno type="dokumenten_id">Or 201-204-23</idno>
+            </msItem>
+            <msItem n="85">
+              <locus from="204">f. 204</locus>
+              <title type="incipit">Puer quis es</title>
+              <idno type="dokumenten_id">Or 201-204-7</idno>
+            </msItem>
+            <msItem n="86">
+              <locus from="204">f. 204</locus>
+              <title type="incipit">Huc venio non</title>
+              <idno type="dokumenten_id">Or 201-204-8</idno>
+            </msItem>
+            <msItem n="87">
+              <locus from="205">f. 205</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Or 201-205-18</idno>
+            </msItem>
+            <msItem n="88">
+              <locus from="205">f. 205</locus>
+              <title type="incipit">Transeamus usque</title>
+              <idno type="dokumenten_id">Or 201-205-25</idno>
+            </msItem>
+            <msItem n="89">
+              <locus from="205">f. 205</locus>
+              <title type="incipit">Copiosae caritatis*</title>
+              <idno type="dokumenten_id">Or 201-205-6</idno>
+            </msItem>
+            <msItem n="90">
+              <locus from="205">f. 205</locus>
+              <title type="incipit">Nolite timere vos ecce</title>
+              <idno type="dokumenten_id">Or 201-205-9</idno>
+            </msItem>
+            <msItem n="91">
+              <locus from="206">f. 206</locus>
+              <title type="incipit">Salve rex saeculorum</title>
+              <idno type="dokumenten_id">Or 201-206-22</idno>
+            </msItem>
+            <msItem n="92">
+              <locus from="206">f. 206</locus>
+              <title type="incipit">Venite venite venite</title>
+              <idno type="dokumenten_id">Or 201-206-23</idno>
+            </msItem>
+            <msItem n="93">
+              <locus from="206">f. 206</locus>
+              <title type="incipit">Stella fulgore</title>
+              <idno type="dokumenten_id">Or 201-206-29</idno>
+            </msItem>
+            <msItem n="94">
+              <locus from="206">f. 206</locus>
+              <title type="incipit">Quem quaeritis in praesepe</title>
+              <idno type="dokumenten_id">Or 201-206-7</idno>
+            </msItem>
+            <msItem n="95">
+              <locus from="207">f. 207</locus>
+              <title type="incipit">Pax tibi frater</title>
+              <idno type="dokumenten_id">Or 201-207-10a</idno>
+            </msItem>
+            <msItem n="96">
+              <locus from="207">f. 207</locus>
+              <title type="incipit">Pax quoque tibi</title>
+              <idno type="dokumenten_id">Or 201-207-10b</idno>
+            </msItem>
+            <msItem n="97">
+              <locus from="207">f. 207</locus>
+              <title type="incipit">Ecce stella ecce stella ecce</title>
+              <idno type="dokumenten_id">Or 201-207-16</idno>
+            </msItem>
+            <msItem n="98">
+              <locus from="207">f. 207</locus>
+              <title type="incipit">Eamus ergo ... quia scriptum</title>
+              <idno type="dokumenten_id">Or 201-207-17</idno>
+            </msItem>
+            <msItem n="99">
+              <locus from="207">f. 207</locus>
+              <title type="incipit">Dicite nobis o</title>
+              <idno type="dokumenten_id">Or 201-207-26</idno>
+            </msItem>
+            <msItem n="100">
+              <locus from="207">f. 207</locus>
+              <title type="incipit">Quae rerum novitas</title>
+              <idno type="dokumenten_id">Or 201-207-33</idno>
+            </msItem>
+            <msItem n="101">
+              <locus from="207">f. 207</locus>
+              <title type="incipit">Quem venturum</title>
+              <idno type="dokumenten_id">Or 201-207-5</idno>
+            </msItem>
+            <msItem n="102">
+              <locus from="207">f. 207</locus>
+              <title type="incipit">Pax tibi frater</title>
+              <idno type="dokumenten_id">Or 201-207-7</idno>
+            </msItem>
+            <msItem n="103">
+              <locus from="207">f. 207</locus>
+              <title type="incipit">Pax quoque tibi</title>
+              <idno type="dokumenten_id">Or 201-207-8</idno>
+            </msItem>
+            <msItem n="104">
+              <locus from="208">f. 208</locus>
+              <title type="incipit">Vivat rex</title>
+              <idno type="dokumenten_id">Or 201-208-15a</idno>
+            </msItem>
+            <msItem n="105">
+              <locus from="208">f. 208</locus>
+              <title type="incipit">Salvet te gratia</title>
+              <idno type="dokumenten_id">Or 201-208-15b</idno>
+            </msItem>
+            <msItem n="106">
+              <locus from="208">f. 208</locus>
+              <title type="incipit">Adsunt nobis</title>
+              <idno type="dokumenten_id">Or 201-208-16</idno>
+            </msItem>
+            <msItem n="107">
+              <locus from="208">f. 208</locus>
+              <title type="incipit">Laeti inquisitores</title>
+              <idno type="dokumenten_id">Or 201-208-22</idno>
+            </msItem>
+            <msItem n="108">
+              <locus from="208">f. 208</locus>
+              <title type="incipit">Principis edictu</title>
+              <idno type="dokumenten_id">Or 201-208-28</idno>
+            </msItem>
+            <msItem n="109">
+              <locus from="208">f. 208</locus>
+              <title type="incipit">Chaldei sumus</title>
+              <idno type="dokumenten_id">Or 201-208-8</idno>
+            </msItem>
+            <msItem n="110">
+              <locus from="209">f. 209</locus>
+              <title type="incipit">Regem quaesitum</title>
+              <idno type="dokumenten_id">Or 201-209-1</idno>
+            </msItem>
+            <msItem n="111">
+              <locus from="209">f. 209</locus>
+              <title type="incipit">Ante venire</title>
+              <idno type="dokumenten_id">Or 201-209-14</idno>
+            </msItem>
+            <msItem n="112">
+              <locus from="209">f. 209</locus>
+              <title type="incipit">Quod mandas</title>
+              <idno type="dokumenten_id">Or 201-209-21</idno>
+            </msItem>
+            <msItem n="113">
+              <locus from="209">f. 209</locus>
+              <title type="incipit">Quae sit causa</title>
+              <idno type="dokumenten_id">Or 201-209-33</idno>
+            </msItem>
+            <msItem n="114">
+              <locus from="209">f. 209</locus>
+              <title type="incipit">Rex est causa</title>
+              <idno type="dokumenten_id">Or 201-209-34</idno>
+            </msItem>
+            <msItem n="115">
+              <locus from="209">f. 209</locus>
+              <title type="incipit">Reges sunt Arabum</title>
+              <idno type="dokumenten_id">Or 201-209-8</idno>
+            </msItem>
+            <msItem n="116">
+              <locus from="210">f. 210</locus>
+              <title type="incipit">Auro regem</title>
+              <idno type="dokumenten_id">Or 201-210-15a</idno>
+            </msItem>
+            <msItem n="117">
+              <locus from="210">f. 210</locus>
+              <title type="incipit">Ture deum</title>
+              <idno type="dokumenten_id">Or 201-210-15b</idno>
+            </msItem>
+            <msItem n="118">
+              <locus from="210">f. 210</locus>
+              <title type="incipit">Murra mortalem</title>
+              <idno type="dokumenten_id">Or 201-210-15c</idno>
+            </msItem>
+            <msItem n="119">
+              <locus from="210">f. 210</locus>
+              <title type="incipit">Vos mei symmystae</title>
+              <idno type="dokumenten_id">Or 201-210-21</idno>
+            </msItem>
+            <msItem n="120">
+              <locus from="210">f. 210</locus>
+              <title type="incipit">Vos legis periti</title>
+              <idno type="dokumenten_id">Or 201-210-32</idno>
+            </msItem>
+            <msItem n="121">
+              <locus from="210">f. 210</locus>
+              <title type="incipit">Regem quem quaeritis</title>
+              <idno type="dokumenten_id">Or 201-210-5</idno>
+            </msItem>
+            <msItem n="122">
+              <locus from="210">f. 210</locus>
+              <title type="incipit">Illum natum esse</title>
+              <idno type="dokumenten_id">Or 201-210-6a</idno>
+            </msItem>
+            <msItem n="123">
+              <locus from="210">f. 210</locus>
+              <title type="incipit">Si illum regnare</title>
+              <idno type="dokumenten_id">Or 201-210-6b</idno>
+            </msItem>
+            <msItem n="124">
+              <locus from="210">f. 210</locus>
+              <title type="incipit">Illum regnare fatentes</title>
+              <idno type="dokumenten_id">Or 201-210-7</idno>
+            </msItem>
+            <msItem n="125">
+              <locus from="211">f. 211</locus>
+              <title type="incipit">O vos scribae</title>
+              <idno type="dokumenten_id">Or 201-211-1</idno>
+            </msItem>
+            <msItem n="126">
+              <locus from="211">f. 211</locus>
+              <title type="incipit">Bethlehem non es minima*</title>
+              <idno type="dokumenten_id">Or 201-211-13</idno>
+            </msItem>
+            <msItem n="127">
+              <locus from="211">f. 211</locus>
+              <title type="incipit">Salve pater inclite</title>
+              <idno type="dokumenten_id">Or 201-211-15</idno>
+            </msItem>
+            <msItem n="128">
+              <locus from="211">f. 211</locus>
+              <title type="incipit">Vidimus domine</title>
+              <idno type="dokumenten_id">Or 201-211-4</idno>
+            </msItem>
+            <msItem n="129">
+              <locus from="212">f. 212</locus>
+              <title type="incipit">Ite et de puero</title>
+              <idno type="dokumenten_id">Or 201-212-1</idno>
+            </msItem>
+            <msItem n="130">
+              <locus from="212">f. 212</locus>
+              <title type="incipit">Ecce stella in oriente</title>
+              <idno type="dokumenten_id">Or 201-212-12</idno>
+            </msItem>
+            <msItem n="131">
+              <locus from="212">f. 212</locus>
+              <title type="incipit">O regem caeli*</title>
+              <idno type="dokumenten_id">Or 201-212-17a</idno>
+            </msItem>
+            <msItem n="132">
+              <locus from="212">f. 212</locus>
+              <title type="incipit">Quem vidistis pastores ... secundum</title>
+              <idno type="dokumenten_id">Or 201-212-17b</idno>
+            </msItem>
+            <msItem n="133">
+              <locus from="212">f. 212</locus>
+              <title type="incipit">Quem non praevalent</title>
+              <idno type="dokumenten_id">Or 201-212-24</idno>
+            </msItem>
+            <msItem n="134">
+              <locus from="213">f. 213</locus>
+              <title type="incipit">Nos sumus quos</title>
+              <idno type="dokumenten_id">Or 201-213-10</idno>
+            </msItem>
+            <msItem n="135">
+              <locus from="213">f. 213</locus>
+              <title type="incipit">Ecce puer adest</title>
+              <idno type="dokumenten_id">Or 201-213-16</idno>
+            </msItem>
+            <msItem n="136">
+              <locus from="213">f. 213</locus>
+              <title type="incipit">Salve rex saeculorum</title>
+              <idno type="dokumenten_id">Or 201-213-18</idno>
+            </msItem>
+            <msItem n="137">
+              <locus from="213">f. 213</locus>
+              <title type="incipit">Qui sunt hi qui stella</title>
+              <idno type="dokumenten_id">Or 201-213-9</idno>
+            </msItem>
+            <msItem n="138">
+              <locus from="214">f. 214</locus>
+              <title type="incipit">Impleta sunt omnia</title>
+              <idno type="dokumenten_id">Or 201-214-12</idno>
+            </msItem>
+            <msItem n="139">
+              <locus from="214">f. 214</locus>
+              <title type="incipit">Deo gratias surgamus</title>
+              <idno type="dokumenten_id">Or 201-214-18</idno>
+            </msItem>
+            <msItem n="140">
+              <locus from="214">f. 214</locus>
+              <title type="incipit">O admirabile commercium*</title>
+              <idno type="dokumenten_id">Or 201-214-25</idno>
+            </msItem>
+            <msItem n="141">
+              <locus from="214">f. 214</locus>
+              <title type="incipit">Gaudete fratres</title>
+              <idno type="dokumenten_id">Or 201-214-31a</idno>
+            </msItem>
+            <msItem n="142">
+              <locus from="214">f. 214</locus>
+              <title type="incipit">Te deum laudamus*</title>
+              <idno type="dokumenten_id">Or 201-214-31b</idno>
+            </msItem>
+            <msItem n="143">
+              <locus from="214">f. 214</locus>
+              <title type="incipit">Suscipe rex aurum</title>
+              <idno type="dokumenten_id">Or 201-214-5</idno>
+            </msItem>
+            <msItem n="144">
+              <locus from="215">f. 215</locus>
+              <title type="incipit">Super solium David*</title>
+              <idno type="dokumenten_id">Or 201-215-13a</idno>
+            </msItem>
+            <msItem n="145">
+              <locus from="215">f. 215</locus>
+              <title type="incipit">Ioseph Ioseph ... tolle</title>
+              <idno type="dokumenten_id">Or 201-215-13b</idno>
+            </msItem>
+            <msItem n="146">
+              <locus from="215">f. 215</locus>
+              <title type="incipit">Aegypte noli flere*</title>
+              <idno type="dokumenten_id">Or 201-215-26a</idno>
+            </msItem>
+            <msItem n="147">
+              <locus from="215">f. 215</locus>
+              <title type="incipit">Rex in aeternum...delusus es domine</title>
+              <idno type="dokumenten_id">Or 201-215-26b</idno>
+            </msItem>
+            <msItem n="148">
+              <locus from="215">f. 215</locus>
+              <title type="incipit">Incendium meum</title>
+              <idno type="dokumenten_id">Or 201-215-32</idno>
+            </msItem>
+            <msItem n="149">
+              <locus from="215">f. 215</locus>
+              <title type="incipit">Agno sacrato</title>
+              <idno type="dokumenten_id">Or 201-215-38</idno>
+            </msItem>
+            <msItem n="150">
+              <locus from="215">f. 215</locus>
+              <title type="incipit">O quam gloriosum*</title>
+              <idno type="dokumenten_id">Or 201-215-7a</idno>
+            </msItem>
+            <msItem n="151">
+              <locus from="215">f. 215</locus>
+              <title type="incipit">Emitte agnum*</title>
+              <idno type="dokumenten_id">Or 201-215-7b</idno>
+            </msItem>
+            <msItem n="152">
+              <locus from="216">f. 216</locus>
+              <title type="incipit">Armiger eximie</title>
+              <idno type="dokumenten_id">Or 201-216-14</idno>
+            </msItem>
+            <msItem n="153">
+              <locus from="216">f. 216</locus>
+              <title type="incipit">Salve agnus dei</title>
+              <idno type="dokumenten_id">Or 201-216-20</idno>
+            </msItem>
+            <msItem n="154">
+              <locus from="216">f. 216</locus>
+              <title type="incipit">Oremus tenere natorum</title>
+              <idno type="dokumenten_id">Or 201-216-25</idno>
+            </msItem>
+            <msItem n="155">
+              <locus from="216">f. 216</locus>
+              <title type="incipit">Vos qui in pulvere</title>
+              <idno type="dokumenten_id">Or 201-216-30</idno>
+            </msItem>
+            <msItem n="156">
+              <locus from="216">f. 216</locus>
+              <title type="incipit">Quare non defendis</title>
+              <idno type="dokumenten_id">Or 201-216-36</idno>
+            </msItem>
+            <msItem n="157">
+              <locus from="216">f. 216</locus>
+              <title type="incipit">Decerne domine</title>
+              <idno type="dokumenten_id">Or 201-216-8</idno>
+            </msItem>
+            <msItem n="158">
+              <locus from="217">f. 217</locus>
+              <title type="incipit">Noli virgo Rachel</title>
+              <idno type="dokumenten_id">Or 201-217-18</idno>
+            </msItem>
+            <msItem n="159">
+              <locus from="217">f. 217</locus>
+              <title type="incipit">Heu teneri partus</title>
+              <idno type="dokumenten_id">Or 201-217-8</idno>
+            </msItem>
+            <msItem n="160">
+              <locus from="218">f. 218</locus>
+              <title type="incipit">Quid tu virgo</title>
+              <idno type="dokumenten_id">Or 201-218-15</idno>
+            </msItem>
+            <msItem n="161">
+              <locus from="218">f. 218</locus>
+              <title type="incipit">Heu heu ... quomodo</title>
+              <idno type="dokumenten_id">Or 201-218-5</idno>
+            </msItem>
+            <msItem n="162">
+              <locus from="219">f. 219</locus>
+              <title type="incipit">Anxiatus est</title>
+              <idno type="dokumenten_id">Or 201-219-14</idno>
+            </msItem>
+            <msItem n="163">
+              <locus from="219">f. 219</locus>
+              <title type="incipit">Sinite parvulos*</title>
+              <idno type="dokumenten_id">Or 201-219-20</idno>
+            </msItem>
+            <msItem n="164">
+              <locus from="219">f. 219</locus>
+              <title type="incipit">O Christe quantum</title>
+              <idno type="dokumenten_id">Or 201-219-26</idno>
+            </msItem>
+            <msItem n="165">
+              <locus from="219">f. 219</locus>
+              <title type="incipit">Ioseph Ioseph ... revertere</title>
+              <idno type="dokumenten_id">Or 201-219-33</idno>
+            </msItem>
+            <msItem n="166">
+              <locus from="220">f. 220</locus>
+              <title type="incipit">Gaude gaude gaude*</title>
+              <idno type="dokumenten_id">Or 201-220-11a</idno>
+            </msItem>
+            <msItem n="167">
+              <locus from="220">f. 220</locus>
+              <title type="incipit">Te deum laudamus*</title>
+              <idno type="dokumenten_id">Or 201-220-11b</idno>
+            </msItem>
+            <msItem n="168">
+              <locus from="220">f. 220</locus>
+              <title type="incipit">Heu pius pastor</title>
+              <idno type="dokumenten_id">Or 201-220-16</idno>
+            </msItem>
+            <msItem n="169">
+              <locus from="221">f. 221</locus>
+              <title type="incipit">Quem quaeritis in sepulchro</title>
+              <idno type="dokumenten_id">Or 201-221-15</idno>
+            </msItem>
+            <msItem n="170">
+              <locus from="221">f. 221</locus>
+              <title type="incipit">Quid Christicolae viventem</title>
+              <idno type="dokumenten_id">Or 201-221-20</idno>
+            </msItem>
+            <msItem n="171">
+              <locus from="221">f. 221</locus>
+              <title type="incipit">Sed nequimus</title>
+              <idno type="dokumenten_id">Or 201-221-8</idno>
+            </msItem>
+            <msItem n="172">
+              <locus from="222">f. 222</locus>
+              <title type="incipit">Heu dolor heu quam</title>
+              <idno type="dokumenten_id">Or 201-222-11</idno>
+            </msItem>
+            <msItem n="173">
+              <locus from="222">f. 222</locus>
+              <title type="incipit">Miranda sunt</title>
+              <idno type="dokumenten_id">Or 201-222-29a</idno>
+            </msItem>
+            <msItem n="174">
+              <locus from="222">f. 222</locus>
+              <title type="incipit">Imo ut praedixit</title>
+              <idno type="dokumenten_id">Or 201-222-29b</idno>
+            </msItem>
+            <msItem n="175">
+              <locus from="222">f. 222</locus>
+              <title type="incipit">Sed cur liquit</title>
+              <idno type="dokumenten_id">Or 201-222-30</idno>
+            </msItem>
+            <msItem n="176">
+              <locus from="222">f. 222</locus>
+              <title type="incipit">Ad monumentum domini venimus</title>
+              <idno type="dokumenten_id">Or 201-222-5</idno>
+            </msItem>
+            <msItem n="177">
+              <locus from="223">f. 223</locus>
+              <title type="incipit">Mulier quid ploras quem quaeris</title>
+              <idno type="dokumenten_id">Or 201-223-13a</idno>
+            </msItem>
+            <msItem n="178">
+              <locus from="223">f. 223</locus>
+              <title type="incipit">Domine si tu</title>
+              <idno type="dokumenten_id">Or 201-223-13b</idno>
+            </msItem>
+            <msItem n="179">
+              <locus from="223">f. 223</locus>
+              <title type="incipit">Maria</title>
+              <idno type="dokumenten_id">Or 201-223-17a</idno>
+            </msItem>
+            <msItem n="180">
+              <locus from="223">f. 223</locus>
+              <title type="incipit">Rabboni</title>
+              <idno type="dokumenten_id">Or 201-223-17b</idno>
+            </msItem>
+            <msItem n="181">
+              <locus from="223">f. 223</locus>
+              <title type="incipit">Noli me tangere</title>
+              <idno type="dokumenten_id">Or 201-223-22</idno>
+            </msItem>
+            <msItem n="182">
+              <locus from="223">f. 223</locus>
+              <title type="incipit">Congratulamini mihi</title>
+              <idno type="dokumenten_id">Or 201-223-28</idno>
+            </msItem>
+            <msItem n="183">
+              <locus from="223">f. 223</locus>
+              <title type="incipit">Heu dolor heu quam*</title>
+              <idno type="dokumenten_id">Or 201-223-5a</idno>
+            </msItem>
+            <msItem n="184">
+              <locus from="223">f. 223</locus>
+              <title type="incipit">Mulier quid ploras</title>
+              <idno type="dokumenten_id">Or 201-223-5b</idno>
+            </msItem>
+            <msItem n="185">
+              <locus from="223">f. 223</locus>
+              <title type="incipit">Quia tulerunt dominum</title>
+              <idno type="dokumenten_id">Or 201-223-6a</idno>
+            </msItem>
+            <msItem n="186">
+              <locus from="223">f. 223</locus>
+              <title type="incipit">Noli flere Maria</title>
+              <idno type="dokumenten_id">Or 201-223-6b</idno>
+            </msItem>
+            <msItem n="187">
+              <locus from="223">f. 223</locus>
+              <title type="incipit">Ardens est cor</title>
+              <idno type="dokumenten_id">Or 201-223-7</idno>
+            </msItem>
+            <msItem n="188">
+              <locus from="224">f. 224</locus>
+              <title type="incipit">Surrexit dominus de sepulchro ... alleluia</title>
+              <idno type="dokumenten_id">Or 201-224-14</idno>
+            </msItem>
+            <msItem n="189">
+              <locus from="224">f. 224</locus>
+              <title type="incipit">Cernite vos</title>
+              <idno type="dokumenten_id">Or 201-224-20</idno>
+            </msItem>
+            <msItem n="190">
+              <locus from="224">f. 224</locus>
+              <title type="incipit">Resurrexit hodie deus</title>
+              <idno type="dokumenten_id">Or 201-224-27</idno>
+            </msItem>
+            <msItem n="191">
+              <locus from="224">f. 224</locus>
+              <title type="incipit">Venite et videte ... nolite</title>
+              <idno type="dokumenten_id">Or 201-224-6</idno>
+            </msItem>
+            <msItem n="192">
+              <locus from="224">f. 224</locus>
+              <title type="incipit">Cito euntes</title>
+              <idno type="dokumenten_id">Or 201-224-8</idno>
+            </msItem>
+            <msItem n="193">
+              <locus from="225">f. 225</locus>
+              <title type="incipit">Te deum laudamus*</title>
+              <idno type="dokumenten_id">Or 201-225-13</idno>
+            </msItem>
+            <msItem n="194">
+              <locus from="225">f. 225</locus>
+              <title type="incipit">Heu misere cur</title>
+              <idno type="dokumenten_id">Or 201-225-14</idno>
+            </msItem>
+            <msItem n="195">
+              <locus from="225">f. 225</locus>
+              <title type="incipit">Nolite timere vos</title>
+              <idno type="dokumenten_id">Or 201-225-1a</idno>
+            </msItem>
+            <msItem n="196">
+              <locus from="225">f. 225</locus>
+              <title type="incipit">Ite nuntiate fratribus</title>
+              <idno type="dokumenten_id">Or 201-225-1b</idno>
+            </msItem>
+            <msItem n="197">
+              <locus from="225">f. 225</locus>
+              <title type="incipit">Iam iam ecce</title>
+              <idno type="dokumenten_id">Or 201-225-21</idno>
+            </msItem>
+            <msItem n="198">
+              <locus from="225">f. 225</locus>
+              <title type="incipit">Iesu nostra redemptio*</title>
+              <idno type="dokumenten_id">Or 201-225-35</idno>
+            </msItem>
+            <msItem n="199">
+              <locus from="225">f. 225</locus>
+              <title type="incipit">Qui sunt hi sermones</title>
+              <idno type="dokumenten_id">Or 201-225-36</idno>
+            </msItem>
+            <msItem n="200">
+              <locus from="225">f. 225</locus>
+              <title type="incipit">Alleluia resurrexit hodie</title>
+              <idno type="dokumenten_id">Or 201-225-7a</idno>
+            </msItem>
+            <msItem n="201">
+              <locus from="225">f. 225</locus>
+              <title type="incipit">Leo fortis Christus</title>
+              <idno type="dokumenten_id">Or 201-225-7b</idno>
+            </msItem>
+            <msItem n="202">
+              <locus from="226">f. 226</locus>
+              <title type="incipit">Quomodo eum tradiderunt</title>
+              <idno type="dokumenten_id">Or 201-226-14</idno>
+            </msItem>
+            <msItem n="203">
+              <locus from="226">f. 226</locus>
+              <title type="incipit">O stulti et tardi</title>
+              <idno type="dokumenten_id">Or 201-226-22</idno>
+            </msItem>
+            <msItem n="204">
+              <locus from="226">f. 226</locus>
+              <title type="incipit">Sol occasum</title>
+              <idno type="dokumenten_id">Or 201-226-29</idno>
+            </msItem>
+            <msItem n="205">
+              <locus from="226">f. 226</locus>
+              <title type="incipit">Mane nobiscum</title>
+              <idno type="dokumenten_id">Or 201-226-31</idno>
+            </msItem>
+            <msItem n="206">
+              <locus from="227">f. 227</locus>
+              <title type="incipit">Sol vergens</title>
+              <idno type="dokumenten_id">Or 201-227-1</idno>
+            </msItem>
+            <msItem n="207">
+              <locus from="227">f. 227</locus>
+              <title type="incipit">Pacem relinquo vobis</title>
+              <idno type="dokumenten_id">Or 201-227-14</idno>
+            </msItem>
+            <msItem n="208">
+              <locus from="227">f. 227</locus>
+              <title type="incipit">Nonne cor nostrum</title>
+              <idno type="dokumenten_id">Or 201-227-22</idno>
+            </msItem>
+            <msItem n="209">
+              <locus from="227">f. 227</locus>
+              <title type="incipit">Heu miseri ubi</title>
+              <idno type="dokumenten_id">Or 201-227-23</idno>
+            </msItem>
+            <msItem n="210">
+              <locus from="227">f. 227</locus>
+              <title type="incipit">Surrexit dominus et apparuit</title>
+              <idno type="dokumenten_id">Or 201-227-31</idno>
+            </msItem>
+            <msItem n="211">
+              <locus from="227">f. 227</locus>
+              <title type="incipit">Pax vobis ego sum nolite</title>
+              <idno type="dokumenten_id">Or 201-227-37a</idno>
+            </msItem>
+            <msItem n="212">
+              <locus from="227">f. 227</locus>
+              <title type="incipit">Quis est iste qui</title>
+              <idno type="dokumenten_id">Or 201-227-37b</idno>
+            </msItem>
+            <msItem n="213">
+              <locus from="228">f. 228</locus>
+              <title type="incipit">Pax vobis</title>
+              <idno type="dokumenten_id">Or 201-228-13a</idno>
+            </msItem>
+            <msItem n="214">
+              <locus from="228">f. 228</locus>
+              <title type="incipit">Surrexit dominus de sepulchro ... alleluia</title>
+              <idno type="dokumenten_id">Or 201-228-13b</idno>
+            </msItem>
+            <msItem n="215">
+              <locus from="228">f. 228</locus>
+              <title type="incipit">Quid turbati estis</title>
+              <idno type="dokumenten_id">Or 201-228-20</idno>
+            </msItem>
+            <msItem n="216">
+              <locus from="228">f. 228</locus>
+              <title type="incipit">Accipite spiritum sanctum</title>
+              <idno type="dokumenten_id">Or 201-228-36</idno>
+            </msItem>
+            <msItem n="217">
+              <locus from="228">f. 228</locus>
+              <title type="incipit">Adam novus</title>
+              <idno type="dokumenten_id">Or 201-228-43</idno>
+            </msItem>
+            <msItem n="218">
+              <locus from="228">f. 228</locus>
+              <title type="incipit">Pax vobis</title>
+              <idno type="dokumenten_id">Or 201-228-7a</idno>
+            </msItem>
+            <msItem n="219">
+              <locus from="228">f. 228</locus>
+              <title type="incipit">Iste formonsus</title>
+              <idno type="dokumenten_id">Or 201-228-7b</idno>
+            </msItem>
+            <msItem n="220">
+              <locus from="229">f. 229</locus>
+              <title type="incipit">Thoma vidimus</title>
+              <idno type="dokumenten_id">Or 201-229-10a</idno>
+            </msItem>
+            <msItem n="221">
+              <locus from="229">f. 229</locus>
+              <title type="incipit">Nisi videro ... manum</title>
+              <idno type="dokumenten_id">Or 201-229-10b</idno>
+            </msItem>
+            <msItem n="222">
+              <locus from="229">f. 229</locus>
+              <title type="incipit">Pax vobis</title>
+              <idno type="dokumenten_id">Or 201-229-23a</idno>
+            </msItem>
+            <msItem n="223">
+              <locus from="229">f. 229</locus>
+              <title type="incipit">Benedictus qui venit</title>
+              <idno type="dokumenten_id">Or 201-229-23b</idno>
+            </msItem>
+            <msItem n="224">
+              <locus from="229">f. 229</locus>
+              <title type="incipit">Pax vobis</title>
+              <idno type="dokumenten_id">Or 201-229-23c</idno>
+            </msItem>
+            <msItem n="225">
+              <locus from="229">f. 229</locus>
+              <title type="incipit">A domino factum</title>
+              <idno type="dokumenten_id">Or 201-229-23d</idno>
+            </msItem>
+            <msItem n="226">
+              <locus from="229">f. 229</locus>
+              <title type="incipit">Pax vobis ego sum nolite</title>
+              <idno type="dokumenten_id">Or 201-229-30</idno>
+            </msItem>
+            <msItem n="227">
+              <locus from="229">f. 229</locus>
+              <title type="incipit">Haec est dies quam</title>
+              <idno type="dokumenten_id">Or 201-229-35a</idno>
+            </msItem>
+            <msItem n="228">
+              <locus from="229">f. 229</locus>
+              <title type="incipit">Thomae infer digitum</title>
+              <idno type="dokumenten_id">Or 201-229-35b</idno>
+            </msItem>
+            <msItem n="229">
+              <locus from="229">f. 229</locus>
+              <title type="incipit">Mitte manum tuam</title>
+              <idno type="dokumenten_id">Or 201-229-40</idno>
+            </msItem>
+            <msItem n="230">
+              <locus from="229">f. 229</locus>
+              <title type="incipit">Dominus meus</title>
+              <idno type="dokumenten_id">Or 201-229-46a</idno>
+            </msItem>
+            <msItem n="231">
+              <locus from="229">f. 229</locus>
+              <title type="incipit">Quia vidisti me</title>
+              <idno type="dokumenten_id">Or 201-229-46b</idno>
+            </msItem>
+            <msItem n="232">
+              <locus from="229">f. 229</locus>
+              <title type="incipit">Data est mihi</title>
+              <idno type="dokumenten_id">Or 201-229-47</idno>
+            </msItem>
+            <msItem n="233">
+              <locus from="230">f. 230</locus>
+              <title type="incipit">Non relinquam vos</title>
+              <idno type="dokumenten_id">Or 201-230-1</idno>
+            </msItem>
+            <msItem n="234">
+              <locus from="230">f. 230</locus>
+              <title type="incipit">Propalare vobis</title>
+              <idno type="dokumenten_id">Or 201-230-14</idno>
+            </msItem>
+            <msItem n="235">
+              <locus from="230">f. 230</locus>
+              <title type="incipit">Euntes in mundum</title>
+              <idno type="dokumenten_id">Or 201-230-2</idno>
+            </msItem>
+            <msItem n="236">
+              <locus from="230">f. 230</locus>
+              <title type="incipit">Christicolas multos</title>
+              <idno type="dokumenten_id">Or 201-230-21</idno>
+            </msItem>
+            <msItem n="237">
+              <locus from="230">f. 230</locus>
+              <title type="incipit">Vestre mihi dentur</title>
+              <idno type="dokumenten_id">Or 201-230-27</idno>
+            </msItem>
+            <msItem n="238">
+              <locus from="230">f. 230</locus>
+              <title type="incipit">Trado vobis meas</title>
+              <idno type="dokumenten_id">Or 201-230-33</idno>
+            </msItem>
+            <msItem n="239">
+              <locus from="230">f. 230</locus>
+              <title type="incipit">Salve festa dies*</title>
+              <idno type="dokumenten_id">Or 201-230-8</idno>
+            </msItem>
+            <msItem n="240">
+              <locus from="231">f. 231</locus>
+              <title type="incipit">Saule Saule quid me</title>
+              <idno type="dokumenten_id">Or 201-231-1</idno>
+            </msItem>
+            <msItem n="241">
+              <locus from="231">f. 231</locus>
+              <title type="incipit">Iesus vocor quem</title>
+              <idno type="dokumenten_id">Or 201-231-10</idno>
+            </msItem>
+            <msItem n="242">
+              <locus from="231">f. 231</locus>
+              <title type="incipit">De hoc Saulo</title>
+              <idno type="dokumenten_id">Or 201-231-19</idno>
+            </msItem>
+            <msItem n="243">
+              <locus from="231">f. 231</locus>
+              <title type="incipit">Quid sic faris</title>
+              <idno type="dokumenten_id">Or 201-231-8</idno>
+            </msItem>
+            <msItem n="244">
+              <locus from="232">f. 232</locus>
+              <title type="incipit">Ad te Saule</title>
+              <idno type="dokumenten_id">Or 201-232-15</idno>
+            </msItem>
+            <msItem n="245">
+              <locus from="232">f. 232</locus>
+              <title type="incipit">Cur Iudaei non</title>
+              <idno type="dokumenten_id">Or 201-232-22</idno>
+            </msItem>
+            <msItem n="246">
+              <locus from="232">f. 232</locus>
+              <title type="incipit">Anania surge</title>
+              <idno type="dokumenten_id">Or 201-232-7</idno>
+            </msItem>
+            <msItem n="247">
+              <locus from="233">f. 233</locus>
+              <title type="incipit">Te elegit</title>
+              <idno type="dokumenten_id">Or 201-233-16</idno>
+            </msItem>
+            <msItem n="248">
+              <locus from="233">f. 233</locus>
+              <title type="incipit">In sapientia disponens*</title>
+              <idno type="dokumenten_id">Or 201-233-24a</idno>
+            </msItem>
+            <msItem n="249">
+              <locus from="233">f. 233</locus>
+              <title type="incipit">Mane prima sabbati*</title>
+              <idno type="dokumenten_id">Or 201-233-24b</idno>
+            </msItem>
+            <msItem n="250">
+              <locus from="233">f. 233</locus>
+              <title type="incipit">Te deum laudamus*</title>
+              <idno type="dokumenten_id">Or 201-233-26</idno>
+            </msItem>
+            <msItem n="251">
+              <locus from="233">f. 233</locus>
+              <title type="incipit">Tu dignare</title>
+              <idno type="dokumenten_id">Or 201-233-27</idno>
+            </msItem>
+            <msItem n="252">
+              <locus from="233">f. 233</locus>
+              <title type="incipit">Custodite urbis</title>
+              <idno type="dokumenten_id">Or 201-233-8</idno>
+            </msItem>
+            <msItem n="253">
+              <locus from="234">f. 234</locus>
+              <title type="incipit">Si hic homo*</title>
+              <idno type="dokumenten_id">Or 201-234-12</idno>
+            </msItem>
+            <msItem n="254">
+              <locus from="234">f. 234</locus>
+              <title type="incipit">Loqui tecum</title>
+              <idno type="dokumenten_id">Or 201-234-14a</idno>
+            </msItem>
+            <msItem n="255">
+              <locus from="234">f. 234</locus>
+              <title type="incipit">Nunc magister</title>
+              <idno type="dokumenten_id">Or 201-234-14b</idno>
+            </msItem>
+            <msItem n="256">
+              <locus from="234">f. 234</locus>
+              <title type="incipit">Debitores vir</title>
+              <idno type="dokumenten_id">Or 201-234-15</idno>
+            </msItem>
+            <msItem n="257">
+              <locus from="234">f. 234</locus>
+              <title type="incipit">Credo causam</title>
+              <idno type="dokumenten_id">Or 201-234-18</idno>
+            </msItem>
+            <msItem n="258">
+              <locus from="234">f. 234</locus>
+              <title type="incipit">Aequus iudex</title>
+              <idno type="dokumenten_id">Or 201-234-19</idno>
+            </msItem>
+            <msItem n="259">
+              <locus from="234">f. 234</locus>
+              <title type="incipit">Audit fratres</title>
+              <idno type="dokumenten_id">Or 201-234-7</idno>
+            </msItem>
+            <msItem n="260">
+              <locus from="235">f. 235</locus>
+              <title type="incipit">Cara soror hunc</title>
+              <idno type="dokumenten_id">Or 201-235-16</idno>
+            </msItem>
+            <msItem n="261">
+              <locus from="235">f. 235</locus>
+              <title type="incipit">Transmittamus ei</title>
+              <idno type="dokumenten_id">Or 201-235-23</idno>
+            </msItem>
+            <msItem n="262">
+              <locus from="236">f. 236</locus>
+              <title type="incipit">Ave Iesu</title>
+              <idno type="dokumenten_id">Or 201-236-16</idno>
+            </msItem>
+            <msItem n="263">
+              <locus from="237">f. 237</locus>
+              <title type="incipit">Iam Mariam et Martham</title>
+              <idno type="dokumenten_id">Or 201-237-22</idno>
+            </msItem>
+            <msItem n="264">
+              <locus from="237">f. 237</locus>
+              <title type="incipit">Iam moratur</title>
+              <idno type="dokumenten_id">Or 201-237-29</idno>
+            </msItem>
+            <msItem n="265">
+              <locus from="237">f. 237</locus>
+              <title type="incipit">Ibo quidem</title>
+              <idno type="dokumenten_id">Or 201-237-9</idno>
+            </msItem>
+            <msItem n="266">
+              <locus from="238">f. 238</locus>
+              <title type="incipit">Quam lugubres</title>
+              <idno type="dokumenten_id">Or 201-238-19</idno>
+            </msItem>
+            <msItem n="267">
+              <locus from="238">f. 238</locus>
+              <title type="incipit">Non vos sternat</title>
+              <idno type="dokumenten_id">Or 201-238-9</idno>
+            </msItem>
+            <msItem n="268">
+              <locus from="239">f. 239</locus>
+              <title type="incipit">In Iudaeam eamus</title>
+              <idno type="dokumenten_id">Or 201-239-17</idno>
+            </msItem>
+            <msItem n="269">
+              <locus from="239">f. 239</locus>
+              <title type="incipit">In Iudaeam quare</title>
+              <idno type="dokumenten_id">Or 201-239-23</idno>
+            </msItem>
+            <msItem n="270">
+              <locus from="239">f. 239</locus>
+              <title type="incipit">Si iam contra</title>
+              <idno type="dokumenten_id">Or 201-239-8</idno>
+            </msItem>
+            <msItem n="271">
+              <locus from="240">f. 240</locus>
+              <title type="incipit">Insequamur eius</title>
+              <idno type="dokumenten_id">Or 201-240-12</idno>
+            </msItem>
+            <msItem n="272">
+              <locus from="240">f. 240</locus>
+              <title type="incipit">Ecce vestrum</title>
+              <idno type="dokumenten_id">Or 201-240-18</idno>
+            </msItem>
+            <msItem n="273">
+              <locus from="240">f. 240</locus>
+              <title type="incipit">Quem mors ausa</title>
+              <idno type="dokumenten_id">Or 201-240-24</idno>
+            </msItem>
+            <msItem n="274">
+              <locus from="240">f. 240</locus>
+              <title type="incipit">Ne desperes fratrem</title>
+              <idno type="dokumenten_id">Or 201-240-31</idno>
+            </msItem>
+            <msItem n="275">
+              <locus from="240">f. 240</locus>
+              <title type="incipit">Non est vestrum</title>
+              <idno type="dokumenten_id">Or 201-240-6</idno>
+            </msItem>
+            <msItem n="276">
+              <locus from="241">f. 241</locus>
+              <title type="incipit">Magister te vocat</title>
+              <idno type="dokumenten_id">Or 201-241-12</idno>
+            </msItem>
+            <msItem n="277">
+              <locus from="241">f. 241</locus>
+              <title type="incipit">Sunt commota</title>
+              <idno type="dokumenten_id">Or 201-241-15</idno>
+            </msItem>
+            <msItem n="278">
+              <locus from="241">f. 241</locus>
+              <title type="incipit">Hoc in meo</title>
+              <idno type="dokumenten_id">Or 201-241-3</idno>
+            </msItem>
+            <msItem n="279">
+              <locus from="241">f. 241</locus>
+              <title type="incipit">Ego vestra sum</title>
+              <idno type="dokumenten_id">Or 201-241-6</idno>
+            </msItem>
+            <msItem n="280">
+              <locus from="242">f. 242</locus>
+              <title type="incipit">Hic qui caeci</title>
+              <idno type="dokumenten_id">Or 201-242-15</idno>
+            </msItem>
+            <msItem n="281">
+              <locus from="242">f. 242</locus>
+              <title type="incipit">Velox huius saxi</title>
+              <idno type="dokumenten_id">Or 201-242-21</idno>
+            </msItem>
+            <msItem n="282">
+              <locus from="242">f. 242</locus>
+              <title type="incipit">Per bis duos</title>
+              <idno type="dokumenten_id">Or 201-242-23</idno>
+            </msItem>
+            <msItem n="283">
+              <locus from="242">f. 242</locus>
+              <title type="incipit">Ne desperes videbitis</title>
+              <idno type="dokumenten_id">Or 201-242-25</idno>
+            </msItem>
+            <msItem n="284">
+              <locus from="242">f. 242</locus>
+              <title type="incipit">Ad sepulchrum me</title>
+              <idno type="dokumenten_id">Or 201-242-8</idno>
+            </msItem>
+            <msItem n="285">
+              <locus from="243">f. 243</locus>
+              <title type="incipit">Te deum laudamus*</title>
+              <idno type="dokumenten_id">Or 201-243-23</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Fleury (möglicherweise)</settlement>
+                <region>Quellen französischer Herkunft</region>
+                <orgName>möglicherweise Abbaye Saint-Benoît-sur-Loire</orgName>
+              </origPlace>
+              <origDate>12. Jh Ende – 13. Jh</origDate>
+            </origin>
+          </history>
+          <additional>
+            <adminInfo>
+              <note type="description">
+                <ref target="Or_201.description.md">Source description</ref>
+              </note>
+            </adminInfo>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

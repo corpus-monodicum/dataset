@@ -1,0 +1,41 @@
+{
+  "id": "ee392a69-9417-48e4-a5a2-6eac3eb64b7c",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-111-4",
+  "gattung1": "Kyrie",
+  "gattung2": "tropiert",
+  "festtag": "Beata Maria virgo",
+  "feier": "Messe",
+  "textinitium": "Rex virginum amator",
+  "bibliographischerverweis": "AH 47, 8: 1A 1B 1C 2A 2B 2C 3A 3C 3B 3D",
+  "druckausgabe": "",
+  "zeilenstart": "4",
+  "foliostart": "111",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "111",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "14",
+    "Melodiennummer_Katalog": "Melnicki 18",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509501",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

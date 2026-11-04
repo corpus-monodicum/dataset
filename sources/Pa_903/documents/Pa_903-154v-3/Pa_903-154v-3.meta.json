@@ -1,0 +1,41 @@
+{
+  "id": "8fe9bfaf-4fff-464c-a9f0-7375b7642f69",
+  "quelle_id": "Pa 903",
+  "dokumenten_id": "Pa 903-154v-3",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Ascensio domini",
+  "feier": "Messe",
+  "textinitium": "Quem creditis super astra",
+  "bibliographischerverweis": "Ascens intr 25 A 15 A 16 B 17 C E [mel VII G] 36 A 37 B 38 C F [mel VII F] 27 A 28 B 24 D (CT III)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "3",
+  "foliostart": "154v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "Viri Galilaei; Intr.)",
+    "Endseite": "155",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Ascens intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

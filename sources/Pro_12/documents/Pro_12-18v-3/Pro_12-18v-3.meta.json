@@ -1,0 +1,41 @@
+{
+  "id": "9cb9b269-135a-4cbb-a07a-75b609c4a3ae",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-18v-3",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Stephanus",
+  "feier": "Messe",
+  "textinitium": "Hodie inclitus",
+  "bibliographischerverweis": "Steph intr 34 51^2CM A 25 B 26 C 27 D (CT I)",
+  "druckausgabe": "II-1",
+  "zeilenstart": "3",
+  "foliostart": "18v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "Pro 12 18v-9-",
+    "Endseite": "18v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Steph intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

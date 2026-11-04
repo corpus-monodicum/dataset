@@ -1,0 +1,41 @@
+{
+  "id": "b9a44322-58fb-44a8-97c6-65cfce3a3ffd",
+  "quelle_id": "Vat 3797",
+  "dokumenten_id": "Vat 3797-375-2",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Apollinaris",
+  "feier": "Messe",
+  "textinitium": "Surge accipe",
+  "bibliographischerverweis": "vgl. CT X A, S. 476",
+  "druckausgabe": "II-4",
+  "zeilenstart": "2",
+  "foliostart": "375",
+  "kommentar": "CT X, A, S. 476: (statt AMS): \"Lokrantz, p 8 planche; cf Mobritius I, 117\"",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "375",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Int 5: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Gunilla Iversen</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Ritva Maria Jacobsson</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="Int_5">
+        <identifier type="siglum">Int 5</identifier>
+        <identifier type="cantus">Int 5</identifier>
+        <titleStmt>
+          <title>Int 5</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Novara (Region)</geogName>
+          <geogName role="origin-region">Quellen italienischer Herkunft</geogName>
+          <date>12. Jh</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="1">f. 1</locus>
+            <title type="incipit">Ecce adest</title>
+            <identifier type="dokumenten_id">Int 5-1-1</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="14v">f. 14v</locus>
+            <title type="incipit">Intuitus caelum</title>
+            <identifier type="dokumenten_id">Int 5-14v-8</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="16">f. 16</locus>
+            <title type="incipit">Gratia celsa dei</title>
+            <identifier type="dokumenten_id">Int 5-16-2</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="19v">f. 19v</locus>
+            <title type="incipit">Filii carissimi</title>
+            <identifier type="dokumenten_id">Int 5-19v-1</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="27">f. 27</locus>
+            <title type="incipit">Haec est praeclara dies</title>
+            <identifier type="dokumenten_id">Int 5-27-3</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="33v">f. 33v</locus>
+            <title type="incipit">Divini fuerat</title>
+            <identifier type="dokumenten_id">Int 5-33v-3</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="37">f. 37</locus>
+            <title type="incipit">Almus celsithroni</title>
+            <identifier type="dokumenten_id">Int 5-37-7</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="39v">f. 39v</locus>
+            <title type="incipit">Maria offerens</title>
+            <identifier type="dokumenten_id">Int 5-39v-7</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="51">f. 51</locus>
+            <title type="incipit">Ingresso Iesu</title>
+            <identifier type="dokumenten_id">Int 5-51-7</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="53">f. 53</locus>
+            <title type="incipit">Christus devicta morte</title>
+            <identifier type="dokumenten_id">Int 5-53-6</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus from="57v">f. 57v</locus>
+            <title type="incipit">Ab increpatione</title>
+            <identifier type="dokumenten_id">Int 5-57v-4</identifier>
+          </contentItem>
+          <contentItem n="12">
+            <locus from="58">f. 58</locus>
+            <title type="incipit">Laus honor … regi nostro</title>
+            <identifier type="dokumenten_id">Int 5-58-4</identifier>
+          </contentItem>
+          <contentItem n="13">
+            <locus from="59v">f. 59v</locus>
+            <title type="incipit">Promissionis suae</title>
+            <identifier type="dokumenten_id">Int 5-59v-7</identifier>
+          </contentItem>
+          <contentItem n="14">
+            <locus from="66">f. 66</locus>
+            <title type="incipit">Pro membris canit</title>
+            <identifier type="dokumenten_id">Int 5-66-5</identifier>
+          </contentItem>
+          <contentItem n="15">
+            <locus from="67">f. 67</locus>
+            <title type="incipit">Hodie redemptor</title>
+            <identifier type="dokumenten_id">Int 5-67-3</identifier>
+          </contentItem>
+          <contentItem n="16">
+            <locus from="69v">f. 69v</locus>
+            <title type="incipit">Hodie spiritus sanctus procedens</title>
+            <identifier type="dokumenten_id">Int 5-69v-5</identifier>
+          </contentItem>
+          <contentItem n="17">
+            <locus from="73">f. 73</locus>
+            <title type="incipit">Audite insulae</title>
+            <identifier type="dokumenten_id">Int 5-73-7</identifier>
+          </contentItem>
+          <contentItem n="18">
+            <locus from="76">f. 76</locus>
+            <title type="incipit">Aethereus claviger</title>
+            <identifier type="dokumenten_id">Int 5-76-1</identifier>
+          </contentItem>
+          <contentItem n="19">
+            <locus from="79">f. 79</locus>
+            <title type="incipit">Laudemus dominum cuius</title>
+            <identifier type="dokumenten_id">Int 5-79-1</identifier>
+          </contentItem>
+          <contentItem n="20">
+            <locus from="8">f. 8</locus>
+            <title type="incipit">Desinat esse</title>
+            <identifier type="dokumenten_id">Int 5-8-1</identifier>
+          </contentItem>
+          <contentItem n="21">
+            <locus from="82">f. 82</locus>
+            <title type="incipit">Fulget nempe dies</title>
+            <identifier type="dokumenten_id">Int 5-82-3</identifier>
+          </contentItem>
+          <contentItem n="22">
+            <locus from="87">f. 87</locus>
+            <title type="incipit">Principis aetherei</title>
+            <identifier type="dokumenten_id">Int 5-87-8</identifier>
+          </contentItem>
+          <contentItem n="23">
+            <locus from="89v">f. 89v</locus>
+            <title type="incipit">Hodie mundo festivus ... omnium sanctorum</title>
+            <identifier type="dokumenten_id">Int 5-89v-2</identifier>
+          </contentItem>
+          <contentItem n="24">
+            <locus from="9">f. 9</locus>
+            <title type="incipit">Beatus protomartyr</title>
+            <identifier type="dokumenten_id">Int 5-9-4</identifier>
+          </contentItem>
+          <contentItem n="25">
+            <locus from="91">f. 91</locus>
+            <title type="incipit">Martinus meritis</title>
+            <identifier type="dokumenten_id">Int 5-91-8</identifier>
+          </contentItem>
+          <contentItem n="26">
+            <locus from="94">f. 94</locus>
+            <title type="incipit">Cunctipotens genitor</title>
+            <identifier type="dokumenten_id">Int 5-94-1</identifier>
+          </contentItem>
+          <contentItem n="27">
+            <locus from="96v">f. 96v</locus>
+            <title type="incipit">Hodie beatissimus</title>
+            <identifier type="dokumenten_id">Int 5-96v-1</identifier>
+          </contentItem>
+          <contentItem n="28">
+            <locus from="96v">f. 96v</locus>
+            <title type="incipit">Nobile apostolici</title>
+            <identifier type="dokumenten_id">Int 5-96v-7</identifier>
+          </contentItem>
+          <contentItem n="29">
+            <locus from="99">f. 99</locus>
+            <title type="incipit">Gloria martyrum</title>
+            <identifier type="dokumenten_id">Int 5-99-5</identifier>
+          </contentItem>
+        </contents>
+        <notesStmt>
+          <annot type="description">
+            <ref target="Int_5.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <classification>
+          <termList>
+            <term type="quellentyp">Tropar, Sequentiar, Prozessionar</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">5 (14)</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">Intra</geogName>
+                <corpName>Archivio Parrocchiale di San Vittore</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

@@ -1,0 +1,41 @@
+{
+  "id": "afbdc714-575f-4600-ac94-a14736e4ce54",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-141v-6",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Germanus Altissiodorensis",
+  "feier": "",
+  "textinitium": "Candida contio melos",
+  "bibliographischerverweis": "AH 7, 167; AH 53, 244",
+  "druckausgabe": "",
+  "zeilenstart": "6",
+  "foliostart": "141v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "142",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Romana",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

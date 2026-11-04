@@ -1,0 +1,41 @@
+{
+  "id": "15435637-0a4f-4295-9314-19c4bec4ba20",
+  "quelle_id": "Civ 102",
+  "dokumenten_id": "Civ 102-30v-11",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Responsorium",
+  "festtag": "Dominica in palmis",
+  "feier": "Prozession",
+  "textinitium": "Ingressus Pilatus",
+  "bibliographischerverweis": "CAO 6966",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "11",
+  "foliostart": "30v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "31",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Civ 102-23-1S",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Entry into Jerusalem",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

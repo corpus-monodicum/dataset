@@ -1,0 +1,41 @@
+{
+  "id": "7c55e473-a6da-4077-9ae5-bb34662bc5a8",
+  "quelle_id": "To 18",
+  "dokumenten_id": "To 18-15v-12a",
+  "gattung1": "Tropus",
+  "gattung2": "Offertorium-Tropus",
+  "festtag": "Nativitas domini",
+  "feier": "3. Messe",
+  "textinitium": "Tui sunt caeli ... dicite",
+  "bibliographischerverweis": "Nat III off 2 A 4 B 5 C 6 D A B C D 8 E 10 F 9 G (CT I)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "12",
+  "foliostart": "15v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Tui sunt",
+    "Endseite": "16v",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Nat III off",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

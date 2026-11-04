@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Ei 366: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Jasmin Hartmann-Strauß</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Spiele)</resp>
+          <persName>Isabel Kraft</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Sequenzen)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Lucia Swientek</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Spiele)</resp>
+          <persName>Elaine Stratton Hild</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="Ei_366">
+        <identifier type="siglum">Ei 366</identifier>
+        <identifier type="cantus">Ei 366</identifier>
+        <titleStmt>
+          <title>Ei 366</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Einsiedeln möglicherweise</geogName>
+          <geogName role="origin-region">Quellen deutscher Herkunft</geogName>
+          <date>12 .Jh</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="1">f. 1</locus>
+            <title type="incipit">Nato canunt omnia</title>
+            <identifier type="dokumenten_id">Ei 366-1-1</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="10">f. 10</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Ei 366-10-6a</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="10">f. 10</locus>
+            <title type="incipit">Aurea virga primae</title>
+            <identifier type="dokumenten_id">Ei 366-10-6b</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="12">f. 12</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Ei 366-12-1a</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="12">f. 12</locus>
+            <title type="incipit">Fecunda verbo</title>
+            <identifier type="dokumenten_id">Ei 366-12-1b</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="13">f. 13</locus>
+            <title type="incipit">Christe domine laetifica</title>
+            <identifier type="dokumenten_id">Ei 366-13-1</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="13">f. 13</locus>
+            <title type="incipit">Grates salvatori</title>
+            <identifier type="dokumenten_id">Ei 366-13-15</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="13">f. 13</locus>
+            <title type="incipit">Agni paschalis esu</title>
+            <identifier type="dokumenten_id">Ei 366-13-4</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="14">f. 14</locus>
+            <title type="incipit">Laudes deo concinat orbis</title>
+            <identifier type="dokumenten_id">Ei 366-14-11</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="15">f. 15</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Ei 366-15-1b</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus from="15">f. 15</locus>
+            <title type="incipit">Carmen suo dilecto</title>
+            <identifier type="dokumenten_id">Ei 366-15-9a</identifier>
+          </contentItem>
+          <contentItem n="12">
+            <locus from="15">f. 15</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Ei 366-15-9b</identifier>
+          </contentItem>
+          <contentItem n="13">
+            <locus from="16">f. 16</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Ei 366-16-4a</identifier>
+          </contentItem>
+          <contentItem n="14">
+            <locus from="16">f. 16</locus>
+            <title type="incipit">Laudes Christo redempti</title>
+            <identifier type="dokumenten_id">Ei 366-16-4b</identifier>
+          </contentItem>
+          <contentItem n="15">
+            <locus from="17">f. 17</locus>
+            <title type="incipit">Victimae paschali laudes</title>
+            <identifier type="dokumenten_id">Ei 366-17-8a</identifier>
+          </contentItem>
+          <contentItem n="16">
+            <locus from="17">f. 17</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Ei 366-17-8b</identifier>
+          </contentItem>
+          <contentItem n="17">
+            <locus from="18">f. 18</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Ei 366-18-2a</identifier>
+          </contentItem>
+          <contentItem n="18">
+            <locus from="18">f. 18</locus>
+            <title type="incipit">Sancti martyris festum</title>
+            <identifier type="dokumenten_id">Ei 366-18-2b</identifier>
+          </contentItem>
+          <contentItem n="19">
+            <locus from="19">f. 19</locus>
+            <title type="incipit">Summis hunc diem</title>
+            <identifier type="dokumenten_id">Ei 366-19-3a</identifier>
+          </contentItem>
+          <contentItem n="20">
+            <locus from="19">f. 19</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Ei 366-19-3b</identifier>
+          </contentItem>
+          <contentItem n="21">
+            <locus from="2">f. 2</locus>
+            <title type="incipit">Christi domini militis</title>
+            <identifier type="dokumenten_id">Ei 366-2-1</identifier>
+          </contentItem>
+          <contentItem n="22">
+            <locus from="20">f. 20</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Ei 366-20-12a</identifier>
+          </contentItem>
+          <contentItem n="23">
+            <locus from="20">f. 20</locus>
+            <title type="incipit">Haec est sancta sollemnitas sollemnitatum</title>
+            <identifier type="dokumenten_id">Ei 366-20-12b</identifier>
+          </contentItem>
+          <contentItem n="24">
+            <locus from="21">f. 21</locus>
+            <title type="incipit">Grates honos</title>
+            <identifier type="dokumenten_id">Ei 366-21-7a</identifier>
+          </contentItem>
+          <contentItem n="25">
+            <locus from="21">f. 21</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Ei 366-21-7b</identifier>
+          </contentItem>
+          <contentItem n="26">
+            <locus from="23">f. 23</locus>
+            <title type="incipit">Iudicem nos inspicientem</title>
+            <identifier type="dokumenten_id">Ei 366-23-9a</identifier>
+          </contentItem>
+          <contentItem n="27">
+            <locus from="23">f. 23</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Ei 366-23-9b</identifier>
+          </contentItem>
+          <contentItem n="28">
+            <locus from="24">f. 24</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Ei 366-24-11a</identifier>
+          </contentItem>
+          <contentItem n="29">
+            <locus from="24">f. 24</locus>
+            <title type="incipit">En regnator</title>
+            <identifier type="dokumenten_id">Ei 366-24-11b</identifier>
+          </contentItem>
+          <contentItem n="30">
+            <locus from="24">f. 24</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Ei 366-24-5a</identifier>
+          </contentItem>
+          <contentItem n="31">
+            <locus from="24">f. 24</locus>
+            <title type="incipit">Laus tibi sit o fidelis</title>
+            <identifier type="dokumenten_id">Ei 366-24-5b</identifier>
+          </contentItem>
+          <contentItem n="32">
+            <locus from="25">f. 25</locus>
+            <title type="incipit">Laeta mente canamus</title>
+            <identifier type="dokumenten_id">Ei 366-25-1</identifier>
+          </contentItem>
+          <contentItem n="33">
+            <locus from="25">f. 25</locus>
+            <title type="incipit">Summi triumphum</title>
+            <identifier type="dokumenten_id">Ei 366-25-8</identifier>
+          </contentItem>
+          <contentItem n="34">
+            <locus from="26">f. 26</locus>
+            <title type="incipit">O quam mira sunt</title>
+            <identifier type="dokumenten_id">Ei 366-26-13</identifier>
+          </contentItem>
+          <contentItem n="35">
+            <locus from="27">f. 27</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Ei 366-27-1b</identifier>
+          </contentItem>
+          <contentItem n="36">
+            <locus from="27">f. 27</locus>
+            <title type="incipit">Sancti spiritus … Quae corda</title>
+            <identifier type="dokumenten_id">Ei 366-27-4a</identifier>
+          </contentItem>
+          <contentItem n="37">
+            <locus from="27">f. 27</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Ei 366-27-4b</identifier>
+          </contentItem>
+          <contentItem n="38">
+            <locus from="28">f. 28</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Ei 366-28-13a</identifier>
+          </contentItem>
+          <contentItem n="39">
+            <locus from="28">f. 28</locus>
+            <title type="incipit">Benedicta semper sancta</title>
+            <identifier type="dokumenten_id">Ei 366-28-13b</identifier>
+          </contentItem>
+          <contentItem n="40">
+            <locus from="29">f. 29</locus>
+            <title type="incipit">Alma chorus domini</title>
+            <identifier type="dokumenten_id">Ei 366-29-1</identifier>
+          </contentItem>
+          <contentItem n="41">
+            <locus from="29">f. 29</locus>
+            <title type="incipit">Benedictio trinae unitati</title>
+            <identifier type="dokumenten_id">Ei 366-29-13</identifier>
+          </contentItem>
+          <contentItem n="42">
+            <locus from="3">f. 3</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Ei 366-3-1b</identifier>
+          </contentItem>
+          <contentItem n="43">
+            <locus from="3">f. 3</locus>
+            <title type="incipit">Laus tibi Christe qui humilis</title>
+            <identifier type="dokumenten_id">Ei 366-3-5a</identifier>
+          </contentItem>
+          <contentItem n="44">
+            <locus from="3">f. 3</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Ei 366-3-5b</identifier>
+          </contentItem>
+          <contentItem n="45">
+            <locus from="31">f. 31</locus>
+            <title type="incipit">Regnum tuum regnum omnium</title>
+            <identifier type="dokumenten_id">Ei 366-31-6</identifier>
+          </contentItem>
+          <contentItem n="46">
+            <locus from="32">f. 32</locus>
+            <title type="incipit">Exsultent filiae Sion</title>
+            <identifier type="dokumenten_id">Ei 366-32-12</identifier>
+          </contentItem>
+          <contentItem n="47">
+            <locus from="33">f. 33</locus>
+            <title type="incipit">Rex regum dei agne</title>
+            <identifier type="dokumenten_id">Ei 366-33-16</identifier>
+          </contentItem>
+          <contentItem n="48">
+            <locus from="33">f. 33</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Ei 366-33-1b</identifier>
+          </contentItem>
+          <contentItem n="49">
+            <locus from="35">f. 35</locus>
+            <title type="incipit">O decus mundi</title>
+            <identifier type="dokumenten_id">Ei 366-35-10a</identifier>
+          </contentItem>
+          <contentItem n="50">
+            <locus from="35">f. 35</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Ei 366-35-10b</identifier>
+          </contentItem>
+          <contentItem n="51">
+            <locus from="4">f. 4</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Ei 366-4-4a</identifier>
+          </contentItem>
+          <contentItem n="52">
+            <locus from="4">f. 4</locus>
+            <title type="incipit">Gaude Maria virgo</title>
+            <identifier type="dokumenten_id">Ei 366-4-4b</identifier>
+          </contentItem>
+          <contentItem n="53">
+            <locus from="45">f. 45</locus>
+            <title type="incipit">Deus in tua virtute</title>
+            <identifier type="dokumenten_id">Ei 366-45-1</identifier>
+          </contentItem>
+          <contentItem n="54">
+            <locus from="45">f. 45</locus>
+            <title type="incipit">Congaudentes exsultemus vocali</title>
+            <identifier type="dokumenten_id">Ei 366-45-17</identifier>
+          </contentItem>
+          <contentItem n="55">
+            <locus from="45">f. 45</locus>
+            <title type="incipit">Perpes laus et honor</title>
+            <identifier type="dokumenten_id">Ei 366-45-5</identifier>
+          </contentItem>
+          <contentItem n="56">
+            <locus from="47">f. 47</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Ei 366-47-1b</identifier>
+          </contentItem>
+          <contentItem n="57">
+            <locus from="47">f. 47</locus>
+            <title type="incipit">Psallat ecclesia mater illibata</title>
+            <identifier type="dokumenten_id">Ei 366-47-8a</identifier>
+          </contentItem>
+          <contentItem n="58">
+            <locus from="47">f. 47</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Ei 366-47-8b</identifier>
+          </contentItem>
+          <contentItem n="59">
+            <locus from="48">f. 48</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Ei 366-48-5a</identifier>
+          </contentItem>
+          <contentItem n="60">
+            <locus from="48">f. 48</locus>
+            <title type="incipit">Clare sanctorum</title>
+            <identifier type="dokumenten_id">Ei 366-48-5b</identifier>
+          </contentItem>
+          <contentItem n="61">
+            <locus from="49">f. 49</locus>
+            <title type="incipit">Iste martyr</title>
+            <identifier type="dokumenten_id">Ei 366-49-1a</identifier>
+          </contentItem>
+          <contentItem n="62">
+            <locus from="49">f. 49</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Ei 366-49-1b</identifier>
+          </contentItem>
+          <contentItem n="63">
+            <locus from="49">f. 49</locus>
+            <title type="incipit">Rex regum deus noster</title>
+            <identifier type="dokumenten_id">Ei 366-49-7a</identifier>
+          </contentItem>
+          <contentItem n="64">
+            <locus from="49">f. 49</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Ei 366-49-7b</identifier>
+          </contentItem>
+          <contentItem n="65">
+            <locus from="5">f. 5</locus>
+            <title type="incipit">Laetabundus exsultet</title>
+            <identifier type="dokumenten_id">Ei 366-5-6a</identifier>
+          </contentItem>
+          <contentItem n="66">
+            <locus from="5">f. 5</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Ei 366-5-6b</identifier>
+          </contentItem>
+          <contentItem n="67">
+            <locus from="50">f. 50</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Ei 366-50-6a</identifier>
+          </contentItem>
+          <contentItem n="68">
+            <locus from="50">f. 50</locus>
+            <title type="incipit">Virginis venerandae</title>
+            <identifier type="dokumenten_id">Ei 366-50-6b</identifier>
+          </contentItem>
+          <contentItem n="69">
+            <locus from="53">f. 53</locus>
+            <title type="incipit">O regem caeli*</title>
+            <identifier type="dokumenten_id">Ei 366-53-10a</identifier>
+          </contentItem>
+          <contentItem n="70">
+            <locus from="53">f. 53</locus>
+            <title type="incipit">Te deum laudamus*</title>
+            <identifier type="dokumenten_id">Ei 366-53-10b</identifier>
+          </contentItem>
+          <contentItem n="71">
+            <locus from="53">f. 53</locus>
+            <title type="incipit">Delusus es domine</title>
+            <identifier type="dokumenten_id">Ei 366-53-11</identifier>
+          </contentItem>
+          <contentItem n="72">
+            <locus from="53">f. 53</locus>
+            <title type="incipit">Decerne domine</title>
+            <identifier type="dokumenten_id">Ei 366-53-12</identifier>
+          </contentItem>
+          <contentItem n="73">
+            <locus from="53">f. 53</locus>
+            <title type="incipit">Incendium meum</title>
+            <identifier type="dokumenten_id">Ei 366-53-14</identifier>
+          </contentItem>
+          <contentItem n="74">
+            <locus from="53">f. 53</locus>
+            <title type="incipit">Pastores dicite*</title>
+            <identifier type="dokumenten_id">Ei 366-53-1a</identifier>
+          </contentItem>
+          <contentItem n="75">
+            <locus from="53">f. 53</locus>
+            <title type="incipit">Qui sunt hi qui stella</title>
+            <identifier type="dokumenten_id">Ei 366-53-1b</identifier>
+          </contentItem>
+          <contentItem n="76">
+            <locus from="53">f. 53</locus>
+            <title type="incipit">Nos sumus quos</title>
+            <identifier type="dokumenten_id">Ei 366-53-2</identifier>
+          </contentItem>
+          <contentItem n="77">
+            <locus from="53">f. 53</locus>
+            <title type="incipit">Ecce puer adest</title>
+            <identifier type="dokumenten_id">Ei 366-53-4</identifier>
+          </contentItem>
+          <contentItem n="78">
+            <locus from="53">f. 53</locus>
+            <title type="incipit">Salve rex saeculorum</title>
+            <identifier type="dokumenten_id">Ei 366-53-6</identifier>
+          </contentItem>
+          <contentItem n="79">
+            <locus from="53">f. 53</locus>
+            <title type="incipit">Impleta sunt omnia</title>
+            <identifier type="dokumenten_id">Ei 366-53-8</identifier>
+          </contentItem>
+          <contentItem n="80">
+            <locus from="54">f. 54</locus>
+            <title type="incipit">Gloriosi et famosi</title>
+            <identifier type="dokumenten_id">Ei 366-54-1</identifier>
+          </contentItem>
+          <contentItem n="81">
+            <locus from="55">f. 55</locus>
+            <title type="incipit">Ortum praedestinatio</title>
+            <identifier type="dokumenten_id">Ei 366-55-1</identifier>
+          </contentItem>
+          <contentItem n="82">
+            <locus from="55">f. 55</locus>
+            <title type="incipit">Iesum Nazarenum crucifixum quaerimus</title>
+            <identifier type="dokumenten_id">Ei 366-55-10</identifier>
+          </contentItem>
+          <contentItem n="83">
+            <locus from="55">f. 55</locus>
+            <title type="incipit">Non est hic surrexit sed</title>
+            <identifier type="dokumenten_id">Ei 366-55-11</identifier>
+          </contentItem>
+          <contentItem n="84">
+            <locus from="55">f. 55</locus>
+            <title type="incipit">Dicant nunc</title>
+            <identifier type="dokumenten_id">Ei 366-55-14</identifier>
+          </contentItem>
+          <contentItem n="85">
+            <locus from="55">f. 55</locus>
+            <title type="incipit">Quem quaeritis in sepulchro</title>
+            <identifier type="dokumenten_id">Ei 366-55-4</identifier>
+          </contentItem>
+          <contentItem n="86">
+            <locus from="55">f. 55</locus>
+            <title type="incipit">Quis revolvet nobis ab hostio</title>
+            <identifier type="dokumenten_id">Ei 366-55-8</identifier>
+          </contentItem>
+          <contentItem n="87">
+            <locus from="55">f. 55</locus>
+            <title type="incipit">Quem quaeritis o tremulae</title>
+            <identifier type="dokumenten_id">Ei 366-55-9</identifier>
+          </contentItem>
+          <contentItem n="88">
+            <locus from="56">f. 56</locus>
+            <title type="incipit">Ad monumentum venimus</title>
+            <identifier type="dokumenten_id">Ei 366-56-3</identifier>
+          </contentItem>
+          <contentItem n="89">
+            <locus from="56">f. 56</locus>
+            <title type="incipit">Te deum laudamus*</title>
+            <identifier type="dokumenten_id">Ei 366-56-5</identifier>
+          </contentItem>
+          <contentItem n="90">
+            <locus from="57">f. 57</locus>
+            <title type="incipit">Exsurgat totus almiphonus</title>
+            <identifier type="dokumenten_id">Ei 366-57-3</identifier>
+          </contentItem>
+          <contentItem n="91">
+            <locus from="6">f. 6</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Ei 366-6-6a</identifier>
+          </contentItem>
+          <contentItem n="92">
+            <locus from="6">f. 6</locus>
+            <title type="incipit">Ave praeclara maris stella</title>
+            <identifier type="dokumenten_id">Ei 366-6-6b</identifier>
+          </contentItem>
+          <contentItem n="93">
+            <locus from="7">f. 7</locus>
+            <title type="incipit">Salve crux sancta arbor</title>
+            <identifier type="dokumenten_id">Ei 366-7-12a</identifier>
+          </contentItem>
+          <contentItem n="94">
+            <locus from="7">f. 7</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Ei 366-7-12b</identifier>
+          </contentItem>
+          <contentItem n="95">
+            <locus from="7">f. 7</locus>
+            <title type="incipit">Laetabundis hac die</title>
+            <identifier type="dokumenten_id">Ei 366-7-1a</identifier>
+          </contentItem>
+          <contentItem n="96">
+            <locus from="7">f. 7</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Ei 366-7-1b</identifier>
+          </contentItem>
+          <contentItem n="97">
+            <locus from="8">f. 8</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Ei 366-8-5a</identifier>
+          </contentItem>
+          <contentItem n="98">
+            <locus from="8">f. 8</locus>
+            <title type="incipit">Veni spiritus aeternorum</title>
+            <identifier type="dokumenten_id">Ei 366-8-5b</identifier>
+          </contentItem>
+          <contentItem n="99">
+            <locus from="9">f. 9</locus>
+            <title type="incipit">Mane prima sabbati</title>
+            <identifier type="dokumenten_id">Ei 366-9-1a</identifier>
+          </contentItem>
+          <contentItem n="100">
+            <locus from="9">f. 9</locus>
+            <title type="incipit">Alleluia</title>
+            <identifier type="dokumenten_id">Ei 366-9-1b</identifier>
+          </contentItem>
+        </contents>
+        <notesStmt>
+          <annot type="description">
+            <ref target="Ei_366.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <classification>
+          <termList>
+            <term type="quellentyp">Sequentiar, Hymnar, Kyriale, Liturgische Spiele, musiktheoretische Merkverse</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">Cod. 366</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">Einsiedeln</geogName>
+                <corpName>Stiftsbibliothek</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+        <relationList>
+          <relation rel="hasReproduction" target="https://www.e-codices.unifr.ch/metadata/iiif/sbe-0366/manifest.json" label="IIIF manifest" />
+        </relationList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

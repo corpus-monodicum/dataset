@@ -1,0 +1,41 @@
+{
+  "id": "be9fea76-cd63-43da-858e-527d687d95b7",
+  "quelle_id": "Pad 47",
+  "dokumenten_id": "Pad 47-1v-1I",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Dominica I adventus",
+  "feier": "Messe",
+  "textinitium": "Musicis melodiis",
+  "bibliographischerverweis": "Adv I intr A 22^CM B 23^CM C 24^CM D 25^CM E F (CT I)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "1",
+  "foliostart": "1v",
+  "kommentar": "nach hs. Vorlage sieht es so aus, als beginne ein Tropenkomplex mit „Musicis melodiis“ nach „Einsatzmarke“ Ad te levavi",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Ad te levavi",
+    "Endseite": "2",
+    "Startposition": "I",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Adv I intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

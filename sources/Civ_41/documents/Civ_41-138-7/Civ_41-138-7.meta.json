@@ -1,0 +1,41 @@
+{
+  "id": "3a60fc96-c5f5-4f17-9612-b0480c387daa",
+  "quelle_id": "Civ 41",
+  "dokumenten_id": "Civ 41-138-7",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Versikel",
+  "festtag": "Pascha",
+  "feier": "Matutin",
+  "textinitium": "Resurrexit dominus alleluia",
+  "bibliographischerverweis": "CAO 7540",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "7",
+  "foliostart": "138",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "138",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Civ 41-138-1S",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Easter play / Osterspiel",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

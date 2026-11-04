@@ -1,0 +1,41 @@
+{
+  "id": "3d4f73fe-75b5-4e40-8670-bbf6a14d4687",
+  "quelle_id": "Apt 17",
+  "dokumenten_id": "Apt 17-20-8",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Nativitas domini",
+  "feier": "2. Messe",
+  "textinitium": "Iam venit lux",
+  "bibliographischerverweis": "Nat II intr 10 A 6 A 7 B 8 C 9 D E (CT I)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "8",
+  "foliostart": "20",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "(Lux fulgebit)",
+    "Endseite": "21",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Nat II intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

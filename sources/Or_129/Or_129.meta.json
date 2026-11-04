@@ -1,0 +1,25 @@
+{
+  "id": "Or 129",
+  "quellensigle": "Or 129",
+  "herkunftsregion": "Quellen französischer Herkunft",
+  "herkunftsort": "Fleury",
+  "herkunftsinstitution": "",
+  "ordenstradition": "",
+  "quellentyp": "",
+  "bibliotheksort": "Orléans",
+  "bibliothek": "Bibliothèque municipale",
+  "bibliothekssignatur": "Ms. 129",
+  "kommentar": "",
+  "datierung": "13. Jh",
+  "status": "",
+  "jahrhundert": "13.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Or 129",
+  "cantus_century": "13.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Or_129.description.md"
+  }
+}

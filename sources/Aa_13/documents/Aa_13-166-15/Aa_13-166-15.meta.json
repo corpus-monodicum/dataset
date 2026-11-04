@@ -1,0 +1,41 @@
+{
+  "id": "5b1bb7b7-559b-4fa5-b78c-1cd010a13b0",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-166-15",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Katharina",
+  "feier": "Messe",
+  "textinitium": "Sanctissimae virginis votiva",
+  "bibliographischerverweis": "AH 55, 203",
+  "druckausgabe": "CM III",
+  "zeilenstart": "15",
+  "foliostart": "166",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "166v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "A",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "adbe5c4e-68a6-4827-b1dd-4c128e965792",
+  "quelle_id": "Parm 05",
+  "dokumenten_id": "Parm 05-46v-7",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Assumptio Mariae",
+  "feier": "Messe",
+  "textinitium": "Cuncti fideles",
+  "bibliographischerverweis": "Gaudeamus intr A B C D 133 A (CT X); Gaud 149 B 150 C E (CT IX)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "7",
+  "foliostart": "46v",
+  "kommentar": "nach dem Vers \"Eructavit\" \"Cuncti fideles\" - sieht aus wie Tropen, Rubrik \"Versus\"",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "Gaudeamus omnes",
+    "Endseite": "47v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Gaudeamus intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

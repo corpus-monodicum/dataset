@@ -1,0 +1,25 @@
+{
+  "id": "Mod 16",
+  "quellensigle": "Mod 16",
+  "herkunftsregion": "Quellen italienischer Herkunft",
+  "herkunftsort": "Modena",
+  "herkunftsinstitution": "",
+  "ordenstradition": "",
+  "quellentyp": "Kyriale, Sequentiar mit Cantatorium, Prozessionar",
+  "bibliotheksort": "Modena",
+  "bibliothek": "Biblioteca Capitolare",
+  "bibliothekssignatur": "O.I.16",
+  "kommentar": "",
+  "datierung": "13. Jh Anfang",
+  "status": "",
+  "jahrhundert": "13.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Mod 16",
+  "cantus_century": "13.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Mod_16.description.md"
+  }
+}

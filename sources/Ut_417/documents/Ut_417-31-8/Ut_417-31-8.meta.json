@@ -1,0 +1,41 @@
+{
+  "id": "fbf1f1fc-5f9f-44af-b170-ad741d945cd9",
+  "quelle_id": "Ut 417",
+  "dokumenten_id": "Ut 417-31-8",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Willibrordus; Episcopi",
+  "feier": "Messe",
+  "textinitium": "Ad laudes salvatoris",
+  "bibliographischerverweis": "AH 54, 88",
+  "druckausgabe": "",
+  "zeilenstart": "8",
+  "foliostart": "31",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "31v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Mater",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

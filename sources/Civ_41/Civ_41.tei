@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Civ 41: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Edition (Spiele)</resp>
+          <persName>Elaine Stratton Hild</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="Civ_41">
+          <msIdentifier>
+            <settlement>Cividale</settlement>
+            <repository>Museo Archeologico Nazionale</repository>
+            <idno type="shelfmark">Ms. XLI</idno>
+            <altIdentifier type="siglum">
+              <idno>Civ 41</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>Civ 41</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="138">f. 138</locus>
+              <title type="incipit">Alleluia alleluia alleluia</title>
+              <idno type="dokumenten_id">Civ 41-138-1</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="138">f. 138</locus>
+              <title type="incipit">Angelus domini descendit ... accedens</title>
+              <idno type="dokumenten_id">Civ 41-138-10</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="138">f. 138</locus>
+              <title type="incipit">Ego sum qui sum</title>
+              <idno type="dokumenten_id">Civ 41-138-2</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="138">f. 138</locus>
+              <title type="incipit">Postulavi patrem</title>
+              <idno type="dokumenten_id">Civ 41-138-4</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="138">f. 138</locus>
+              <title type="incipit">Ego dormivi</title>
+              <idno type="dokumenten_id">Civ 41-138-5</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="138">f. 138</locus>
+              <title type="incipit">Resurrexit dominus alleluia</title>
+              <idno type="dokumenten_id">Civ 41-138-7</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="138v">f. 138v</locus>
+              <title type="incipit">Angelus domini locutus</title>
+              <idno type="dokumenten_id">Civ 41-138v-1</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="138v">f. 138v</locus>
+              <title type="incipit">Quis revolvet nobis ab hostio</title>
+              <idno type="dokumenten_id">Civ 41-138v-14</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="138v">f. 138v</locus>
+              <title type="incipit">Quem quaeritis o tremulae</title>
+              <idno type="dokumenten_id">Civ 41-138v-18</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="138v">f. 138v</locus>
+              <title type="incipit">Dum transisset sabbatum</title>
+              <idno type="dokumenten_id">Civ 41-138v-5</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="139">f. 139</locus>
+              <title type="incipit">Iesum Nazarenum crucifixum quaerimus</title>
+              <idno type="dokumenten_id">Civ 41-139-1</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="139">f. 139</locus>
+              <title type="incipit">Ad monumentum venimus</title>
+              <idno type="dokumenten_id">Civ 41-139-11</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="139">f. 139</locus>
+              <title type="incipit">Cernitis o socii</title>
+              <idno type="dokumenten_id">Civ 41-139-15</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="139">f. 139</locus>
+              <title type="incipit">Surrexit dominus de sepulchro*</title>
+              <idno type="dokumenten_id">Civ 41-139-19</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="139">f. 139</locus>
+              <title type="incipit">Non est hic quem quaeritis</title>
+              <idno type="dokumenten_id">Civ 41-139-2</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="139">f. 139</locus>
+              <title type="incipit">Te deum laudamus*</title>
+              <idno type="dokumenten_id">Civ 41-139-21</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="139">f. 139</locus>
+              <title type="incipit">Venite et videte</title>
+              <idno type="dokumenten_id">Civ 41-139-5</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Cividale del Friuli</settlement>
+                <region>Quellen italienischer Herkunft</region>
+                <orgName>Kathedrale Santa Maria Assunta</orgName>
+              </origPlace>
+              <origDate>14. Jh 2. Hälfte</origDate>
+            </origin>
+          </history>
+          <additional>
+            <adminInfo>
+              <note type="description">
+                <ref target="Civ_41.description.md">Source description</ref>
+              </note>
+            </adminInfo>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

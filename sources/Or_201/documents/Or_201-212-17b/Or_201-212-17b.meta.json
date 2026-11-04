@@ -1,0 +1,41 @@
+{
+  "id": "6c4cc74b-763f-4aad-8d0a-088a4ad33f93",
+  "quelle_id": "Or 201",
+  "dokumenten_id": "Or 201-212-17b",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Epiphania",
+  "feier": "Matutin",
+  "textinitium": "Quem vidistis pastores ... secundum",
+  "bibliographischerverweis": "vgl. CAO 7470",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "17",
+  "foliostart": "212",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "212",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "Or 201-205-9S",
+    "Endzeile": "23",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Magi play",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

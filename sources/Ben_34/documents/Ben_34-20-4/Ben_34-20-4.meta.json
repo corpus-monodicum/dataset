@@ -1,0 +1,41 @@
+{
+  "id": "db5778f7-f84e-492e-b64a-a82e0d5093e1",
+  "quelle_id": "Ben 34",
+  "dokumenten_id": "Ben 34-20-4",
+  "gattung1": "Sanctus",
+  "gattung2": "tropiert",
+  "festtag": "Nativitas domini",
+  "feier": "3. Messe",
+  "textinitium": "Admirabilis splendor",
+  "bibliographischerverweis": "CT VII, 1: A B E C D",
+  "druckausgabe": "",
+  "zeilenstart": "4",
+  "foliostart": "20",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "20v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "Thannabaur 74",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509504",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

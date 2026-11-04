@@ -1,0 +1,5 @@
+Licence: CC BY-NC 4.0
+https://creativecommons.org/licenses/by-nc/4.0/
+
+Attribution: when you use this dataset, name the Corpus Monodicum and the people listed in docs/CONTRIBUTORS.md and cite it as in CITATION.cff.
+The licence covers the data created by the project. It does not cover images of manuscripts: the IIIF links point to images of the libraries, and any image in a notation folder carries its own rights record in `<source>.images.json`.

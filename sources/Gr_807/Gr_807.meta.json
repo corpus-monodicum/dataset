@@ -1,0 +1,25 @@
+{
+  "id": "Gr 807",
+  "quellensigle": "Gr 807",
+  "herkunftsregion": "Quellen deutscher Herkunft",
+  "herkunftsort": "Klosterneuburg",
+  "herkunftsinstitution": "Augustiner-Chorfrauenstift Sankt Magdalena",
+  "ordenstradition": "",
+  "quellentyp": "Graduale, Tropar",
+  "bibliotheksort": "Graz",
+  "bibliothek": "Universitätsbibliothek",
+  "bibliothekssignatur": "Ms. 807",
+  "kommentar": "",
+  "datierung": "12. Jh Mitte",
+  "status": "",
+  "jahrhundert": "12.",
+  "manifest": "",
+  "foliooffset": "pageNr+5",
+  "publish": "all",
+  "cantus_siglum": "Gr 807",
+  "cantus_century": "12.",
+  "dataset_external_files": {
+    "beschreibung": "Gr_807.description.md",
+    "notationsdokumentation": "notation/Gr_807.notation.md"
+  }
+}

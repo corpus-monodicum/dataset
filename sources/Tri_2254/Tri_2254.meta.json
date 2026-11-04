@@ -1,0 +1,25 @@
+{
+  "id": "Tri 2254",
+  "quellensigle": "Tri 2254",
+  "herkunftsregion": "Quellen deutscher Herkunft",
+  "herkunftsort": "Stuben (Mosel)",
+  "herkunftsinstitution": "Augustinerinnenstift",
+  "ordenstradition": "",
+  "quellentyp": "Graduale, Sequentiar, Kyriale",
+  "bibliotheksort": "Trier",
+  "bibliothek": "Stadtbibliothek",
+  "bibliothekssignatur": "Hs. 2254",
+  "kommentar": "",
+  "datierung": "",
+  "status": "",
+  "jahrhundert": "13.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Tri 2254",
+  "cantus_century": "13.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Tri_2254.description.md"
+  }
+}

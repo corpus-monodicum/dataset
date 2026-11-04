@@ -1,0 +1,41 @@
+{
+  "id": "96a15773-190d-4c7a-86d9-11eceecc735e",
+  "quelle_id": "Pad 47",
+  "dokumenten_id": "Pad 47-161-5",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Vitalis",
+  "feier": "Messe",
+  "textinitium": "Pro membris canit",
+  "bibliographischerverweis": "Protexisti intr 27 A 28 B 29 C 30 D 31 E 32 F (CT X)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "5",
+  "foliostart": "161",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Protexisti",
+    "Endseite": "161v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Protexisti intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

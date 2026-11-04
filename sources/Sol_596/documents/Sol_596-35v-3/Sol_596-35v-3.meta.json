@@ -1,0 +1,41 @@
+{
+  "id": "19a6b76f-0743-41d3-b993-f2d156494c4c",
+  "quelle_id": "Sol 596",
+  "dokumenten_id": "Sol 596-35v-3",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "Dominica in palmis",
+  "feier": "Prozession",
+  "textinitium": "Principes sacerdotum",
+  "bibliographischerverweis": "CAO 4380",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "3",
+  "foliostart": "35v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "35v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Sol 596-27-7S",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Entry into Jerusalem",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

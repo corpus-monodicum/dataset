@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Gr 807: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Isabel Kraft</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Hanna Zühlke</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Gunilla Iversen</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Ritva Maria Jacobsson</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="Gr_807">
+        <identifier type="siglum">Gr 807</identifier>
+        <identifier type="cantus">Gr 807</identifier>
+        <titleStmt>
+          <title>Gr 807</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Klosterneuburg</geogName>
+          <geogName role="origin-region">Quellen deutscher Herkunft</geogName>
+          <corpName role="origin-institution">Augustiner-Chorfrauenstift Sankt Magdalena</corpName>
+          <date>12. Jh Mitte</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="14">f. 14</locus>
+            <title type="incipit">Puer natus est nobis</title>
+            <identifier type="dokumenten_id">Gr 807-14-8</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="15v">f. 15v</locus>
+            <title type="incipit">Etenim sederunt</title>
+            <identifier type="dokumenten_id">Gr 807-15v-7</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="167">f. 167</locus>
+            <title type="incipit">Hodie cantandus est</title>
+            <identifier type="dokumenten_id">Gr 807-167-2</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="167">f. 167</locus>
+            <title type="incipit">Domine Iesu Christe</title>
+            <identifier type="dokumenten_id">Gr 807-167-9</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="167v">f. 167v</locus>
+            <title type="incipit">Quoniam dominus</title>
+            <identifier type="dokumenten_id">Gr 807-167v-8</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="168">f. 168</locus>
+            <title type="incipit">Hodie parvulorum</title>
+            <identifier type="dokumenten_id">Gr 807-168-9</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="18v">f. 18v</locus>
+            <title type="incipit">In medio ecclesiae</title>
+            <identifier type="dokumenten_id">Gr 807-18v-3</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="20">f. 20</locus>
+            <title type="incipit">Ex ore infantium</title>
+            <identifier type="dokumenten_id">Gr 807-20-1</identifier>
+          </contentItem>
+        </contents>
+        <notesStmt>
+          <annot type="notation-documentation">
+            <ref target="notation/Gr_807.notation.md">Notation documentation</ref>
+          </annot>
+          <annot type="description">
+            <ref target="Gr_807.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <classification>
+          <termList>
+            <term type="quellentyp">Graduale, Tropar</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">Ms. 807</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">Graz</geogName>
+                <corpName>Universitätsbibliothek</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+        <relationList>
+          <relation rel="hasReproduction" target="https://unipub.uni-graz.at/i3f/v20/5564576/manifest" label="IIIF manifest" />
+        </relationList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

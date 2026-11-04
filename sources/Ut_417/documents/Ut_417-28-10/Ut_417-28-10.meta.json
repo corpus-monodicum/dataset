@@ -1,0 +1,41 @@
+{
+  "id": "3e841c51-87f0-44f4-9c0f-a23792c7ae13",
+  "quelle_id": "Ut 417",
+  "dokumenten_id": "Ut 417-28-10",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dionysius",
+  "feier": "Messe",
+  "textinitium": "Gaude prole Graecia",
+  "bibliographischerverweis": "AH 55, 113",
+  "druckausgabe": "",
+  "zeilenstart": "10",
+  "foliostart": "28",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "29",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

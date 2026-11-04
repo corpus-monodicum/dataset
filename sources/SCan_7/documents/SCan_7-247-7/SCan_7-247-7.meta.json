@@ -1,0 +1,41 @@
+{
+  "id": "57a5f50f-0020-47f1-b13b-2ff9c5f1efdb",
+  "quelle_id": "SCan 7",
+  "dokumenten_id": "SCan 7-247-7",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Beata Maria virgo tempore paschali",
+  "feier": "Messe",
+  "textinitium": "Surgit Christus cum tropaeo … Dic Maria",
+  "bibliographischerverweis": "AH 54, 230b",
+  "druckausgabe": "",
+  "zeilenstart": "7",
+  "foliostart": "247",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Gionata Brusa",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "248",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "-",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "Pre 2",
+  "quellensigle": "Pre 2",
+  "herkunftsregion": "Quellen deutscher Herkunft",
+  "herkunftsort": "Preetz",
+  "herkunftsinstitution": "",
+  "ordenstradition": "",
+  "quellentyp": "Graduale mit Tropen und Sequenzen (Fragment), Kyriale (Fragment)",
+  "bibliotheksort": "Preetz",
+  "bibliothek": "Klosterarchiv",
+  "bibliothekssignatur": "Reihe V G2",
+  "kommentar": "",
+  "datierung": "14. Jh Ende",
+  "status": "",
+  "jahrhundert": "14.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Pre 2",
+  "cantus_century": "14.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Pre_2.description.md"
+  }
+}

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Halb 45: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Isabel Kraft</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Hanna Zühlke</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Gunilla Iversen</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Ritva Maria Jacobsson</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="Halb_45">
+        <identifier type="siglum">Halb 45</identifier>
+        <identifier type="cantus">Halb 45</identifier>
+        <titleStmt>
+          <title>Halb 45</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Halberstadt</geogName>
+          <geogName role="origin-region">Quellen deutscher Herkunft</geogName>
+          <corpName role="origin-institution">Dom</corpName>
+          <date>13. Jh 1. Hälfte, 14. Jh 1. Hälfte</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="10">f. 10</locus>
+            <title type="incipit">Ecce sunt dies</title>
+            <identifier type="dokumenten_id">Halb 45-10-1</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="10v">f. 10v</locus>
+            <title type="incipit">Hodie cantandus est</title>
+            <identifier type="dokumenten_id">Halb 45-10v-4</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="11v">f. 11v</locus>
+            <title type="incipit">Qui primus meruit</title>
+            <identifier type="dokumenten_id">Halb 45-11v-7</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="13">f. 13</locus>
+            <title type="incipit">Quoniam dominus</title>
+            <identifier type="dokumenten_id">Halb 45-13-2</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="14v">f. 14v</locus>
+            <title type="incipit">Ecclesiae sponsus</title>
+            <identifier type="dokumenten_id">Halb 45-14v-1</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="23">f. 23</locus>
+            <title type="incipit">Postquam factus</title>
+            <identifier type="dokumenten_id">Halb 45-23-2</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="26">f. 26</locus>
+            <title type="incipit">Terrigenis summis</title>
+            <identifier type="dokumenten_id">Halb 45-26-2</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="27">f. 27</locus>
+            <title type="incipit">Psallite candidati</title>
+            <identifier type="dokumenten_id">Halb 45-27-1</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="30v">f. 30v</locus>
+            <title type="incipit">O quam glorifico</title>
+            <identifier type="dokumenten_id">Halb 45-30v-1</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="31">f. 31</locus>
+            <title type="incipit">Iacob progrediens</title>
+            <identifier type="dokumenten_id">Halb 45-31-7</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus from="32">f. 32</locus>
+            <title type="incipit">O quam glorifico*</title>
+            <identifier type="dokumenten_id">Halb 45-32-5</identifier>
+          </contentItem>
+          <contentItem n="12">
+            <locus from="32v">f. 32v</locus>
+            <title type="incipit">O quam glorifico</title>
+            <identifier type="dokumenten_id">Halb 45-32v-2</identifier>
+          </contentItem>
+          <contentItem n="13">
+            <locus from="33v">f. 33v</locus>
+            <title type="incipit">O quam glorifico</title>
+            <identifier type="dokumenten_id">Halb 45-33v-4</identifier>
+          </contentItem>
+        </contents>
+        <notesStmt>
+          <annot type="description">
+            <ref target="Halb_45.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <classification>
+          <termList>
+            <term type="quellentyp">Cantatorium mit Tropen, Sequenzen</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">Inv.-Nr. 45</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">Halberstadt</geogName>
+                <corpName>Domschatz</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

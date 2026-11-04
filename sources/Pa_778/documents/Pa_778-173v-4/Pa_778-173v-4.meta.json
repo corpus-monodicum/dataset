@@ -1,0 +1,41 @@
+{
+  "id": "6115949a-775f-4cec-8ff8-2736a4e92513",
+  "quelle_id": "Pa 778",
+  "dokumenten_id": "Pa 778-173v-4",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominica post ascensionem",
+  "feier": "Messe",
+  "textinitium": "Creator poli rexque",
+  "bibliographischerverweis": "AH 7, 51",
+  "druckausgabe": "",
+  "zeilenstart": "4",
+  "foliostart": "173v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "174",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "(Creator poli)",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

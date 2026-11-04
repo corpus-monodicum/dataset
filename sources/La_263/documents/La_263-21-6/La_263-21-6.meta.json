@@ -1,0 +1,41 @@
+{
+  "id": "a5704b8a-1144-40bc-983b-0f061aa756f7",
+  "quelle_id": "La 263",
+  "dokumenten_id": "La 263-21-6",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "–",
+  "feier": "Messe",
+  "textinitium": "Est qui nutu",
+  "bibliographischerverweis": "Gaudeamus intr A [mel I H] 157^CM B (CT X)",
+  "druckausgabe": "II-1",
+  "zeilenstart": "6",
+  "foliostart": "21",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "(Gaudeamus)",
+    "Endseite": "21",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Gaudeamus intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

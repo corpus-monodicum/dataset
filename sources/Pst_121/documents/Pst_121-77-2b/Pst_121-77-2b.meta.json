@@ -1,0 +1,41 @@
+{
+  "id": "e91c071b-beaf-4601-b077-bfe6cd351b0c",
+  "quelle_id": "Pst 121",
+  "dokumenten_id": "Pst 121-77-2b",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Confessores",
+  "feier": "Messe",
+  "textinitium": "Gentis linguae*",
+  "bibliographischerverweis": "Statuit intr 213 (CT X)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "2",
+  "foliostart": "77",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Statuit ?",
+    "Endseite": "77",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Statuit intr",
+    "Zusatz_zu_Textinitium": "Nur Incipit ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

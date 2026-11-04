@@ -1,0 +1,41 @@
+{
+  "id": "bc869fb2-00fe-4348-8b30-0602a4bf509b",
+  "quelle_id": "MüU 156",
+  "dokumenten_id": "MüU 156-253-19",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Martinus",
+  "feier": "Messe",
+  "textinitium": "Hodie laetemur fratres",
+  "bibliographischerverweis": "Statuit intr 19 A (CT X)",
+  "druckausgabe": "II-2",
+  "zeilenstart": "19",
+  "foliostart": "253",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "MüU 156-19v-7",
+    "Endseite": "253",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "24",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Statuit intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

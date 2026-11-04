@@ -1,0 +1,25 @@
+{
+  "id": "Cai 72",
+  "quellensigle": "Cai 72",
+  "herkunftsregion": "Quellen französischer Herkunft",
+  "herkunftsort": "Cambrai",
+  "herkunftsinstitution": "Kathedrale Notre-Dame",
+  "ordenstradition": "",
+  "quellentyp": "Prozessionar mit Tropen (Winterteil)",
+  "bibliotheksort": "Cambrai",
+  "bibliothek": "Bibliothèque municipale",
+  "bibliothekssignatur": "Ms. 72 (73)",
+  "kommentar": "",
+  "datierung": "15. Jh 2. Hälfte",
+  "status": "",
+  "jahrhundert": "15.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Cai 72",
+  "cantus_century": "15.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Cai_72.description.md"
+  }
+}

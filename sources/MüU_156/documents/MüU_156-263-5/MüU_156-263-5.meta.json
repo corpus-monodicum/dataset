@@ -1,0 +1,41 @@
+{
+  "id": "8482594b-d240-4bb6-a338-a3ad168390c5",
+  "quelle_id": "MüU 156",
+  "dokumenten_id": "MüU 156-263-5",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Transfiguratio domini",
+  "feier": "Messe",
+  "textinitium": "Speciosus forma",
+  "bibliographischerverweis": "AH 50, 274",
+  "druckausgabe": "",
+  "zeilenstart": "5",
+  "foliostart": "263",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Gionata Brusa",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "263v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Eia turma",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "Nachtrag 3",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Dar 868: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Ordinariumsgesänge)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="Dar_868">
+        <identifier type="siglum">Dar 868</identifier>
+        <identifier type="cantus">Dar 868</identifier>
+        <titleStmt>
+          <title>Dar 868</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Arnstein</geogName>
+          <geogName role="origin-region">Quellen aus Ordenstraditionen</geogName>
+          <date>12. Jh (um 1180)</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="112v">f. 112v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Dar 868-112v-1</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="112v">f. 112v</locus>
+            <title type="incipit">Gloria in excelsis*</title>
+            <identifier type="dokumenten_id">Dar 868-112v-111</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="112v">f. 112v</locus>
+            <title type="incipit">Gloria in excelsis*</title>
+            <identifier type="dokumenten_id">Dar 868-112v-112</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="112v">f. 112v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Dar 868-112v-12</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="112v">f. 112v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Dar 868-112v-15</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="112v">f. 112v</locus>
+            <title type="incipit">Gloria in excelsis*</title>
+            <identifier type="dokumenten_id">Dar 868-112v-151</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="112v">f. 112v</locus>
+            <title type="incipit">Gloria in excelsis*</title>
+            <identifier type="dokumenten_id">Dar 868-112v-152</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="112v">f. 112v</locus>
+            <title type="incipit">Gloria in excelsis*</title>
+            <identifier type="dokumenten_id">Dar 868-112v-5a</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="112v">f. 112v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Dar 868-112v-5b</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="112v">f. 112v</locus>
+            <title type="incipit">Gloria in excelsis*</title>
+            <identifier type="dokumenten_id">Dar 868-112v-81</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus from="112v">f. 112v</locus>
+            <title type="incipit">Gloria in excelsis*</title>
+            <identifier type="dokumenten_id">Dar 868-112v-82</identifier>
+          </contentItem>
+          <contentItem n="12">
+            <locus from="112v">f. 112v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Dar 868-112v-9</identifier>
+          </contentItem>
+          <contentItem n="13">
+            <locus from="113">f. 113</locus>
+            <title type="incipit">Gloria in excelsis*</title>
+            <identifier type="dokumenten_id">Dar 868-113-10</identifier>
+          </contentItem>
+          <contentItem n="14">
+            <locus from="113">f. 113</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Dar 868-113-13</identifier>
+          </contentItem>
+          <contentItem n="15">
+            <locus from="113">f. 113</locus>
+            <title type="incipit">Gloria in excelsis*</title>
+            <identifier type="dokumenten_id">Dar 868-113-16</identifier>
+          </contentItem>
+          <contentItem n="16">
+            <locus from="113">f. 113</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Dar 868-113-17</identifier>
+          </contentItem>
+          <contentItem n="17">
+            <locus from="113">f. 113</locus>
+            <title type="incipit">Gloria in excelsis*</title>
+            <identifier type="dokumenten_id">Dar 868-113-22</identifier>
+          </contentItem>
+          <contentItem n="18">
+            <locus from="113">f. 113</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Dar 868-113-23a</identifier>
+          </contentItem>
+          <contentItem n="19">
+            <locus from="113">f. 113</locus>
+            <title type="incipit">Gloria in excelsis*</title>
+            <identifier type="dokumenten_id">Dar 868-113-23b1</identifier>
+          </contentItem>
+          <contentItem n="20">
+            <locus from="113">f. 113</locus>
+            <title type="incipit">Gloria in excelsis*</title>
+            <identifier type="dokumenten_id">Dar 868-113-23b2</identifier>
+          </contentItem>
+          <contentItem n="21">
+            <locus from="113">f. 113</locus>
+            <title type="incipit">Gloria in excelsis*</title>
+            <identifier type="dokumenten_id">Dar 868-113-3a</identifier>
+          </contentItem>
+          <contentItem n="22">
+            <locus from="113">f. 113</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Dar 868-113-3b</identifier>
+          </contentItem>
+          <contentItem n="23">
+            <locus from="113">f. 113</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Dar 868-113-9a</identifier>
+          </contentItem>
+          <contentItem n="24">
+            <locus from="113">f. 113</locus>
+            <title type="incipit">Gloria in excelsis*</title>
+            <identifier type="dokumenten_id">Dar 868-113-9b</identifier>
+          </contentItem>
+          <contentItem n="25">
+            <locus from="113v">f. 113v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Dar 868-113v-3</identifier>
+          </contentItem>
+          <contentItem n="26">
+            <locus from="113v">f. 113v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Dar 868-113v-7</identifier>
+          </contentItem>
+          <contentItem n="27">
+            <locus from="113v">f. 113v</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Dar 868-113v-8</identifier>
+          </contentItem>
+          <contentItem n="28">
+            <locus from="114">f. 114</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Dar 868-114-4</identifier>
+          </contentItem>
+          <contentItem n="29">
+            <locus from="114v">f. 114v</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Dar 868-114v-3</identifier>
+          </contentItem>
+          <contentItem n="30">
+            <locus from="115">f. 115</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Dar 868-115-17</identifier>
+          </contentItem>
+          <contentItem n="31">
+            <locus from="115">f. 115</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Dar 868-115-3</identifier>
+          </contentItem>
+          <contentItem n="32">
+            <locus from="115v">f. 115v</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Dar 868-115v-13</identifier>
+          </contentItem>
+          <contentItem n="33">
+            <locus from="150">f. 150</locus>
+            <title type="incipit">Credo in unum deum</title>
+            <identifier type="dokumenten_id">Dar 868-150-4</identifier>
+          </contentItem>
+          <contentItem n="34">
+            <locus from="150v">f. 150v</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Dar 868-150v-11</identifier>
+          </contentItem>
+          <contentItem n="35">
+            <locus from="150v">f. 150v</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Dar 868-150v-7</identifier>
+          </contentItem>
+          <contentItem n="36">
+            <locus from="151">f. 151</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Dar 868-151-12</identifier>
+          </contentItem>
+          <contentItem n="37">
+            <locus from="151">f. 151</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Dar 868-151-17</identifier>
+          </contentItem>
+          <contentItem n="38">
+            <locus from="151">f. 151</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Dar 868-151-21</identifier>
+          </contentItem>
+          <contentItem n="39">
+            <locus from="151">f. 151</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Dar 868-151-3</identifier>
+          </contentItem>
+          <contentItem n="40">
+            <locus from="151">f. 151</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Dar 868-151-7</identifier>
+          </contentItem>
+          <contentItem n="41">
+            <locus from="151v">f. 151v</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Dar 868-151v-13</identifier>
+          </contentItem>
+          <contentItem n="42">
+            <locus from="151v">f. 151v</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Dar 868-151v-18</identifier>
+          </contentItem>
+          <contentItem n="43">
+            <locus from="151v">f. 151v</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Dar 868-151v-22</identifier>
+          </contentItem>
+          <contentItem n="44">
+            <locus from="151v">f. 151v</locus>
+            <title type="incipit">Ite missa est</title>
+            <identifier type="dokumenten_id">Dar 868-151v-27a</identifier>
+          </contentItem>
+          <contentItem n="45">
+            <locus from="151v">f. 151v</locus>
+            <title type="incipit">Ite missa est</title>
+            <identifier type="dokumenten_id">Dar 868-151v-27b</identifier>
+          </contentItem>
+          <contentItem n="46">
+            <locus from="151v">f. 151v</locus>
+            <title type="incipit">Ite missa est</title>
+            <identifier type="dokumenten_id">Dar 868-151v-31a</identifier>
+          </contentItem>
+          <contentItem n="47">
+            <locus from="151v">f. 151v</locus>
+            <title type="incipit">Ite missa est</title>
+            <identifier type="dokumenten_id">Dar 868-151v-31b</identifier>
+          </contentItem>
+          <contentItem n="48">
+            <locus from="151v">f. 151v</locus>
+            <title type="incipit">Ite missa est</title>
+            <identifier type="dokumenten_id">Dar 868-151v-31c</identifier>
+          </contentItem>
+          <contentItem n="49">
+            <locus from="151v">f. 151v</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Dar 868-151v-5</identifier>
+          </contentItem>
+          <contentItem n="50">
+            <locus from="152">f. 152</locus>
+            <title type="incipit">Ite missa est</title>
+            <identifier type="dokumenten_id">Dar 868-152-3a</identifier>
+          </contentItem>
+          <contentItem n="51">
+            <locus from="152">f. 152</locus>
+            <title type="incipit">Ite missa est</title>
+            <identifier type="dokumenten_id">Dar 868-152-3b</identifier>
+          </contentItem>
+          <contentItem n="52">
+            <locus from="152">f. 152</locus>
+            <title type="incipit">Ite missa est</title>
+            <identifier type="dokumenten_id">Dar 868-152-3c</identifier>
+          </contentItem>
+          <contentItem n="53">
+            <locus from="152">f. 152</locus>
+            <title type="incipit">Ite missa est</title>
+            <identifier type="dokumenten_id">Dar 868-152-3d</identifier>
+          </contentItem>
+          <contentItem n="54">
+            <locus from="58v">f. 58v</locus>
+            <title type="incipit">Gloria in excelsis*</title>
+            <identifier type="dokumenten_id">Dar 868-58v-14a</identifier>
+          </contentItem>
+          <contentItem n="55">
+            <locus from="58v">f. 58v</locus>
+            <title type="incipit">Kyrie eleyson*</title>
+            <identifier type="dokumenten_id">Dar 868-58v-9</identifier>
+          </contentItem>
+          <contentItem n="56">
+            <locus from="59">f. 59</locus>
+            <title type="incipit">Ite missa est</title>
+            <identifier type="dokumenten_id">Dar 868-59-14</identifier>
+          </contentItem>
+        </contents>
+        <biblList type="catalogue-online">
+          <bibl>IIIF Fehler =&gt; HTTP!!</bibl>
+        </biblList>
+        <notesStmt>
+          <annot type="description">
+            <ref target="Dar_868.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <classification>
+          <termList>
+            <term type="quellentyp">Graduale, Kyriale, Sequentiar</term>
+            <term type="ordenstradition">Prämonstratenser</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">Hs. 868</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">Darmstadt</geogName>
+                <corpName>Universitäts- und Landesbibliothek</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+        <relationList>
+          <relation rel="hasReproduction" target="https://tudigit.ulb.tu-darmstadt.de/iiif/Hs-868-manifest.json" label="IIIF manifest" />
+        </relationList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

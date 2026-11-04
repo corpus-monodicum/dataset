@@ -1,0 +1,25 @@
+{
+  "id": "Pad 55",
+  "quellensigle": "Pad 55",
+  "herkunftsregion": "Quellen italienischer Herkunft",
+  "herkunftsort": "Padua",
+  "herkunftsinstitution": "Kathedrale Santa Maria Assunta",
+  "ordenstradition": "",
+  "quellentyp": "Prozessionar mit liturgischen Spielen",
+  "bibliotheksort": "Padua",
+  "bibliothek": "Biblioteca Capitolare di Padova",
+  "bibliothekssignatur": "C 55",
+  "kommentar": "",
+  "datierung": "15. Jh Anfang",
+  "status": "",
+  "jahrhundert": "15.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Pad 55",
+  "cantus_century": "15.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Pad_55.description.md"
+  }
+}

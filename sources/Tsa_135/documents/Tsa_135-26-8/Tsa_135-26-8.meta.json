@@ -1,0 +1,41 @@
+{
+  "id": "b8ec9a31-6b7e-4c6f-a072-70bd07cec445",
+  "quelle_id": "Tsa 135",
+  "dokumenten_id": "Tsa 135-26-8",
+  "gattung1": "Sanctus",
+  "gattung2": "tropiert",
+  "festtag": "Pentecoste",
+  "feier": "Messe",
+  "textinitium": "Veni redemptor",
+  "bibliographischerverweis": "CT VII, 167: 1 2 3 4",
+  "druckausgabe": "",
+  "zeilenstart": "8",
+  "foliostart": "26",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "27",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "Thannabaur 49",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509504",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

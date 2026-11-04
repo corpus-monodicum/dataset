@@ -1,0 +1,41 @@
+{
+  "id": "96241ea4-4067-4adf-813d-9937e97317e5",
+  "quelle_id": "Pa 14452",
+  "dokumenten_id": "Pa 14452-247v-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Ludovicus",
+  "feier": "Messe",
+  "textinitium": "Laetabunda psallat plebs",
+  "bibliographischerverweis": "AH 55, 228",
+  "druckausgabe": "CM III",
+  "zeilenstart": "1",
+  "foliostart": "247v",
+  "kommentar": "Nachtrag_8",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "248",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "Nachtrag_8",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

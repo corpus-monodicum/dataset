@@ -1,0 +1,41 @@
+{
+  "id": "fa207221-bfef-407a-b0aa-4e1a8ef6d9b5",
+  "quelle_id": "Civ 101",
+  "dokumenten_id": "Civ 101-24-9",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "Dominica in palmis",
+  "feier": "Prozession",
+  "textinitium": "Collegerunt pontifices",
+  "bibliographischerverweis": "CAO 1852",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "9",
+  "foliostart": "24",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "24v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Civ 101-21-7S",
+    "Endzeile": "14",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Entry into Jerusalem",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

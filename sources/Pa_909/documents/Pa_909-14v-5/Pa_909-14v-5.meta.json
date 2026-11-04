@@ -1,0 +1,41 @@
+{
+  "id": "1f91dd43-5d8f-4c9d-9c13-f0ddd56a6c00",
+  "quelle_id": "Pa 909",
+  "dokumenten_id": "Pa 909-14v-5",
+  "gattung1": "Tropus",
+  "gattung2": "Offertorium-Tropus",
+  "festtag": "Stephanus",
+  "feier": "Messe",
+  "textinitium": "Martyrii viam",
+  "bibliographischerverweis": "Steph off 19 A 22 C (CT I)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "5",
+  "foliostart": "14v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "Posuisti",
+    "Endseite": "14v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Steph off",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

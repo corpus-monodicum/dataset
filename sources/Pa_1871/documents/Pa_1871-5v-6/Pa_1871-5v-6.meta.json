@@ -1,0 +1,41 @@
+{
+  "id": "8b882e6e-7035-4223-99bc-7a842d1dac5b",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-5v-6",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Stephanus",
+  "feier": "Messe",
+  "textinitium": "Statuerunt apostoli",
+  "bibliographischerverweis": "Steph intr 70 A 51 A 25 B 26 C 27 D E 46 A 47 C 48 D F 57 A 36 B 37 C 58 D G [mel I B] 38 A 39 B 40 C 41 D 28 A 42 B 43 C 44 D (CT I)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "6",
+  "foliostart": "5v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "(Etenim)",
+    "Endseite": "6v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Steph intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

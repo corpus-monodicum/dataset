@@ -1,0 +1,41 @@
+{
+  "id": "e4411a28-e2e1-46a4-9c4d-db309c474f02",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-231v-13",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Nativitas Mariae",
+  "feier": "Messe",
+  "textinitium": "Virginis et matris",
+  "bibliographischerverweis": "Gaud 30 A 31 C 32 E F 33 G 93 A 94 B 95 C 29b E (CT IX)",
+  "druckausgabe": "II-1",
+  "zeilenstart": "13",
+  "foliostart": "231v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "Pa 1235-36-6-",
+    "Endseite": "232",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

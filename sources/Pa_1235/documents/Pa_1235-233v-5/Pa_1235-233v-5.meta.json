@@ -1,0 +1,41 @@
+{
+  "id": "074d7061-8116-497d-aa18-6e3a6b157d4f",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-233v-5",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dionysius",
+  "feier": "Messe",
+  "textinitium": "Alludat laetus ordo",
+  "bibliographischerverweis": "AH 7, 176",
+  "druckausgabe": "CM III",
+  "zeilenstart": "5",
+  "foliostart": "233v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "234",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Iusti epulentur",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

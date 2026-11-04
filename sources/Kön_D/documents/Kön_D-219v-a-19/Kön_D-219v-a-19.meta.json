@@ -1,0 +1,41 @@
+{
+  "id": "afc15b2a-be83-4a71-9f7a-9a597d2b509e",
+  "quelle_id": "Kön D",
+  "dokumenten_id": "Kön D-219v-a-19",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Agatha",
+  "feier": "Messe",
+  "textinitium": "Gaudeamus omnes ... Agathae",
+  "bibliographischerverweis": "AMS 30",
+  "druckausgabe": "II-2",
+  "zeilenstart": "19",
+  "foliostart": "219v-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "219v-a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "25",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

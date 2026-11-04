@@ -1,0 +1,41 @@
+{
+  "id": "41e7a27d-69ca-4e25-a56c-bbe8bc03e151",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-204-13",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Annuntiatio Mariae",
+  "feier": "Messe",
+  "textinitium": "Aurea virga primae",
+  "bibliographischerverweis": "AH 7, 107",
+  "druckausgabe": "CM III",
+  "zeilenstart": "13",
+  "foliostart": "204",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "205",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Hodie Maria virgo",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

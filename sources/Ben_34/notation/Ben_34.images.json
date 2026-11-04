@@ -1,0 +1,30 @@
+{
+  "source": "Ben_34",
+  "images": [
+    {
+      "file": "patterns/patterns.svg",
+      "kind": "patterns",
+      "media_type": "image/svg+xml",
+      "sha256": "2e9dba6de274e5798b463548a09f3a220a19d6f0f812a3428096fe9573303cf1",
+      "bytes": 57026,
+      "shows": "Ben 34: Muster &amp; Entsprechungen",
+      "embeds_raster_image": false,
+      "source": {
+        "siglum": "Ben 34",
+        "library": "Biblioteca Capitolare",
+        "place": "Benevent",
+        "shelfmark": "34",
+        "iiif_manifests": [
+          "https://iiif.diamm.net/manifests/I-BV-34/manifest.json"
+        ],
+        "online_catalogue": []
+      },
+      "rights": {
+        "status": "not checked",
+        "library_terms_url": null,
+        "statement": null,
+        "note": "The images are crops of manuscript images of the library named under `source`; the rights of the library are not settled by the licence of this dataset (see docs/LICENCE-DECISION.md)."
+      }
+    }
+  ]
+}

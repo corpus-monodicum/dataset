@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Mel 109: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Ordinariumsgesänge)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="Mel_109">
+        <identifier type="siglum">Mel 109</identifier>
+        <identifier type="cantus">Mel 109</identifier>
+        <titleStmt>
+          <title>Mel 109</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Regensburg</geogName>
+          <geogName role="origin-region">Quellen deutscher Herkunft</geogName>
+          <corpName role="origin-institution">Sankt Emmeram</corpName>
+          <date>14. Jh (um 1310)</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="156v-a">f. 156v-a</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Mel 109-156v-a-1</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="156v-a">f. 156v-a</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Mel 109-156v-a-6</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="156v-a">f. 156v-a</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Mel 109-156v-a-9</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="156v-b">f. 156v-b</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Mel 109-156v-b-1</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="156v-b">f. 156v-b</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Mel 109-156v-b-3</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="156v-b">f. 156v-b</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Mel 109-156v-b-6I</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="156v-b">f. 156v-b</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Mel 109-156v-b-6II</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="157">f. 157</locus>
+            <title type="incipit">Spiritus et alme</title>
+            <identifier type="dokumenten_id">Mel 109-157-1I</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="157">f. 157</locus>
+            <title type="incipit">Spiritus et alme</title>
+            <identifier type="dokumenten_id">Mel 109-157-1II</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="157v">f. 157v</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Mel 109-157v-1</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus from="158">f. 158</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Mel 109-158-1</identifier>
+          </contentItem>
+          <contentItem n="12">
+            <locus from="158">f. 158</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Mel 109-158-10</identifier>
+          </contentItem>
+          <contentItem n="13">
+            <locus from="158v">f. 158v</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Mel 109-158v-8</identifier>
+          </contentItem>
+          <contentItem n="14">
+            <locus from="159">f. 159</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Mel 109-159-6</identifier>
+          </contentItem>
+          <contentItem n="15">
+            <locus from="159v">f. 159v</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Mel 109-159v-4</identifier>
+          </contentItem>
+          <contentItem n="16">
+            <locus from="160">f. 160</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Mel 109-160-11</identifier>
+          </contentItem>
+          <contentItem n="17">
+            <locus from="160">f. 160</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Mel 109-160-2</identifier>
+          </contentItem>
+          <contentItem n="18">
+            <locus from="160">f. 160</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Mel 109-160-5</identifier>
+          </contentItem>
+          <contentItem n="19">
+            <locus from="160">f. 160</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Mel 109-160-8</identifier>
+          </contentItem>
+          <contentItem n="20">
+            <locus from="160v">f. 160v</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Mel 109-160v-2</identifier>
+          </contentItem>
+          <contentItem n="21">
+            <locus from="160v">f. 160v</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Mel 109-160v-5</identifier>
+          </contentItem>
+          <contentItem n="22">
+            <locus from="161">f. 161</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Mel 109-161-1</identifier>
+          </contentItem>
+          <contentItem n="23">
+            <locus from="161">f. 161</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Mel 109-161-10</identifier>
+          </contentItem>
+          <contentItem n="24">
+            <locus from="161">f. 161</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Mel 109-161-2</identifier>
+          </contentItem>
+          <contentItem n="25">
+            <locus from="161">f. 161</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Mel 109-161-4</identifier>
+          </contentItem>
+          <contentItem n="26">
+            <locus from="161">f. 161</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Mel 109-161-5</identifier>
+          </contentItem>
+          <contentItem n="27">
+            <locus from="161">f. 161</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Mel 109-161-7</identifier>
+          </contentItem>
+          <contentItem n="28">
+            <locus from="161">f. 161</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Mel 109-161-8</identifier>
+          </contentItem>
+        </contents>
+        <notesStmt>
+          <annot type="description">
+            <ref target="Mel_109.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <classification>
+          <termList>
+            <term type="quellentyp">Graduale, Sequentiar</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">Cod. 109 (1056)</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">Melk</geogName>
+                <corpName>Benediktinerstift</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

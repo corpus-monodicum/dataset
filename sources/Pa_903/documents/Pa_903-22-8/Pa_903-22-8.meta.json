@@ -1,0 +1,41 @@
+{
+  "id": "848cefde-a53e-4230-9976-a15140d95a7a",
+  "quelle_id": "Pa 903",
+  "dokumenten_id": "Pa 903-22-8",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Vincentius",
+  "feier": "Messe",
+  "textinitium": "Laetabitur iustus",
+  "bibliographischerverweis": "AMS 27",
+  "druckausgabe": "II-3",
+  "zeilenstart": "8",
+  "foliostart": "22",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "22",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

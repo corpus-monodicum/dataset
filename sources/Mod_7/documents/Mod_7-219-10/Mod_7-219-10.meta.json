@@ -1,0 +1,41 @@
+{
+  "id": "4bd8785a-3dd6-4937-bf26-217b1ea18ac9",
+  "quelle_id": "Mod 7",
+  "dokumenten_id": "Mod 7-219-10",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Octava Paschae",
+  "feier": "Messe",
+  "textinitium": "Ecce omnes",
+  "bibliographischerverweis": "Oct pasch intr 8 A 9 B 10 C 11 D (CT III)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "10",
+  "foliostart": "219",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Quasi modo geniti",
+    "Endseite": "219v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Oct pasch intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

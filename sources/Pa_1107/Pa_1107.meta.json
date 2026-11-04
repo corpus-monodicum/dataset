@@ -1,0 +1,25 @@
+{
+  "id": "Pa 1107",
+  "quellensigle": "Pa 1107",
+  "herkunftsregion": "Quellen französischer Herkunft",
+  "herkunftsort": "Saint-Denis",
+  "herkunftsinstitution": "Abtei Saint-Denis",
+  "ordenstradition": "",
+  "quellentyp": "Missale mit Tropen, Sequentiar, Kyriale mit Tropen",
+  "bibliotheksort": "Paris",
+  "bibliothek": "Bibliothèque nationale de France",
+  "bibliothekssignatur": "lat. 1107",
+  "kommentar": "",
+  "datierung": "13. Jh 2. Hälfte",
+  "status": "",
+  "jahrhundert": "13.",
+  "manifest": "",
+  "foliooffset": "pageNr+0",
+  "publish": "all",
+  "cantus_siglum": "Pa 1107",
+  "cantus_century": "13.",
+  "dataset_external_files": {
+    "beschreibung": "Pa_1107.description.md",
+    "notationsdokumentation": "notation/Pa_1107.notation.md"
+  }
+}

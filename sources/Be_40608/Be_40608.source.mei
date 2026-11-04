@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Be 40608: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Michael Klaper</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Gunilla Iversen</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Ritva Maria Jacobsson</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="Be_40608">
+        <identifier type="siglum">Be 40608</identifier>
+        <identifier type="cantus">Be 40608</identifier>
+        <titleStmt>
+          <title>Be 40608</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Venedig</geogName>
+          <geogName role="origin-region">Quellen italienischer Herkunft</geogName>
+          <corpName role="origin-institution">San Marco</corpName>
+          <date>14. Jh</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="10">f. 10</locus>
+            <title type="incipit">Dominus dixit</title>
+            <identifier type="dokumenten_id">Be 40608-10-6</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="107v">f. 107v</locus>
+            <title type="incipit">Quem quaeritis in sepulchro</title>
+            <identifier type="dokumenten_id">Be 40608-107v-3</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="108">f. 108</locus>
+            <title type="incipit">Resurrexi</title>
+            <identifier type="dokumenten_id">Be 40608-108-8</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="134v">f. 134v</locus>
+            <title type="incipit">Agmina perenniter</title>
+            <identifier type="dokumenten_id">Be 40608-134v-9</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="135">f. 135</locus>
+            <title type="incipit">Terribilis est locus iste</title>
+            <identifier type="dokumenten_id">Be 40608-135-3</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="137v">f. 137v</locus>
+            <title type="incipit">Hodie redemptor</title>
+            <identifier type="dokumenten_id">Be 40608-137v-7</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="138">f. 138</locus>
+            <title type="incipit">Viri Galilaei</title>
+            <identifier type="dokumenten_id">Be 40608-138-8</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="142v">f. 142v</locus>
+            <title type="incipit">Hodie spiritus sanctus procedens</title>
+            <identifier type="dokumenten_id">Be 40608-142v-9</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="143">f. 143</locus>
+            <title type="incipit">Spiritus domini</title>
+            <identifier type="dokumenten_id">Be 40608-143-3</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="151v">f. 151v</locus>
+            <title type="incipit">Audite insulae</title>
+            <identifier type="dokumenten_id">Be 40608-151v-10</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus from="152">f. 152</locus>
+            <title type="incipit">De ventre</title>
+            <identifier type="dokumenten_id">Be 40608-152-5</identifier>
+          </contentItem>
+          <contentItem n="12">
+            <locus from="155">f. 155</locus>
+            <title type="incipit">Beatus Petrus</title>
+            <identifier type="dokumenten_id">Be 40608-155-10</identifier>
+          </contentItem>
+          <contentItem n="13">
+            <locus from="155v">f. 155v</locus>
+            <title type="incipit">Nunc scio vere</title>
+            <identifier type="dokumenten_id">Be 40608-155v-4</identifier>
+          </contentItem>
+          <contentItem n="14">
+            <locus from="164v">f. 164v</locus>
+            <title type="incipit">Vox domino</title>
+            <identifier type="dokumenten_id">Be 40608-164v-11</identifier>
+          </contentItem>
+          <contentItem n="15">
+            <locus from="168">f. 168</locus>
+            <title type="incipit">Gaude virgo gaude</title>
+            <identifier type="dokumenten_id">Be 40608-168-10</identifier>
+          </contentItem>
+          <contentItem n="16">
+            <locus from="18">f. 18</locus>
+            <title type="incipit">Ecce adest</title>
+            <identifier type="dokumenten_id">Be 40608-18-5</identifier>
+          </contentItem>
+          <contentItem n="17">
+            <locus from="18">f. 18</locus>
+            <title type="incipit">Puer natus est nobis</title>
+            <identifier type="dokumenten_id">Be 40608-18-9</identifier>
+          </contentItem>
+          <contentItem n="18">
+            <locus from="190">f. 190</locus>
+            <title type="incipit">Sollemnitatem venerandam</title>
+            <identifier type="dokumenten_id">Be 40608-190-7</identifier>
+          </contentItem>
+          <contentItem n="19">
+            <locus from="192">f. 192</locus>
+            <title type="incipit">Haec est dies caelestis</title>
+            <identifier type="dokumenten_id">Be 40608-192-11</identifier>
+          </contentItem>
+          <contentItem n="20">
+            <locus from="196v">f. 196v</locus>
+            <title type="incipit">Hodie amicus dei</title>
+            <identifier type="dokumenten_id">Be 40608-196v-9</identifier>
+          </contentItem>
+          <contentItem n="21">
+            <locus from="22v">f. 22v</locus>
+            <title type="incipit">Domine Iesu Christe</title>
+            <identifier type="dokumenten_id">Be 40608-22v-1</identifier>
+          </contentItem>
+          <contentItem n="22">
+            <locus from="23">f. 23</locus>
+            <title type="incipit">Etenim sederunt</title>
+            <identifier type="dokumenten_id">Be 40608-23-1</identifier>
+          </contentItem>
+          <contentItem n="23">
+            <locus from="25v">f. 25v</locus>
+            <title type="incipit">Dilectus iste</title>
+            <identifier type="dokumenten_id">Be 40608-25v-5</identifier>
+          </contentItem>
+          <contentItem n="24">
+            <locus from="26">f. 26</locus>
+            <title type="incipit">In medio ecclesiae</title>
+            <identifier type="dokumenten_id">Be 40608-26-5</identifier>
+          </contentItem>
+          <contentItem n="25">
+            <locus from="29v">f. 29v</locus>
+            <title type="incipit">Vultum tuum</title>
+            <identifier type="dokumenten_id">Be 40608-29v-6</identifier>
+          </contentItem>
+          <contentItem n="26">
+            <locus from="32v">f. 32v</locus>
+            <title type="incipit">Hodie clarissimam</title>
+            <identifier type="dokumenten_id">Be 40608-32v-11</identifier>
+          </contentItem>
+          <contentItem n="27">
+            <locus from="33">f. 33</locus>
+            <title type="incipit">Ecce advenit</title>
+            <identifier type="dokumenten_id">Be 40608-33-6</identifier>
+          </contentItem>
+          <contentItem n="28">
+            <locus from="38">f. 38</locus>
+            <title type="incipit">Statuit ei dominus</title>
+            <identifier type="dokumenten_id">Be 40608-38-1</identifier>
+          </contentItem>
+          <contentItem n="29">
+            <locus from="46">f. 46</locus>
+            <title type="incipit">Responsum accepit</title>
+            <identifier type="dokumenten_id">Be 40608-46-1</identifier>
+          </contentItem>
+          <contentItem n="30">
+            <locus from="46">f. 46</locus>
+            <title type="incipit">Suscepimus</title>
+            <identifier type="dokumenten_id">Be 40608-46-8</identifier>
+          </contentItem>
+          <contentItem n="31">
+            <locus from="48v">f. 48v</locus>
+            <title type="incipit">Gaudeamus omnes ... Agathae</title>
+            <identifier type="dokumenten_id">Be 40608-48v-10</identifier>
+          </contentItem>
+          <contentItem n="32">
+            <locus from="65v">f. 65v</locus>
+            <title type="incipit">Confessio</title>
+            <identifier type="dokumenten_id">Be 40608-65v-6</identifier>
+          </contentItem>
+          <contentItem n="33">
+            <locus from="8v">f. 8v</locus>
+            <title type="incipit">Mihi autem</title>
+            <identifier type="dokumenten_id">Be 40608-8v-3</identifier>
+          </contentItem>
+          <contentItem n="34">
+            <locus from="9v">f. 9v</locus>
+            <title type="incipit">In Bethlehem Iudae</title>
+            <identifier type="dokumenten_id">Be 40608-9v-10</identifier>
+          </contentItem>
+        </contents>
+        <notesStmt>
+          <annot type="description">
+            <ref target="Be_40608.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <classification>
+          <termList>
+            <term type="quellentyp">Graduale mit Tropen und Sequenzen</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">Mus. ms. 40608</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">Berlin</geogName>
+                <corpName>Staatsbibliothek PKB</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

@@ -1,0 +1,41 @@
+{
+  "id": "da88ba94-d32b-4843-b523-2f0c5e7de93f",
+  "quelle_id": "Pa 1871",
+  "dokumenten_id": "Pa 1871-58v-4",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Vincula Petri",
+  "feier": "Messe",
+  "textinitium": "Psalle iam turba sacra",
+  "bibliographischerverweis": "AH 42, 313",
+  "druckausgabe": "",
+  "zeilenstart": "4",
+  "foliostart": "58v",
+  "kommentar": "Nachtrag",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "59",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Celsa polorum",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

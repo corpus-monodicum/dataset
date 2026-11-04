@@ -1,0 +1,41 @@
+{
+  "id": "ad8bf983-c448-4bf8-899a-839697a21ebd",
+  "quelle_id": "Pia 65",
+  "dokumenten_id": "Pia 65-202v-a-12",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Simon et Iudas",
+  "feier": "Messe",
+  "textinitium": "Mihi autem",
+  "bibliographischerverweis": "AMS 160",
+  "druckausgabe": "II-4",
+  "zeilenstart": "12",
+  "foliostart": "202v-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "202v-a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "16",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5acd3a5c-914b-4900-b6dc-d069f9c91ce0",
+  "quelle_id": "Ei 366",
+  "dokumenten_id": "Ei 366-53-1a",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "",
+  "feier": "Matutin",
+  "textinitium": "Pastores dicite*",
+  "bibliographischerverweis": "CAO 4224",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "1",
+  "foliostart": "53",
+  "kommentar": "1",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "53",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "Ei 366-53-1-aS",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "Beginn fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Magi play",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

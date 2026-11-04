@@ -1,0 +1,41 @@
+{
+  "id": "493c59d5-f8ba-492f-8319-2365f63f0c09",
+  "quelle_id": "Apt 17",
+  "dokumenten_id": "Apt 17-106-7",
+  "gattung1": "Tropus",
+  "gattung2": "Communio-Tropus",
+  "festtag": "Fabianus et Sebastianus",
+  "feier": "Messe",
+  "textinitium": "Summa dei",
+  "bibliographischerverweis": "Multitudo languentium com 2 A (CT X)",
+  "druckausgabe": "II-3",
+  "zeilenstart": "7",
+  "foliostart": "106",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "David Catalunya",
+    "iiifs": "",
+    "Bezugsgesang": "(Multitudo)",
+    "Endseite": "106",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Multitudo languentium com",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

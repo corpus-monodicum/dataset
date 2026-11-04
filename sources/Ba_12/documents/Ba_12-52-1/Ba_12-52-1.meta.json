@@ -1,0 +1,41 @@
+{
+  "id": "f5f8ce4d-bbf1-4c9e-935f-c8c52033b59f",
+  "quelle_id": "Ba 12",
+  "dokumenten_id": "Ba 12-52-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Kunigunde",
+  "feier": "Messe",
+  "textinitium": "Laetare mater ecclesia",
+  "bibliographischerverweis": "AH 54, 38",
+  "druckausgabe": "CM III",
+  "zeilenstart": "1",
+  "foliostart": "52",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "52v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "13",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "Nachtrag 2",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "bf91db5a-5d30-414b-be87-7eac5c8aafea",
+  "quelle_id": "PaSG 117",
+  "dokumenten_id": "PaSG 117-101-2",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Responsorium",
+  "festtag": "Pascha",
+  "feier": "Matutin",
+  "textinitium": "Et valde mane",
+  "bibliographischerverweis": "CAO 6676",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "2",
+  "foliostart": "101",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "101",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "PaSG 117-100-13-aS",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Easter play / Osterspiel",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

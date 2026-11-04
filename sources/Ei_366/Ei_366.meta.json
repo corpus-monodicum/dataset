@@ -1,0 +1,25 @@
+{
+  "id": "Ei 366",
+  "quellensigle": "Ei 366",
+  "herkunftsregion": "Quellen deutscher Herkunft",
+  "herkunftsort": "Einsiedeln möglicherweise",
+  "herkunftsinstitution": "",
+  "ordenstradition": "",
+  "quellentyp": "Sequentiar, Hymnar, Kyriale, Liturgische Spiele, musiktheoretische Merkverse",
+  "bibliotheksort": "Einsiedeln",
+  "bibliothek": "Stiftsbibliothek",
+  "bibliothekssignatur": "Cod. 366",
+  "kommentar": "",
+  "datierung": "12 .Jh",
+  "status": "",
+  "jahrhundert": "12.",
+  "manifest": "",
+  "foliooffset": "pageNr+19",
+  "publish": "all",
+  "cantus_siglum": "Ei 366",
+  "cantus_century": "12.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Ei_366.description.md"
+  }
+}

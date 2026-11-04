@@ -1,0 +1,41 @@
+{
+  "id": "4889046c-6c0a-4b75-93f0-6a8c0e84bdb8",
+  "quelle_id": "RoC 1741",
+  "dokumenten_id": "RoC 1741-105-8",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Translatio Benedicti",
+  "feier": "Messe",
+  "textinitium": "Candida contio melos",
+  "bibliographischerverweis": "AH 7, 167; AH 53, 244",
+  "druckausgabe": "",
+  "zeilenstart": "8",
+  "foliostart": "105",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "106v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Romana",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

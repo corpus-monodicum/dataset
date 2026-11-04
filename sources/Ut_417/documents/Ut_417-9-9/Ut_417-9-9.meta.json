@@ -1,0 +1,41 @@
+{
+  "id": "11f501dd-be57-403e-9849-02e15479d0ae",
+  "quelle_id": "Ut 417",
+  "dokumenten_id": "Ut 417-9-9",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Feria IV post Pascha",
+  "feier": "Messe",
+  "textinitium": "Agni paschalis esu",
+  "bibliographischerverweis": "AH 53, 50",
+  "druckausgabe": "",
+  "zeilenstart": "9",
+  "foliostart": "9",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "9v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Graeca",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0adb3aa6-deca-49de-bc32-77cd80511087",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-193v-b-31",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Matthaeus",
+  "feier": "Messe",
+  "textinitium": "Iucundare plebs fidelis cuius*",
+  "bibliographischerverweis": "AH 55, 7",
+  "druckausgabe": "",
+  "zeilenstart": "31",
+  "foliostart": "193v-b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "193v-b",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "31",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

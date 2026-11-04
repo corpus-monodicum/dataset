@@ -1,0 +1,41 @@
+{
+  "id": "3d00b4b3-a965-429a-b1be-d42a9bd3371f",
+  "quelle_id": "Mod 7",
+  "dokumenten_id": "Mod 7-5-4",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Nativitas domini",
+  "feier": "2. Messe",
+  "textinitium": "Iam fulget",
+  "bibliographischerverweis": "Nat II intr 1 A 18 B 19 C 20 D E (CT I)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "4",
+  "foliostart": "5",
+  "kommentar": "Elemente 26 und 27 radiert",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Lux fulgebit",
+    "Endseite": "5",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "Abschnitt im Inneren fehlt; Ende fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Nat II intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

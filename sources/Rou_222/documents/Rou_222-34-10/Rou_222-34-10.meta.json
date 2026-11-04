@@ -1,0 +1,41 @@
+{
+  "id": "54908282-9921-4ebf-abba-1b1e5bbae044",
+  "quelle_id": "Rou 222",
+  "dokumenten_id": "Rou 222-34-10",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Responsorium",
+  "festtag": "Feria VI in Parasceve",
+  "feier": "Depositio crucis",
+  "textinitium": "Sicut ovis ad occisionem*",
+  "bibliographischerverweis": "CAO 7661",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "10",
+  "foliostart": "34",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "34",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Rou 222-30v-23S",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Good Friday / Deposition of the cross",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

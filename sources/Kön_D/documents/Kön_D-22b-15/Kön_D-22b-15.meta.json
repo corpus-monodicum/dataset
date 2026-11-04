@@ -1,0 +1,41 @@
+{
+  "id": "eb2cb46c-f364-43f3-b75b-2e2896fe3f43",
+  "quelle_id": "Kön D",
+  "dokumenten_id": "Kön D-22b-15",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Nativitas domini",
+  "feier": "3. Messe",
+  "textinitium": "Puer natus est nobis",
+  "bibliographischerverweis": "AMS 11",
+  "druckausgabe": "II-2",
+  "zeilenstart": "15",
+  "foliostart": "22b",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "22b",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "22",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

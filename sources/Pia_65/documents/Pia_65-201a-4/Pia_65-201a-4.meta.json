@@ -1,0 +1,41 @@
+{
+  "id": "f5fa4dab-3d90-42e2-9b1d-02fa1a7bad95",
+  "quelle_id": "Pia 65",
+  "dokumenten_id": "Pia 65-201a-4",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Petrus et Paulus",
+  "feier": "Messe",
+  "textinitium": "Nunc scio vere",
+  "bibliographischerverweis": "AMS 122",
+  "druckausgabe": "II-4",
+  "zeilenstart": "4",
+  "foliostart": "201a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "201a",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

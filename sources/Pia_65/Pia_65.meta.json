@@ -1,0 +1,25 @@
+{
+  "id": "Pia 65",
+  "quellensigle": "Pia 65",
+  "herkunftsregion": "Quellen italienischer Herkunft",
+  "herkunftsort": "Piacenza",
+  "herkunftsinstitution": "Kathedrale",
+  "ordenstradition": "",
+  "quellentyp": "Tonar, Hymnar, Graduale, Kyriale, Tropar, Antiphonar",
+  "bibliotheksort": "Piacenza",
+  "bibliothek": "Biblioteca Capitolare",
+  "bibliothekssignatur": "65",
+  "kommentar": "",
+  "datierung": "12. Jh Ende",
+  "status": "",
+  "jahrhundert": "12.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Pia 65",
+  "cantus_century": "12.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Pia_65.description.md"
+  }
+}

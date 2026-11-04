@@ -1,0 +1,41 @@
+{
+  "id": "8f504abe-625d-45a0-b545-05e130543fff",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-109-1",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Pascha",
+  "feier": "Messe",
+  "textinitium": "Cui canunt angeli",
+  "bibliographischerverweis": "Resurr intr 27 A B [mel IV G] C 123 D [mel IV H] C (CT III)",
+  "druckausgabe": "II-2",
+  "zeilenstart": "1",
+  "foliostart": "109",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "Aa 13-49v-2",
+    "Endseite": "109",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "Beginn fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Resurr intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

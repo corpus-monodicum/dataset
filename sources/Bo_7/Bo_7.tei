@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bo 7: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Jasmin Hartmann-Strauß</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Ordinariumsgesänge)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="Bo_7">
+          <msIdentifier>
+            <settlement>Bologna</settlement>
+            <repository>Museo internazionale e biblioteca della musica</repository>
+            <idno type="shelfmark">Q. 7</idno>
+            <altIdentifier type="siglum">
+              <idno>Bo 7</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>Bo 7</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="14">f. 14</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Bo 7-14-1</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="14">f. 14</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Bo 7-14-2</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="14">f. 14</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Bo 7-14-3</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="14">f. 14</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Bo 7-14-4</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="14">f. 14</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Bo 7-14-5</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="14">f. 14</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">Bo 7-14-6</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="14">f. 14</locus>
+              <title type="incipit">Altissimeque rector</title>
+              <idno type="dokumenten_id">Bo 7-14-8</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="14v">f. 14v</locus>
+              <title type="incipit">Admirabilis splendor</title>
+              <idno type="dokumenten_id">Bo 7-14v-12</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="14v">f. 14v</locus>
+              <title type="incipit">Tu es sancte qui omnia</title>
+              <idno type="dokumenten_id">Bo 7-14v-5</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="15">f. 15</locus>
+              <title type="incipit">Quem cherubim atque seraphim</title>
+              <idno type="dokumenten_id">Bo 7-15-8</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="15v">f. 15v</locus>
+              <title type="incipit">Salva nos atque rege</title>
+              <idno type="dokumenten_id">Bo 7-15v-12</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="15v">f. 15v</locus>
+              <title type="incipit">Agie deus altissime</title>
+              <idno type="dokumenten_id">Bo 7-15v-4</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="16">f. 16</locus>
+              <title type="incipit">Ad dexteram patris</title>
+              <idno type="dokumenten_id">Bo 7-16-11</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="16">f. 16</locus>
+              <title type="incipit">Sanctificans cuncta</title>
+              <idno type="dokumenten_id">Bo 7-16-6</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="16v">f. 16v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Bo 7-16v-1</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="16v">f. 16v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Bo 7-16v-2</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="16v">f. 16v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Bo 7-16v-3</idno>
+            </msItem>
+            <msItem n="18">
+              <locus from="16v">f. 16v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Bo 7-16v-4</idno>
+            </msItem>
+            <msItem n="19">
+              <locus from="16v">f. 16v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Bo 7-16v-5</idno>
+            </msItem>
+            <msItem n="20">
+              <locus from="16v">f. 16v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Bo 7-16v-6</idno>
+            </msItem>
+            <msItem n="21">
+              <locus from="16v">f. 16v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Bo 7-16v-7</idno>
+            </msItem>
+            <msItem n="22">
+              <locus from="17">f. 17</locus>
+              <title type="incipit">Ite cum pace</title>
+              <idno type="dokumenten_id">Bo 7-17-4</idno>
+            </msItem>
+            <msItem n="23">
+              <locus from="17">f. 17</locus>
+              <title type="incipit">Ite pabulo refecti</title>
+              <idno type="dokumenten_id">Bo 7-17-6</idno>
+            </msItem>
+            <msItem n="24">
+              <locus from="30">f. 30</locus>
+              <title type="incipit">Sanctorum angelorum</title>
+              <idno type="dokumenten_id">Bo 7-30-16</idno>
+            </msItem>
+            <msItem n="25">
+              <locus from="30v">f. 30v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">Bo 7-30v-16</idno>
+            </msItem>
+            <msItem n="26">
+              <locus from="30v">f. 30v</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">Bo 7-30v-7</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Ravenna (Region)</settlement>
+                <region>Quellen italienischer Herkunft</region>
+              </origPlace>
+              <origDate>11. Jh – 12. Jh</origDate>
+            </origin>
+          </history>
+          <additional>
+            <adminInfo>
+              <note type="description">
+                <ref target="Bo_7.description.md">Source description</ref>
+              </note>
+            </adminInfo>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,25 @@
+{
+  "id": "Civ 102",
+  "quellensigle": "Civ 102",
+  "herkunftsregion": "Quellen italienischer Herkunft",
+  "herkunftsort": "Cividale del Friuli",
+  "herkunftsinstitution": "Kathedrale Santa Maria Assunta",
+  "ordenstradition": "",
+  "quellentyp": "Prozessionar, liturgisches Spiel",
+  "bibliotheksort": "Cividale",
+  "bibliothek": "Museo Archeologico Nazionale",
+  "bibliothekssignatur": "Ms. CII",
+  "kommentar": "",
+  "datierung": "15. Jh 2. Hälfte",
+  "status": "",
+  "jahrhundert": "15.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Civ 102",
+  "cantus_century": "15.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Civ_102.description.md"
+  }
+}

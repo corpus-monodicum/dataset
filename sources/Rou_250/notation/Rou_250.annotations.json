@@ -1,0 +1,123 @@
+{
+  "type": "cm-manuscript-export",
+  "schemaVersion": 2,
+  "exportedAt": "2026-11-02T18:13:45.443Z",
+  "exportedManuscripts": [
+    "Rou 250"
+  ],
+  "data": {
+    "personalTables": [
+      {
+        "id": "t_822e1e3b-5948-4c40-b5ed-d0d0cca26521",
+        "name": "Rou 250",
+        "source": "Rou 250",
+        "notes": "",
+        "patterns": [],
+        "rows": [
+          {
+            "pattern": "*",
+            "customId": "10",
+            "notes": ""
+          },
+          {
+            "pattern": "*e",
+            "customId": "11",
+            "notes": ""
+          },
+          {
+            "pattern": "*ee",
+            "customId": "12",
+            "notes": ""
+          },
+          {
+            "pattern": "*[ed]",
+            "customId": "13",
+            "notes": ""
+          },
+          {
+            "pattern": "*[eu]",
+            "customId": "14",
+            "notes": ""
+          },
+          {
+            "pattern": "[*d]",
+            "customId": "20",
+            "notes": ""
+          },
+          {
+            "pattern": "[*du]",
+            "customId": "21",
+            "notes": ""
+          },
+          {
+            "pattern": "[*dud]",
+            "customId": "22",
+            "notes": ""
+          },
+          {
+            "pattern": "*dd",
+            "customId": "30",
+            "notes": ""
+          },
+          {
+            "pattern": "*dddd",
+            "customId": "31",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u]",
+            "customId": "40",
+            "notes": ""
+          },
+          {
+            "pattern": "[*ud]",
+            "customId": "41",
+            "notes": ""
+          },
+          {
+            "pattern": "[*ud]e",
+            "customId": "42",
+            "notes": ""
+          },
+          {
+            "pattern": "[*ud]d",
+            "customId": "43",
+            "notes": ""
+          },
+          {
+            "pattern": "[*ud]du",
+            "customId": "44",
+            "notes": ""
+          },
+          {
+            "pattern": "[*u]ddd",
+            "customId": "45",
+            "notes": ""
+          },
+          {
+            "pattern": "[*uud]",
+            "customId": "46",
+            "notes": ""
+          },
+          {
+            "pattern": "*LD",
+            "customId": "10+/20-",
+            "notes": ""
+          },
+          {
+            "pattern": "*eLD",
+            "customId": "11+/13-",
+            "notes": ""
+          }
+        ],
+        "isPublished": true
+      }
+    ],
+    "regions": {},
+    "regionItems": {},
+    "manualLines": {},
+    "iiifLinks": {
+      "Rou 250": "https://iiif.diamm.net/manifests/F-R-250-A233/manifest.json"
+    }
+  }
+}

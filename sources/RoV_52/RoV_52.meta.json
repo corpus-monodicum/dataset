@@ -1,0 +1,25 @@
+{
+  "id": "RoV 52",
+  "quellensigle": "RoV 52",
+  "herkunftsregion": "Quellen italienischer Herkunft",
+  "herkunftsort": "Arezzo (Region, möglicherweise)",
+  "herkunftsinstitution": "",
+  "ordenstradition": "",
+  "quellentyp": "Graduale, Kyriale mit Tropen, Sequentiar",
+  "bibliotheksort": "Rom",
+  "bibliothek": "Biblioteca Vallicelliana",
+  "bibliothekssignatur": "C 52",
+  "kommentar": "",
+  "datierung": "11. Jh – 12. Jh",
+  "status": "",
+  "jahrhundert": "11., 12.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "RoV 52",
+  "cantus_century": "11., 12.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "RoV_52.description.md"
+  }
+}

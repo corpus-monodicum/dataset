@@ -1,0 +1,1169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>La 263: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Edition (Ordinariumsgesänge)</resp>
+          <persName>Charles M. Atkinson</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Ordinariumsgesänge)</resp>
+          <persName>David Hiley</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Elaine Stratton Hild</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Spiele)</resp>
+          <persName>Elaine Stratton Hild</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Hanna Zühlke</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Gunilla Iversen</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Ritva Maria Jacobsson</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="La_263">
+          <msIdentifier>
+            <settlement>Laon</settlement>
+            <repository>Bibliothèque municipale</repository>
+            <idno type="shelfmark">Ms. 263</idno>
+            <altIdentifier type="siglum">
+              <idno>La 263</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>La 263</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <term type="quellentyp">Sequentiar-Tropar-Prozessionar, Festoffizien, Liturgische Spiele, Hymnar</term>
+            </summary>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="104">f. 104</locus>
+              <title type="incipit">Pater creator*</title>
+              <idno type="dokumenten_id">La 263-104-1</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="104">f. 104</locus>
+              <title type="incipit">Doxa en ipsistis</title>
+              <idno type="dokumenten_id">La 263-104-3</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="106">f. 106</locus>
+              <title type="incipit">Gratuletur omnis caro</title>
+              <idno type="dokumenten_id">La 263-106-5</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="106v">f. 106v</locus>
+              <title type="incipit">Corda fratrum</title>
+              <idno type="dokumenten_id">La 263-106v-1</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="111">f. 111</locus>
+              <title type="incipit">Doxe per saecula*</title>
+              <idno type="dokumenten_id">La 263-111-3</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="111">f. 111</locus>
+              <title type="incipit">Cunctipotens genitor*</title>
+              <idno type="dokumenten_id">La 263-111-4</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="116v">f. 116v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">La 263-116v-7</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="117">f. 117</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">La 263-117-11</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="117">f. 117</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">La 263-117-5</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="117v">f. 117v</locus>
+              <title type="incipit">Agnus dei</title>
+              <idno type="dokumenten_id">La 263-117v-2</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="118v">f. 118v</locus>
+              <title type="incipit">Cuius reboat</title>
+              <idno type="dokumenten_id">La 263-118v-4</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="119v">f. 119v</locus>
+              <title type="incipit">Unum deum in trinitate</title>
+              <idno type="dokumenten_id">La 263-119v-7</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="126v">f. 126v</locus>
+              <title type="incipit">Kyrie fons bonitatis*</title>
+              <idno type="dokumenten_id">La 263-126v-11</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="126v">f. 126v</locus>
+              <title type="incipit">Angelicae dignitatis hymnum</title>
+              <idno type="dokumenten_id">La 263-126v-12</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="126v">f. 126v</locus>
+              <title type="incipit">Doxe per saecula*</title>
+              <idno type="dokumenten_id">La 263-126v-9</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="128v">f. 128v</locus>
+              <title type="incipit">Regnorum domino</title>
+              <idno type="dokumenten_id">La 263-128v-2</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="128v">f. 128v</locus>
+              <title type="incipit">Reges dona</title>
+              <idno type="dokumenten_id">La 263-128v-3</idno>
+            </msItem>
+            <msItem n="18">
+              <locus from="138">f. 138</locus>
+              <title type="incipit">Kyrie eleyson*</title>
+              <idno type="dokumenten_id">La 263-138-9</idno>
+            </msItem>
+            <msItem n="19">
+              <locus from="139">f. 139</locus>
+              <title type="incipit">Solus qui tuetur</title>
+              <idno type="dokumenten_id">La 263-139-2</idno>
+            </msItem>
+            <msItem n="20">
+              <locus from="145">f. 145</locus>
+              <title type="incipit">Ardens est cor*</title>
+              <idno type="dokumenten_id">La 263-145-13</idno>
+            </msItem>
+            <msItem n="21">
+              <locus from="145">f. 145</locus>
+              <title type="incipit">Quem quaeritis in sepulchro</title>
+              <idno type="dokumenten_id">La 263-145-15</idno>
+            </msItem>
+            <msItem n="22">
+              <locus from="145">f. 145</locus>
+              <title type="incipit">Surrexit dominus vere</title>
+              <idno type="dokumenten_id">La 263-145-19a</idno>
+            </msItem>
+            <msItem n="23">
+              <locus from="145">f. 145</locus>
+              <title type="incipit">Christus resurgens*</title>
+              <idno type="dokumenten_id">La 263-145-19b</idno>
+            </msItem>
+            <msItem n="24">
+              <locus from="145v">f. 145v</locus>
+              <title type="incipit">Ore patris emicans*</title>
+              <idno type="dokumenten_id">La 263-145v-7</idno>
+            </msItem>
+            <msItem n="25">
+              <locus from="147">f. 147</locus>
+              <title type="incipit">Tali voce</title>
+              <idno type="dokumenten_id">La 263-147-13</idno>
+            </msItem>
+            <msItem n="26">
+              <locus from="148">f. 148</locus>
+              <title type="incipit">Isaias verum qui scis</title>
+              <idno type="dokumenten_id">La 263-148-13</idno>
+            </msItem>
+            <msItem n="27">
+              <locus from="148">f. 148</locus>
+              <title type="incipit">Iste coetus</title>
+              <idno type="dokumenten_id">La 263-148-15</idno>
+            </msItem>
+            <msItem n="28">
+              <locus from="148">f. 148</locus>
+              <title type="incipit">Huc accede Jeremias</title>
+              <idno type="dokumenten_id">La 263-148-18</idno>
+            </msItem>
+            <msItem n="29">
+              <locus from="148">f. 148</locus>
+              <title type="incipit">Iste coetus*</title>
+              <idno type="dokumenten_id">La 263-148-20a</idno>
+            </msItem>
+            <msItem n="30">
+              <locus from="148">f. 148</locus>
+              <title type="incipit">Daniel indica</title>
+              <idno type="dokumenten_id">La 263-148-20b</idno>
+            </msItem>
+            <msItem n="31">
+              <locus from="148">f. 148</locus>
+              <title type="incipit">Iste coetus*</title>
+              <idno type="dokumenten_id">La 263-148-22</idno>
+            </msItem>
+            <msItem n="32">
+              <locus from="148">f. 148</locus>
+              <title type="incipit">Dic tu Moses</title>
+              <idno type="dokumenten_id">La 263-148-23</idno>
+            </msItem>
+            <msItem n="33">
+              <locus from="148">f. 148</locus>
+              <title type="incipit">Gloriosi et famosi</title>
+              <idno type="dokumenten_id">La 263-148-3</idno>
+            </msItem>
+            <msItem n="34">
+              <locus from="148">f. 148</locus>
+              <title type="incipit">Omnes gentes</title>
+              <idno type="dokumenten_id">La 263-148-7</idno>
+            </msItem>
+            <msItem n="35">
+              <locus from="148v">f. 148v</locus>
+              <title type="incipit">Illud Elisabeth in medium</title>
+              <idno type="dokumenten_id">La 263-148v-10</idno>
+            </msItem>
+            <msItem n="36">
+              <locus from="148v">f. 148v</locus>
+              <title type="incipit">Iste coetus*</title>
+              <idno type="dokumenten_id">La 263-148v-13a</idno>
+            </msItem>
+            <msItem n="37">
+              <locus from="148v">f. 148v</locus>
+              <title type="incipit">Da Baptista ventris</title>
+              <idno type="dokumenten_id">La 263-148v-13b</idno>
+            </msItem>
+            <msItem n="38">
+              <locus from="148v">f. 148v</locus>
+              <title type="incipit">Iste coetus*</title>
+              <idno type="dokumenten_id">La 263-148v-17</idno>
+            </msItem>
+            <msItem n="39">
+              <locus from="148v">f. 148v</locus>
+              <title type="incipit">Maro vates gentilium</title>
+              <idno type="dokumenten_id">La 263-148v-18</idno>
+            </msItem>
+            <msItem n="40">
+              <locus from="148v">f. 148v</locus>
+              <title type="incipit">Iste coetus*</title>
+              <idno type="dokumenten_id">La 263-148v-2</idno>
+            </msItem>
+            <msItem n="41">
+              <locus from="148v">f. 148v</locus>
+              <title type="incipit">Iste coetus*</title>
+              <idno type="dokumenten_id">La 263-148v-20</idno>
+            </msItem>
+            <msItem n="42">
+              <locus from="148v">f. 148v</locus>
+              <title type="incipit">Puerum cum pueris</title>
+              <idno type="dokumenten_id">La 263-148v-21</idno>
+            </msItem>
+            <msItem n="43">
+              <locus from="148v">f. 148v</locus>
+              <title type="incipit">Dic tu David</title>
+              <idno type="dokumenten_id">La 263-148v-3</idno>
+            </msItem>
+            <msItem n="44">
+              <locus from="148v">f. 148v</locus>
+              <title type="incipit">Iste coetus*</title>
+              <idno type="dokumenten_id">La 263-148v-5</idno>
+            </msItem>
+            <msItem n="45">
+              <locus from="148v">f. 148v</locus>
+              <title type="incipit">Habbakuk regis caelestis</title>
+              <idno type="dokumenten_id">La 263-148v-6</idno>
+            </msItem>
+            <msItem n="46">
+              <locus from="148v">f. 148v</locus>
+              <title type="incipit">Iste coetus*</title>
+              <idno type="dokumenten_id">La 263-148v-9</idno>
+            </msItem>
+            <msItem n="47">
+              <locus from="149">f. 149</locus>
+              <title type="incipit">Iste coetus*</title>
+              <idno type="dokumenten_id">La 263-149-1</idno>
+            </msItem>
+            <msItem n="48">
+              <locus from="149">f. 149</locus>
+              <title type="incipit">Iste coetus*</title>
+              <idno type="dokumenten_id">La 263-149-10</idno>
+            </msItem>
+            <msItem n="49">
+              <locus from="149">f. 149</locus>
+              <title type="incipit">Tuum sub pacis</title>
+              <idno type="dokumenten_id">La 263-149-11</idno>
+            </msItem>
+            <msItem n="50">
+              <locus from="149">f. 149</locus>
+              <title type="incipit">Dic Balaam</title>
+              <idno type="dokumenten_id">La 263-149-12</idno>
+            </msItem>
+            <msItem n="51">
+              <locus from="149">f. 149</locus>
+              <title type="incipit">Exibit de Iacob</title>
+              <idno type="dokumenten_id">La 263-149-13</idno>
+            </msItem>
+            <msItem n="52">
+              <locus from="149">f. 149</locus>
+              <title type="incipit">Quid moraris asina</title>
+              <idno type="dokumenten_id">La 263-149-16</idno>
+            </msItem>
+            <msItem n="53">
+              <locus from="149">f. 149</locus>
+              <title type="incipit">Angelus cum gladio</title>
+              <idno type="dokumenten_id">La 263-149-18</idno>
+            </msItem>
+            <msItem n="54">
+              <locus from="149">f. 149</locus>
+              <title type="incipit">Tu Sibilla vates illa</title>
+              <idno type="dokumenten_id">La 263-149-2</idno>
+            </msItem>
+            <msItem n="55">
+              <locus from="149">f. 149</locus>
+              <title type="incipit">Stella fulgore</title>
+              <idno type="dokumenten_id">La 263-149-23a</idno>
+            </msItem>
+            <msItem n="56">
+              <locus from="149">f. 149</locus>
+              <title type="incipit">Quae regem regum</title>
+              <idno type="dokumenten_id">La 263-149-23b</idno>
+            </msItem>
+            <msItem n="57">
+              <locus from="149">f. 149</locus>
+              <title type="incipit">Iste coetus*</title>
+              <idno type="dokumenten_id">La 263-149-7</idno>
+            </msItem>
+            <msItem n="58">
+              <locus from="149">f. 149</locus>
+              <title type="incipit">Symeon inter prophetas</title>
+              <idno type="dokumenten_id">La 263-149-8</idno>
+            </msItem>
+            <msItem n="59">
+              <locus from="149v">f. 149v</locus>
+              <title type="incipit">Quem venturum</title>
+              <idno type="dokumenten_id">La 263-149v-1</idno>
+            </msItem>
+            <msItem n="60">
+              <locus from="149v">f. 149v</locus>
+              <title type="incipit">Ante venire</title>
+              <idno type="dokumenten_id">La 263-149v-11</idno>
+            </msItem>
+            <msItem n="61">
+              <locus from="149v">f. 149v</locus>
+              <title type="incipit">Regia vos mandata</title>
+              <idno type="dokumenten_id">La 263-149v-13</idno>
+            </msItem>
+            <msItem n="62">
+              <locus from="149v">f. 149v</locus>
+              <title type="incipit">Ave rex Iudaeorum</title>
+              <idno type="dokumenten_id">La 263-149v-14</idno>
+            </msItem>
+            <msItem n="63">
+              <locus from="149v">f. 149v</locus>
+              <title type="incipit">Regem quem quaeritis</title>
+              <idno type="dokumenten_id">La 263-149v-15</idno>
+            </msItem>
+            <msItem n="64">
+              <locus from="149v">f. 149v</locus>
+              <title type="incipit">Illum natum esse</title>
+              <idno type="dokumenten_id">La 263-149v-16</idno>
+            </msItem>
+            <msItem n="65">
+              <locus from="149v">f. 149v</locus>
+              <title type="incipit">Si illum regnare</title>
+              <idno type="dokumenten_id">La 263-149v-18a</idno>
+            </msItem>
+            <msItem n="66">
+              <locus from="149v">f. 149v</locus>
+              <title type="incipit">Hunc regnare ... trinum</title>
+              <idno type="dokumenten_id">La 263-149v-18b</idno>
+            </msItem>
+            <msItem n="67">
+              <locus from="149v">f. 149v</locus>
+              <title type="incipit">Auro regem</title>
+              <idno type="dokumenten_id">La 263-149v-21a</idno>
+            </msItem>
+            <msItem n="68">
+              <locus from="149v">f. 149v</locus>
+              <title type="incipit">Ture sacerdotem</title>
+              <idno type="dokumenten_id">La 263-149v-21b</idno>
+            </msItem>
+            <msItem n="69">
+              <locus from="149v">f. 149v</locus>
+              <title type="incipit">Murra mortalem</title>
+              <idno type="dokumenten_id">La 263-149v-22a</idno>
+            </msItem>
+            <msItem n="70">
+              <locus from="149v">f. 149v</locus>
+              <title type="incipit">Huc symmystae mei</title>
+              <idno type="dokumenten_id">La 263-149v-22b</idno>
+            </msItem>
+            <msItem n="71">
+              <locus from="149v">f. 149v</locus>
+              <title type="incipit">Eamus ergo ... quia scriptum</title>
+              <idno type="dokumenten_id">La 263-149v-3</idno>
+            </msItem>
+            <msItem n="72">
+              <locus from="149v">f. 149v</locus>
+              <title type="incipit">Qui vos quid</title>
+              <idno type="dokumenten_id">La 263-149v-6</idno>
+            </msItem>
+            <msItem n="73">
+              <locus from="149v">f. 149v</locus>
+              <title type="incipit">Ex oriente sumus</title>
+              <idno type="dokumenten_id">La 263-149v-7</idno>
+            </msItem>
+            <msItem n="74">
+              <locus from="149v">f. 149v</locus>
+              <title type="incipit">Vivat rex</title>
+              <idno type="dokumenten_id">La 263-149v-9a</idno>
+            </msItem>
+            <msItem n="75">
+              <locus from="149v">f. 149v</locus>
+              <title type="incipit">En magi veniunt</title>
+              <idno type="dokumenten_id">La 263-149v-9b</idno>
+            </msItem>
+            <msItem n="76">
+              <locus from="150">f. 150</locus>
+              <title type="incipit">Vos legis periti</title>
+              <idno type="dokumenten_id">La 263-150-1</idno>
+            </msItem>
+            <msItem n="77">
+              <locus from="150">f. 150</locus>
+              <title type="incipit">Ecce stella ecce stella et</title>
+              <idno type="dokumenten_id">La 263-150-11</idno>
+            </msItem>
+            <msItem n="78">
+              <locus from="150">f. 150</locus>
+              <title type="incipit">Quam Balaam</title>
+              <idno type="dokumenten_id">La 263-150-13</idno>
+            </msItem>
+            <msItem n="79">
+              <locus from="150">f. 150</locus>
+              <title type="incipit">Qui sunt hi qui stella</title>
+              <idno type="dokumenten_id">La 263-150-18</idno>
+            </msItem>
+            <msItem n="80">
+              <locus from="150">f. 150</locus>
+              <title type="incipit">Nos sumus quos</title>
+              <idno type="dokumenten_id">La 263-150-19</idno>
+            </msItem>
+            <msItem n="81">
+              <locus from="150">f. 150</locus>
+              <title type="incipit">Ecce puer adest</title>
+              <idno type="dokumenten_id">La 263-150-23</idno>
+            </msItem>
+            <msItem n="82">
+              <locus from="150">f. 150</locus>
+              <title type="incipit">O vos scribae</title>
+              <idno type="dokumenten_id">La 263-150-3</idno>
+            </msItem>
+            <msItem n="83">
+              <locus from="150">f. 150</locus>
+              <title type="incipit">Vidimus domine</title>
+              <idno type="dokumenten_id">La 263-150-5a</idno>
+            </msItem>
+            <msItem n="84">
+              <locus from="150">f. 150</locus>
+              <title type="incipit">Bethlehem non es minima</title>
+              <idno type="dokumenten_id">La 263-150-5b</idno>
+            </msItem>
+            <msItem n="85">
+              <locus from="150">f. 150</locus>
+              <title type="incipit">Ite et de puero</title>
+              <idno type="dokumenten_id">La 263-150-8</idno>
+            </msItem>
+            <msItem n="86">
+              <locus from="150v">f. 150v</locus>
+              <title type="incipit">Delusus es domine</title>
+              <idno type="dokumenten_id">La 263-150v-12</idno>
+            </msItem>
+            <msItem n="87">
+              <locus from="150v">f. 150v</locus>
+              <title type="incipit">Decerne domine</title>
+              <idno type="dokumenten_id">La 263-150v-13</idno>
+            </msItem>
+            <msItem n="88">
+              <locus from="150v">f. 150v</locus>
+              <title type="incipit">Indolis eximie</title>
+              <idno type="dokumenten_id">La 263-150v-15</idno>
+            </msItem>
+            <msItem n="89">
+              <locus from="150v">f. 150v</locus>
+              <title type="incipit">Ecce agnus dei</title>
+              <idno type="dokumenten_id">La 263-150v-17</idno>
+            </msItem>
+            <msItem n="90">
+              <locus from="150v">f. 150v</locus>
+              <title type="incipit">Quare non defendis</title>
+              <idno type="dokumenten_id">La 263-150v-19</idno>
+            </msItem>
+            <msItem n="91">
+              <locus from="150v">f. 150v</locus>
+              <title type="incipit">Suscipe rex aurum</title>
+              <idno type="dokumenten_id">La 263-150v-2</idno>
+            </msItem>
+            <msItem n="92">
+              <locus from="150v">f. 150v</locus>
+              <title type="incipit">O dulces innocentum</title>
+              <idno type="dokumenten_id">La 263-150v-22</idno>
+            </msItem>
+            <msItem n="93">
+              <locus from="150v">f. 150v</locus>
+              <title type="incipit">Multi reges</title>
+              <idno type="dokumenten_id">La 263-150v-4</idno>
+            </msItem>
+            <msItem n="94">
+              <locus from="150v">f. 150v</locus>
+              <title type="incipit">Impleta sunt omnia</title>
+              <idno type="dokumenten_id">La 263-150v-6</idno>
+            </msItem>
+            <msItem n="95">
+              <locus from="150v">f. 150v</locus>
+              <title type="incipit">Secundum quod dictum</title>
+              <idno type="dokumenten_id">La 263-150v-9</idno>
+            </msItem>
+            <msItem n="96">
+              <locus from="151">f. 151</locus>
+              <title type="incipit">In dolorem est</title>
+              <idno type="dokumenten_id">La 263-151-11</idno>
+            </msItem>
+            <msItem n="97">
+              <locus from="151">f. 151</locus>
+              <title type="incipit">Quam beata sunt</title>
+              <idno type="dokumenten_id">La 263-151-12</idno>
+            </msItem>
+            <msItem n="98">
+              <locus from="151">f. 151</locus>
+              <title type="incipit">Planctus matrum</title>
+              <idno type="dokumenten_id">La 263-151-14</idno>
+            </msItem>
+            <msItem n="99">
+              <locus from="151">f. 151</locus>
+              <title type="incipit">Ey dolor est</title>
+              <idno type="dokumenten_id">La 263-151-16</idno>
+            </msItem>
+            <msItem n="100">
+              <locus from="151">f. 151</locus>
+              <title type="incipit">Laetetur hodie</title>
+              <idno type="dokumenten_id">La 263-151-18</idno>
+            </msItem>
+            <msItem n="101">
+              <locus from="151">f. 151</locus>
+              <title type="incipit">Noli virgo Rachel</title>
+              <idno type="dokumenten_id">La 263-151-2</idno>
+            </msItem>
+            <msItem n="102">
+              <locus from="151">f. 151</locus>
+              <title type="incipit">Gaudia non possum</title>
+              <idno type="dokumenten_id">La 263-151-3</idno>
+            </msItem>
+            <msItem n="103">
+              <locus from="151">f. 151</locus>
+              <title type="incipit">Tu quae tristaris</title>
+              <idno type="dokumenten_id">La 263-151-5</idno>
+            </msItem>
+            <msItem n="104">
+              <locus from="151">f. 151</locus>
+              <title type="incipit">Heu heu ... quomodo</title>
+              <idno type="dokumenten_id">La 263-151-7</idno>
+            </msItem>
+            <msItem n="105">
+              <locus from="151">f. 151</locus>
+              <title type="incipit">Supplico ne plores</title>
+              <idno type="dokumenten_id">La 263-151-9</idno>
+            </msItem>
+            <msItem n="106">
+              <locus from="151v">f. 151v</locus>
+              <title type="incipit">Mercatores Ismahelis</title>
+              <idno type="dokumenten_id">La 263-151v-12</idno>
+            </msItem>
+            <msItem n="107">
+              <locus from="151v">f. 151v</locus>
+              <title type="incipit">State quaeso vobis</title>
+              <idno type="dokumenten_id">La 263-151v-16</idno>
+            </msItem>
+            <msItem n="108">
+              <locus from="151v">f. 151v</locus>
+              <title type="incipit">Festinate socii</title>
+              <idno type="dokumenten_id">La 263-151v-19</idno>
+            </msItem>
+            <msItem n="109">
+              <locus from="151v">f. 151v</locus>
+              <title type="incipit">Vivat rex</title>
+              <idno type="dokumenten_id">La 263-151v-23</idno>
+            </msItem>
+            <msItem n="110">
+              <locus from="151v">f. 151v</locus>
+              <title type="incipit">Ioseph nate mi</title>
+              <idno type="dokumenten_id">La 263-151v-3</idno>
+            </msItem>
+            <msItem n="111">
+              <locus from="151v">f. 151v</locus>
+              <title type="incipit">Ecce venit somniator</title>
+              <idno type="dokumenten_id">La 263-151v-5</idno>
+            </msItem>
+            <msItem n="112">
+              <locus from="151v">f. 151v</locus>
+              <title type="incipit">Non est bonum</title>
+              <idno type="dokumenten_id">La 263-151v-7</idno>
+            </msItem>
+            <msItem n="113">
+              <locus from="152">f. 152</locus>
+              <title type="incipit">Quaerens non invenio</title>
+              <idno type="dokumenten_id">La 263-152-13</idno>
+            </msItem>
+            <msItem n="114">
+              <locus from="152">f. 152</locus>
+              <title type="incipit">Redde patri</title>
+              <idno type="dokumenten_id">La 263-152-17</idno>
+            </msItem>
+            <msItem n="115">
+              <locus from="152">f. 152</locus>
+              <title type="incipit">Vide vestis</title>
+              <idno type="dokumenten_id">La 263-152-20</idno>
+            </msItem>
+            <msItem n="116">
+              <locus from="152">f. 152</locus>
+              <title type="incipit">Ioseph fili cur</title>
+              <idno type="dokumenten_id">La 263-152-22</idno>
+            </msItem>
+            <msItem n="117">
+              <locus from="152">f. 152</locus>
+              <title type="incipit">Ex aspectu pueri</title>
+              <idno type="dokumenten_id">La 263-152-5</idno>
+            </msItem>
+            <msItem n="118">
+              <locus from="152">f. 152</locus>
+              <title type="incipit">Libenter agimus</title>
+              <idno type="dokumenten_id">La 263-152-8</idno>
+            </msItem>
+            <msItem n="119">
+              <locus from="152v">f. 152v</locus>
+              <title type="incipit">Ioseph ille cui tantam</title>
+              <idno type="dokumenten_id">La 263-152v-12</idno>
+            </msItem>
+            <msItem n="120">
+              <locus from="152v">f. 152v</locus>
+              <title type="incipit">Hic Hebraeus quasi reus</title>
+              <idno type="dokumenten_id">La 263-152v-17</idno>
+            </msItem>
+            <msItem n="121">
+              <locus from="152v">f. 152v</locus>
+              <title type="incipit">Ioseph nobis sapiens</title>
+              <idno type="dokumenten_id">La 263-152v-22</idno>
+            </msItem>
+            <msItem n="122">
+              <locus from="152v">f. 152v</locus>
+              <title type="incipit">Parce tuo famulo</title>
+              <idno type="dokumenten_id">La 263-152v-23</idno>
+            </msItem>
+            <msItem n="123">
+              <locus from="153">f. 153</locus>
+              <title type="incipit">Audi pater nos</title>
+              <idno type="dokumenten_id">La 263-153-10</idno>
+            </msItem>
+            <msItem n="124">
+              <locus from="153">f. 153</locus>
+              <title type="incipit">Hoc argento</title>
+              <idno type="dokumenten_id">La 263-153-13</idno>
+            </msItem>
+            <msItem n="125">
+              <locus from="153">f. 153</locus>
+              <title type="incipit">Te ministrum</title>
+              <idno type="dokumenten_id">La 263-153-17</idno>
+            </msItem>
+            <msItem n="126">
+              <locus from="153">f. 153</locus>
+              <title type="incipit">Scire volo</title>
+              <idno type="dokumenten_id">La 263-153-19</idno>
+            </msItem>
+            <msItem n="127">
+              <locus from="153">f. 153</locus>
+              <title type="incipit">Hic damnetur</title>
+              <idno type="dokumenten_id">La 263-153-2</idno>
+            </msItem>
+            <msItem n="128">
+              <locus from="153">f. 153</locus>
+              <title type="incipit">Procurator et salvator</title>
+              <idno type="dokumenten_id">La 263-153-21</idno>
+            </msItem>
+            <msItem n="129">
+              <locus from="153v">f. 153v</locus>
+              <title type="incipit">Merito gravissimam</title>
+              <idno type="dokumenten_id">La 263-153v-13</idno>
+            </msItem>
+            <msItem n="130">
+              <locus from="153v">f. 153v</locus>
+              <title type="incipit">Pater dilectissime</title>
+              <idno type="dokumenten_id">La 263-153v-16</idno>
+            </msItem>
+            <msItem n="131">
+              <locus from="153v">f. 153v</locus>
+              <title type="incipit">Eya fili Beniamin</title>
+              <idno type="dokumenten_id">La 263-153v-19</idno>
+            </msItem>
+            <msItem n="132">
+              <locus from="153v">f. 153v</locus>
+              <title type="incipit">Esto quaeso patiens</title>
+              <idno type="dokumenten_id">La 263-153v-22</idno>
+            </msItem>
+            <msItem n="133">
+              <locus from="153v">f. 153v</locus>
+              <title type="incipit">Quae mora iam</title>
+              <idno type="dokumenten_id">La 263-153v-3</idno>
+            </msItem>
+            <msItem n="134">
+              <locus from="153v">f. 153v</locus>
+              <title type="incipit">Furtum fecistis</title>
+              <idno type="dokumenten_id">La 263-153v-6</idno>
+            </msItem>
+            <msItem n="135">
+              <locus from="153v">f. 153v</locus>
+              <title type="incipit">Furti quidem</title>
+              <idno type="dokumenten_id">La 263-153v-9</idno>
+            </msItem>
+            <msItem n="136">
+              <locus from="187">f. 187</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">La 263-187-13</idno>
+            </msItem>
+            <msItem n="137">
+              <locus from="21">f. 21</locus>
+              <title type="incipit">Doxe per saecula</title>
+              <idno type="dokumenten_id">La 263-21-12I</idno>
+            </msItem>
+            <msItem n="138">
+              <locus from="21">f. 21</locus>
+              <title type="incipit">Doxe per saecula</title>
+              <idno type="dokumenten_id">La 263-21-12II</idno>
+            </msItem>
+            <msItem n="139">
+              <locus from="21">f. 21</locus>
+              <title type="incipit">Doxe per saecula</title>
+              <idno type="dokumenten_id">La 263-21-12III</idno>
+            </msItem>
+            <msItem n="140">
+              <locus from="21">f. 21</locus>
+              <title type="incipit">Est qui nutu</title>
+              <idno type="dokumenten_id">La 263-21-6</idno>
+            </msItem>
+            <msItem n="141">
+              <locus from="21v">f. 21v</locus>
+              <title type="incipit">Pater aeternus</title>
+              <idno type="dokumenten_id">La 263-21v-10</idno>
+            </msItem>
+            <msItem n="142">
+              <locus from="21v">f. 21v</locus>
+              <title type="incipit">Semper sit domino</title>
+              <idno type="dokumenten_id">La 263-21v-1I</idno>
+            </msItem>
+            <msItem n="143">
+              <locus from="21v">f. 21v</locus>
+              <title type="incipit">Semper sit domino</title>
+              <idno type="dokumenten_id">La 263-21v-1II</idno>
+            </msItem>
+            <msItem n="144">
+              <locus from="21v">f. 21v</locus>
+              <title type="incipit">Ore patris emicans</title>
+              <idno type="dokumenten_id">La 263-21v-4I</idno>
+            </msItem>
+            <msItem n="145">
+              <locus from="21v">f. 21v</locus>
+              <title type="incipit">Ore patris emicans</title>
+              <idno type="dokumenten_id">La 263-21v-4II</idno>
+            </msItem>
+            <msItem n="146">
+              <locus from="21v">f. 21v</locus>
+              <title type="incipit">Quem glorificant caeli</title>
+              <idno type="dokumenten_id">La 263-21v-7I</idno>
+            </msItem>
+            <msItem n="147">
+              <locus from="21v">f. 21v</locus>
+              <title type="incipit">Quem glorificant caeli</title>
+              <idno type="dokumenten_id">La 263-21v-7II</idno>
+            </msItem>
+            <msItem n="148">
+              <locus from="22">f. 22</locus>
+              <title type="incipit">Regi regum manet</title>
+              <idno type="dokumenten_id">La 263-22-11</idno>
+            </msItem>
+            <msItem n="149">
+              <locus from="22">f. 22</locus>
+              <title type="incipit">Merenti tunc</title>
+              <idno type="dokumenten_id">La 263-22-5I</idno>
+            </msItem>
+            <msItem n="150">
+              <locus from="22">f. 22</locus>
+              <title type="incipit">Merenti tunc</title>
+              <idno type="dokumenten_id">La 263-22-5II</idno>
+            </msItem>
+            <msItem n="151">
+              <locus from="22v">f. 22v</locus>
+              <title type="incipit">Te Christe rex</title>
+              <idno type="dokumenten_id">La 263-22v-4</idno>
+            </msItem>
+            <msItem n="152">
+              <locus from="23">f. 23</locus>
+              <title type="incipit">Clementissime conditor</title>
+              <idno type="dokumenten_id">La 263-23-10</idno>
+            </msItem>
+            <msItem n="153">
+              <locus from="24">f. 24</locus>
+              <title type="incipit">Orbis factor</title>
+              <idno type="dokumenten_id">La 263-24-2</idno>
+            </msItem>
+            <msItem n="154">
+              <locus from="24v">f. 24v</locus>
+              <title type="incipit">Pater creator</title>
+              <idno type="dokumenten_id">La 263-24v-3</idno>
+            </msItem>
+            <msItem n="155">
+              <locus from="25">f. 25</locus>
+              <title type="incipit">Theoricam practicamque</title>
+              <idno type="dokumenten_id">La 263-25-12</idno>
+            </msItem>
+            <msItem n="156">
+              <locus from="25">f. 25</locus>
+              <title type="incipit">Summe deus qui cuncta</title>
+              <idno type="dokumenten_id">La 263-25-5</idno>
+            </msItem>
+            <msItem n="157">
+              <locus from="26">f. 26</locus>
+              <title type="incipit">Cunctipotens genitor</title>
+              <idno type="dokumenten_id">La 263-26-3</idno>
+            </msItem>
+            <msItem n="158">
+              <locus from="26v">f. 26v</locus>
+              <title type="incipit">Kyrie fons bonitatis</title>
+              <idno type="dokumenten_id">La 263-26v-1</idno>
+            </msItem>
+            <msItem n="159">
+              <locus from="27">f. 27</locus>
+              <title type="incipit">Dominator deus</title>
+              <idno type="dokumenten_id">La 263-27-12</idno>
+            </msItem>
+            <msItem n="160">
+              <locus from="27v">f. 27v</locus>
+              <title type="incipit">Clemens rector</title>
+              <idno type="dokumenten_id">La 263-27v-9</idno>
+            </msItem>
+            <msItem n="161">
+              <locus from="28v">f. 28v</locus>
+              <title type="incipit">Kyrie deus sempiterne</title>
+              <idno type="dokumenten_id">La 263-28v-1</idno>
+            </msItem>
+            <msItem n="162">
+              <locus from="28v">f. 28v</locus>
+              <title type="incipit">Pater cuncta</title>
+              <idno type="dokumenten_id">La 263-28v-11</idno>
+            </msItem>
+            <msItem n="163">
+              <locus from="29">f. 29</locus>
+              <title type="incipit">Kyrie genitor eleison</title>
+              <idno type="dokumenten_id">La 263-29-8</idno>
+            </msItem>
+            <msItem n="164">
+              <locus from="29v">f. 29v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">La 263-29v-1</idno>
+            </msItem>
+            <msItem n="165">
+              <locus from="29v">f. 29v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">La 263-29v-4</idno>
+            </msItem>
+            <msItem n="166">
+              <locus from="29v">f. 29v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">La 263-29v-7</idno>
+            </msItem>
+            <msItem n="167">
+              <locus from="29v">f. 29v</locus>
+              <title type="incipit">Kyrie eleyson</title>
+              <idno type="dokumenten_id">La 263-29v-9</idno>
+            </msItem>
+            <msItem n="168">
+              <locus from="30">f. 30</locus>
+              <title type="incipit">Regens cuncta benigne</title>
+              <idno type="dokumenten_id">La 263-30-1</idno>
+            </msItem>
+            <msItem n="169">
+              <locus from="30v">f. 30v</locus>
+              <title type="incipit">Carne et mente</title>
+              <idno type="dokumenten_id">La 263-30v-8</idno>
+            </msItem>
+            <msItem n="170">
+              <locus from="31">f. 31</locus>
+              <title type="incipit">Regnum … Per te Christe</title>
+              <idno type="dokumenten_id">La 263-31-11</idno>
+            </msItem>
+            <msItem n="171">
+              <locus from="32">f. 32</locus>
+              <title type="incipit">Per quem cuncta</title>
+              <idno type="dokumenten_id">La 263-32-4</idno>
+            </msItem>
+            <msItem n="172">
+              <locus from="32v">f. 32v</locus>
+              <title type="incipit">Sedentem in superne</title>
+              <idno type="dokumenten_id">La 263-32v-8</idno>
+            </msItem>
+            <msItem n="173">
+              <locus from="33v">f. 33v</locus>
+              <title type="incipit">Gloria in excelsis</title>
+              <idno type="dokumenten_id">La 263-33v-3</idno>
+            </msItem>
+            <msItem n="174">
+              <locus from="45">f. 45</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">La 263-45-8a</idno>
+            </msItem>
+            <msItem n="175">
+              <locus from="45">f. 45</locus>
+              <title type="incipit">Cunctipotens genitor*</title>
+              <idno type="dokumenten_id">La 263-45-8b</idno>
+            </msItem>
+            <msItem n="176">
+              <locus from="46v">f. 46v</locus>
+              <title type="incipit">Clementissime conditor*</title>
+              <idno type="dokumenten_id">La 263-46v-3</idno>
+            </msItem>
+            <msItem n="177">
+              <locus from="47">f. 47</locus>
+              <title type="incipit">Orbis factor*</title>
+              <idno type="dokumenten_id">La 263-47-1</idno>
+            </msItem>
+            <msItem n="178">
+              <locus from="47">f. 47</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">La 263-47-2</idno>
+            </msItem>
+            <msItem n="179">
+              <locus from="47v">f. 47v</locus>
+              <title type="incipit">Pater creator*</title>
+              <idno type="dokumenten_id">La 263-47v-7</idno>
+            </msItem>
+            <msItem n="180">
+              <locus from="48">f. 48</locus>
+              <title type="incipit">Summe deus qui cuncta*</title>
+              <idno type="dokumenten_id">La 263-48-5</idno>
+            </msItem>
+            <msItem n="181">
+              <locus from="48">f. 48</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">La 263-48-6</idno>
+            </msItem>
+            <msItem n="182">
+              <locus from="48v">f. 48v</locus>
+              <title type="incipit">Theoricam practicamque*</title>
+              <idno type="dokumenten_id">La 263-48v-5</idno>
+            </msItem>
+            <msItem n="183">
+              <locus from="49">f. 49</locus>
+              <title type="incipit">Kyrie deus sempiterne*</title>
+              <idno type="dokumenten_id">La 263-49-1</idno>
+            </msItem>
+            <msItem n="184">
+              <locus from="49">f. 49</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">La 263-49-2</idno>
+            </msItem>
+            <msItem n="185">
+              <locus from="50">f. 50</locus>
+              <title type="incipit">Kyrie fons bonitatis*</title>
+              <idno type="dokumenten_id">La 263-50-1</idno>
+            </msItem>
+            <msItem n="186">
+              <locus from="52">f. 52</locus>
+              <title type="incipit">Kyrie deus sempiterne*</title>
+              <idno type="dokumenten_id">La 263-52-8</idno>
+            </msItem>
+            <msItem n="187">
+              <locus from="52">f. 52</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">La 263-52-9</idno>
+            </msItem>
+            <msItem n="188">
+              <locus from="53v">f. 53v</locus>
+              <title type="incipit">Kyrie fons bonitatis*</title>
+              <idno type="dokumenten_id">La 263-53v-1a</idno>
+            </msItem>
+            <msItem n="189">
+              <locus from="53v">f. 53v</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">La 263-53v-1b</idno>
+            </msItem>
+            <msItem n="190">
+              <locus from="54v">f. 54v</locus>
+              <title type="incipit">Orbis factor*</title>
+              <idno type="dokumenten_id">La 263-54v-3a</idno>
+            </msItem>
+            <msItem n="191">
+              <locus from="54v">f. 54v</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">La 263-54v-3b</idno>
+            </msItem>
+            <msItem n="192">
+              <locus from="55">f. 55</locus>
+              <title type="incipit">Kyrie deus sempiterne*</title>
+              <idno type="dokumenten_id">La 263-55-12</idno>
+            </msItem>
+            <msItem n="193">
+              <locus from="55">f. 55</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">La 263-55-13</idno>
+            </msItem>
+            <msItem n="194">
+              <locus from="55">f. 55</locus>
+              <title type="incipit">Summe deus qui cuncta*</title>
+              <idno type="dokumenten_id">La 263-55-2</idno>
+            </msItem>
+            <msItem n="195">
+              <locus from="55">f. 55</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">La 263-55-3</idno>
+            </msItem>
+            <msItem n="196">
+              <locus from="61v">f. 61v</locus>
+              <title type="incipit">Cunctipotens genitor*</title>
+              <idno type="dokumenten_id">La 263-61v-8a</idno>
+            </msItem>
+            <msItem n="197">
+              <locus from="61v">f. 61v</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">La 263-61v-8b</idno>
+            </msItem>
+            <msItem n="198">
+              <locus from="66">f. 66</locus>
+              <title type="incipit">Kyrie deus sempiterne*</title>
+              <idno type="dokumenten_id">La 263-66-3a</idno>
+            </msItem>
+            <msItem n="199">
+              <locus from="66">f. 66</locus>
+              <title type="incipit">Gloria in excelsis*</title>
+              <idno type="dokumenten_id">La 263-66-3b</idno>
+            </msItem>
+            <msItem n="200">
+              <locus from="82">f. 82</locus>
+              <title type="incipit">Summe pater de quo</title>
+              <idno type="dokumenten_id">La 263-82-1</idno>
+            </msItem>
+            <msItem n="201">
+              <locus from="82">f. 82</locus>
+              <title type="incipit">Clemens verbisator</title>
+              <idno type="dokumenten_id">La 263-82-8</idno>
+            </msItem>
+            <msItem n="202">
+              <locus from="82v">f. 82v</locus>
+              <title type="incipit">Sanctorum exultatio</title>
+              <idno type="dokumenten_id">La 263-82v-1</idno>
+            </msItem>
+            <msItem n="203">
+              <locus from="82v">f. 82v</locus>
+              <title type="incipit">Perpetuo numine</title>
+              <idno type="dokumenten_id">La 263-82v-7</idno>
+            </msItem>
+            <msItem n="204">
+              <locus from="83">f. 83</locus>
+              <title type="incipit">Disponens omnia pater</title>
+              <idno type="dokumenten_id">La 263-83-12</idno>
+            </msItem>
+            <msItem n="205">
+              <locus from="83">f. 83</locus>
+              <title type="incipit">Ex quo sunt omnia</title>
+              <idno type="dokumenten_id">La 263-83-5</idno>
+            </msItem>
+            <msItem n="206">
+              <locus from="83">f. 83</locus>
+              <title type="incipit">Rex sine principio</title>
+              <idno type="dokumenten_id">La 263-83-7</idno>
+            </msItem>
+            <msItem n="207">
+              <locus from="83v">f. 83v</locus>
+              <title type="incipit">Per quem stat</title>
+              <idno type="dokumenten_id">La 263-83v-4</idno>
+            </msItem>
+            <msItem n="208">
+              <locus from="83v">f. 83v</locus>
+              <title type="incipit">Reparator vitae</title>
+              <idno type="dokumenten_id">La 263-83v-8</idno>
+            </msItem>
+            <msItem n="209">
+              <locus from="84">f. 84</locus>
+              <title type="incipit">Vulnere mortis</title>
+              <idno type="dokumenten_id">La 263-84-2</idno>
+            </msItem>
+            <msItem n="210">
+              <locus from="84">f. 84</locus>
+              <title type="incipit">Sanctus … dominus deus</title>
+              <idno type="dokumenten_id">La 263-84-9</idno>
+            </msItem>
+            <msItem n="211">
+              <locus from="91">f. 91</locus>
+              <title type="incipit">Te Christe rex*</title>
+              <idno type="dokumenten_id">La 263-91-5</idno>
+            </msItem>
+            <msItem n="212">
+              <locus from="91">f. 91</locus>
+              <title type="incipit">Angelicae dignitatis hymnum</title>
+              <idno type="dokumenten_id">La 263-91-6</idno>
+            </msItem>
+            <msItem n="213">
+              <locus from="97">f. 97</locus>
+              <title type="incipit">Kyrie fons bonitatis*</title>
+              <idno type="dokumenten_id">La 263-97-5</idno>
+            </msItem>
+            <msItem n="214">
+              <locus from="97">f. 97</locus>
+              <title type="incipit">Carne et mente*</title>
+              <idno type="dokumenten_id">La 263-97-6</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Laon</settlement>
+                <region>Quellen französischer Herkunft</region>
+                <orgName>Kathedrale Notre-Dame</orgName>
+              </origPlace>
+              <origDate>12. Jh Ende</origDate>
+            </origin>
+          </history>
+          <additional>
+            <adminInfo>
+              <note type="description">
+                <ref target="La_263.description.md">Source description</ref>
+              </note>
+            </adminInfo>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

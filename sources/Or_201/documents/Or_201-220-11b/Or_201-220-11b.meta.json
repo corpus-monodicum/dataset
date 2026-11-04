@@ -1,0 +1,41 @@
+{
+  "id": "8dc272eb-0123-4732-9f25-eb7b57c02a00",
+  "quelle_id": "Or 201",
+  "dokumenten_id": "Or 201-220-11b",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Te deum",
+  "festtag": "Innocentes",
+  "feier": "Matutin",
+  "textinitium": "Te deum laudamus*",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "11",
+  "foliostart": "220",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "220",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "Or 201-215-7-aS",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Play of the Innocents",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

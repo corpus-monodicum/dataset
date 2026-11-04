@@ -1,0 +1,41 @@
+{
+  "id": "dcf03625-7ebd-4504-bad2-841f4c9572f7",
+  "quelle_id": "Civ 101",
+  "dokumenten_id": "Civ 101-88v-13",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "",
+  "feier": "",
+  "textinitium": "Venite et videte",
+  "bibliographischerverweis": "CAO 5352",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "13",
+  "foliostart": "88v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "88v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Civ 101-88-1S",
+    "Endzeile": "18",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "Beginn fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Easter play / Osterspiel",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

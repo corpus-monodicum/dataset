@@ -1,0 +1,41 @@
+{
+  "id": "59c00ac3-3db9-49d7-808f-4f3eb69f6807",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-18v-9",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Stephanus",
+  "feier": "Messe",
+  "textinitium": "Etenim sederunt",
+  "bibliographischerverweis": "AMS 12",
+  "druckausgabe": "II-1",
+  "zeilenstart": "9",
+  "foliostart": "18v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "19",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

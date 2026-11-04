@@ -1,0 +1,41 @@
+{
+  "id": "f6c6a780-f837-477e-b432-ba00c7728ad7",
+  "quelle_id": "PaSG 117",
+  "dokumenten_id": "PaSG 117-25-1",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "Nativitas domini",
+  "feier": "Laudes",
+  "textinitium": "Facta est cum",
+  "bibliographischerverweis": "CAO 2836",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "1",
+  "foliostart": "25",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "25",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "PaSG 117-24v-11S",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Christmas play",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5692cc51-3acb-4d4e-953b-c19b3a55d2b3",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-236-2",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Mauritius",
+  "feier": "Messe",
+  "textinitium": "Gloria martyrum*",
+  "bibliographischerverweis": "Intret intr 8 (CT X)",
+  "druckausgabe": "II-1",
+  "zeilenstart": "2",
+  "foliostart": "236",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "Pa 1235-31v-3-",
+    "Endseite": "236",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Intret intr",
+    "Zusatz_zu_Textinitium": "Nur Incipit ohne Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

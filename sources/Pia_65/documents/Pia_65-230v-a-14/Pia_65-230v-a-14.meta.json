@@ -1,0 +1,41 @@
+{
+  "id": "07928240-e1a6-4f14-acb1-0df3d53e05cd",
+  "quelle_id": "Pia 65",
+  "dokumenten_id": "Pia 65-230v-a-14",
+  "gattung1": "Tropus",
+  "gattung2": "Offertorium-Tropus",
+  "festtag": "Nativitas domini",
+  "feier": "3. Messe",
+  "textinitium": "Tui sunt caeli ... orbem",
+  "bibliographischerverweis": "Nat III off 2 A B 48 C 10 D 9 E B (CT I)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "14",
+  "foliostart": "230v-a",
+  "kommentar": "Primär komplett enthalten",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Tui sunt caeli",
+    "Endseite": "230v-b",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "18",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Nat III off",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

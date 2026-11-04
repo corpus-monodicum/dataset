@@ -1,0 +1,41 @@
+{
+  "id": "65c496b8-4c6d-4a6f-be88-0fa57a87efc5",
+  "quelle_id": "MüU 156",
+  "dokumenten_id": "MüU 156-183v-15",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Translatio Quirini",
+  "feier": "Messe",
+  "textinitium": "Concordi iubilo cordis",
+  "bibliographischerverweis": "AH 9, 332",
+  "druckausgabe": "",
+  "zeilenstart": "15",
+  "foliostart": "183v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Gionata Brusa",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "184v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Symphonia",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

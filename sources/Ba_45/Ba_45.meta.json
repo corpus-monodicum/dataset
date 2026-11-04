@@ -1,0 +1,25 @@
+{
+  "id": "Ba 45",
+  "quellensigle": "Ba 45",
+  "herkunftsregion": "Quellen deutscher Herkunft",
+  "herkunftsort": "Bamberg",
+  "herkunftsinstitution": "Dom",
+  "ordenstradition": "",
+  "quellentyp": "Lektionen, Responsoria brevia, Tropar",
+  "bibliotheksort": "Bamberg",
+  "bibliothek": "Staatsbibliothek",
+  "bibliothekssignatur": "Msc. lit. 45",
+  "kommentar": "",
+  "datierung": "15. Jh",
+  "status": "",
+  "jahrhundert": "15.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Ba 45",
+  "cantus_century": "15.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Ba_45.description.md"
+  }
+}

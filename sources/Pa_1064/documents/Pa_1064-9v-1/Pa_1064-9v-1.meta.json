@@ -1,0 +1,41 @@
+{
+  "id": "0e863a36-fb89-432c-9907-7c059954f213",
+  "quelle_id": "Pa 1064",
+  "dokumenten_id": "Pa 1064-9v-1",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "Feria II post Pascha",
+  "feier": "Vesper",
+  "textinitium": "Mane nobiscum",
+  "bibliographischerverweis": "CAO 3690",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "1",
+  "foliostart": "9v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "9v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Pa 1064-8-2S",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Journey to Emmaus",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

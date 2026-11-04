@@ -1,0 +1,41 @@
+{
+  "id": "766c6def-db79-4f6c-a210-ef789168bfab",
+  "quelle_id": "Go I (J)",
+  "dokumenten_id": "Go I (J)-213v-5",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Iohannes Baptista",
+  "feier": "Messe",
+  "textinitium": "Angelo praenuntiante",
+  "bibliographischerverweis": "De ventre intr 8 A 29 A 23 B 24 C (CT X)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "5",
+  "foliostart": "213v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "(De ventre)",
+    "Endseite": "214v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "De ventre intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "e2c60d9f-3ce6-4d04-9105-3409554cade5",
+  "quelle_id": "Pst 121",
+  "dokumenten_id": "Pst 121-74-5",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Zeno",
+  "feier": "Messe",
+  "textinitium": "Haec sunt sacra festa",
+  "bibliographischerverweis": "AH 37, 299",
+  "druckausgabe": "",
+  "zeilenstart": "5",
+  "foliostart": "74",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "75",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Eia turma",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

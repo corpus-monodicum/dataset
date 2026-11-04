@@ -1,0 +1,41 @@
+{
+  "id": "a4dcf2d6-5aed-4bc2-ba00-9f971ce9b3c9",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-186-10",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Petrus et Paulus",
+  "feier": "Messe",
+  "textinitium": "Nunc scio vere",
+  "bibliographischerverweis": "AMS 122",
+  "druckausgabe": "II-1",
+  "zeilenstart": "10",
+  "foliostart": "186",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "186v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

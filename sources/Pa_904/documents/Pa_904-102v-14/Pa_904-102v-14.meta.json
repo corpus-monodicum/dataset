@@ -1,0 +1,41 @@
+{
+  "id": "e64befb7-ca7f-4182-bd2b-22b3f5912e23",
+  "quelle_id": "Pa 904",
+  "dokumenten_id": "Pa 904-102v-14",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "Pascha",
+  "feier": "Prozession",
+  "textinitium": "Christus resurgens",
+  "bibliographischerverweis": "CAO 1796",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "14",
+  "foliostart": "102v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "103",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Pa 904-102v-14S",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Easter play / Osterspiel",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

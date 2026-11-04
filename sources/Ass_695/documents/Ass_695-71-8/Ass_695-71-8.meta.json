@@ -1,0 +1,41 @@
+{
+  "id": "125d2ad1-176e-4d3e-a2af-e4f0c65c6ae4",
+  "quelle_id": "Ass 695",
+  "dokumenten_id": "Ass 695-71-8",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Pascha",
+  "feier": "Messe",
+  "textinitium": "Fulgens praeclara",
+  "bibliographischerverweis": "AH 53, 35",
+  "druckausgabe": "CM III",
+  "zeilenstart": "8",
+  "foliostart": "71",
+  "kommentar": "Istud residuum non dicitur nisi in die Pentecosten: Paraclyti sancti",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "72v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "12",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Fulgens praeclara",
+    "Überlieferungszustand": "Abschnitt im Inneren fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

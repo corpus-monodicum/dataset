@@ -1,0 +1,41 @@
+{
+  "id": "871aab00-740a-4bb6-94b6-462f78b09022",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-245-5",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Cyricus",
+  "feier": "Messe",
+  "textinitium": "Puer natus est Cyricus",
+  "bibliographischerverweis": "AH 44, 104",
+  "druckausgabe": "CM III",
+  "zeilenstart": "5",
+  "foliostart": "245",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "245",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "Beginn und Ende fehlen",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Ohne Notation",
+    "Nachtragsschicht": "Nachtrag",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

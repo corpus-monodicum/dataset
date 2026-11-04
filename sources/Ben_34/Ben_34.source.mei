@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Ben 34: manuscript description</title>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Andreas Haug</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Project direction</resp>
+          <persName>Frank Puppe</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Ordinariumsgesänge)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Gunilla Iversen</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Ritva Maria Jacobsson</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <corpName role="publisher">Corpus Monodicum</corpName>
+        </respStmt>
+        <availability>
+          <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</useRestrict>
+        </availability>
+        <date isodate="2026-11-04" />
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application version="0.1.0">
+          <name>CM-hub</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <manifestationList>
+      <manifestation xml:id="Ben_34">
+        <identifier type="siglum">Ben 34</identifier>
+        <identifier type="cantus">Ben 34</identifier>
+        <titleStmt>
+          <title>Ben 34</title>
+        </titleStmt>
+        <creation>
+          <geogName role="origin">Benevent (Region)</geogName>
+          <geogName role="origin-region">Quellen italienischer Herkunft</geogName>
+          <date>12. Jh</date>
+        </creation>
+        <langUsage>
+          <language xml:lang="la" />
+        </langUsage>
+        <contents>
+          <contentItem n="1">
+            <locus from="121v">f. 121v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Ben 34-121v-15</identifier>
+          </contentItem>
+          <contentItem n="2">
+            <locus from="122">f. 122</locus>
+            <title type="incipit">Gloria in excelsis*</title>
+            <identifier type="dokumenten_id">Ben 34-122-1</identifier>
+          </contentItem>
+          <contentItem n="3">
+            <locus from="122v">f. 122v</locus>
+            <title type="incipit">Quem quaeritis in sepulchro</title>
+            <identifier type="dokumenten_id">Ben 34-122v-3</identifier>
+          </contentItem>
+          <contentItem n="4">
+            <locus from="123">f. 123</locus>
+            <title type="incipit">Resurrexi</title>
+            <identifier type="dokumenten_id">Ben 34-123-3</identifier>
+          </contentItem>
+          <contentItem n="5">
+            <locus from="123v">f. 123v</locus>
+            <title type="incipit">Ad monumentum domini plorabant</title>
+            <identifier type="dokumenten_id">Ben 34-123v-3</identifier>
+          </contentItem>
+          <contentItem n="6">
+            <locus from="124">f. 124</locus>
+            <title type="incipit">Cives superni</title>
+            <identifier type="dokumenten_id">Ben 34-124-1</identifier>
+          </contentItem>
+          <contentItem n="7">
+            <locus from="127v">f. 127v</locus>
+            <title type="incipit">Ab increpatione</title>
+            <identifier type="dokumenten_id">Ben 34-127v-9</identifier>
+          </contentItem>
+          <contentItem n="8">
+            <locus from="128">f. 128</locus>
+            <title type="incipit">Terra tremuit ... dum resurgeret</title>
+            <identifier type="dokumenten_id">Ben 34-128-2</identifier>
+          </contentItem>
+          <contentItem n="9">
+            <locus from="128v">f. 128v</locus>
+            <title type="incipit">Hostibus amotis</title>
+            <identifier type="dokumenten_id">Ben 34-128v-11</identifier>
+          </contentItem>
+          <contentItem n="10">
+            <locus from="128v">f. 128v</locus>
+            <title type="incipit">Ite missa est</title>
+            <identifier type="dokumenten_id">Ben 34-128v-7</identifier>
+          </contentItem>
+          <contentItem n="11">
+            <locus from="129">f. 129</locus>
+            <title type="incipit">Introduxit</title>
+            <identifier type="dokumenten_id">Ben 34-129-2</identifier>
+          </contentItem>
+          <contentItem n="12">
+            <locus from="129">f. 129</locus>
+            <title type="incipit">Auctor caelorum</title>
+            <identifier type="dokumenten_id">Ben 34-129-5</identifier>
+          </contentItem>
+          <contentItem n="13">
+            <locus from="129v">f. 129v</locus>
+            <title type="incipit">Rex hodie</title>
+            <identifier type="dokumenten_id">Ben 34-129v-2</identifier>
+          </contentItem>
+          <contentItem n="14">
+            <locus from="133">f. 133</locus>
+            <title type="incipit">Quos manna pavit</title>
+            <identifier type="dokumenten_id">Ben 34-133-2</identifier>
+          </contentItem>
+          <contentItem n="15">
+            <locus from="133">f. 133</locus>
+            <title type="incipit">Aqua sapientiae</title>
+            <identifier type="dokumenten_id">Ben 34-133-5</identifier>
+          </contentItem>
+          <contentItem n="16">
+            <locus from="168">f. 168</locus>
+            <title type="incipit">Qui patris in caelo</title>
+            <identifier type="dokumenten_id">Ben 34-168-1</identifier>
+          </contentItem>
+          <contentItem n="17">
+            <locus from="168">f. 168</locus>
+            <title type="incipit">Benedicite dominum</title>
+            <identifier type="dokumenten_id">Ben 34-168-5</identifier>
+          </contentItem>
+          <contentItem n="18">
+            <locus from="16v">f. 16v</locus>
+            <title type="incipit">Ecce adest</title>
+            <identifier type="dokumenten_id">Ben 34-16v-6</identifier>
+          </contentItem>
+          <contentItem n="19">
+            <locus from="17">f. 17</locus>
+            <title type="incipit">Quem patris ad dextram</title>
+            <identifier type="dokumenten_id">Ben 34-17-1</identifier>
+          </contentItem>
+          <contentItem n="20">
+            <locus from="172">f. 172</locus>
+            <title type="incipit">Hic caelum terris</title>
+            <identifier type="dokumenten_id">Ben 34-172-10</identifier>
+          </contentItem>
+          <contentItem n="21">
+            <locus from="172v">f. 172v</locus>
+            <title type="incipit">Terribilis est locus iste</title>
+            <identifier type="dokumenten_id">Ben 34-172v-6</identifier>
+          </contentItem>
+          <contentItem n="22">
+            <locus from="172v">f. 172v</locus>
+            <title type="incipit">Aureas arces</title>
+            <identifier type="dokumenten_id">Ben 34-172v-9</identifier>
+          </contentItem>
+          <contentItem n="23">
+            <locus from="176">f. 176</locus>
+            <title type="incipit">Caelestia sidera</title>
+            <identifier type="dokumenten_id">Ben 34-176-5</identifier>
+          </contentItem>
+          <contentItem n="24">
+            <locus from="176v">f. 176v</locus>
+            <title type="incipit">Salus et vita</title>
+            <identifier type="dokumenten_id">Ben 34-176v-4</identifier>
+          </contentItem>
+          <contentItem n="25">
+            <locus from="178">f. 178</locus>
+            <title type="incipit">Astra petit Christus</title>
+            <identifier type="dokumenten_id">Ben 34-178-4</identifier>
+          </contentItem>
+          <contentItem n="26">
+            <locus from="178v">f. 178v</locus>
+            <title type="incipit">Viri Galilaei</title>
+            <identifier type="dokumenten_id">Ben 34-178v-1</identifier>
+          </contentItem>
+          <contentItem n="27">
+            <locus from="181">f. 181</locus>
+            <title type="incipit">Invisibiliter penetravit</title>
+            <identifier type="dokumenten_id">Ben 34-181-6</identifier>
+          </contentItem>
+          <contentItem n="28">
+            <locus from="181v">f. 181v</locus>
+            <title type="incipit">Ad dexteram patris</title>
+            <identifier type="dokumenten_id">Ben 34-181v-8</identifier>
+          </contentItem>
+          <contentItem n="29">
+            <locus from="184v">f. 184v</locus>
+            <title type="incipit">Spiritus sanctus descendit</title>
+            <identifier type="dokumenten_id">Ben 34-184v-11</identifier>
+          </contentItem>
+          <contentItem n="30">
+            <locus from="185">f. 185</locus>
+            <title type="incipit">Spiritus domini</title>
+            <identifier type="dokumenten_id">Ben 34-185-7</identifier>
+          </contentItem>
+          <contentItem n="31">
+            <locus from="185v">f. 185v</locus>
+            <title type="incipit">Cunctipotens genitor</title>
+            <identifier type="dokumenten_id">Ben 34-185v-1</identifier>
+          </contentItem>
+          <contentItem n="32">
+            <locus from="186">f. 186</locus>
+            <title type="incipit">Qui deus et rector</title>
+            <identifier type="dokumenten_id">Ben 34-186-3</identifier>
+          </contentItem>
+          <contentItem n="33">
+            <locus from="190">f. 190</locus>
+            <title type="incipit">Perpetuo numine</title>
+            <identifier type="dokumenten_id">Ben 34-190-10</identifier>
+          </contentItem>
+          <contentItem n="34">
+            <locus from="190v">f. 190v</locus>
+            <title type="incipit">Quem laudant omnes</title>
+            <identifier type="dokumenten_id">Ben 34-190v-6</identifier>
+          </contentItem>
+          <contentItem n="35">
+            <locus from="197v">f. 197v</locus>
+            <title type="incipit">Quem prophetae cecinerunt</title>
+            <identifier type="dokumenten_id">Ben 34-197v-14</identifier>
+          </contentItem>
+          <contentItem n="36">
+            <locus from="198">f. 198</locus>
+            <title type="incipit">De ventre</title>
+            <identifier type="dokumenten_id">Ben 34-198-9</identifier>
+          </contentItem>
+          <contentItem n="37">
+            <locus from="20">f. 20</locus>
+            <title type="incipit">Admirabilis splendor</title>
+            <identifier type="dokumenten_id">Ben 34-20-4</identifier>
+          </contentItem>
+          <contentItem n="38">
+            <locus from="203v">f. 203v</locus>
+            <title type="incipit">Angelus abscessit</title>
+            <identifier type="dokumenten_id">Ben 34-203v-9</identifier>
+          </contentItem>
+          <contentItem n="39">
+            <locus from="204">f. 204</locus>
+            <title type="incipit">Nunc scio vere</title>
+            <identifier type="dokumenten_id">Ben 34-204-5</identifier>
+          </contentItem>
+          <contentItem n="40">
+            <locus from="20v">f. 20v</locus>
+            <title type="incipit">Servieram</title>
+            <identifier type="dokumenten_id">Ben 34-20v-10</identifier>
+          </contentItem>
+          <contentItem n="41">
+            <locus from="20v">f. 20v</locus>
+            <title type="incipit">Assis placatus</title>
+            <identifier type="dokumenten_id">Ben 34-20v-3</identifier>
+          </contentItem>
+          <contentItem n="42">
+            <locus from="21">f. 21</locus>
+            <title type="incipit">Etenim sederunt</title>
+            <identifier type="dokumenten_id">Ben 34-21-2</identifier>
+          </contentItem>
+          <contentItem n="43">
+            <locus from="212v">f. 212v</locus>
+            <title type="incipit">Maiestas et potestas</title>
+            <identifier type="dokumenten_id">Ben 34-212v-19</identifier>
+          </contentItem>
+          <contentItem n="44">
+            <locus from="212v">f. 212v</locus>
+            <title type="incipit">Benedicta sit sancta</title>
+            <identifier type="dokumenten_id">Ben 34-212v-22</identifier>
+          </contentItem>
+          <contentItem n="45">
+            <locus from="217">f. 217</locus>
+            <title type="incipit">Martyr Laurentius</title>
+            <identifier type="dokumenten_id">Ben 34-217-8</identifier>
+          </contentItem>
+          <contentItem n="46">
+            <locus from="217v">f. 217v</locus>
+            <title type="incipit">Probasti domine</title>
+            <identifier type="dokumenten_id">Ben 34-217v-1</identifier>
+          </contentItem>
+          <contentItem n="47">
+            <locus from="220v">f. 220v</locus>
+            <title type="incipit">O quam clara</title>
+            <identifier type="dokumenten_id">Ben 34-220v-10</identifier>
+          </contentItem>
+          <contentItem n="48">
+            <locus from="221">f. 221</locus>
+            <title type="incipit">Vultum tuum</title>
+            <identifier type="dokumenten_id">Ben 34-221-7</identifier>
+          </contentItem>
+          <contentItem n="49">
+            <locus from="221v">f. 221v</locus>
+            <title type="incipit">Virginis odas</title>
+            <identifier type="dokumenten_id">Ben 34-221v-2</identifier>
+          </contentItem>
+          <contentItem n="50">
+            <locus from="222">f. 222</locus>
+            <title type="incipit">Ut possimus consequi</title>
+            <identifier type="dokumenten_id">Ben 34-222-2</identifier>
+          </contentItem>
+          <contentItem n="51">
+            <locus from="234v">f. 234v</locus>
+            <title type="incipit">Admirans vates</title>
+            <identifier type="dokumenten_id">Ben 34-234v-23</identifier>
+          </contentItem>
+          <contentItem n="52">
+            <locus from="235">f. 235</locus>
+            <title type="incipit">Mihi autem</title>
+            <identifier type="dokumenten_id">Ben 34-235-5</identifier>
+          </contentItem>
+          <contentItem n="53">
+            <locus from="236v">f. 236v</locus>
+            <title type="incipit">Hodie mundo festivus … omnium sanctorum</title>
+            <identifier type="dokumenten_id">Ben 34-236v-10</identifier>
+          </contentItem>
+          <contentItem n="54">
+            <locus from="237">f. 237</locus>
+            <title type="incipit">Gaudeamus omnes … sanctorum omnium</title>
+            <identifier type="dokumenten_id">Ben 34-237-4</identifier>
+          </contentItem>
+          <contentItem n="55">
+            <locus from="237">f. 237</locus>
+            <title type="incipit">Deus pater maiestatis</title>
+            <identifier type="dokumenten_id">Ben 34-237-7</identifier>
+          </contentItem>
+          <contentItem n="56">
+            <locus from="238">f. 238</locus>
+            <title type="incipit">Laus tua deus</title>
+            <identifier type="dokumenten_id">Ben 34-238-2</identifier>
+          </contentItem>
+          <contentItem n="57">
+            <locus from="24">f. 24</locus>
+            <title type="incipit">Gratia celsa dei</title>
+            <identifier type="dokumenten_id">Ben 34-24-5</identifier>
+          </contentItem>
+          <contentItem n="58">
+            <locus from="24">f. 24</locus>
+            <title type="incipit">In medio ecclesiae</title>
+            <identifier type="dokumenten_id">Ben 34-24-8</identifier>
+          </contentItem>
+          <contentItem n="59">
+            <locus from="240v">f. 240v</locus>
+            <title type="incipit">Laudes deo ore pio</title>
+            <identifier type="dokumenten_id">Ben 34-240v-11</identifier>
+          </contentItem>
+          <contentItem n="60">
+            <locus from="241">f. 241</locus>
+            <title type="incipit">Fulgida qui regnas</title>
+            <identifier type="dokumenten_id">Ben 34-241-9</identifier>
+          </contentItem>
+          <contentItem n="61">
+            <locus from="241v">f. 241v</locus>
+            <title type="incipit">Nihil carnale</title>
+            <identifier type="dokumenten_id">Ben 34-241v-18</identifier>
+          </contentItem>
+          <contentItem n="62">
+            <locus from="242">f. 242</locus>
+            <title type="incipit">Beatus Martinus obitum</title>
+            <identifier type="dokumenten_id">Ben 34-242-2</identifier>
+          </contentItem>
+          <contentItem n="63">
+            <locus from="245v">f. 245v</locus>
+            <title type="incipit">In sancti Andreae</title>
+            <identifier type="dokumenten_id">Ben 34-245v-10</identifier>
+          </contentItem>
+          <contentItem n="64">
+            <locus from="245v">f. 245v</locus>
+            <title type="incipit">Mihi autem*</title>
+            <identifier type="dokumenten_id">Ben 34-245v-14</identifier>
+          </contentItem>
+          <contentItem n="65">
+            <locus from="273v">f. 273v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Ben 34-273v-10</identifier>
+          </contentItem>
+          <contentItem n="66">
+            <locus from="274">f. 274</locus>
+            <title type="incipit">In praesaepe</title>
+            <identifier type="dokumenten_id">Ben 34-274-2</identifier>
+          </contentItem>
+          <contentItem n="67">
+            <locus from="274v">f. 274v</locus>
+            <title type="incipit">Caelum terraque</title>
+            <identifier type="dokumenten_id">Ben 34-274v-1</identifier>
+          </contentItem>
+          <contentItem n="68">
+            <locus from="275">f. 275</locus>
+            <title type="incipit">Pater excelse</title>
+            <identifier type="dokumenten_id">Ben 34-275-9</identifier>
+          </contentItem>
+          <contentItem n="69">
+            <locus from="275v">f. 275v</locus>
+            <title type="incipit">Alme pater</title>
+            <identifier type="dokumenten_id">Ben 34-275v-3</identifier>
+          </contentItem>
+          <contentItem n="70">
+            <locus from="276">f. 276</locus>
+            <title type="incipit">Devote canentes</title>
+            <identifier type="dokumenten_id">Ben 34-276-3</identifier>
+          </contentItem>
+          <contentItem n="71">
+            <locus from="276v">f. 276v</locus>
+            <title type="incipit">Christe caelorum rex</title>
+            <identifier type="dokumenten_id">Ben 34-276v-3</identifier>
+          </contentItem>
+          <contentItem n="72">
+            <locus from="277">f. 277</locus>
+            <title type="incipit">Deus genitor alme</title>
+            <identifier type="dokumenten_id">Ben 34-277-1</identifier>
+          </contentItem>
+          <contentItem n="73">
+            <locus from="277">f. 277</locus>
+            <title type="incipit">Magne Michael</title>
+            <identifier type="dokumenten_id">Ben 34-277-7</identifier>
+          </contentItem>
+          <contentItem n="74">
+            <locus from="278v">f. 278v</locus>
+            <title type="incipit">Canamus cuncti</title>
+            <identifier type="dokumenten_id">Ben 34-278v-10</identifier>
+          </contentItem>
+          <contentItem n="75">
+            <locus from="278v">f. 278v</locus>
+            <title type="incipit">Auctor caelorum</title>
+            <identifier type="dokumenten_id">Ben 34-278v-4</identifier>
+          </contentItem>
+          <contentItem n="76">
+            <locus from="280v">f. 280v</locus>
+            <title type="incipit">Ut possimus consequi</title>
+            <identifier type="dokumenten_id">Ben 34-280v-4</identifier>
+          </contentItem>
+          <contentItem n="77">
+            <locus from="281v">f. 281v</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Ben 34-281v-1</identifier>
+          </contentItem>
+          <contentItem n="78">
+            <locus from="282">f. 282</locus>
+            <title type="incipit">Gloria in excelsis</title>
+            <identifier type="dokumenten_id">Ben 34-282-1</identifier>
+          </contentItem>
+          <contentItem n="79">
+            <locus from="282v">f. 282v</locus>
+            <title type="incipit">Quem cherubim atque seraphim</title>
+            <identifier type="dokumenten_id">Ben 34-282v-1</identifier>
+          </contentItem>
+          <contentItem n="80">
+            <locus from="283">f. 283</locus>
+            <title type="incipit">Altissimeque rector</title>
+            <identifier type="dokumenten_id">Ben 34-283-4</identifier>
+          </contentItem>
+          <contentItem n="81">
+            <locus from="283v">f. 283v</locus>
+            <title type="incipit">Pie Christe</title>
+            <identifier type="dokumenten_id">Ben 34-283v-4</identifier>
+          </contentItem>
+          <contentItem n="82">
+            <locus from="284">f. 284</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Ben 34-284-1</identifier>
+          </contentItem>
+          <contentItem n="83">
+            <locus from="284">f. 284</locus>
+            <title type="incipit">Sanctus ... dominus deus</title>
+            <identifier type="dokumenten_id">Ben 34-284-5</identifier>
+          </contentItem>
+          <contentItem n="84">
+            <locus from="284">f. 284</locus>
+            <title type="incipit">Benigne pater</title>
+            <identifier type="dokumenten_id">Ben 34-284-8</identifier>
+          </contentItem>
+          <contentItem n="85">
+            <locus from="284v">f. 284v</locus>
+            <title type="incipit">Salus et vita</title>
+            <identifier type="dokumenten_id">Ben 34-284v-2</identifier>
+          </contentItem>
+          <contentItem n="86">
+            <locus from="284v">f. 284v</locus>
+            <title type="incipit">O Christe ... consanguinee</title>
+            <identifier type="dokumenten_id">Ben 34-284v-6</identifier>
+          </contentItem>
+          <contentItem n="87">
+            <locus from="284v">f. 284v</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Ben 34-284v-9</identifier>
+          </contentItem>
+          <contentItem n="88">
+            <locus from="285">f. 285</locus>
+            <title type="incipit">Salvifica</title>
+            <identifier type="dokumenten_id">Ben 34-285-1</identifier>
+          </contentItem>
+          <contentItem n="89">
+            <locus from="285">f. 285</locus>
+            <title type="incipit">Deus pater ingenitus</title>
+            <identifier type="dokumenten_id">Ben 34-285-6</identifier>
+          </contentItem>
+          <contentItem n="90">
+            <locus from="285v">f. 285v</locus>
+            <title type="incipit">Corona iustitiae</title>
+            <identifier type="dokumenten_id">Ben 34-285v-4</identifier>
+          </contentItem>
+          <contentItem n="91">
+            <locus from="286">f. 286</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Ben 34-286-10</identifier>
+          </contentItem>
+          <contentItem n="92">
+            <locus from="286">f. 286</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Ben 34-286-4</identifier>
+          </contentItem>
+          <contentItem n="93">
+            <locus from="286">f. 286</locus>
+            <title type="incipit">Agnus dei</title>
+            <identifier type="dokumenten_id">Ben 34-286-5</identifier>
+          </contentItem>
+          <contentItem n="94">
+            <locus from="286">f. 286</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Ben 34-286-7</identifier>
+          </contentItem>
+          <contentItem n="95">
+            <locus from="286">f. 286</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Ben 34-286-8</identifier>
+          </contentItem>
+          <contentItem n="96">
+            <locus from="286">f. 286</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Ben 34-286-9</identifier>
+          </contentItem>
+          <contentItem n="97">
+            <locus from="286v">f. 286v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Ben 34-286v-1</identifier>
+          </contentItem>
+          <contentItem n="98">
+            <locus from="286v">f. 286v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Ben 34-286v-10</identifier>
+          </contentItem>
+          <contentItem n="99">
+            <locus from="286v">f. 286v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Ben 34-286v-2</identifier>
+          </contentItem>
+          <contentItem n="100">
+            <locus from="286v">f. 286v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Ben 34-286v-3</identifier>
+          </contentItem>
+          <contentItem n="101">
+            <locus from="286v">f. 286v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Ben 34-286v-4</identifier>
+          </contentItem>
+          <contentItem n="102">
+            <locus from="286v">f. 286v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Ben 34-286v-5</identifier>
+          </contentItem>
+          <contentItem n="103">
+            <locus from="286v">f. 286v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Ben 34-286v-6</identifier>
+          </contentItem>
+          <contentItem n="104">
+            <locus from="286v">f. 286v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Ben 34-286v-7</identifier>
+          </contentItem>
+          <contentItem n="105">
+            <locus from="286v">f. 286v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Ben 34-286v-8</identifier>
+          </contentItem>
+          <contentItem n="106">
+            <locus from="286v">f. 286v</locus>
+            <title type="incipit">Kyrie eleyson</title>
+            <identifier type="dokumenten_id">Ben 34-286v-9</identifier>
+          </contentItem>
+          <contentItem n="107">
+            <locus from="287v">f. 287v</locus>
+            <title type="incipit">Laudat in excelsis</title>
+            <identifier type="dokumenten_id">Ben 34-287v-2</identifier>
+          </contentItem>
+          <contentItem n="108">
+            <locus from="288v">f. 288v</locus>
+            <title type="incipit">Quem cives celestes</title>
+            <identifier type="dokumenten_id">Ben 34-288v-10</identifier>
+          </contentItem>
+          <contentItem n="109">
+            <locus from="31v">f. 31v</locus>
+            <title type="incipit">Eia Sion gaude</title>
+            <identifier type="dokumenten_id">Ben 34-31v-9</identifier>
+          </contentItem>
+          <contentItem n="110">
+            <locus from="32">f. 32</locus>
+            <title type="incipit">Ecce advenit</title>
+            <identifier type="dokumenten_id">Ben 34-32-1</identifier>
+          </contentItem>
+          <contentItem n="111">
+            <locus from="32">f. 32</locus>
+            <title type="incipit">Cetus in arce</title>
+            <identifier type="dokumenten_id">Ben 34-32-10</identifier>
+          </contentItem>
+          <contentItem n="112">
+            <locus from="32">f. 32</locus>
+            <title type="incipit">Auctor caelorum</title>
+            <identifier type="dokumenten_id">Ben 34-32-4</identifier>
+          </contentItem>
+          <contentItem n="113">
+            <locus from="35">f. 35</locus>
+            <title type="incipit">Immortalis et verus</title>
+            <identifier type="dokumenten_id">Ben 34-35-5</identifier>
+          </contentItem>
+          <contentItem n="114">
+            <locus from="35v">f. 35v</locus>
+            <title type="incipit">Rex regum gaudium</title>
+            <identifier type="dokumenten_id">Ben 34-35v-2</identifier>
+          </contentItem>
+          <contentItem n="115">
+            <locus from="40">f. 40</locus>
+            <title type="incipit">Os iusti</title>
+            <identifier type="dokumenten_id">Ben 34-40-10</identifier>
+          </contentItem>
+          <contentItem n="116">
+            <locus from="40">f. 40</locus>
+            <title type="incipit">In sancti huius</title>
+            <identifier type="dokumenten_id">Ben 34-40-8</identifier>
+          </contentItem>
+          <contentItem n="117">
+            <locus from="47">f. 47</locus>
+            <title type="incipit">Suscepimus</title>
+            <identifier type="dokumenten_id">Ben 34-47-10</identifier>
+          </contentItem>
+          <contentItem n="118">
+            <locus from="47">f. 47</locus>
+            <title type="incipit">Adest alma virgo parens</title>
+            <identifier type="dokumenten_id">Ben 34-47-2</identifier>
+          </contentItem>
+          <contentItem n="119">
+            <locus from="54">f. 54</locus>
+            <title type="incipit">Angelicis hodie</title>
+            <identifier type="dokumenten_id">Ben 34-54-2</identifier>
+          </contentItem>
+          <contentItem n="120">
+            <locus from="54">f. 54</locus>
+            <title type="incipit">Vir dei Benedictus</title>
+            <identifier type="dokumenten_id">Ben 34-54-7</identifier>
+          </contentItem>
+          <contentItem n="121">
+            <locus from="55v">f. 55v</locus>
+            <title type="incipit">Tellus arescit</title>
+            <identifier type="dokumenten_id">Ben 34-55v-1</identifier>
+          </contentItem>
+          <contentItem n="122">
+            <locus from="6v">f. 6v</locus>
+            <title type="incipit">Rorate caeli</title>
+            <identifier type="dokumenten_id">Ben 34-6v-4</identifier>
+          </contentItem>
+        </contents>
+        <notesStmt>
+          <annot type="notation-documentation">
+            <ref target="notation/Ben_34.notation.md">Notation documentation</ref>
+          </annot>
+          <annot type="description">
+            <ref target="Ben_34.description.md">Source description</ref>
+          </annot>
+        </notesStmt>
+        <classification>
+          <termList>
+            <term type="quellentyp">Graduale mit Tropen und Sequenzen, Kyriale</term>
+          </termList>
+        </classification>
+        <itemList>
+          <item>
+            <identifier type="shelfmark">34</identifier>
+            <physLoc>
+              <repository>
+                <geogName role="settlement">Benevent</geogName>
+                <corpName>Biblioteca Capitolare</corpName>
+              </repository>
+            </physLoc>
+          </item>
+        </itemList>
+        <relationList>
+          <relation rel="hasReproduction" target="https://iiif.diamm.net/manifests/I-BV-34/manifest.json" label="IIIF manifest" />
+        </relationList>
+      </manifestation>
+    </manifestationList>
+    <revisionDesc>
+      <change isodate="2026-11-04">
+        <changeDesc>
+          <p>Generated by CM-hub 0.1.0.</p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music />
+</mei>

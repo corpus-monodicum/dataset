@@ -1,0 +1,41 @@
+{
+  "id": "d47c7588-814e-46ad-ba54-4837cfef8d5f",
+  "quelle_id": "Pa 1064",
+  "dokumenten_id": "Pa 1064-11v-3",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "Feria II post Pascha",
+  "feier": "Vesper",
+  "textinitium": "Quia vidisti me",
+  "bibliographischerverweis": "CAO 4513",
+  "druckausgabe": "CM V-2",
+  "zeilenstart": "3",
+  "foliostart": "11v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "11v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Pa 1064-8-2S",
+    "Endzeile": "4",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Journey to Emmaus",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

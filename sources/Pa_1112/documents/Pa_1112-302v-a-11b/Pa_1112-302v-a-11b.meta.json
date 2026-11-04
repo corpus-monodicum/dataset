@@ -1,0 +1,41 @@
+{
+  "id": "82aeb327-c33a-4572-adc1-1d2ab24cc779",
+  "quelle_id": "Pa 1112",
+  "dokumenten_id": "Pa 1112-302v-a-11b",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Clemens",
+  "feier": "Messe",
+  "textinitium": "Organicis ... qui in suis*",
+  "bibliographischerverweis": "AH 53, 242",
+  "druckausgabe": "CM III",
+  "zeilenstart": "11",
+  "foliostart": "302v-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "302v-a",
+    "Startposition": "b",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Iustus ut palma maior",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

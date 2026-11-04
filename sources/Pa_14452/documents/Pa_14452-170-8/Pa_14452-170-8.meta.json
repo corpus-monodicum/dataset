@@ -1,0 +1,41 @@
+{
+  "id": "4a43c654-ac93-463a-8879-a4d0e10577f0",
+  "quelle_id": "Pa 14452",
+  "dokumenten_id": "Pa 14452-170-8",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Feria IV post Pentecosten",
+  "feier": "Messe",
+  "textinitium": "Almiphona iam gaudia",
+  "bibliographischerverweis": "AH 53, 76",
+  "druckausgabe": "CM III",
+  "zeilenstart": "8",
+  "foliostart": "170",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "171",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Almiphona",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

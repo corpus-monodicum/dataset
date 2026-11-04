@@ -1,0 +1,25 @@
+{
+  "id": "Ka 5",
+  "quellensigle": "Ka 5",
+  "herkunftsregion": "Quellen deutscher Herkunft",
+  "herkunftsort": "Fulda",
+  "herkunftsinstitution": "",
+  "ordenstradition": "",
+  "quellentyp": "Graduale, Tropar, Kyriale, Sequentiar",
+  "bibliotheksort": "Kassel",
+  "bibliothek": "Universitätsbibliothek, Landesbibliothek und Murhardsche Bibliothek",
+  "bibliothekssignatur": "4° Ms. theol. 5",
+  "kommentar": "",
+  "datierung": "13. Jh 1. Hälfte",
+  "status": "",
+  "jahrhundert": "13.",
+  "manifest": "",
+  "foliooffset": "pageNr+5",
+  "publish": "all",
+  "cantus_siglum": "Ka 5",
+  "cantus_century": "13.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Ka_5.description.md"
+  }
+}

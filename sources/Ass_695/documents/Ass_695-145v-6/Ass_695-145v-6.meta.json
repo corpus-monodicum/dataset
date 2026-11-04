@@ -1,0 +1,41 @@
+{
+  "id": "61d85b08-48a1-4228-a0c5-4e175a61517f",
+  "quelle_id": "Ass 695",
+  "dokumenten_id": "Ass 695-145v-6",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Victor Massiliensis",
+  "feier": "Messe",
+  "textinitium": "Ecce dies triumphalis gaude",
+  "bibliographischerverweis": "AH 55, 337",
+  "druckausgabe": "CM III",
+  "zeilenstart": "6",
+  "foliostart": "145v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Anna Sanda",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "147v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "Abschnitt im Inneren fehlt",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

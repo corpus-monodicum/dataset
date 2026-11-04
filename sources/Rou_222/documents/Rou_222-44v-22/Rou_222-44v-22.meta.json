@@ -1,0 +1,41 @@
+{
+  "id": "09b3dac6-114d-4f3b-a829-64a45d0a3011",
+  "quelle_id": "Rou 222",
+  "dokumenten_id": "Rou 222-44v-22",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Sequenz",
+  "festtag": "Feria II post Pascha",
+  "feier": "Vesper",
+  "textinitium": "Dic nobis Maria",
+  "bibliographischerverweis": "AH 54, 7 (Victimae paschali laudes)",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "22",
+  "foliostart": "44v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "45",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Rou 222-43-19S",
+    "Endzeile": "9",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Journey to Emmaus",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

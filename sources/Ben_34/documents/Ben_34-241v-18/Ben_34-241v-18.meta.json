@@ -1,0 +1,41 @@
+{
+  "id": "06f40fff-0dd9-4feb-b896-005ac8e3b1e3",
+  "quelle_id": "Ben 34",
+  "dokumenten_id": "Ben 34-241v-18",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Martinus",
+  "feier": "Messe",
+  "textinitium": "Nihil carnale",
+  "bibliographischerverweis": "Beatus Martinus intr 5 A 6 B 7 C (CT X)",
+  "druckausgabe": "",
+  "zeilenstart": "18",
+  "foliostart": "241v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "(Beatus Martinus)",
+    "Endseite": "242",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "1",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Beatus Martinus intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

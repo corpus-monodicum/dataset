@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tri 2254: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Edition (Sequenzen)</resp>
+          <persName>Andreas Pfisterer</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="Tri_2254">
+          <msIdentifier>
+            <settlement>Trier</settlement>
+            <repository>Stadtbibliothek</repository>
+            <idno type="shelfmark">Hs. 2254</idno>
+            <altIdentifier type="siglum">
+              <idno>Tri 2254</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>Tri 2254</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <term type="quellentyp">Graduale, Sequentiar, Kyriale</term>
+            </summary>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="271">f. 271</locus>
+              <title type="incipit">Eia recolamus ... piis</title>
+              <idno type="dokumenten_id">Tri 2254-271-1</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="272">f. 272</locus>
+              <title type="incipit">Natus ante saecula</title>
+              <idno type="dokumenten_id">Tri 2254-272-9</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="274">f. 274</locus>
+              <title type="incipit">Hanc concordi</title>
+              <idno type="dokumenten_id">Tri 2254-274-10</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="276">f. 276</locus>
+              <title type="incipit">Iohannes Iesu Christo</title>
+              <idno type="dokumenten_id">Tri 2254-276-7</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="278">f. 278</locus>
+              <title type="incipit">Laus tibi Christe cui sapit</title>
+              <idno type="dokumenten_id">Tri 2254-278-1</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="279">f. 279</locus>
+              <title type="incipit">Festa Christi</title>
+              <idno type="dokumenten_id">Tri 2254-279-8</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="281">f. 281</locus>
+              <title type="incipit">Concentu parili hic te</title>
+              <idno type="dokumenten_id">Tri 2254-281-10</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="284">f. 284</locus>
+              <title type="incipit">Laudes salvatori</title>
+              <idno type="dokumenten_id">Tri 2254-284-7</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="288">f. 288</locus>
+              <title type="incipit">Agni paschalis esu</title>
+              <idno type="dokumenten_id">Tri 2254-288-1</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="289">f. 289</locus>
+              <title type="incipit">Laudes Christo redempti</title>
+              <idno type="dokumenten_id">Tri 2254-289-2</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="291">f. 291</locus>
+              <title type="incipit">Summi triumphum</title>
+              <idno type="dokumenten_id">Tri 2254-291-1</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="291">f. 291</locus>
+              <title type="incipit">Sancti spiritus … Quae corda</title>
+              <idno type="dokumenten_id">Tri 2254-291-4</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="293">f. 293</locus>
+              <title type="incipit">Veni spiritus aeternorum</title>
+              <idno type="dokumenten_id">Tri 2254-293-7</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="294">f. 294</locus>
+              <title type="incipit">Benedicta semper sancta</title>
+              <idno type="dokumenten_id">Tri 2254-294-7</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="296">f. 296</locus>
+              <title type="incipit">Benedictio trinae unitati</title>
+              <idno type="dokumenten_id">Tri 2254-296-7</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="299">f. 299</locus>
+              <title type="incipit">Sancti Baptistae Christi</title>
+              <idno type="dokumenten_id">Tri 2254-299-2</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="300">f. 300</locus>
+              <title type="incipit">Petre summe Christi</title>
+              <idno type="dokumenten_id">Tri 2254-300-9</idno>
+            </msItem>
+            <msItem n="18">
+              <locus from="302">f. 302</locus>
+              <title type="incipit">Caeli enarrant</title>
+              <idno type="dokumenten_id">Tri 2254-302-5</idno>
+            </msItem>
+            <msItem n="19">
+              <locus from="306">f. 306</locus>
+              <title type="incipit">Laus tibi Christe qui es</title>
+              <idno type="dokumenten_id">Tri 2254-306-7</idno>
+            </msItem>
+            <msItem n="20">
+              <locus from="309">f. 309</locus>
+              <title type="incipit">Laurenti David</title>
+              <idno type="dokumenten_id">Tri 2254-309-5</idno>
+            </msItem>
+            <msItem n="21">
+              <locus from="310">f. 310</locus>
+              <title type="incipit">Congaudent angelorum chori</title>
+              <idno type="dokumenten_id">Tri 2254-310-9</idno>
+            </msItem>
+            <msItem n="22">
+              <locus from="312">f. 312</locus>
+              <title type="incipit">Ave praeclara maris stella</title>
+              <idno type="dokumenten_id">Tri 2254-312-9</idno>
+            </msItem>
+            <msItem n="23">
+              <locus from="316">f. 316</locus>
+              <title type="incipit">Alma cohors</title>
+              <idno type="dokumenten_id">Tri 2254-316-1</idno>
+            </msItem>
+            <msItem n="24">
+              <locus from="318">f. 318</locus>
+              <title type="incipit">Stirpe Maria</title>
+              <idno type="dokumenten_id">Tri 2254-318-7</idno>
+            </msItem>
+            <msItem n="25">
+              <locus from="319">f. 319</locus>
+              <title type="incipit">Psallite regi nostro</title>
+              <idno type="dokumenten_id">Tri 2254-319-8</idno>
+            </msItem>
+            <msItem n="26">
+              <locus from="322">f. 322</locus>
+              <title type="incipit">Laudes crucis</title>
+              <idno type="dokumenten_id">Tri 2254-322-5</idno>
+            </msItem>
+            <msItem n="27">
+              <locus from="326">f. 326</locus>
+              <title type="incipit">Magnum te Michaelem</title>
+              <idno type="dokumenten_id">Tri 2254-326-2</idno>
+            </msItem>
+            <msItem n="28">
+              <locus from="327">f. 327</locus>
+              <title type="incipit">Omnes sancti seraphin</title>
+              <idno type="dokumenten_id">Tri 2254-327-2</idno>
+            </msItem>
+            <msItem n="29">
+              <locus from="328">f. 328</locus>
+              <title type="incipit">Sacerdotem Christi</title>
+              <idno type="dokumenten_id">Tri 2254-328-6</idno>
+            </msItem>
+            <msItem n="30">
+              <locus from="330">f. 330</locus>
+              <title type="incipit">Deus in tua virtute</title>
+              <idno type="dokumenten_id">Tri 2254-330-8</idno>
+            </msItem>
+            <msItem n="31">
+              <locus from="332">f. 332</locus>
+              <title type="incipit">Congaudentes exsultemus vocali</title>
+              <idno type="dokumenten_id">Tri 2254-332-1</idno>
+            </msItem>
+            <msItem n="32">
+              <locus from="334">f. 334</locus>
+              <title type="incipit">Gratiarum actio</title>
+              <idno type="dokumenten_id">Tri 2254-334-7</idno>
+            </msItem>
+            <msItem n="33">
+              <locus from="337">f. 337</locus>
+              <title type="incipit">Dixit dominus ex Basan</title>
+              <idno type="dokumenten_id">Tri 2254-337-4</idno>
+            </msItem>
+            <msItem n="34">
+              <locus from="339">f. 339</locus>
+              <title type="incipit">Psallat ecclesia mater illibata</title>
+              <idno type="dokumenten_id">Tri 2254-339-5</idno>
+            </msItem>
+            <msItem n="35">
+              <locus from="340">f. 340</locus>
+              <title type="incipit">Clare sanctorum</title>
+              <idno type="dokumenten_id">Tri 2254-340-8</idno>
+            </msItem>
+            <msItem n="36">
+              <locus from="342">f. 342</locus>
+              <title type="incipit">Agone triumphali</title>
+              <idno type="dokumenten_id">Tri 2254-342-1</idno>
+            </msItem>
+            <msItem n="37">
+              <locus from="343">f. 343</locus>
+              <title type="incipit">Ad laudes salvatoris</title>
+              <idno type="dokumenten_id">Tri 2254-343-5</idno>
+            </msItem>
+            <msItem n="38">
+              <locus from="345">f. 345</locus>
+              <title type="incipit">Gaude caelestis sponsa</title>
+              <idno type="dokumenten_id">Tri 2254-345-5</idno>
+            </msItem>
+            <msItem n="39">
+              <locus from="346">f. 346</locus>
+              <title type="incipit">Laus sit regi gloriae</title>
+              <idno type="dokumenten_id">Tri 2254-346-8</idno>
+            </msItem>
+            <msItem n="40">
+              <locus from="349">f. 349</locus>
+              <title type="incipit">Ave dei genitrix</title>
+              <idno type="dokumenten_id">Tri 2254-349-1</idno>
+            </msItem>
+            <msItem n="41">
+              <locus from="350">f. 350</locus>
+              <title type="incipit">Ave Maria gratia plena ... benedicta … gratiam</title>
+              <idno type="dokumenten_id">Tri 2254-350-6</idno>
+            </msItem>
+            <msItem n="42">
+              <locus from="352">f. 352</locus>
+              <title type="incipit">Ave plena singulari</title>
+              <idno type="dokumenten_id">Tri 2254-352-4</idno>
+            </msItem>
+            <msItem n="43">
+              <locus from="354">f. 354</locus>
+              <title type="incipit">Ave mundi spes</title>
+              <idno type="dokumenten_id">Tri 2254-354-8</idno>
+            </msItem>
+            <msItem n="44">
+              <locus from="356">f. 356</locus>
+              <title type="incipit">Gaude Maria templum</title>
+              <idno type="dokumenten_id">Tri 2254-356-8</idno>
+            </msItem>
+            <msItem n="45">
+              <locus from="375">f. 375</locus>
+              <title type="incipit">Katherinae sollemnia</title>
+              <idno type="dokumenten_id">Tri 2254-375-4</idno>
+            </msItem>
+            <msItem n="46">
+              <locus from="378">f. 378</locus>
+              <title type="incipit">Salve crux sancta arbor</title>
+              <idno type="dokumenten_id">Tri 2254-378-1</idno>
+            </msItem>
+            <msItem n="47">
+              <locus from="381">f. 381</locus>
+              <title type="incipit">Benedicta semper sancta</title>
+              <idno type="dokumenten_id">Tri 2254-381-8</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Stuben (Mosel)</settlement>
+                <region>Quellen deutscher Herkunft</region>
+                <orgName>Augustinerinnenstift</orgName>
+              </origPlace>
+              <origDate>13. Jahrhundert</origDate>
+            </origin>
+          </history>
+          <additional>
+            <adminInfo>
+              <note type="description">
+                <ref target="Tri_2254.description.md">Source description</ref>
+              </note>
+            </adminInfo>
+            <surrogates>
+              <bibl>
+                <ref type="iiif-manifest" target="https://iiif.diamm.net/manifests/D-TRs-Hs-2254/manifest.json" />
+              </bibl>
+            </surrogates>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

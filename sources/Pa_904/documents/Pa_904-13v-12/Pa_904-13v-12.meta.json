@@ -1,0 +1,41 @@
+{
+  "id": "da879c8e-5eb8-4b3b-ac2d-31d3429d27e7",
+  "quelle_id": "Pa 904",
+  "dokumenten_id": "Pa 904-13v-12",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "Nativitas domini",
+  "feier": "Laudes",
+  "textinitium": "Quem vidistis pastores dicite",
+  "bibliographischerverweis": "CAO 4455",
+  "druckausgabe": "CM V-1",
+  "zeilenstart": "12",
+  "foliostart": "13v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "13v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Pa 904-13v-10S",
+    "Endzeile": "20",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Christmas play",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

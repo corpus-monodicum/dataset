@@ -1,0 +1,41 @@
+{
+  "id": "c7f3529b-430c-4ff5-b061-c90de0c71d28",
+  "quelle_id": "RoC 1741",
+  "dokumenten_id": "RoC 1741-131-2",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominica XI post Pentecosten",
+  "feier": "Messe",
+  "textinitium": "Stans a longe qui plurima",
+  "bibliographischerverweis": "AH 53, 93",
+  "druckausgabe": "",
+  "zeilenstart": "2",
+  "foliostart": "131",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "131v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Metensis minor",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

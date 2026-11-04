@@ -1,0 +1,25 @@
+{
+  "id": "Ba 12",
+  "quellensigle": "Ba 12",
+  "herkunftsregion": "Quellen deutscher Herkunft",
+  "herkunftsort": "Bamberg",
+  "herkunftsinstitution": "Dom",
+  "ordenstradition": "",
+  "quellentyp": "Graduale (Fragment), Ordinariumsmelodien mit Tropen, Sequentiar, Offertorienverse",
+  "bibliotheksort": "Bamberg",
+  "bibliothek": "Staatsbibliothek",
+  "bibliothekssignatur": "Msc. lit. 12",
+  "kommentar": "",
+  "datierung": "14. Jh",
+  "status": "",
+  "jahrhundert": "12., 13., 14.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Ba 12",
+  "cantus_century": "12., 13., 14.",
+  "dataset_external_files": {
+    "beschreibung": "Ba_12.description.md",
+    "notationsdokumentation": "notation/Ba_12.notation.md"
+  }
+}

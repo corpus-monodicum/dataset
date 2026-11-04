@@ -1,0 +1,41 @@
+{
+  "id": "3e8102ec-349d-4f99-ab27-ec94892d60d0",
+  "quelle_id": "Pa 14452",
+  "dokumenten_id": "Pa 14452-233v-5",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Victor Massiliensis",
+  "feier": "Messe",
+  "textinitium": "Exsultet ecclesia",
+  "bibliographischerverweis": "AH 39, 337",
+  "druckausgabe": "CM III",
+  "zeilenstart": "5",
+  "foliostart": "233v",
+  "kommentar": "Nachtrag_6",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "234v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Post partum",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "Nachtrag_6",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "eb815703-f4cd-40f7-82bb-b0d91a999ec3",
+  "quelle_id": "Tsa 135",
+  "dokumenten_id": "Tsa 135-18v-3I",
+  "gattung1": "Sanctus",
+  "gattung2": "tropiert",
+  "festtag": "",
+  "feier": "Messe",
+  "textinitium": "Clangat coetus",
+  "bibliographischerverweis": "CT VII, 15: 1a 1b 2a 2b 3a 3b",
+  "druckausgabe": "",
+  "zeilenstart": "3",
+  "foliostart": "18v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "19v",
+    "Startposition": "I",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "Thannabaur 53",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509504",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "11a13526-61ab-48e3-989b-d7c0dcda4446",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-208-5",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Omnes sancti",
+  "feier": "Messe",
+  "textinitium": "Hodie mundo festivus ... omnium sanctorum",
+  "bibliographischerverweis": "Gaudeamus intr 33 34 A 35 B (CT X)",
+  "druckausgabe": "II-1",
+  "zeilenstart": "5",
+  "foliostart": "208",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "Pro 12 207v-10-",
+    "Endseite": "208",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Gaudeamus intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

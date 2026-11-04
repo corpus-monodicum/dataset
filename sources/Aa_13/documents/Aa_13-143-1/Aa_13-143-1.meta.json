@@ -1,0 +1,41 @@
+{
+  "id": "7af68f27-da80-4cfc-a7e0-a90eaf8d6929",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-143-1",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Lambertus",
+  "feier": "Messe",
+  "textinitium": "Martyris egregia Lamberti",
+  "bibliographischerverweis": "AH 42, 267",
+  "druckausgabe": "CM III",
+  "zeilenstart": "1",
+  "foliostart": "143",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "143v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

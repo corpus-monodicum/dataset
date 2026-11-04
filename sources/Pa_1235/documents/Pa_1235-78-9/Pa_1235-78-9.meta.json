@@ -1,0 +1,41 @@
+{
+  "id": "c3d6ab02-18c0-43b0-a861-fd501c65c257",
+  "quelle_id": "Pa 1235",
+  "dokumenten_id": "Pa 1235-78-9",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Feria IV post Pascha",
+  "feier": "Messe",
+  "textinitium": "Venite benedicti",
+  "bibliographischerverweis": "AMS 83",
+  "druckausgabe": "II-1",
+  "zeilenstart": "9",
+  "foliostart": "78",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "78",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "11",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

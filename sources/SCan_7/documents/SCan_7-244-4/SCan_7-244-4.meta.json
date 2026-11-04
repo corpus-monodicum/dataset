@@ -1,0 +1,41 @@
+{
+  "id": "c663e121-1cc1-4562-ae2f-8396b09c2aef",
+  "quelle_id": "SCan 7",
+  "dokumenten_id": "SCan 7-244-4",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Feria VI post Pascha",
+  "feier": "Messe",
+  "textinitium": "Haec est sancta sollemnitas sollemnitatum",
+  "bibliographischerverweis": "AH 53, 56",
+  "druckausgabe": "",
+  "zeilenstart": "4",
+  "foliostart": "244",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Gionata Brusa",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "244v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "5",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Virgo plorans",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

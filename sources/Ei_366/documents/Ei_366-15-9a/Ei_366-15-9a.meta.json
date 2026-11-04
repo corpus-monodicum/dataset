@@ -1,0 +1,41 @@
+{
+  "id": "83e3f860-072d-4a26-b751-f69ea46dda92",
+  "quelle_id": "Ei 366",
+  "dokumenten_id": "Ei 366-15-9a",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Sabbatum post Pascha",
+  "feier": "Messe",
+  "textinitium": "Carmen suo dilecto",
+  "bibliographischerverweis": "AH 53, 54",
+  "druckausgabe": "CM III",
+  "zeilenstart": "9",
+  "foliostart": "15",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "16b",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Amoena",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "Amoena",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "e44fc102-b5e0-4167-ae45-fc2e07fc45b7",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-145v-4",
+  "gattung1": "Antiphon",
+  "gattung2": "Communio",
+  "festtag": "Pascha",
+  "feier": "Messe",
+  "textinitium": "Pascha nostrum ... alleluia",
+  "bibliographischerverweis": "AMS 80",
+  "druckausgabe": "II-1",
+  "zeilenstart": "4",
+  "foliostart": "145v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "Pro 12 145v-4",
+    "Endseite": "145v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

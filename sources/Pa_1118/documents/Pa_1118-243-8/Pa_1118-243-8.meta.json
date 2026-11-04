@@ -1,0 +1,41 @@
+{
+  "id": "fcdbd186-199a-4ba3-b6c2-c472d0a934dd",
+  "quelle_id": "Pa 1118",
+  "dokumenten_id": "Pa 1118-243-8",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "",
+  "feier": "",
+  "textinitium": "Davidis citharoedis",
+  "bibliographischerverweis": "AH 7, 254",
+  "druckausgabe": "",
+  "zeilenstart": "8",
+  "foliostart": "243",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "243",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "13",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Exsultate deo (A)",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "Exultate",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "8ca7f9fe-5aee-483f-8fca-f00785c92416",
+  "quelle_id": "Mod 7",
+  "dokumenten_id": "Mod 7-149v-13",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Primus et Felicianus",
+  "feier": "Messe",
+  "textinitium": "Sapientiam sanctorum",
+  "bibliographischerverweis": "AMS 113",
+  "druckausgabe": "II-4",
+  "zeilenstart": "13",
+  "foliostart": "149v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "150",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "2",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

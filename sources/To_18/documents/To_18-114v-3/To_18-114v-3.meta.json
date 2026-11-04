@@ -1,0 +1,41 @@
+{
+  "id": "f934d18f-f452-4949-9044-b7333f576063",
+  "quelle_id": "To 18",
+  "dokumenten_id": "To 18-114v-3",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Iohannes Evangelista",
+  "feier": "Messe",
+  "textinitium": "Audite insulae",
+  "bibliographischerverweis": "De ventre intr 29 A 22 B 23 C 24 D 19 A 20 B 21 C (CT X)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "3",
+  "foliostart": "114v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "To 18-114v-11-",
+    "Endseite": "114v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "10",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "De ventre intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

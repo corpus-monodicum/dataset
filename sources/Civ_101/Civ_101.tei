@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Civ 101: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Edition (Spiele)</resp>
+          <persName>Isabel Kraft</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Spiele)</resp>
+          <persName>Elaine Stratton Hild</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Hanna Zühlke</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="Civ_101">
+          <msIdentifier>
+            <settlement>Cividale</settlement>
+            <repository>Museo Archeologico Nazionale</repository>
+            <idno type="shelfmark">Ms. CI</idno>
+            <altIdentifier type="siglum">
+              <idno>Civ 101</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>Civ 101</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <term type="quellentyp">Prozessionar, liturgische Spiele</term>
+            </summary>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="21">f. 21</locus>
+              <title type="incipit">Fratres mei</title>
+              <idno type="dokumenten_id">Civ 101-21-8</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="21v">f. 21v</locus>
+              <title type="incipit">Attende domine</title>
+              <idno type="dokumenten_id">Civ 101-21v-1</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="21v">f. 21v</locus>
+              <title type="incipit">Salvum me fac</title>
+              <idno type="dokumenten_id">Civ 101-21v-7</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="22">f. 22</locus>
+              <title type="incipit">Noli esse mihi</title>
+              <idno type="dokumenten_id">Civ 101-22-5</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="22v">f. 22v</locus>
+              <title type="incipit">Dominus mecum est</title>
+              <idno type="dokumenten_id">Civ 101-22v-2</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="23">f. 23</locus>
+              <title type="incipit">Opprobrium factus</title>
+              <idno type="dokumenten_id">Civ 101-23-1</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="23">f. 23</locus>
+              <idno type="dokumenten_id">Civ 101-23-10</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="23">f. 23</locus>
+              <title type="incipit">Circumdederunt me viri*</title>
+              <idno type="dokumenten_id">Civ 101-23-8</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="23">f. 23</locus>
+              <title type="incipit">Saepe expugnaverunt</title>
+              <idno type="dokumenten_id">Civ 101-23-9</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="23v">f. 23v</locus>
+              <title type="incipit">Asperges me</title>
+              <idno type="dokumenten_id">Civ 101-23v-10</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="23v">f. 23v</locus>
+              <title type="incipit">Pueri Hebraeorum tollentes</title>
+              <idno type="dokumenten_id">Civ 101-23v-12</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="23v">f. 23v</locus>
+              <idno type="dokumenten_id">Civ 101-23v-7</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="23v">f. 23v</locus>
+              <idno type="dokumenten_id">Civ 101-23v-8</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="24">f. 24</locus>
+              <title type="incipit">Turba multa</title>
+              <idno type="dokumenten_id">Civ 101-24-4</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="24">f. 24</locus>
+              <idno type="dokumenten_id">Civ 101-24-7</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="24">f. 24</locus>
+              <title type="incipit">Collegerunt pontifices</title>
+              <idno type="dokumenten_id">Civ 101-24-9</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="24v">f. 24v</locus>
+              <title type="incipit">Cum appropinquaret</title>
+              <idno type="dokumenten_id">Civ 101-24v-15</idno>
+            </msItem>
+            <msItem n="18">
+              <locus from="25v">f. 25v</locus>
+              <title type="incipit">Cum audisset populus</title>
+              <idno type="dokumenten_id">Civ 101-25v-8</idno>
+            </msItem>
+            <msItem n="19">
+              <locus from="26">f. 26</locus>
+              <title type="incipit">Gloria laus et honor</title>
+              <idno type="dokumenten_id">Civ 101-26-11</idno>
+            </msItem>
+            <msItem n="20">
+              <locus from="26">f. 26</locus>
+              <idno type="dokumenten_id">Civ 101-26-8</idno>
+            </msItem>
+            <msItem n="21">
+              <locus from="27">f. 27</locus>
+              <title type="incipit">Ingrediente domino</title>
+              <idno type="dokumenten_id">Civ 101-27-11</idno>
+            </msItem>
+            <msItem n="22">
+              <locus from="27">f. 27</locus>
+              <title type="incipit">Fulgentibus ramis</title>
+              <idno type="dokumenten_id">Civ 101-27-4</idno>
+            </msItem>
+            <msItem n="23">
+              <locus from="27v">f. 27v</locus>
+              <title type="incipit">Magno salutis gaudio laetetur</title>
+              <idno type="dokumenten_id">Civ 101-27v-7</idno>
+            </msItem>
+            <msItem n="24">
+              <locus from="28v">f. 28v</locus>
+              <title type="incipit">Ingressus Pilatus</title>
+              <idno type="dokumenten_id">Civ 101-28v-6</idno>
+            </msItem>
+            <msItem n="25">
+              <locus from="30">f. 30</locus>
+              <title type="incipit">Popule meus</title>
+              <idno type="dokumenten_id">Civ 101-30-13</idno>
+            </msItem>
+            <msItem n="26">
+              <locus from="30v">f. 30v</locus>
+              <title type="incipit">Quia eduxi te</title>
+              <idno type="dokumenten_id">Civ 101-30v-17</idno>
+            </msItem>
+            <msItem n="27">
+              <locus from="30v">f. 30v</locus>
+              <title type="incipit">Agios o theos</title>
+              <idno type="dokumenten_id">Civ 101-30v-6</idno>
+            </msItem>
+            <msItem n="28">
+              <locus from="31">f. 31</locus>
+              <title type="incipit">Agios o theos*</title>
+              <idno type="dokumenten_id">Civ 101-31-12</idno>
+            </msItem>
+            <msItem n="29">
+              <locus from="31">f. 31</locus>
+              <title type="incipit">Ecce lignum crucis</title>
+              <idno type="dokumenten_id">Civ 101-31-15</idno>
+            </msItem>
+            <msItem n="30">
+              <locus from="31">f. 31</locus>
+              <title type="incipit">Agios o theos*</title>
+              <idno type="dokumenten_id">Civ 101-31-3</idno>
+            </msItem>
+            <msItem n="31">
+              <locus from="31">f. 31</locus>
+              <title type="incipit">Ecce quomodo</title>
+              <idno type="dokumenten_id">Civ 101-31-31</idno>
+            </msItem>
+            <msItem n="32">
+              <locus from="31">f. 31</locus>
+              <title type="incipit">Quid ultra debui</title>
+              <idno type="dokumenten_id">Civ 101-31-5</idno>
+            </msItem>
+            <msItem n="33">
+              <locus from="31v">f. 31v</locus>
+              <title type="incipit">Sepulto domino</title>
+              <idno type="dokumenten_id">Civ 101-31v-10</idno>
+            </msItem>
+            <msItem n="34">
+              <locus from="38">f. 38</locus>
+              <title type="incipit">Christus resurgens ... semen nequam</title>
+              <idno type="dokumenten_id">Civ 101-38-9</idno>
+            </msItem>
+            <msItem n="35">
+              <locus from="39">f. 39</locus>
+              <idno type="dokumenten_id">Civ 101-39-10</idno>
+            </msItem>
+            <msItem n="36">
+              <locus from="39">f. 39</locus>
+              <idno type="dokumenten_id">Civ 101-39-11a</idno>
+            </msItem>
+            <msItem n="37">
+              <locus from="39">f. 39</locus>
+              <idno type="dokumenten_id">Civ 101-39-11b</idno>
+            </msItem>
+            <msItem n="38">
+              <locus from="39">f. 39</locus>
+              <title type="incipit">Venite et videte</title>
+              <idno type="dokumenten_id">Civ 101-39-12</idno>
+            </msItem>
+            <msItem n="39">
+              <locus from="39">f. 39</locus>
+              <idno type="dokumenten_id">Civ 101-39-13</idno>
+            </msItem>
+            <msItem n="40">
+              <locus from="39">f. 39</locus>
+              <title type="incipit">Regina coeli</title>
+              <idno type="dokumenten_id">Civ 101-39-15</idno>
+            </msItem>
+            <msItem n="41">
+              <locus from="39">f. 39</locus>
+              <title type="incipit">Submersus iacet</title>
+              <idno type="dokumenten_id">Civ 101-39-18</idno>
+            </msItem>
+            <msItem n="42">
+              <locus from="39">f. 39</locus>
+              <title type="incipit">Dicite in nationibus*</title>
+              <idno type="dokumenten_id">Civ 101-39-2</idno>
+            </msItem>
+            <msItem n="43">
+              <locus from="39">f. 39</locus>
+              <idno type="dokumenten_id">Civ 101-39-3</idno>
+            </msItem>
+            <msItem n="44">
+              <locus from="39">f. 39</locus>
+              <title type="incipit">In die resurrectionis*</title>
+              <idno type="dokumenten_id">Civ 101-39-4</idno>
+            </msItem>
+            <msItem n="45">
+              <locus from="39">f. 39</locus>
+              <title type="incipit">Vidi aquam</title>
+              <idno type="dokumenten_id">Civ 101-39-5</idno>
+            </msItem>
+            <msItem n="46">
+              <locus from="39">f. 39</locus>
+              <idno type="dokumenten_id">Civ 101-39-7a</idno>
+            </msItem>
+            <msItem n="47">
+              <locus from="39">f. 39</locus>
+              <idno type="dokumenten_id">Civ 101-39-7b</idno>
+            </msItem>
+            <msItem n="48">
+              <locus from="39">f. 39</locus>
+              <title type="incipit">Venite et videte*</title>
+              <idno type="dokumenten_id">Civ 101-39-8</idno>
+            </msItem>
+            <msItem n="49">
+              <locus from="40v">f. 40v</locus>
+              <title type="incipit">Benedicamus domino</title>
+              <idno type="dokumenten_id">Civ 101-40v-3</idno>
+            </msItem>
+            <msItem n="50">
+              <locus from="41v">f. 41v</locus>
+              <title type="incipit">Christus resurgens*</title>
+              <idno type="dokumenten_id">Civ 101-41v-14</idno>
+            </msItem>
+            <msItem n="51">
+              <locus from="41v">f. 41v</locus>
+              <idno type="dokumenten_id">Civ 101-41v-15a</idno>
+            </msItem>
+            <msItem n="52">
+              <locus from="41v">f. 41v</locus>
+              <idno type="dokumenten_id">Civ 101-41v-15b</idno>
+            </msItem>
+            <msItem n="53">
+              <locus from="41v">f. 41v</locus>
+              <title type="incipit">In die resurrectionis*</title>
+              <idno type="dokumenten_id">Civ 101-41v-16a</idno>
+            </msItem>
+            <msItem n="54">
+              <locus from="41v">f. 41v</locus>
+              <title type="incipit">Vidi aquam*</title>
+              <idno type="dokumenten_id">Civ 101-41v-16b</idno>
+            </msItem>
+            <msItem n="55">
+              <locus from="42">f. 42</locus>
+              <idno type="dokumenten_id">Civ 101-42-1a</idno>
+            </msItem>
+            <msItem n="56">
+              <locus from="42">f. 42</locus>
+              <idno type="dokumenten_id">Civ 101-42-1b</idno>
+            </msItem>
+            <msItem n="57">
+              <locus from="42">f. 42</locus>
+              <title type="incipit">Venite et videte*</title>
+              <idno type="dokumenten_id">Civ 101-42-2</idno>
+            </msItem>
+            <msItem n="58">
+              <locus from="42">f. 42</locus>
+              <idno type="dokumenten_id">Civ 101-42-4a</idno>
+            </msItem>
+            <msItem n="59">
+              <locus from="42">f. 42</locus>
+              <idno type="dokumenten_id">Civ 101-42-4b</idno>
+            </msItem>
+            <msItem n="60">
+              <locus from="42">f. 42</locus>
+              <idno type="dokumenten_id">Civ 101-42-4c</idno>
+            </msItem>
+            <msItem n="61">
+              <locus from="85">f. 85</locus>
+              <title type="incipit">Rex caelestis</title>
+              <idno type="dokumenten_id">Civ 101-85-13</idno>
+            </msItem>
+            <msItem n="62">
+              <locus from="85">f. 85</locus>
+              <title type="incipit">Munda caro</title>
+              <idno type="dokumenten_id">Civ 101-85-15</idno>
+            </msItem>
+            <msItem n="63">
+              <locus from="85">f. 85</locus>
+              <title type="incipit">Fleant materna</title>
+              <idno type="dokumenten_id">Civ 101-85-17</idno>
+            </msItem>
+            <msItem n="64">
+              <locus from="85">f. 85</locus>
+              <title type="incipit">O fratres et sorores</title>
+              <idno type="dokumenten_id">Civ 101-85-4</idno>
+            </msItem>
+            <msItem n="65">
+              <locus from="85">f. 85</locus>
+              <title type="incipit">O dolor</title>
+              <idno type="dokumenten_id">Civ 101-85-8</idno>
+            </msItem>
+            <msItem n="66">
+              <locus from="85v">f. 85v</locus>
+              <title type="incipit">Triste spectaculum</title>
+              <idno type="dokumenten_id">Civ 101-85v-15</idno>
+            </msItem>
+            <msItem n="67">
+              <locus from="85v">f. 85v</locus>
+              <title type="incipit">Profunde me</title>
+              <idno type="dokumenten_id">Civ 101-85v-17</idno>
+            </msItem>
+            <msItem n="68">
+              <locus from="85v">f. 85v</locus>
+              <title type="incipit">Cur maerore</title>
+              <idno type="dokumenten_id">Civ 101-85v-5</idno>
+            </msItem>
+            <msItem n="69">
+              <locus from="86">f. 86</locus>
+              <title type="incipit">O Maria mater mea</title>
+              <idno type="dokumenten_id">Civ 101-86-10</idno>
+            </msItem>
+            <msItem n="70">
+              <locus from="86">f. 86</locus>
+              <title type="incipit">O pater benigne</title>
+              <idno type="dokumenten_id">Civ 101-86-15</idno>
+            </msItem>
+            <msItem n="71">
+              <locus from="86">f. 86</locus>
+              <title type="incipit">Mi Iohannes</title>
+              <idno type="dokumenten_id">Civ 101-86-2</idno>
+            </msItem>
+            <msItem n="72">
+              <locus from="86">f. 86</locus>
+              <title type="incipit">O Maria Magdalena</title>
+              <idno type="dokumenten_id">Civ 101-86-21</idno>
+            </msItem>
+            <msItem n="73">
+              <locus from="86v">f. 86v</locus>
+              <title type="incipit">Mater Iesu crucifixi</title>
+              <idno type="dokumenten_id">Civ 101-86v-18</idno>
+            </msItem>
+            <msItem n="74">
+              <locus from="86v">f. 86v</locus>
+              <title type="incipit">Ubi sunt discipuli</title>
+              <idno type="dokumenten_id">Civ 101-86v-27</idno>
+            </msItem>
+            <msItem n="75">
+              <locus from="87">f. 87</locus>
+              <title type="incipit">O vos omnes</title>
+              <idno type="dokumenten_id">Civ 101-87-11</idno>
+            </msItem>
+            <msItem n="76">
+              <locus from="87">f. 87</locus>
+              <title type="incipit">Consolare domina</title>
+              <idno type="dokumenten_id">Civ 101-87-18</idno>
+            </msItem>
+            <msItem n="77">
+              <locus from="87">f. 87</locus>
+              <title type="incipit">Quis est hic qui</title>
+              <idno type="dokumenten_id">Civ 101-87-9</idno>
+            </msItem>
+            <msItem n="78">
+              <locus from="87v">f. 87v</locus>
+              <title type="incipit">Cur in ara</title>
+              <idno type="dokumenten_id">Civ 101-87v-15</idno>
+            </msItem>
+            <msItem n="79">
+              <locus from="87v">f. 87v</locus>
+              <title type="incipit">O mentes perfidas</title>
+              <idno type="dokumenten_id">Civ 101-87v-18</idno>
+            </msItem>
+            <msItem n="80">
+              <locus from="87v">f. 87v</locus>
+              <title type="incipit">Fili mi carissime</title>
+              <idno type="dokumenten_id">Civ 101-87v-5</idno>
+            </msItem>
+            <msItem n="81">
+              <locus from="88">f. 88</locus>
+              <title type="incipit">Heu nobis internas mentes</title>
+              <idno type="dokumenten_id">Civ 101-88-1</idno>
+            </msItem>
+            <msItem n="82">
+              <locus from="88">f. 88</locus>
+              <title type="incipit">Quis revolvet nobis ab hostio</title>
+              <idno type="dokumenten_id">Civ 101-88-13</idno>
+            </msItem>
+            <msItem n="83">
+              <locus from="88">f. 88</locus>
+              <title type="incipit">Quem quaeritis o tremulae</title>
+              <idno type="dokumenten_id">Civ 101-88-19</idno>
+            </msItem>
+            <msItem n="84">
+              <locus from="88">f. 88</locus>
+              <title type="incipit">Iesum Nazarenum crucifixum quaerimus</title>
+              <idno type="dokumenten_id">Civ 101-88-24</idno>
+            </msItem>
+            <msItem n="85">
+              <locus from="88v">f. 88v</locus>
+              <title type="incipit">Venite et videte</title>
+              <idno type="dokumenten_id">Civ 101-88v-13</idno>
+            </msItem>
+            <msItem n="86">
+              <locus from="88v">f. 88v</locus>
+              <title type="incipit">Ite ad discipulos</title>
+              <idno type="dokumenten_id">Civ 101-88v-24</idno>
+            </msItem>
+            <msItem n="87">
+              <locus from="88v">f. 88v</locus>
+              <title type="incipit">Nolite metuere</title>
+              <idno type="dokumenten_id">Civ 101-88v-5</idno>
+            </msItem>
+            <msItem n="88">
+              <locus from="89">f. 89</locus>
+              <title type="incipit">Cum venissem</title>
+              <idno type="dokumenten_id">Civ 101-89-12</idno>
+            </msItem>
+            <msItem n="89">
+              <locus from="89">f. 89</locus>
+              <title type="incipit">Ad monumentum venimus</title>
+              <idno type="dokumenten_id">Civ 101-89-6</idno>
+            </msItem>
+            <msItem n="90">
+              <locus from="89v">f. 89v</locus>
+              <title type="incipit">Mulier quid ploras</title>
+              <idno type="dokumenten_id">Civ 101-89v-12</idno>
+            </msItem>
+            <msItem n="91">
+              <locus from="89v">f. 89v</locus>
+              <title type="incipit">Quia tulerunt dominum ... domine si tu</title>
+              <idno type="dokumenten_id">Civ 101-89v-17</idno>
+            </msItem>
+            <msItem n="92">
+              <locus from="9">f. 9</locus>
+              <title type="incipit">Gaude Maria virgo</title>
+              <idno type="dokumenten_id">Civ 101-9-12</idno>
+            </msItem>
+            <msItem n="93">
+              <locus from="9">f. 9</locus>
+              <idno type="dokumenten_id">Civ 101-9-14</idno>
+            </msItem>
+            <msItem n="94">
+              <locus from="9">f. 9</locus>
+              <title type="incipit">Te deum laudamus*</title>
+              <idno type="dokumenten_id">Civ 101-9-15</idno>
+            </msItem>
+            <msItem n="95">
+              <locus from="90">f. 90</locus>
+              <title type="incipit">Vere vidi</title>
+              <idno type="dokumenten_id">Civ 101-90-15</idno>
+            </msItem>
+            <msItem n="96">
+              <locus from="90">f. 90</locus>
+              <title type="incipit">Dic nobis Maria</title>
+              <idno type="dokumenten_id">Civ 101-90-20</idno>
+            </msItem>
+            <msItem n="97">
+              <locus from="90">f. 90</locus>
+              <title type="incipit">Maria</title>
+              <idno type="dokumenten_id">Civ 101-90-5</idno>
+            </msItem>
+            <msItem n="98">
+              <locus from="90">f. 90</locus>
+              <title type="incipit">Rabboni</title>
+              <idno type="dokumenten_id">Civ 101-90-9a</idno>
+            </msItem>
+            <msItem n="99">
+              <locus from="90">f. 90</locus>
+              <title type="incipit">O Maria noli</title>
+              <idno type="dokumenten_id">Civ 101-90-9b</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Cividale del Friuli</settlement>
+                <region>Quellen italienischer Herkunft</region>
+                <orgName>Kathedrale Santa Maria Assunta</orgName>
+              </origPlace>
+              <origDate>15. Jh</origDate>
+            </origin>
+          </history>
+          <additional>
+            <adminInfo>
+              <note type="description">
+                <ref target="Civ_101.description.md">Source description</ref>
+              </note>
+            </adminInfo>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

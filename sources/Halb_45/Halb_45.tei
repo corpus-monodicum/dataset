@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Halb 45: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Edition (Tropen)</resp>
+          <persName>Isabel Kraft</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Hanna Zühlke</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Gunilla Iversen</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Text revision (Tropen)</resp>
+          <persName>Ritva Maria Jacobsson</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="Halb_45">
+          <msIdentifier>
+            <settlement>Halberstadt</settlement>
+            <repository>Domschatz</repository>
+            <idno type="shelfmark">Inv.-Nr. 45</idno>
+            <altIdentifier type="siglum">
+              <idno>Halb 45</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>Halb 45</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <term type="quellentyp">Cantatorium mit Tropen, Sequenzen</term>
+            </summary>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="10">f. 10</locus>
+              <title type="incipit">Ecce sunt dies</title>
+              <idno type="dokumenten_id">Halb 45-10-1</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="10v">f. 10v</locus>
+              <title type="incipit">Hodie cantandus est</title>
+              <idno type="dokumenten_id">Halb 45-10v-4</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="11v">f. 11v</locus>
+              <title type="incipit">Qui primus meruit</title>
+              <idno type="dokumenten_id">Halb 45-11v-7</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="13">f. 13</locus>
+              <title type="incipit">Quoniam dominus</title>
+              <idno type="dokumenten_id">Halb 45-13-2</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="14v">f. 14v</locus>
+              <title type="incipit">Ecclesiae sponsus</title>
+              <idno type="dokumenten_id">Halb 45-14v-1</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="23">f. 23</locus>
+              <title type="incipit">Postquam factus</title>
+              <idno type="dokumenten_id">Halb 45-23-2</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="26">f. 26</locus>
+              <title type="incipit">Terrigenis summis</title>
+              <idno type="dokumenten_id">Halb 45-26-2</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="27">f. 27</locus>
+              <title type="incipit">Psallite candidati</title>
+              <idno type="dokumenten_id">Halb 45-27-1</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="30v">f. 30v</locus>
+              <title type="incipit">O quam glorifico</title>
+              <idno type="dokumenten_id">Halb 45-30v-1</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="31">f. 31</locus>
+              <title type="incipit">Iacob progrediens</title>
+              <idno type="dokumenten_id">Halb 45-31-7</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="32">f. 32</locus>
+              <title type="incipit">O quam glorifico*</title>
+              <idno type="dokumenten_id">Halb 45-32-5</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="32v">f. 32v</locus>
+              <title type="incipit">O quam glorifico</title>
+              <idno type="dokumenten_id">Halb 45-32v-2</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="33v">f. 33v</locus>
+              <title type="incipit">O quam glorifico</title>
+              <idno type="dokumenten_id">Halb 45-33v-4</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Halberstadt</settlement>
+                <region>Quellen deutscher Herkunft</region>
+                <orgName>Dom</orgName>
+              </origPlace>
+              <origDate>13. Jh 1. Hälfte, 14. Jh 1. Hälfte</origDate>
+            </origin>
+          </history>
+          <additional>
+            <adminInfo>
+              <note type="description">
+                <ref target="Halb_45.description.md">Source description</ref>
+              </note>
+            </adminInfo>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

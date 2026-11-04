@@ -1,0 +1,41 @@
+{
+  "id": "10b834f1-d305-4b6a-806a-d3757b2188ff",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-146-2",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Feria II post Pascha",
+  "feier": "Messe",
+  "textinitium": "Promissionis suae",
+  "bibliographischerverweis": "Fer II intr 1 A 2 B 3 C (CT III)",
+  "druckausgabe": "II-1",
+  "zeilenstart": "2",
+  "foliostart": "146",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "Pro 12 145v-7-",
+    "Endseite": "146",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Fer II intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

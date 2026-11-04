@@ -1,0 +1,41 @@
+{
+  "id": "2cba50cb-96c7-4980-802b-1f3140e8428f",
+  "quelle_id": "Pro 12",
+  "dokumenten_id": "Pro 12-228-7a",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominica XIX post Pentecosten",
+  "feier": "Messe",
+  "textinitium": "Salve porta*",
+  "bibliographischerverweis": "AH 53, 108",
+  "druckausgabe": "CM III",
+  "zeilenstart": "7",
+  "foliostart": "228",
+  "kommentar": "Korrigiert aus: Dominica XXII post pentecosten",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "(unlisted editor)",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "228",
+    "Startposition": "a",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Maris stella",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "Nur Incipit mit Notation",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

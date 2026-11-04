@@ -1,0 +1,41 @@
+{
+  "id": "185d3b08-aba4-4c26-a70e-70a74737060c",
+  "quelle_id": "Or 129",
+  "dokumenten_id": "Or 129-46-a-23",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "Antiphon",
+  "festtag": "Ascensio domini",
+  "feier": "",
+  "textinitium": "O rex gloriae*",
+  "bibliographischerverweis": "CAO 4079",
+  "druckausgabe": "",
+  "zeilenstart": "23",
+  "foliostart": "46-a",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "46",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Or 129-46-a-11S",
+    "Endzeile": "23",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Ascension play",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

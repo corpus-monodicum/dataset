@@ -1,0 +1,41 @@
+{
+  "id": "5f403743-b624-40d5-8d69-cd418f1ace18",
+  "quelle_id": "MüU 156",
+  "dokumenten_id": "MüU 156-96-1",
+  "gattung1": "Antiphon",
+  "gattung2": "Introitus",
+  "festtag": "Pentecoste",
+  "feier": "Messe",
+  "textinitium": "Spiritus domini",
+  "bibliographischerverweis": "AMS 106",
+  "druckausgabe": "II-2",
+  "zeilenstart": "1",
+  "foliostart": "96",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Isabel Kraft",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "96",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

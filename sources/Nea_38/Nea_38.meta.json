@@ -1,0 +1,25 @@
+{
+  "id": "Nea 38",
+  "quellensigle": "Nea 38",
+  "herkunftsregion": "Quellen aus Ordenstraditionen",
+  "herkunftsort": "Salerno",
+  "herkunftsinstitution": "",
+  "ordenstradition": "Franziskaner",
+  "quellentyp": "Missale",
+  "bibliotheksort": "Neapel",
+  "bibliothek": "Biblioteca Nazionale",
+  "bibliothekssignatur": "VI.G.28",
+  "kommentar": "",
+  "datierung": "13. Jh Mitte",
+  "status": "",
+  "jahrhundert": "13.",
+  "manifest": "",
+  "foliooffset": "",
+  "publish": "all",
+  "cantus_siglum": "Nea 38",
+  "cantus_century": "13.",
+  "notationsdokumentation": "",
+  "dataset_external_files": {
+    "beschreibung": "Nea_38.description.md"
+  }
+}

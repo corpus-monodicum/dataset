@@ -1,0 +1,41 @@
+{
+  "id": "94b2d677-f7c0-4091-9ab7-75342aa08e08",
+  "quelle_id": "Ven 4",
+  "dokumenten_id": "Ven 4-71v-7",
+  "gattung1": "Spiele-Passus",
+  "gattung2": "",
+  "festtag": "Annuntiatio Mariae",
+  "feier": "",
+  "textinitium": "Ideoque et quod",
+  "bibliographischerverweis": "",
+  "druckausgabe": "CM V-3",
+  "zeilenstart": "7",
+  "foliostart": "71v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Elaine Stratton Hild",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "72",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "Ven 4-71-2S",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "Annunciation",
+    "Band_Genre": "Spiele"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

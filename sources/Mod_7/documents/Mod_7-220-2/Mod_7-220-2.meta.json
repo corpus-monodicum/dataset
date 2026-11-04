@@ -1,0 +1,41 @@
+{
+  "id": "fdd2046d-91a4-48b5-a47e-4832a8d6a89a",
+  "quelle_id": "Mod 7",
+  "dokumenten_id": "Mod 7-220-2",
+  "gattung1": "Tropus",
+  "gattung2": "Introitus-Tropus",
+  "festtag": "Plures martyres",
+  "feier": "Messe",
+  "textinitium": "Plurimorum sanctorum",
+  "bibliographischerverweis": "Sapientiam intr 4 A 5 B 6 C (CT X)",
+  "druckausgabe": "II-4",
+  "zeilenstart": "2",
+  "foliostart": "220",
+  "kommentar": "Das Textinitium müsste \"Plurimorum\" sein, in Modena 7 sieht es allerdings so aus, als gehöre \"Plurimorum\" noch zur Rubrik (f. 220)",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Michael Klaper",
+    "iiifs": "",
+    "Bezugsgesang": "Sapientiam",
+    "Endseite": "220",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "6",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "Sapientiam intr",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Tropus"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

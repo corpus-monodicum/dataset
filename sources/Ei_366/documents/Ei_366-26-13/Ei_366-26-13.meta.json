@@ -1,0 +1,41 @@
+{
+  "id": "c0d56cba-2408-4e37-9558-917df59ca7cf",
+  "quelle_id": "Ei 366",
+  "dokumenten_id": "Ei 366-26-13",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Dominica post ascensionem",
+  "feier": "Messe",
+  "textinitium": "O quam mira sunt",
+  "bibliographischerverweis": "AH 53, 69",
+  "druckausgabe": "CM III",
+  "zeilenstart": "13",
+  "foliostart": "26",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "27",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "3",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "Confitemini",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

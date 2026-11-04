@@ -1,0 +1,41 @@
+{
+  "id": "67a2283d-2325-49f8-9911-b8ef74a577da",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-168v-7",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Maria Magdalena",
+  "feier": "Messe",
+  "textinitium": "Laus tibi Christe qui es",
+  "bibliographischerverweis": "AH 50, 268",
+  "druckausgabe": "CM III",
+  "zeilenstart": "7",
+  "foliostart": "168v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "168v",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "13",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "Beginn und Ende fehlen",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "A (Nachtrag)",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

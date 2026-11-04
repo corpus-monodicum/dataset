@@ -1,0 +1,41 @@
+{
+  "id": "b3d10fd6-d79a-4763-a98e-a637c9b25f56",
+  "quelle_id": "Aa 13",
+  "dokumenten_id": "Aa 13-117bv-5",
+  "gattung1": "Sanctus",
+  "gattung2": "tropiert",
+  "festtag": "Beata Maria virgo",
+  "feier": "Messe",
+  "textinitium": "Mariae filius",
+  "bibliographischerverweis": "CT VII deest: A",
+  "druckausgabe": "",
+  "zeilenstart": "5",
+  "foliostart": "117bv",
+  "kommentar": "eingefügtes Blatt, Nachtrag",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "117bv",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "8",
+    "Melodiennummer_Katalog": "Thannabaur 33",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "509504",
+    "Melodie_Standard": "",
+    "Überlieferungszustand": "",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": "Ordinariumsgesänge"
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

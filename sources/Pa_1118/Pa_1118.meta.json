@@ -1,0 +1,25 @@
+{
+  "id": "Pa 1118",
+  "quellensigle": "Pa 1118",
+  "herkunftsregion": "Quellen aquitanischer Herkunft",
+  "herkunftsort": "Tavèrnoles (möglicherweise)",
+  "herkunftsinstitution": "Abtei Sant Sadurní",
+  "ordenstradition": "",
+  "quellentyp": "Tropar, Sequentiar",
+  "bibliotheksort": "Paris",
+  "bibliothek": "Bibliothèque nationale de France",
+  "bibliothekssignatur": "Lat. 1118",
+  "kommentar": "",
+  "datierung": "10. Jh. 4. Viertel",
+  "status": "",
+  "jahrhundert": "10.",
+  "manifest": "",
+  "foliooffset": "pageNr+9",
+  "publish": "all",
+  "cantus_siglum": "Pa 1118",
+  "cantus_century": "10.",
+  "dataset_external_files": {
+    "beschreibung": "Pa_1118.description.md",
+    "notationsdokumentation": "notation/Pa_1118.notation.md"
+  }
+}

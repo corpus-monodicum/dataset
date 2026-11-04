@@ -1,0 +1,41 @@
+{
+  "id": "7b4380c2-221e-45e8-bd2b-c5561eeaf905",
+  "quelle_id": "Ba 12",
+  "dokumenten_id": "Ba 12-71v-10",
+  "gattung1": "Sequenz",
+  "gattung2": "Textiert",
+  "festtag": "Barbara",
+  "feier": "Messe",
+  "textinitium": "Regi regum decantet",
+  "bibliographischerverweis": "AH 54, 53",
+  "druckausgabe": "CM III",
+  "zeilenstart": "10",
+  "foliostart": "71v",
+  "kommentar": "",
+  "subcorpus": "edition",
+  "additionalData": {
+    "Cantus_Genre": "",
+    "Editor": "Andreas Pfisterer",
+    "iiifs": "",
+    "Bezugsgesang": "",
+    "Endseite": "72",
+    "Startposition": "",
+    "Referenz_auf_Spiel": "",
+    "Endzeile": "7",
+    "Melodiennummer_Katalog": "",
+    "Cantus_Melody_ID": "",
+    "Cantus_ID": "",
+    "Melodie_Standard": "–",
+    "Überlieferungszustand": "Nicht transkribierbar",
+    "Melodie_Quelle": "",
+    "FestUndGattung": "",
+    "Zusatz_zu_Textinitium": "",
+    "Nachtragsschicht": "",
+    "SpielName": "",
+    "Band_Genre": ""
+  },
+  "publish": "all",
+  "dataset_redactions": {
+    "additionalData.Editor": "e-mail addresses replaced by names"
+  }
+}

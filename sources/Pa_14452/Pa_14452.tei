@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pa 14452: manuscript description</title>
+        <principal>Andreas Haug</principal>
+        <principal>Frank Puppe</principal>
+        <respStmt>
+          <resp>Manuscript description</resp>
+          <persName>Jasmin Hartmann-Strauß</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Edition (Sequenzen)</resp>
+          <persName>Anna Sanda</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Corpus Monodicum</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="Pa_14452">
+          <msIdentifier>
+            <settlement>Paris</settlement>
+            <repository>Bibliothèque nationale de France</repository>
+            <idno type="shelfmark">Lat. 14452</idno>
+            <altIdentifier type="siglum">
+              <idno>Pa 14452</idno>
+            </altIdentifier>
+            <altIdentifier type="cantus">
+              <idno>Pa 14452</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <term type="quellentyp">Graduale, Kyriale, Sequentiar</term>
+            </summary>
+            <textLang mainLang="la" />
+            <msItem n="1">
+              <locus from="139">f. 139</locus>
+              <title type="incipit">Salus aeterna indeficiens</title>
+              <idno type="dokumenten_id">Pa 14452-139-9</idno>
+            </msItem>
+            <msItem n="2">
+              <locus from="139v">f. 139v</locus>
+              <title type="incipit">Regnantem sempiterna</title>
+              <idno type="dokumenten_id">Pa 14452-139v-9</idno>
+            </msItem>
+            <msItem n="3">
+              <locus from="140">f. 140</locus>
+              <title type="incipit">Qui regis sceptra</title>
+              <idno type="dokumenten_id">Pa 14452-140-8</idno>
+            </msItem>
+            <msItem n="4">
+              <locus from="140v">f. 140v</locus>
+              <title type="incipit">Iubilemus omnes una</title>
+              <idno type="dokumenten_id">Pa 14452-140v-1</idno>
+            </msItem>
+            <msItem n="5">
+              <locus from="141">f. 141</locus>
+              <title type="incipit">Nato canunt omnia</title>
+              <idno type="dokumenten_id">Pa 14452-141-1</idno>
+            </msItem>
+            <msItem n="6">
+              <locus from="141v">f. 141v</locus>
+              <title type="incipit">Laetabundus exsultet</title>
+              <idno type="dokumenten_id">Pa 14452-141v-1</idno>
+            </msItem>
+            <msItem n="7">
+              <locus from="142">f. 142</locus>
+              <title type="incipit">In natale salvatoris</title>
+              <idno type="dokumenten_id">Pa 14452-142-1</idno>
+            </msItem>
+            <msItem n="8">
+              <locus from="143">f. 143</locus>
+              <title type="incipit">Heri mundus exsultavit</title>
+              <idno type="dokumenten_id">Pa 14452-143-7</idno>
+            </msItem>
+            <msItem n="9">
+              <locus from="144v">f. 144v</locus>
+              <title type="incipit">Gratulemur ad festivum</title>
+              <idno type="dokumenten_id">Pa 14452-144v-1</idno>
+            </msItem>
+            <msItem n="10">
+              <locus from="145v">f. 145v</locus>
+              <title type="incipit">Celsa pueri</title>
+              <idno type="dokumenten_id">Pa 14452-145v-1</idno>
+            </msItem>
+            <msItem n="11">
+              <locus from="146">f. 146</locus>
+              <title type="incipit">Gaude Sion et</title>
+              <idno type="dokumenten_id">Pa 14452-146-12</idno>
+            </msItem>
+            <msItem n="12">
+              <locus from="147">f. 147</locus>
+              <title type="incipit">Splendor patris et figura</title>
+              <idno type="dokumenten_id">Pa 14452-147-10</idno>
+            </msItem>
+            <msItem n="13">
+              <locus from="148">f. 148</locus>
+              <title type="incipit">Iubilemus salvatori quem</title>
+              <idno type="dokumenten_id">Pa 14452-148-11</idno>
+            </msItem>
+            <msItem n="14">
+              <locus from="149">f. 149</locus>
+              <title type="incipit">In excelsis canitur</title>
+              <idno type="dokumenten_id">Pa 14452-149-7</idno>
+            </msItem>
+            <msItem n="15">
+              <locus from="150">f. 150</locus>
+              <title type="incipit">Genovefae sollemnitas</title>
+              <idno type="dokumenten_id">Pa 14452-150-5</idno>
+            </msItem>
+            <msItem n="16">
+              <locus from="151">f. 151</locus>
+              <title type="incipit">Epiphaniam domino</title>
+              <idno type="dokumenten_id">Pa 14452-151-2</idno>
+            </msItem>
+            <msItem n="17">
+              <locus from="151v">f. 151v</locus>
+              <title type="incipit">Virgo mater salvatoris</title>
+              <idno type="dokumenten_id">Pa 14452-151v-10</idno>
+            </msItem>
+            <msItem n="18">
+              <locus from="153">f. 153</locus>
+              <title type="incipit">Ecce dies praeoptata</title>
+              <idno type="dokumenten_id">Pa 14452-153-2</idno>
+            </msItem>
+            <msItem n="19">
+              <locus from="154">f. 154</locus>
+              <title type="incipit">Iubilemus salvatori qui</title>
+              <idno type="dokumenten_id">Pa 14452-154-12</idno>
+            </msItem>
+            <msItem n="20">
+              <locus from="155">f. 155</locus>
+              <title type="incipit">Templum cordis</title>
+              <idno type="dokumenten_id">Pa 14452-155-1</idno>
+            </msItem>
+            <msItem n="21">
+              <locus from="156">f. 156</locus>
+              <title type="incipit">Fulgens praeclara</title>
+              <idno type="dokumenten_id">Pa 14452-156-4</idno>
+            </msItem>
+            <msItem n="22">
+              <locus from="157">f. 157</locus>
+              <title type="incipit">Ecce dies celebris</title>
+              <idno type="dokumenten_id">Pa 14452-157-11</idno>
+            </msItem>
+            <msItem n="23">
+              <locus from="158">f. 158</locus>
+              <title type="incipit">Lux illuxit dominica</title>
+              <idno type="dokumenten_id">Pa 14452-158-8</idno>
+            </msItem>
+            <msItem n="24">
+              <locus from="159">f. 159</locus>
+              <title type="incipit">Salve dies dierum</title>
+              <idno type="dokumenten_id">Pa 14452-159-2</idno>
+            </msItem>
+            <msItem n="25">
+              <locus from="159v">f. 159v</locus>
+              <title type="incipit">Mane prima sabbati</title>
+              <idno type="dokumenten_id">Pa 14452-159v-10</idno>
+            </msItem>
+            <msItem n="26">
+              <locus from="160v">f. 160v</locus>
+              <title type="incipit">Sexta passus feria</title>
+              <idno type="dokumenten_id">Pa 14452-160v-5</idno>
+            </msItem>
+            <msItem n="27">
+              <locus from="161">f. 161</locus>
+              <title type="incipit">Mundi renovatio nova</title>
+              <idno type="dokumenten_id">Pa 14452-161-9</idno>
+            </msItem>
+            <msItem n="28">
+              <locus from="161v">f. 161v</locus>
+              <title type="incipit">Zyma vetus</title>
+              <idno type="dokumenten_id">Pa 14452-161v-10</idno>
+            </msItem>
+            <msItem n="29">
+              <locus from="163">f. 163</locus>
+              <title type="incipit">Victimae paschali laudes</title>
+              <idno type="dokumenten_id">Pa 14452-163-8</idno>
+            </msItem>
+            <msItem n="30">
+              <locus from="163v">f. 163v</locus>
+              <title type="incipit">Laudes crucis</title>
+              <idno type="dokumenten_id">Pa 14452-163v-5</idno>
+            </msItem>
+            <msItem n="31">
+              <locus from="165">f. 165</locus>
+              <title type="incipit">Rex omnipotens</title>
+              <idno type="dokumenten_id">Pa 14452-165-4</idno>
+            </msItem>
+            <msItem n="32">
+              <locus from="166">f. 166</locus>
+              <title type="incipit">Postquam hostem</title>
+              <idno type="dokumenten_id">Pa 14452-166-3</idno>
+            </msItem>
+            <msItem n="33">
+              <locus from="166v">f. 166v</locus>
+              <title type="incipit">Sancti spiritus … Quae corda</title>
+              <idno type="dokumenten_id">Pa 14452-166v-10</idno>
+            </msItem>
+            <msItem n="34">
+              <locus from="167v">f. 167v</locus>
+              <title type="incipit">Lux iucunda</title>
+              <idno type="dokumenten_id">Pa 14452-167v-8</idno>
+            </msItem>
+            <msItem n="35">
+              <locus from="168v">f. 168v</locus>
+              <title type="incipit">Qui procedis</title>
+              <idno type="dokumenten_id">Pa 14452-168v-12</idno>
+            </msItem>
+            <msItem n="36">
+              <locus from="170">f. 170</locus>
+              <title type="incipit">Almiphona iam gaudia</title>
+              <idno type="dokumenten_id">Pa 14452-170-8</idno>
+            </msItem>
+            <msItem n="37">
+              <locus from="171">f. 171</locus>
+              <title type="incipit">Simplex in essentia</title>
+              <idno type="dokumenten_id">Pa 14452-171-3</idno>
+            </msItem>
+            <msItem n="38">
+              <locus from="172">f. 172</locus>
+              <title type="incipit">Veni sancte spiritus et emitte</title>
+              <idno type="dokumenten_id">Pa 14452-172-2</idno>
+            </msItem>
+            <msItem n="39">
+              <locus from="172v">f. 172v</locus>
+              <title type="incipit">Alma chorus domini</title>
+              <idno type="dokumenten_id">Pa 14452-172v-1</idno>
+            </msItem>
+            <msItem n="40">
+              <locus from="172v">f. 172v</locus>
+              <title type="incipit">Profitentes unitatem</title>
+              <idno type="dokumenten_id">Pa 14452-172v-12</idno>
+            </msItem>
+            <msItem n="41">
+              <locus from="174">f. 174</locus>
+              <title type="incipit">Clara chorus</title>
+              <idno type="dokumenten_id">Pa 14452-174-1</idno>
+            </msItem>
+            <msItem n="42">
+              <locus from="174v">f. 174v</locus>
+              <title type="incipit">Quam dilecta</title>
+              <idno type="dokumenten_id">Pa 14452-174v-11</idno>
+            </msItem>
+            <msItem n="43">
+              <locus from="176">f. 176</locus>
+              <title type="incipit">Rex Salomon</title>
+              <idno type="dokumenten_id">Pa 14452-176-6</idno>
+            </msItem>
+            <msItem n="44">
+              <locus from="177">f. 177</locus>
+              <title type="incipit">Ex radice caritatis</title>
+              <idno type="dokumenten_id">Pa 14452-177-4</idno>
+            </msItem>
+            <msItem n="45">
+              <locus from="178v">f. 178v</locus>
+              <title type="incipit">Ad honorem tuum</title>
+              <idno type="dokumenten_id">Pa 14452-178v-2</idno>
+            </msItem>
+            <msItem n="46">
+              <locus from="179v">f. 179v</locus>
+              <title type="incipit">Gaude Roma</title>
+              <idno type="dokumenten_id">Pa 14452-179v-9</idno>
+            </msItem>
+            <msItem n="47">
+              <locus from="181">f. 181</locus>
+              <title type="incipit">Corde voce</title>
+              <idno type="dokumenten_id">Pa 14452-181-5</idno>
+            </msItem>
+            <msItem n="48">
+              <locus from="182">f. 182</locus>
+              <title type="incipit">Roma Petro glorietur</title>
+              <idno type="dokumenten_id">Pa 14452-182-4</idno>
+            </msItem>
+            <msItem n="49">
+              <locus from="183v">f. 183v</locus>
+              <title type="incipit">Ecce dies triumphalis gaude</title>
+              <idno type="dokumenten_id">Pa 14452-183v-1</idno>
+            </msItem>
+            <msItem n="50">
+              <locus from="184v">f. 184v</locus>
+              <title type="incipit">Laetabundi iubilemus ac devote</title>
+              <idno type="dokumenten_id">Pa 14452-184v-5</idno>
+            </msItem>
+            <msItem n="51">
+              <locus from="186">f. 186</locus>
+              <title type="incipit">Prunis datum</title>
+              <idno type="dokumenten_id">Pa 14452-186-6</idno>
+            </msItem>
+            <msItem n="52">
+              <locus from="187v">f. 187v</locus>
+              <title type="incipit">Aurea virga primae</title>
+              <idno type="dokumenten_id">Pa 14452-187v-4</idno>
+            </msItem>
+            <msItem n="53">
+              <locus from="188v">f. 188v</locus>
+              <title type="incipit">Ave virgo singularis porta</title>
+              <idno type="dokumenten_id">Pa 14452-188v-7</idno>
+            </msItem>
+            <msItem n="54">
+              <locus from="190">f. 190</locus>
+              <title type="incipit">Ave virgo singularis mater</title>
+              <idno type="dokumenten_id">Pa 14452-190-7</idno>
+            </msItem>
+            <msItem n="55">
+              <locus from="191v">f. 191v</locus>
+              <title type="incipit">Gratulemur in hac</title>
+              <idno type="dokumenten_id">Pa 14452-191v-2</idno>
+            </msItem>
+            <msItem n="56">
+              <locus from="193">f. 193</locus>
+              <title type="incipit">Laudemus omnes</title>
+              <idno type="dokumenten_id">Pa 14452-193-1</idno>
+            </msItem>
+            <msItem n="57">
+              <locus from="194">f. 194</locus>
+              <title type="incipit">Interni festi</title>
+              <idno type="dokumenten_id">Pa 14452-194-2</idno>
+            </msItem>
+            <msItem n="58">
+              <locus from="195">f. 195</locus>
+              <title type="incipit">Salve mater salvatoris vas electum</title>
+              <idno type="dokumenten_id">Pa 14452-195-4</idno>
+            </msItem>
+            <msItem n="59">
+              <locus from="196">f. 196</locus>
+              <title type="incipit">Iucundare plebs fidelis cuius</title>
+              <idno type="dokumenten_id">Pa 14452-196-12</idno>
+            </msItem>
+            <msItem n="60">
+              <locus from="197v">f. 197v</locus>
+              <title type="incipit">Laus erumpat</title>
+              <idno type="dokumenten_id">Pa 14452-197v-5</idno>
+            </msItem>
+            <msItem n="61">
+              <locus from="198v">f. 198v</locus>
+              <title type="incipit">Cordis sonet</title>
+              <idno type="dokumenten_id">Pa 14452-198v-9</idno>
+            </msItem>
+            <msItem n="62">
+              <locus from="199v">f. 199v</locus>
+              <title type="incipit">Gaude prole Graecia</title>
+              <idno type="dokumenten_id">Pa 14452-199v-7</idno>
+            </msItem>
+            <msItem n="63">
+              <locus from="200v">f. 200v</locus>
+              <title type="incipit">Christo inclita</title>
+              <idno type="dokumenten_id">Pa 14452-200v-10</idno>
+            </msItem>
+            <msItem n="64">
+              <locus from="201v">f. 201v</locus>
+              <title type="incipit">Gaude Sion quae</title>
+              <idno type="dokumenten_id">Pa 14452-201v-7</idno>
+            </msItem>
+            <msItem n="65">
+              <locus from="202v">f. 202v</locus>
+              <title type="incipit">Vox sonora</title>
+              <idno type="dokumenten_id">Pa 14452-202v-12</idno>
+            </msItem>
+            <msItem n="66">
+              <locus from="204">f. 204</locus>
+              <title type="incipit">Exsultemus et laetemur et Andreae</title>
+              <idno type="dokumenten_id">Pa 14452-204-4</idno>
+            </msItem>
+            <msItem n="67">
+              <locus from="205">f. 205</locus>
+              <title type="incipit">Congaudentes exsultemus vocali</title>
+              <idno type="dokumenten_id">Pa 14452-205-2</idno>
+            </msItem>
+            <msItem n="68">
+              <locus from="206">f. 206</locus>
+              <title type="incipit">Congaudeant hodie</title>
+              <idno type="dokumenten_id">Pa 14452-206-2</idno>
+            </msItem>
+            <msItem n="69">
+              <locus from="206v">f. 206v</locus>
+              <title type="incipit">Cor angustum</title>
+              <idno type="dokumenten_id">Pa 14452-206v-11</idno>
+            </msItem>
+            <msItem n="70">
+              <locus from="208">f. 208</locus>
+              <title type="incipit">Stola regni</title>
+              <idno type="dokumenten_id">Pa 14452-208-7</idno>
+            </msItem>
+            <msItem n="71">
+              <locus from="209">f. 209</locus>
+              <title type="incipit">Clare sanctorum</title>
+              <idno type="dokumenten_id">Pa 14452-209-7</idno>
+            </msItem>
+            <msItem n="72">
+              <locus from="209v">f. 209v</locus>
+              <title type="incipit">Supernae matris</title>
+              <idno type="dokumenten_id">Pa 14452-209v-6</idno>
+            </msItem>
+            <msItem n="73">
+              <locus from="210v">f. 210v</locus>
+              <title type="incipit">Hodiernae lux diei</title>
+              <idno type="dokumenten_id">Pa 14452-210v-4</idno>
+            </msItem>
+            <msItem n="74">
+              <locus from="211">f. 211</locus>
+              <title type="incipit">O Maria stella</title>
+              <idno type="dokumenten_id">Pa 14452-211-4</idno>
+            </msItem>
+            <msItem n="75">
+              <locus from="213">f. 213</locus>
+              <title type="incipit">Ave Maria gratia plena ... benedicta … gratiam</title>
+              <idno type="dokumenten_id">Pa 14452-213-1</idno>
+            </msItem>
+            <msItem n="76">
+              <locus from="213v">f. 213v</locus>
+              <title type="incipit">Virgini Mariae … Eva tristis</title>
+              <idno type="dokumenten_id">Pa 14452-213v-6</idno>
+            </msItem>
+            <msItem n="77">
+              <locus from="214">f. 214</locus>
+              <title type="incipit">Martyris Victoris laudes</title>
+              <idno type="dokumenten_id">Pa 14452-214-4</idno>
+            </msItem>
+            <msItem n="78">
+              <locus from="214v">f. 214v</locus>
+              <title type="incipit">Athleta Sebastianus</title>
+              <idno type="dokumenten_id">Pa 14452-214v-2</idno>
+            </msItem>
+            <msItem n="79">
+              <locus from="215v">f. 215v</locus>
+              <title type="incipit">Praecursorem ... Huius ortum</title>
+              <idno type="dokumenten_id">Pa 14452-215v-6</idno>
+            </msItem>
+            <msItem n="80">
+              <locus from="217v">f. 217v</locus>
+              <title type="incipit">Hac clara die</title>
+              <idno type="dokumenten_id">Pa 14452-217v-1</idno>
+            </msItem>
+            <msItem n="81">
+              <locus from="219">f. 219</locus>
+              <title type="incipit">Praecursoris et baptistae</title>
+              <idno type="dokumenten_id">Pa 14452-219-1</idno>
+            </msItem>
+            <msItem n="82">
+              <locus from="220">f. 220</locus>
+              <title type="incipit">Veni mater gratiae</title>
+              <idno type="dokumenten_id">Pa 14452-220-8</idno>
+            </msItem>
+            <msItem n="83">
+              <locus from="220v">f. 220v</locus>
+              <title type="incipit">Ecce dies triumphalis dies</title>
+              <idno type="dokumenten_id">Pa 14452-220v-6</idno>
+            </msItem>
+            <msItem n="84">
+              <locus from="221v">f. 221v</locus>
+              <title type="incipit">Virginalis turma sexus</title>
+              <idno type="dokumenten_id">Pa 14452-221v-6</idno>
+            </msItem>
+            <msItem n="85">
+              <locus from="222v">f. 222v</locus>
+              <title type="incipit">Gaude superna civitas</title>
+              <idno type="dokumenten_id">Pa 14452-222v-8</idno>
+            </msItem>
+            <msItem n="86">
+              <locus from="224">f. 224</locus>
+              <title type="incipit">Dulcis Iesus Nazarenus</title>
+              <idno type="dokumenten_id">Pa 14452-224-11</idno>
+            </msItem>
+            <msItem n="87">
+              <locus from="226">f. 226</locus>
+              <title type="incipit">Sancti spiritus … Quo fecundata</title>
+              <idno type="dokumenten_id">Pa 14452-226-1</idno>
+            </msItem>
+            <msItem n="88">
+              <locus from="227">f. 227</locus>
+              <title type="incipit">Augustini magni patris</title>
+              <idno type="dokumenten_id">Pa 14452-227-9</idno>
+            </msItem>
+            <msItem n="89">
+              <locus from="228v">f. 228v</locus>
+              <title type="incipit">Psallat nostra concio</title>
+              <idno type="dokumenten_id">Pa 14452-228v-3</idno>
+            </msItem>
+            <msItem n="90">
+              <locus from="229v">f. 229v</locus>
+              <title type="incipit">Altissima providente</title>
+              <idno type="dokumenten_id">Pa 14452-229v-7</idno>
+            </msItem>
+            <msItem n="91">
+              <locus from="231">f. 231</locus>
+              <title type="incipit">Ave mundi spes</title>
+              <idno type="dokumenten_id">Pa 14452-231-9</idno>
+            </msItem>
+            <msItem n="92">
+              <locus from="232v">f. 232v</locus>
+              <title type="incipit">Mittit ad virginem</title>
+              <idno type="dokumenten_id">Pa 14452-232v-1</idno>
+            </msItem>
+            <msItem n="93">
+              <locus from="233v">f. 233v</locus>
+              <title type="incipit">Exsultet ecclesia</title>
+              <idno type="dokumenten_id">Pa 14452-233v-5</idno>
+            </msItem>
+            <msItem n="94">
+              <locus from="236">f. 236</locus>
+              <title type="incipit">Regis et pontificis</title>
+              <idno type="dokumenten_id">Pa 14452-236-10</idno>
+            </msItem>
+            <msItem n="95">
+              <locus from="239v">f. 239v</locus>
+              <title type="incipit">Lauda Sion</title>
+              <idno type="dokumenten_id">Pa 14452-239v-1</idno>
+            </msItem>
+            <msItem n="96">
+              <locus from="245">f. 245</locus>
+              <title type="incipit">Animemur ad agonem</title>
+              <idno type="dokumenten_id">Pa 14452-245-1</idno>
+            </msItem>
+            <msItem n="97">
+              <locus from="246v">f. 246v</locus>
+              <title type="incipit">Virgines egregiae</title>
+              <idno type="dokumenten_id">Pa 14452-246v-2</idno>
+            </msItem>
+            <msItem n="98">
+              <locus from="247v">f. 247v</locus>
+              <title type="incipit">Laetabunda psallat plebs</title>
+              <idno type="dokumenten_id">Pa 14452-247v-1</idno>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origPlace>
+                <settlement>Paris</settlement>
+                <region>Quellen französischer Herkunft</region>
+                <orgName>Abtei Saint-Victor</orgName>
+              </origPlace>
+              <origDate>13. Jh (1239 (F. Gasparri), Nachträge aus dem 16. Jh)</origDate>
+            </origin>
+          </history>
+          <additional>
+            <surrogates>
+              <bibl>
+                <ref type="iiif-manifest" target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b9072641v/manifest.json" />
+              </bibl>
+            </surrogates>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="CM-hub" version="0.1.0">
+          <label>CM-hub</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-11-04">Generated by CM-hub 0.1.0.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This file contains metadata only.</p>
+    </body>
+  </text>
+</TEI>

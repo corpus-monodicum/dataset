@@ -1,3 +1,7 @@
+> [!WARNING]
+> This is a review version, please handle with care!
+
+
 # Corpus Monodicum Dataset
 
 Corpus Monodicum is a digital edition of medieval monophonic chant. The edition covers chants such as tropes, sequences, liturgical plays and chants of the Ordinary of the Mass (Kyrie, Gloria, Credo, Sanctus, Agnus Dei), and is funded by the Akademie der Wissenschaften und der Literatur Mainz.

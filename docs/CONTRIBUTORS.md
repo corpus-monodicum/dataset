@@ -1,6 +1,6 @@
 # Contributors
 
-Dataset version `review-2026-11-04`. This file names everybody who contributed to the Corpus Monodicum and says for which sources they are credited. It is generated from `docs/mapping/people.csv`, `docs/mapping/roles.csv` and `docs/mapping/credits.csv`.
+Dataset version `review-2026-11-04i`. This file names everybody who contributed to the Corpus Monodicum and says for which sources they are credited. It is generated from `docs/mapping/people.csv`, `docs/mapping/roles.csv` and `docs/mapping/credits.csv`.
 
 - A person appears in the metadata header of a source (TEI) or of a chant (MEI) only if the credits sheet names them for that source and category of chants. Everybody else is named here.
 - The credits are copied from the team page of the project (https://corpus-monodicum.de/about, state 2026-10-24) and completed from the `Editor` field of the documents. Rows with the status `proposed` or `needs review` are not confirmed by the project.

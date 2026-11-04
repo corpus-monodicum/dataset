@@ -1,8 +1,8 @@
 {
   "layout_version": 1,
-  "name": "corpus-monodicum-review-2026-11-04",
-  "version": "review-2026-11-04",
-  "created": "2026-11-04T10:37:19.025808+00:00",
+  "name": "corpus-monodicum-review-2026-11-04i",
+  "version": "review-2026-11-04i",
+  "created": "2026-11-04T16:27:03.219701+00:00",
   "profile_level": 3,
   "source_format": "both",
   "status": "release",
@@ -18,6 +18,14 @@
     "email_addresses_in_output": 0,
     "fields_where_addresses_were_replaced_by_names": 0
   },
+  "site": {
+    "pages": 7018,
+    "chants_with_svg": 6874,
+    "chants_without_svg": 7,
+    "descriptions_from_website": 107,
+    "descriptions_from_markdown": 3,
+    "picture_engine": "monodi-zero"
+  },
   "notation": {
     "sources": 17,
     "images_copied": 17,
@@ -26,7 +34,7 @@
     "lines_with_iiif": 53,
     "lines_without_image": 150,
     "microfilm_sources": 2,
-    "annotation_files": 35,
+    "annotation_files": 37,
     "annotations_not_in_dataset": [
       "Nau I_hys_Chorbuch"
     ]
@@ -36,7 +44,12 @@
     "version": "0.1.0",
     "mapping_spec_version": 1
   },
-  "not_generated": [],
+  "not_generated": [
+    {
+      "id": "ds.document_page",
+      "reason": "7 chant pages have no picture (the chant has no notes, or the drawing failed)"
+    }
+  ],
   "licence": "https://creativecommons.org/licenses/by-nc/4.0/",
   "licence_confirmed": true
 }

@@ -25,6 +25,18 @@ The table lists every file and folder that this dataset can contain. A file mark
 | `sources/{source_id}/{source_id}.meta.json` | yes | yes | All metadata of the source in the Monodi format; the long texts are in the description and notation files |
 | `sources/{source_id}/{source_id}.tei` | no | no | Manuscript description as TEI msDescription, with the people credited for this source |
 | `sources/{source_id}/{source_id}.source.mei` | no | no | Manuscript description as a MEI header file (`meiHead` with the manuscript as `manifestation`, empty `music`), written instead of or next to the TEI file when the option `--source-format mei` or `both` is chosen |
+| `site/site.css` | no | no | Style sheet of the static pages (written with the option --site) |
+| `index.html` | no | no | Entry page of the static pages: the sources in a table and links to the documentation files; open it in a browser |
+| `site/by-library.html` | no | no | The table of sources of the start page, ordered by library (one page per order: sorting without a script) |
+| `site/by-date.html` | no | no | The table of sources of the start page, ordered by date (the century and the part of it, read from the dating text) |
+| `site/by-chants.html` | no | no | The table of sources of the start page, ordered by number of chants |
+| `site/fonts/CrimsonText-Regular.ttf` | no | no | Crimson Text, the font of the notation text in the pictures of the static pages (SIL Open Font Licence) |
+| `site/fonts/CrimsonText-Italic.ttf` | no | no | Crimson Text italic, see CrimsonText-Regular.ttf |
+| `site/fonts/CrimsonText-Bold.ttf` | no | no | Crimson Text bold, see CrimsonText-Regular.ttf |
+| `site/fonts/OFL-CrimsonText.txt` | no | no | Licence text of the font Crimson Text (SIL Open Font Licence 1.1) |
+| `sources/{source_id}/index.html` | no | no | Page of a source: its metadata as a table, its description, its chants in a table and links to its files |
+| `sources/{source_id}/notation/index.html` | no | no | The notation documentation of the source inside the static pages: with navigation and style sheet, the table of neume patterns and the manuscript lines |
+| `sources/{source_id}/documents/{document_id}/index.html` | no | no | Page of a chant: its metadata as a table, then its notation as an inline SVG, links to its files and to the neighbouring chants |
 | `sources/{source_id}/{source_id}.description.md` | no | yes | Source description as Markdown (the field `beschreibung`) |
 | `sources/{source_id}/notation/{source_id}.notation.md` | no | yes | Notation documentation as Markdown (the field `notationsdokumentation`); its images are the files next to it. If the annotations file of the source exists, the links to the picture sheets are removed and a line names that file |
 | `sources/{source_id}/notation/{source_id}.images.json` | no | no | Provenance of each image of the notation documentation: file, checksum, what it shows, the source with its library and IIIF manifests, and the rights statement of the library |

@@ -13,13 +13,15 @@ This dataset is a complete, self-contained copy of the published edition data. I
 The edition is made with Monodi, the project's editing software. Everything that Monodi stores is kept here unchanged in JSON files (*lossless*). The same data also exist in two standard formats for tools that do not know Monodi:
 
 - **TEI** (Text Encoding Initiative, the standard for describing texts and manuscripts): one file per source, describing the manuscript (`msDescription`).
+- **Static pages** (`index.html`): a page for every source (its metadata as a table, its description, its chants) and for every chant (its metadata, then its notation as an SVG picture), all linked, without script; open `index.html` in a browser.
 - **MEI header file of a source** (`<source>.source.mei`): the description of the manuscript in the header of a MEI file (the manuscript is a `manifestation`; the `music` element the schema requires stays empty).
 - **MEI** (Music Encoding Initiative, the standard for encoding music notation, here with its neumes module): one file per chant, containing the metadata header and the transcribed music.
 
-In this text, a *source* is a manuscript, identified by its *siglum* (short name, for example `Ex 1`), and a *document* (or *chant*) is one chant as transcribed from a source.
+In this text, a *source* is a manuscript, identified by its *siglum* (short name, for example `Ex 1`), a *document* (or *chant*) is one chant as transcribed from a source, and a *neume* is a note sign of medieval chant notation (a single note or a group of notes sung on one syllable). Monophonic means one melodic line without accompaniment. The version of the dataset is in `dataset.json` and `CITATION.cff`.
 
 ## Where to start
 
+- `index.html` (open it in a browser) links every source, chant and file: the pages are a static walk through the dataset.
 - `docs/STRUCTURE.md` explains every file and folder.
 - `sources/index.csv` lists all sources with their main metadata; open it in a spreadsheet program to browse.
 - `sources/<source>/<source>.tei` describes one manuscript (TEI).
@@ -29,3 +31,7 @@ In this text, a *source* is a manuscript, identified by its *siglum* (short name
 - `dataset.json` records version, time, tool versions, counts and anything that could not be generated.
 
 `<source>` is the siglum with spaces replaced by `_` (`Ex 1` becomes `Ex_1`); accents and umlauts are kept (`Mü_5539`). File names repeat the siglum of the source and the ID of the document, so a file stays identifiable outside its folder. `.tei` and `.mei` files are XML.
+
+Not generated:
+
+- `ds.document_page`: 7 chant pages have no picture (the chant has no notes, or the drawing failed)

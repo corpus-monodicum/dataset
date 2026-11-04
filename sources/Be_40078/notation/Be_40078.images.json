@@ -5,9 +5,9 @@
       "file": "patterns/patterns.svg",
       "kind": "patterns",
       "media_type": "image/svg+xml",
-      "sha256": "83df8a30410d7a899bb8f107c99db1d8e3f8b3fe11e0e8f09a2a1a36e8d42f85",
-      "bytes": 42105,
-      "shows": "Be 40078: Muster &amp; Entsprechungen",
+      "sha256": "fdbad459c3afa16eb12e06ad62c5a3246d852f5ec872fb3efb517362884231cf",
+      "bytes": 42067,
+      "shows": "Be 40078: Patterns &amp; Equivalents",
       "embeds_raster_image": false,
       "source": {
         "siglum": "Be 40078",
